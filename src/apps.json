@@ -3263,7 +3263,9 @@
       "examples": [
         "Mozilla/5.0 (Mobile; LYF/F271i/LYF_F271i-000-01-20-101019; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
       ]
+    },
+    {
+      "name": "Missing pattern",
     }
   ]
 }
-asdf
