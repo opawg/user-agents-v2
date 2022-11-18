@@ -1,0 +1,524 @@
+{
+  "entries": [
+    {
+      "name": "AAABot - unknown bot",
+      "examples": [
+        "AAABot"
+      ]
+    },
+    {
+      "name": "AhrefsBot",
+      "examples": [
+        "Mozilla/5.0 (compatible; AhrefsBot/7.0; http://ahrefs.com/robot/)",
+        "Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)"
+      ]
+    },
+    {
+      "name": "AirableBot",
+      "examples": [
+        "AirableBot-Podcast/1.0 (+https//www.airablenow.com)",
+        "AirableBot-Podcast/1.0 ( https//www.airablenow.com)"
+      ]
+    },
+    {
+      "name": "AlignaBot",
+      "examples": [
+        "Alignabot 1.0 (https://www.alignable.com/)"
+      ]
+    },
+    {
+      "name": "Anchor Importer",
+      "examples": [
+        "AnchorImport/1.0"
+      ]
+    },
+    {
+      "name": "Apple Podcasts (Watch)",
+      "examples": [
+        "atc/1.0",
+        "atc/1.0 watchOS/6.2 model/Watch3,3 hwp/t8004 build/17T529 (6; dt:155)",
+        "atc/1.0 watchOS/6.2.8 model/Watch2,3 hwp/t8002 build/17U63 (6; dt:133)",
+        "atc/1.0 watchOS/6.2.8 model/Watch3,3 hwp/t8004 build/17U63 (6; dt:155)",
+        "atc/1.0 watchOS/6.2.8 model/Watch4,2 hwp/t8006 build/17U63 (6; dt:191)",
+        "atc/1.0 watchOS/7.0.2 model/Watch5,10 hwp/t8006 build/18R402 (6; dt:233)",
+        "atc/1.0 watchOS/7.0.2 model/Watch5,11 hwp/t8006 build/18R402 (6; dt:234)",
+        "atc/1.0 watchOS/7.1 model/Watch4,2 hwp/t8006 build/18R590 (6; dt:191)",
+        "atc/1.0 watchOS/7.1 model/Watch4,3 hwp/t8006 build/18R590 (6; dt:192)",
+        "atc/1.0 watchOS/7.1 model/Watch4,4 hwp/t8006 build/18R590 (6; dt:193)",
+        "atc/1.0 watchOS/7.1 model/Watch5,1 hwp/t8006 build/18R590 (6; dt:201)",
+        "atc/1.0 watchOS/7.1 model/Watch5,3 hwp/t8006 build/18R590 (6; dt:202)",
+        "atc/1.0 watchOS/7.1 model/Watch5,4 hwp/t8006 build/18R590 (6; dt:202)",
+        "(null)/(null) watchOS/5.0.1 model/Watch3,3 hwp/t8004 build/16R381 (6; dt:155)"
+      ]
+    },
+    {
+      "name": "Archive.org",
+      "examples": [
+        "Mozilla/5.0 (compatible; archive.org_bot http://archive.org/details/archive.org_bot)"
+      ]
+    },
+    {
+      "name": "atheerfm",
+      "examples": [
+        "atheerfm/1 CFNetwork/758.3.15 Darwin/15.3.0"
+      ]
+    },
+    {
+      "name": "Audiomack",
+      "examples": [
+        "Audiomack Podcast Processor/1.0 (https://audiomack.com/)"
+      ]
+    },
+    {
+      "name": "AudioWave feed parser",
+      "examples": [
+        "AudioWaveBot/1.0"
+      ]
+    },
+    {
+      "name": "AwarioSmartBot",
+      "examples": [
+        "AwarioSmartBot/1.0 (+https://awario.com/bots.html; bots@awario.com)"
+      ]
+    },
+    {
+      "name": "Baidu",
+      "examples": [
+        "Baidu-YunGuanCe-SLABot(ce.baidu.com)"
+      ]
+    },
+    {
+      "name": "bbot",
+      "examples": [
+        "bbot/0.1"
+      ]
+    },
+    {
+      "name": "British Library",
+      "examples": [
+        "bl.uk_ldfc_bot/3.4.0-20200518 ( http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)"
+      ]
+    },
+    {
+      "name": "CastFeedValidator",
+      "examples": [
+        "CastFeedValidator/3.0.5 (https://castfeedvalidator.com)"
+      ]
+    },
+    {
+      "name": "Castopod",
+      "examples": [
+        "Castopod/1.0"
+      ]
+    },
+    {
+      "name": "Critical Mention",
+      "examples": [
+        "Podcast-CriticalMention/1.0"
+      ]
+    },
+    {
+      "name": "curl",
+      "examples": [
+        "libcurl/7.65.1",
+        "PycURL/7.43.0 libcurl/7.47.0 GnuTLS/3.4.10 zlib/1.2.8 libidn/1.32 librtmp/2.3",
+        "GuzzleHttp/6.1.0 curl/7.50.1 PHP/7.0.13-0ubuntu0.16.10.1"
+      ]
+    },
+    {
+      "name": "DataforSEO",
+      "examples": [
+        "Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)"
+      ]
+    },
+    {
+      "name": "Daum",
+      "examples": [
+        "Mozilla/5.0 (compatible; Daum/4.1; +http://cs.daum.net/faq/15/4118.html?faqId=28966)"
+      ]
+    },
+    {
+      "name": "Digg",
+      "examples": [
+        "Digg Mozilla/5.0 (Digg/1.0; support@digg.com)"
+      ]
+    },
+    {
+      "name": "DotBot",
+      "examples": [
+        "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)",
+        "Mozilla/5.0 (compatible; DotBot/1.2; https://opensiteexplorer.org/dotbot; help@moz.com)"
+      ]
+    },
+    {
+      "name": "Downcast Bot",
+      "examples": [
+        "downcast feed consumer/0.0.175; (mode=dev; id=u2NgjBSPM6; downcast.fm)"
+      ]
+    },
+    {
+      "name": "DuckDuckBot",
+      "examples": [
+        "Mozilla/5.0 (compatible; DuckDuckBot-Https/1.1; https://duckduckgo.com/duckduckbot)"
+      ]
+    },
+    {
+      "name": "F-Secure Riddler",
+      "examples": [
+        "Riddler (http://riddler.io/about)"
+      ]
+    },
+    {
+      "name": "Facebook Bot",
+      "examples": [
+        "facebookexternalhit/1.1 ( http://www.facebook.com/externalhit_uatext.php)",
+        "podcastbot",
+        "facebookexternalhit",
+        "Facebot",
+        "facebookexternalua",
+        "facebookplatform/1.0 (+http://developers.facebook.com)",
+        "acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)"
+      ]
+    },
+    {
+      "name": "Feedly",
+      "examples": [
+        "Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)"
+      ]
+    },
+    {
+      "name": "Flipboard Proxy",
+      "examples": [
+        "Mozilla/5.0 (compatible; FlipboardProxy/1.1; +http://flipboard.com/browserproxy)"
+      ]
+    },
+    {
+      "name": "Goodpods Bot",
+      "examples": [
+        "Goodpods/2.2"
+      ]
+    },
+    {
+      "name": "Googlebot",
+      "examples": [
+        "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; http://www.google.com/bot.html)",
+        "Googlebot-Image/1.0",
+        "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)"
+      ]
+    },
+    {
+      "name": "Gumball",
+      "examples": [
+        "Gumball.fm Analytics Prefix Checker"
+      ]
+    },
+    {
+      "name": "Headliner",
+      "examples": [
+        "Headliner/1.0.0 +https://headliner.app"
+      ]
+    },
+    {
+      "name": "Internet Archive",
+      "examples": [
+        "Mozilla/5.0 (compatible; special_archiver; Archive-It; http://archive-it.org/files/site-owners-special.html)",
+        "ia_archiver-web.archive.org"
+      ]
+    },
+    {
+      "name": "Jaunt",
+      "examples": [
+        "Jaunt/1.5"
+      ]
+    },
+    {
+      "name": "Libsyn",
+      "examples": [
+        "Libsyn4-Download"
+      ]
+    },
+    {
+      "name": "libwww-perl",
+      "examples": [
+        "LWP::Simple/6.34 libwww-perl/6.34"
+      ]
+    },
+    {
+      "name": "LTX71",
+      "examples": [
+        "ltx71 - (http://ltx71.com/)"
+      ]
+    },
+    {
+      "name": "MauiBot",
+      "examples": [
+        "MauiBot (crawler.feedback dc@gmail.com)"
+      ]
+    },
+    {
+      "name": "Mastodon Bot",
+      "examples": [
+        "http.rb/5.0.4 (Mastodon/3.5.3; +https://mastodon.xyz/) Bot"
+      ]
+    },
+    {
+      "name": "Microsoft Bingbot",
+      "examples": [
+        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534 (KHTML, like Gecko) BingPreview/1.0b",
+        "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+      ]
+    },
+    {
+      "name": "Mixcloud Podcast Importer",
+      "examples": [
+        "MixcloudPodcastImporter/2.0"
+      ]
+    },
+    {
+      "name": "MJ12bot",
+      "examples": [
+        "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)"
+      ]
+    },
+    {
+      "name": "Mozilla Bot",
+      "examples": [
+        "Mozilla/5.0",
+        "Mozilla",
+        "Mozilla/5.0...",
+        "'Mozilla/5.0",
+        "(Mozilla/5.0)"
+      ]
+    },
+    {
+      "name": "Neevabot",
+      "examples": [
+        "Mozilla/5.0 (compatible; Neevabot/1.0; https://neeva.com/neevabot)"
+      ]
+    },
+    {
+      "name": "Netcraft Survey Agent",
+      "examples": [
+        "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)"
+      ]
+    },
+    {
+      "name": "OgScrper",
+      "examples": [
+        "OgScrper"
+      ]
+    },
+    {
+      "name": "OP3 Fetcher",
+      "examples": [
+        "op3-fetcher/1.0 (https://op3.dev)"
+      ]
+    },
+    {
+      "name": "Overcast feed parser",
+      "examples": [
+        "Overcast/1.0 Podcast Sync"
+      ]
+    },
+    {
+      "name": "PaperLi",
+      "examples": [
+        "Mozilla/5.0 (compatible; PaperLiBot/2.1; https://support.paper.li/entries/20023257-what-is-paper-li)"
+      ]
+    },
+    {
+      "name": "PetalBot",
+      "examples": [
+        "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot; https://aspiegel.com/petalbot)"
+      ]
+    },
+    {
+      "name": "PlayerFM Podcast Sync",
+      "examples": [
+        "PlayerFM/1.0 Podcast Sync (0 subscribers; url=https://player.fm/series/series-2567872)"
+      ]
+    },
+    {
+      "name": "Podbean Importer",
+      "examples": [
+        "Podbean Importer"
+      ]
+    },
+    {
+      "name": "Podcastindex.org",
+      "examples": [
+        "Podcastindex.org/v0.3.3 (Aggrivate)"
+      ]
+    },
+    {
+      "name": "Podcorn",
+      "examples": [
+        "Podcorn/1.0"
+      ]
+    },
+    {
+      "name": "PodderBot",
+      "examples": [
+        "PodderBot/1.0"
+      ]
+    },
+    {
+      "name": "Podfollow",
+      "examples": [
+        "Mozilla/5.0 https://podfollow.com/crawling podfollowbot/1.0"
+      ]
+    },
+    {
+      "name": "Podhound",
+      "examples": [
+        "PodhoundBeta"
+      ]
+    },
+    {
+      "name": "Podio Bot",
+      "examples": [
+        "Podio/1.0"
+      ]
+    },
+    {
+      "name": "Podscribe",
+      "examples": [
+        "Adswizz-podscribe/1.0"
+      ]
+    },
+    {
+      "name": "PodvineBot",
+      "examples": [
+        "PodvineBot/4.0.1 (www.podvine.com)"
+      ]
+    },
+    {
+      "name": "PostRank Bot",
+      "examples": [
+        "PostRank/2.0 (postrank.com; 1 subscribers)"
+      ]
+    },
+    {
+      "name": "RedCircle",
+      "examples": [
+        "RedCircle"
+      ]
+    },
+    {
+      "name": "Ridder Bot",
+      "examples": [
+        "Mozilla/5.0 (compatible; RidderBot/1.0; bot@ridder.co)"
+      ]
+    },
+    {
+      "name": "RSS to Telegram",
+      "examples": [
+        "RSStT/2.2.1 RSS Reader"
+      ]
+    },
+    {
+      "name": "Ruby Mechanize",
+      "examples": [
+        "Mozilla/5.0 (compatible; Mechanize/2.7.4)",
+        "WWW-Mechanize/1.72"
+      ]
+    },
+    {
+      "name": "Screaming Frog SEO Spider",
+      "examples": [
+        "Screaming Frog SEO Spider/5.1"
+      ]
+    },
+    {
+      "name": "SearchAtlas.com SEO Crawler",
+      "examples": [
+        "SearchAtlas.com SEO Crawler"
+      ]
+    },
+    {
+      "name": "SEMrushBot",
+      "examples": [
+        "Mozilla/5.0 (compatible; SemrushBot/6~bl; http://www.semrush.com/bot.html)",
+        "SEMrushBot"
+      ]
+    },
+    {
+      "name": "Serendeputy",
+      "examples": [
+        "SerendeputyBot/0.8.6 (http://serendeputy.com/about/serendeputy-bot)"
+      ]
+    },
+    {
+      "name": "Slack Bot",
+      "examples": [
+        "Slackbot 1.0 ( https://api.slack.com/robots)"
+      ]
+    },
+    {
+      "name": "Snapchat Bot",
+      "examples": [
+        "Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robots"
+      ]
+    },
+    {
+      "name": "Spotify cache service",
+      "examples": [
+        "Spotify/1.0"
+      ]
+    },
+    {
+      "name": "Timpi search crawler",
+      "examples": [
+        "Timpibot/0.8 ( http://www.timpi.io)"
+      ]
+    },
+    {
+      "name": "Twingly Bot",
+      "examples": [
+        "Mozilla/5.0 (compatible; Twingly Recon; twingly.com)"
+      ]
+    },
+    {
+      "name": "UCast",
+      "examples": [
+        "UCast/1.0 Podcast Sync (1 subscribers; feed-id=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDg0OTQucnNzEAEBAD32-0242-42AC-8583-21E9BAD8C544; +http://www.ucastapp.com/)"
+      ]
+    },
+    {
+      "name": "TelegramBot",
+      "examples": [
+        "TelegramBot (like TwitterBot)"
+      ]
+    },
+    {
+      "name": "Vurbl",
+      "examples": [
+        "Mozilla/5.0 https://vurbl.com VurblBot/1.0"
+      ]
+    },
+    {
+      "name": "weborama",
+      "examples": [
+        "weborama-fetcher (+http://www.weborama.com)"
+      ]
+    },
+    {
+      "name": "Windows Crawler",
+      "examples": [
+        "ZDM/4.0; Windows Mobile 7.0;"
+      ]
+    },
+    {
+      "name": "YaCy",
+      "examples": [
+        "yacybot (/global; amd64 Linux 5.9.8-zen1-1-zen; java 1.8.0_265; Europe/de) http://yacy.net/bot.html"
+      ]
+    },
+    {
+      "name": "Yahoo Crawler",
+      "examples": [
+        "Crawler Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+name: Automated tests and build
+on: [push, pull_request]
+
+permissions:
+  contents: write
+
+jobs:
+  test-all-patterns-and-build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - name: Test all patterns
+        run: ./.github/workflows/test-all-patterns.sh
+      - name: Generate build artifacts
+        run: ./.github/workflows/generate-build-artifacts.sh
+        if: github.event_name == 'push'
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: github.event_name == 'push'
+        with:
+          file_pattern: 'build/*.json'

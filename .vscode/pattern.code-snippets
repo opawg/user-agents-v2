@@ -1,0 +1,16 @@
+{
+	"New pattern entry": {
+		"scope": "json",
+		"prefix": "pattern",
+		"body": [
+			"{",
+			"  \"name\": \"${1:name}\",",
+			"  \"pattern\": \"${2:pattern}\",",
+			"  \"examples\": [",
+			"    \"${3:example}\"",
+			"  ]",
+			"},",
+		],
+		"description": "Insert a new pattern entry"
+	}
+}

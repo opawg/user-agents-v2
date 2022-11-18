@@ -1,0 +1,29 @@
+{
+  "entries": [
+    {
+      "name": "Apple iPhone",
+      "examples": [
+        "Fountain/0.5.3 ios https://www.fountain.fm",
+        "Anytime/1.1 b64 (phone;ios Version 15.6.1 (Build 19G82)) https://github.com/amugofjava/anytime_podcast_player"
+      ]
+    },
+    {
+      "name": "Android Phone",
+      "examples": [
+        "GSA/13.39.12.26.arm64",
+        "GSA/13.39.12.26.arm",
+        "sp-agent"
+      ]
+    },
+    {
+      "name": "Other Mobile Device",
+      "examples": [
+        "Mozilla/5.0 (Mobile; Nokia_8110_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1 PodKast",
+        "Zune/4.8",
+        "PodcastGuru 2.0.2-beta3",
+        "Pocket Casts",
+        "AmazonMusic"
+      ]
+    }
+  ]
+}

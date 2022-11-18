@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://opawg.org/patterns",
+  "title": "OPAWG patterns file, used for matching User-Agent or Referer headers to identity podcast user agents.",
+  "description": "Top-level file, containing a list of named entries, their associated regular expression patterns, and other properties",
+  "type": "object",
+  "properties": {
+    "comments": {
+      "type": "array",
+      "description": "Usage notes about this file.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "entries": {
+      "type": "array",
+      "description": "Ordered list of named entries, their associated regular expression patterns, and other properties.",
+      "items": {
+        "type": "object",
+        "required": [ "name", "pattern" ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of this entry, must be unique within the file."
+          },
+          "pattern": {
+            "type": "string",
+            "description": "Regular expression pattern identifying this entry. For max compatibility: avoid lookaheads or programming-language-specific character classes. Example: \"^MyThing/\""
+          },
+          "description": {
+            "type": "string",
+            "description": "Optional summary description of this entry."
+          },
+          "svg": {
+            "type": "string",
+            "description": "Optional associated icon filename as found in the svg directory. Example: \"my-thing.svg\""
+          },
+          "comments": {
+            "description": "Optional notes about this entry.",
+            "type": "string"
+          },
+          "examples": {
+            "type": "array",
+            "description": "Optional examples found in the wild that this entry is intended to match against, useful for pattern development and automated testing.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "urls": {
+            "type": "array",
+            "description": "One or more optional informational urls about this entry. Example: \"https://my-thing.example.com\"",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "category": {
+            "type": "string",
+            "description": "Optional category for this entry, depends on the type of the containing entry file (e.g. \"mobile\" in the 'devices' file, or \"app\" in the 'referrers' file)."
+          }
+        }
+      }
+    }
+  }
+}

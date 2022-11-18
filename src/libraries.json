@@ -1,0 +1,218 @@
+{
+  "comments": [
+    "Look for User-Agent matches in this file order: 'bots', 'apps', 'libraries', 'browsers', and return the first entry matched, processing each entry in order in which they appear in the file.",
+    "If the match entry is from this file (i.e. not a bot), you can also match the User-Agent header against the 'devices' file to identity device and category."
+  ],
+  "$schema": "https://raw.githubusercontent.com/opawg/user-agents-v2/master/schemas/patterns.schema.json",
+  "entries": [
+    {
+      "name": "AndroidDownloadManager",
+      "pattern": "^AndroidDownloadManager"
+    },
+    {
+      "name": "Apache HttpClient",
+      "pattern": "Apache-HttpClient",
+      "examples": [
+        "Apache-HttpClient/4.5.3-SNAPSHOT (Java/1.8.0_73)"
+      ]
+    },
+    {
+      "name": "AppleCoreMedia",
+      "pattern": "^AppleCoreMedia/1",
+      "description": "AppleCoreMedia library",
+      "urls": [
+        "https://podnews.net/article/applecoremedia-user-agent"
+      ],
+      "comments": "This is a library used by a number of apps when progressively downloading podcasts. It is not (just) Apple Podcasts, and should not be treated as an Apple Podcasts useragent",
+      "examples": [
+        "AppleCoreMedia/1.0.0.16G114 (iPod touch; U; CPU OS 12_4_2 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.19A583 (Macintosh; U; Intel Mac OS X 10_15; en_us)",
+        "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.17A860 (iPad; U; CPU OS 13_1_2 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.16G78 (HomePod; U; CPU OS 12_4 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.17J586 (Apple TV; U; CPU OS 13_0 like Mac OS X; en_us)"
+      ]
+    },
+    {
+      "name": "Armadillo",
+      "pattern": "^Armadillo/1",
+      "urls": [
+        "https://tech.scribd.com/blog/2021/android-audio-player-tutorial-with-armadillo.html"
+      ],
+      "comments": "This is a library, and not an app",
+      "examples": [
+        "Armadillo/12.19 (Linux;Android 11) ExoPlayerLib/2.17.1"
+      ]
+    },
+    {
+      "name": "Axios (Node)",
+      "pattern": "^axios/",
+      "examples": [
+        "axios/0.26.1"
+      ]
+    },
+    {
+      "name": "Dalvik",
+      "pattern": "^Dalvik[/ ]",
+      "examples": [
+        "Dalvik/2.1.0 (Linux; U; Android 9; SM-N950U Build/PPR1.180610.011)",
+        "Dalvik (Linux; U; Android 4.1.1;aries/JRO03L)"
+      ]
+    },
+    {
+      "name": "Dart",
+      "pattern": "^Dart/",
+      "examples": [
+        "Dart/2.18 (dart:io)"
+      ],
+      "comments": "Default for the Dart programming language (Flutter uses Dart)"
+    },
+    {
+      "name": "Deno",
+      "pattern": "^Deno/",
+      "examples": [
+        "Deno/1.26.1"
+      ],
+      "comments": "Default for the Deno JavaScript/TypeScript runtime"
+    },
+    {
+      "name": "ffmpeg",
+      "pattern": "^Lavf/",
+      "comments": "ffmpeg is a library used within TuneIn, VLC, ffmpeg and other programs. This is the default useragent for the ffmpeg library. Since it's a library, not an app by itself, we don't add its name here."
+    },
+    {
+      "name": "FileDownloader (Android)",
+      "pattern": "^FileDownloader/",
+      "examples": [
+        "FileDownloader/1.7.7"
+      ],
+      "urls": [
+        "https://github.com/lingochamp/FileDownloader"
+      ]
+    },
+    {
+      "name": "Go Http Client",
+      "pattern": "^Go-http-client",
+      "comments": "Default user-agent for Go programs",
+      "examples": [
+        "Go-http-client/2.0"
+      ],
+      "urls": [
+        "https://pkg.go.dev/net/http"
+      ]
+    },
+    {
+      "name": "Got (node)",
+      "pattern": "^got(/| \\()",
+      "examples": [
+        "got (https://github.com/sindresorhus/got)"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.podimo&hl=en_US"
+      ],
+      "comments": "Got is a HTTP library for NodeJs"
+    },
+    {
+      "name": "GStreamer",
+      "pattern": "^GStreamer|GStreamer/",
+      "examples": [
+        "amarok/2.8.0 (Phonon/4.7.80; Phonon-GStreamer/4.7.80)"
+      ]
+    },
+    {
+      "name": "gvfs",
+      "pattern": "^gvfs"
+    },
+    {
+      "name": "KaiOS Downloader",
+      "pattern": "KaiOS Downloader",
+      "comments": "This is the KaiOS Downloader library, and this could refer to any app on this platform",
+      "examples": [
+        "KaiOS Downloader"
+      ]
+    },
+    {
+      "name": "libsoup",
+      "pattern": "^libsoup/",
+      "examples": [
+        "libsoup/2.68.2"
+      ], "urls": [
+        "https://libsoup.org/"
+      ],
+      "description": "HTTP client/server library for GNOME"
+    },
+    {
+      "name": "Android License Verification Library",
+      "pattern": "^Android\\.LVLDM$",
+      "examples": [
+        "Android.LVLDM"
+      ]
+    },
+    {
+      "name": "node-fetch",
+      "pattern": "^node-fetch(/.*)?$",
+      "examples": [
+        "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
+        "node-fetch"
+      ]
+    },
+    {
+      "name": "okhttp",
+      "pattern": "okhttp",
+      "examples": [
+        "okhttp/3.11.0"
+      ]
+    },
+    {
+      "name": "react-native-track-player",
+      "pattern": "^react-native-track-player/",
+      "examples": [
+        "react-native-track-player/0.5.1 (Linux;Android 12) ExoPlayerLib/2.18.1"
+      ],
+      "urls": [
+        "https://github.com/doublesymmetry/react-native-track-player"
+      ],
+      "description": "A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!",
+      "comments": "Must match before exoplayer"
+    },
+    {
+      "name": "Request (node)",
+      "pattern": "request\\.js"
+    },
+    {
+      "name": "ruby",
+      "pattern": "^Ruby",
+      "comments": "The generic Ruby user-agent."
+    },
+    {
+      "name": "Safari View Service (SFSafariViewController)",
+      "pattern": "^SafariViewService/",
+      "examples": [
+        "SafariViewService/8614.1.25.0.31 CFNetwork/1390 Darwin/22.0.0"
+      ]
+    },
+    {
+      "name": "stagefright",
+      "pattern": "stagefright/"
+    },
+    {
+      "name": "urllib (python)",
+      "pattern": "^Python-urllib/",
+      "examples": [
+        "Python-urllib/3.9"
+      ]
+    },
+    {
+      "name": "ExoPlayer (Android)",
+      "pattern": " ExoPlayerLib/",
+      "examples": [
+        "yourApplicationName/2.21.9 (Linux;Android 11) ExoPlayerLib/2.14.0",
+        "ExoPlayerLib/2.14.0 (Linux; Android 12) ExoPlayerLib/2.14.0"
+      ],
+      "urls": [
+        "https://github.com/google/ExoPlayer"
+      ],
+      "comments": "Must match after react-native-track-player. Unable to track down where everyone is copying yourApplicationName from, there are several small exoplayer examples with similar code."
+    }
+  ]
+}

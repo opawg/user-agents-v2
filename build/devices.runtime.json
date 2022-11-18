@@ -1,0 +1,99 @@
+{
+  "entries": [
+    {
+      "name": "Apple HomePod",
+      "pattern": "HomePod",
+      "category": "smart_speaker"
+    },
+    {
+      "name": "Apple iPad",
+      "pattern": "ipad|iPad|IPAD",
+      "category": "mobile"
+    },
+    {
+      "name": "Apple TV",
+      "pattern": "Apple TV|AppleTV|apple;apple_tv",
+      "category": "smart_tv"
+    },
+    {
+      "name": "Apple iPhone",
+      "pattern": "iphone|iOS|iPhone|CFNetwork| ios |phone;ios",
+      "category": "mobile"
+    },
+    {
+      "name": "Apple Watch",
+      "pattern": "watch|Watch OS",
+      "category": "watch"
+    },
+    {
+      "name": "Apple iPod",
+      "pattern": "iPod|IPOD",
+      "category": "mobile"
+    },
+    {
+      "name": "Apple Computer",
+      "pattern": "OS X|OSX|Macintosh|Macbook",
+      "category": "computer"
+    },
+    {
+      "name": "Google Home",
+      "pattern": "GoogleChirp|Google-Speech-Actions",
+      "category": "smart_speaker"
+    },
+    {
+      "name": "Google Chromebook",
+      "pattern": "Chromebook|CrOS",
+      "category": "computer"
+    },
+    {
+      "name": "Android Tablet",
+      "pattern": "[a|A]ndroid.*[t|T]ablet|[t|T]ablet.*[a|A]ndroid|SM-T| GT-",
+      "category": "mobile"
+    },
+    {
+      "name": "Other Smart TV",
+      "pattern": "SmartTV|Roku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv",
+      "category": "smart_tv"
+    },
+    {
+      "name": "Android Phone",
+      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent",
+      "category": "mobile"
+    },
+    {
+      "name": "Windows Computer",
+      "pattern": "Windows|windows|WMPlayer|Winamp|Win32|Win64|NSPlayer|MediaMonkey|NSPlayer|PC",
+      "category": "computer"
+    },
+    {
+      "name": "Amazon Smart Speaker",
+      "pattern": "Alexa|^Echo/",
+      "category": "smart_speaker"
+    },
+    {
+      "name": "Other Smart Speaker",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader",
+      "category": "smart_speaker"
+    },
+    {
+      "name": "Other Computer",
+      "pattern": "Lavf/|desktop|Linux|linux|VLC|^okhttp/|CastBox/",
+      "category": "computer"
+    },
+    {
+      "name": "Other Tablet",
+      "pattern": "tablet|Tablet",
+      "category": "mobile"
+    },
+    {
+      "name": "Other Watch",
+      "pattern": "watch|Watch",
+      "category": "watch"
+    },
+    {
+      "name": "Other Mobile Device",
+      "pattern": "Player FM$|^Podkicker/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$",
+      "category": "mobile"
+    }
+  ]
+}

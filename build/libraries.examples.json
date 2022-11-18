@@ -1,0 +1,132 @@
+{
+  "entries": [
+    {
+      "name": "Apache HttpClient",
+      "examples": [
+        "Apache-HttpClient/4.5.3-SNAPSHOT (Java/1.8.0_73)"
+      ]
+    },
+    {
+      "name": "AppleCoreMedia",
+      "examples": [
+        "AppleCoreMedia/1.0.0.16G114 (iPod touch; U; CPU OS 12_4_2 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.19A583 (Macintosh; U; Intel Mac OS X 10_15; en_us)",
+        "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.17A860 (iPad; U; CPU OS 13_1_2 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.16G78 (HomePod; U; CPU OS 12_4 like Mac OS X; en_us)",
+        "AppleCoreMedia/1.0.0.17J586 (Apple TV; U; CPU OS 13_0 like Mac OS X; en_us)"
+      ]
+    },
+    {
+      "name": "Armadillo",
+      "examples": [
+        "Armadillo/12.19 (Linux;Android 11) ExoPlayerLib/2.17.1"
+      ]
+    },
+    {
+      "name": "Axios (Node)",
+      "examples": [
+        "axios/0.26.1"
+      ]
+    },
+    {
+      "name": "Dalvik",
+      "examples": [
+        "Dalvik/2.1.0 (Linux; U; Android 9; SM-N950U Build/PPR1.180610.011)",
+        "Dalvik (Linux; U; Android 4.1.1;aries/JRO03L)"
+      ]
+    },
+    {
+      "name": "Dart",
+      "examples": [
+        "Dart/2.18 (dart:io)"
+      ]
+    },
+    {
+      "name": "Deno",
+      "examples": [
+        "Deno/1.26.1"
+      ]
+    },
+    {
+      "name": "FileDownloader (Android)",
+      "examples": [
+        "FileDownloader/1.7.7"
+      ]
+    },
+    {
+      "name": "Go Http Client",
+      "examples": [
+        "Go-http-client/2.0"
+      ]
+    },
+    {
+      "name": "Got (node)",
+      "examples": [
+        "got (https://github.com/sindresorhus/got)"
+      ]
+    },
+    {
+      "name": "GStreamer",
+      "examples": [
+        "amarok/2.8.0 (Phonon/4.7.80; Phonon-GStreamer/4.7.80)"
+      ]
+    },
+    {
+      "name": "KaiOS Downloader",
+      "examples": [
+        "KaiOS Downloader"
+      ]
+    },
+    {
+      "name": "libsoup",
+      "examples": [
+        "libsoup/2.68.2"
+      ]
+    },
+    {
+      "name": "Android License Verification Library",
+      "examples": [
+        "Android.LVLDM"
+      ]
+    },
+    {
+      "name": "node-fetch",
+      "examples": [
+        "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
+        "node-fetch"
+      ]
+    },
+    {
+      "name": "okhttp",
+      "examples": [
+        "okhttp/3.11.0"
+      ]
+    },
+    {
+      "name": "react-native-track-player",
+      "examples": [
+        "react-native-track-player/0.5.1 (Linux;Android 12) ExoPlayerLib/2.18.1"
+      ]
+    },
+    {
+      "name": "Safari View Service (SFSafariViewController)",
+      "examples": [
+        "SafariViewService/8614.1.25.0.31 CFNetwork/1390 Darwin/22.0.0"
+      ]
+    },
+    {
+      "name": "urllib (python)",
+      "examples": [
+        "Python-urllib/3.9"
+      ]
+    },
+    {
+      "name": "ExoPlayer (Android)",
+      "examples": [
+        "yourApplicationName/2.21.9 (Linux;Android 11) ExoPlayerLib/2.14.0",
+        "ExoPlayerLib/2.14.0 (Linux; Android 12) ExoPlayerLib/2.14.0"
+      ]
+    }
+  ]
+}

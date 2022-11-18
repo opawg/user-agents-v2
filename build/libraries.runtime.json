@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "name": "AndroidDownloadManager",
+      "pattern": "^AndroidDownloadManager"
+    },
+    {
+      "name": "Apache HttpClient",
+      "pattern": "Apache-HttpClient"
+    },
+    {
+      "name": "AppleCoreMedia",
+      "pattern": "^AppleCoreMedia/1"
+    },
+    {
+      "name": "Armadillo",
+      "pattern": "^Armadillo/1"
+    },
+    {
+      "name": "Axios (Node)",
+      "pattern": "^axios/"
+    },
+    {
+      "name": "Dalvik",
+      "pattern": "^Dalvik[/ ]"
+    },
+    {
+      "name": "Dart",
+      "pattern": "^Dart/"
+    },
+    {
+      "name": "Deno",
+      "pattern": "^Deno/"
+    },
+    {
+      "name": "ffmpeg",
+      "pattern": "^Lavf/"
+    },
+    {
+      "name": "FileDownloader (Android)",
+      "pattern": "^FileDownloader/"
+    },
+    {
+      "name": "Go Http Client",
+      "pattern": "^Go-http-client"
+    },
+    {
+      "name": "Got (node)",
+      "pattern": "^got(/| \\()"
+    },
+    {
+      "name": "GStreamer",
+      "pattern": "^GStreamer|GStreamer/"
+    },
+    {
+      "name": "gvfs",
+      "pattern": "^gvfs"
+    },
+    {
+      "name": "KaiOS Downloader",
+      "pattern": "KaiOS Downloader"
+    },
+    {
+      "name": "libsoup",
+      "pattern": "^libsoup/"
+    },
+    {
+      "name": "Android License Verification Library",
+      "pattern": "^Android\\.LVLDM$"
+    },
+    {
+      "name": "node-fetch",
+      "pattern": "^node-fetch(/.*)?$"
+    },
+    {
+      "name": "okhttp",
+      "pattern": "okhttp"
+    },
+    {
+      "name": "react-native-track-player",
+      "pattern": "^react-native-track-player/"
+    },
+    {
+      "name": "Request (node)",
+      "pattern": "request\\.js"
+    },
+    {
+      "name": "ruby",
+      "pattern": "^Ruby"
+    },
+    {
+      "name": "Safari View Service (SFSafariViewController)",
+      "pattern": "^SafariViewService/"
+    },
+    {
+      "name": "stagefright",
+      "pattern": "stagefright/"
+    },
+    {
+      "name": "urllib (python)",
+      "pattern": "^Python-urllib/"
+    },
+    {
+      "name": "ExoPlayer (Android)",
+      "pattern": " ExoPlayerLib/"
+    }
+  ]
+}
