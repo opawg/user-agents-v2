@@ -3155,7 +3155,8 @@
         "https://www.videolan.org/vlc/"
       ],
       "examples": [
-        "VLC/3.0.8 LibVLC/3.0.8"
+        "VLC/3.0.8 LibVLC/3.0.8",
+        "VictorReader_4-4-2"
       ]
     },
     {
@@ -3263,9 +3264,6 @@
       "examples": [
         "Mozilla/5.0 (Mobile; LYF/F271i/LYF_F271i-000-01-20-101019; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
       ]
-    },
-    {
-      "name": "Missing pattern"
     }
   ]
 }
