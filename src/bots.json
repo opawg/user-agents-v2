@@ -690,6 +690,15 @@
       "comments": "Acquired by Google, https://en.wikipedia.org/wiki/PostRank"
     },
     {
+      "name": "PodwatchPro",
+      "pattern": "Podwatch-Pro Crawler",
+      "examples": [
+        "Podwatch-Pro Crawler"
+      ],
+      "description": "PodwatchPro is a podcast analytics software. This user agent is for crawling podcast data.",
+      "urls": [ "https://www.agma-mmc.de/media-analyse/ma-podcast" ]
+    },
+    {
       "name": "python-requests",
       "pattern": "python-requests"
     },
