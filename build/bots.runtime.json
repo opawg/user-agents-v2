@@ -337,6 +337,10 @@
       "pattern": "^PostRank/"
     },
     {
+      "name": "PodwatchPro",
+      "pattern": "Podwatch-Pro Crawler"
+    },
+    {
       "name": "python-requests",
       "pattern": "python-requests"
     },
