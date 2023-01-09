@@ -192,6 +192,27 @@
       "category": "bot"
     },
     {
+      "name": "reqwest (rust)",
+      "pattern": "^reqwest/\\d",
+      "urls": [
+        "https://docs.rs/reqwest/latest/reqwest/"
+      ],
+      "examples": [
+        "reqwest/0.9.19"
+      ]
+    },
+    {
+      "name": "resty-requests (lua)",
+      "pattern": "^resty-requests",
+      "urls": [
+        "https://github.com/tokers/lua-resty-requests"
+      ],
+      "examples": [
+        "resty-requests"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "ruby",
       "pattern": "^Ruby",
       "comments": "The generic Ruby user-agent."

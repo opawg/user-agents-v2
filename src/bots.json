@@ -308,6 +308,13 @@
       ]
     },
     {
+      "name": "FlexGet",
+      "pattern": "^FlexGet/",
+      "examples": [
+        "FlexGet/3.3.4 (www.flexget.com)"
+      ]
+    },
+    {
       "name": "Flipboard Proxy",
       "pattern": "FlipboardProxy/",
       "examples": [
@@ -377,6 +384,13 @@
       "comments": "A tool that takes audio to reformat it for video platforms",
       "examples": [
         "Headliner/1.0.0 +https://headliner.app"
+      ]
+    },
+    {
+      "name": "HubSpot Crawler",
+      "pattern": "HubSpot Crawler",
+      "examples": [
+        "Mozilla/5.0 (compatible; HubSpot Crawler; +https://www.hubspot.com)"
       ]
     },
     {
@@ -458,6 +472,13 @@
       "examples": [
         "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534 (KHTML, like Gecko) BingPreview/1.0b",
         "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "pattern": "ms-office; MSOffice",
+      "examples": [
+        "Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
       ]
     },
     {
@@ -680,9 +701,10 @@
     },
     {
       "name": "Podscribe",
-      "pattern": "^Adswizz-podscribe/",
+      "pattern": "(^Adswizz-podscribe/|^Podscribe/)",
       "examples": [
-        "Adswizz-podscribe/1.0"
+        "Adswizz-podscribe/1.0",
+        "Podscribe/1.1"
       ]
     },
     {
@@ -796,6 +818,13 @@
       ]
     },
     {
+      "name": "Simplecast",
+      "pattern": "^Simplecast$",
+      "examples": [
+        "Simplecast"
+      ]
+    },
+    {
       "name": "Slack Bot",
       "pattern": "^Slackbot 1\\.0",
       "examples": [
@@ -899,6 +928,13 @@
       "pattern": "^WordPress"
     },
     {
+      "name": "wsrv.nl",
+      "pattern": "https?://wsrv.nl/",
+      "examples": [
+        "Mozilla/5.0 (compatible; ImageFetcher/9.0; +http://wsrv.nl/)"
+      ]
+    },
+    {
       "name": "YaCy",
       "pattern": "^yacybot",
       "description": "Decentralized Web Search",
@@ -919,6 +955,13 @@
     {
       "name": "YandexBot",
       "pattern": "YandexBot/"
+    },
+    {
+      "name": "Zapier",
+      "pattern": "^Zapier$",
+      "examples": [
+        "Zapier"
+      ]
     },
     {
       "name": "Zencast",
