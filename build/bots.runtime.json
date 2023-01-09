@@ -149,6 +149,10 @@
       "pattern": "^Feedly/"
     },
     {
+      "name": "FlexGet",
+      "pattern": "^FlexGet/"
+    },
+    {
       "name": "Flipboard Proxy",
       "pattern": "FlipboardProxy/"
     },
@@ -183,6 +187,10 @@
     {
       "name": "Headliner",
       "pattern": "Headliner/"
+    },
+    {
+      "name": "HubSpot Crawler",
+      "pattern": "HubSpot Crawler"
     },
     {
       "name": "Internet Archive",
@@ -223,6 +231,10 @@
     {
       "name": "Microsoft Bingbot",
       "pattern": "(BingPreview/|adidxbot/|[bB]ingbot/)"
+    },
+    {
+      "name": "Microsoft Office",
+      "pattern": "ms-office; MSOffice"
     },
     {
       "name": "Mixcloud Podcast Importer",
@@ -330,7 +342,7 @@
     },
     {
       "name": "Podscribe",
-      "pattern": "^Adswizz-podscribe/"
+      "pattern": "(^Adswizz-podscribe/|^Podscribe/)"
     },
     {
       "name": "Podverse Feed Parser",
@@ -387,6 +399,10 @@
     {
       "name": "Serendeputy",
       "pattern": "SerendeputyBot/"
+    },
+    {
+      "name": "Simplecast",
+      "pattern": "^Simplecast$"
     },
     {
       "name": "Slack Bot",
@@ -457,6 +473,10 @@
       "pattern": "^WordPress"
     },
     {
+      "name": "wsrv.nl",
+      "pattern": "https?://wsrv.nl/"
+    },
+    {
       "name": "YaCy",
       "pattern": "^yacybot"
     },
@@ -467,6 +487,10 @@
     {
       "name": "YandexBot",
       "pattern": "YandexBot/"
+    },
+    {
+      "name": "Zapier",
+      "pattern": "^Zapier$"
     },
     {
       "name": "Zencast",

@@ -187,6 +187,12 @@
       ]
     },
     {
+      "name": "FlexGet",
+      "examples": [
+        "FlexGet/3.3.4 (www.flexget.com)"
+      ]
+    },
+    {
       "name": "Flipboard Proxy",
       "examples": [
         "Mozilla/5.0 (compatible; FlipboardProxy/1.1; +http://flipboard.com/browserproxy)"
@@ -222,6 +228,12 @@
       "name": "Headliner",
       "examples": [
         "Headliner/1.0.0 +https://headliner.app"
+      ]
+    },
+    {
+      "name": "HubSpot Crawler",
+      "examples": [
+        "Mozilla/5.0 (compatible; HubSpot Crawler; +https://www.hubspot.com)"
       ]
     },
     {
@@ -272,6 +284,12 @@
       "examples": [
         "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534 (KHTML, like Gecko) BingPreview/1.0b",
         "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "examples": [
+        "Mozilla/4.0 (compatible; ms-office; MSOffice 16)"
       ]
     },
     {
@@ -395,7 +413,8 @@
     {
       "name": "Podscribe",
       "examples": [
-        "Adswizz-podscribe/1.0"
+        "Adswizz-podscribe/1.0",
+        "Podscribe/1.1"
       ]
     },
     {
@@ -467,6 +486,12 @@
       ]
     },
     {
+      "name": "Simplecast",
+      "examples": [
+        "Simplecast"
+      ]
+    },
+    {
       "name": "Slack Bot",
       "examples": [
         "Slackbot 1.0 ( https://api.slack.com/robots)"
@@ -527,6 +552,12 @@
       ]
     },
     {
+      "name": "wsrv.nl",
+      "examples": [
+        "Mozilla/5.0 (compatible; ImageFetcher/9.0; +http://wsrv.nl/)"
+      ]
+    },
+    {
       "name": "YaCy",
       "examples": [
         "yacybot (/global; amd64 Linux 5.9.8-zen1-1-zen; java 1.8.0_265; Europe/de) http://yacy.net/bot.html"
@@ -536,6 +567,12 @@
       "name": "Yahoo Crawler",
       "examples": [
         "Crawler Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+      ]
+    },
+    {
+      "name": "Zapier",
+      "examples": [
+        "Zapier"
       ]
     },
     {

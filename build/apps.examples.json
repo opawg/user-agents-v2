@@ -95,6 +95,12 @@
       ]
     },
     {
+      "name": "Airsonic",
+      "examples": [
+        "Airsonic/11.0.0-SNAPSHOT.20220625052932"
+      ]
+    },
+    {
       "name": "Alexa-enabled device",
       "examples": [
         "Echo/1.0(APNG)",
@@ -177,7 +183,8 @@
       "name": "Anghami",
       "examples": [
         "Anghami/502044 CFNetwork/1206 Darwin/20.1.0",
-        "Anghami Android 6.1.157 / V 11 (6011570) Google store"
+        "Anghami Android 6.1.157 / V 11 (6011570) Google store",
+        "%D8%A3%D9%86%D8%BA%D8%A7%D9%85%D9%8A/601041 CFNetwork/1335.0.3 Darwin/21.6.0"
       ]
     },
     {
@@ -262,7 +269,8 @@
         "Podkaster/1710.17 CFNetwork/1399 Darwin/22.1.0",
         "Balados/1660.5 CFNetwork/1335.0.3 Darwin/21.6.0",
         "Podcast/1660.5 CFNetwork/1335.0.3 Darwin/21.6.0",
-        "Podcast%E2%80%99ler/1710.17 CFNetwork/1399 Darwin/22.1.0"
+        "Podcast%E2%80%99ler/1710.17 CFNetwork/1399 Darwin/22.1.0",
+        "%E0%B8%9E%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%97%E0%B9%8C/4022.300.6 CFNetwork/1402.0.8 Darwin/22.2.0"
       ]
     },
     {
@@ -648,7 +656,8 @@
     {
       "name": "Chromecast device",
       "examples": [
-        "Mozilla/5.0 (CrKey armv7l 1.8.17977) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+        "Mozilla/5.0 (CrKey armv7l 1.8.17977) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36",
+        "Google;ChromecastHD;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
       ]
     },
     {
@@ -1010,6 +1019,12 @@
       ]
     },
     {
+      "name": "FeedStation",
+      "examples": [
+        "FeedStation/4.5 (http://www.newsgator.com/; Microsoft Windows)"
+      ]
+    },
+    {
       "name": "Fellowship Bible Church Topeka",
       "examples": [
         "Fellowship Bible Church Topeka/4.9.2 CFNetwork/811.5.4 Darwin/16.7.0"
@@ -1069,7 +1084,8 @@
         "Fountain/0.2.6 iOS https://www.fountain.fm'",
         "Fountain/0.3.8 ios https://www.fountain.fm",
         "Fountain/0.2.6 Android https://www.fountain.fm'",
-        "Fountain/0.3.13 android https://www.fountain.fm"
+        "Fountain/0.3.13 android https://www.fountain.fm",
+        "fountainapp/565 CFNetwork/1399 Darwin/22.1.0"
       ]
     },
     {
@@ -1776,7 +1792,14 @@
         "myTuner%20Radio%20app/11 CFNetwork/978.0.7 Darwin/18.7.0",
         "mytuner_podcasts_androidplayer/1.0.0 (Linux;Android 6.0) ExoPlayerLib/2.8.4",
         "MyTuner-ExoPlayerAdapter",
-        "myTuner"
+        "myTuner",
+        "myTuneriOS%20Free/120 CFNetwork/1402.0.8 Darwin/22.2.0"
+      ]
+    },
+    {
+      "name": "Newsboat",
+      "examples": [
+        "Newsboat/2.29.0 (Linux x86_64)"
       ]
     },
     {
@@ -2195,7 +2218,8 @@
         "spotify_android-tablet",
         "Spotify-Lite: Spotify-Lite/0.13.48.96 Android/22 (SM-G531H)",
         "Spotify/4.3.2.0 Polestar/30 (Polestar)",
-        "Spotify/4.3.2.0 Volvo/30 (Volvo)"
+        "Spotify/4.3.2.0 Volvo/30 (Volvo)",
+        "Spotify/8.7.76.359 SM-R870/30 (SM-R870)"
       ]
     },
     {
@@ -2286,7 +2310,8 @@
         "podcast/2358 iOS/Version 13.5.1 (Build 017F80) The Podcast App/3.22.1",
         "com.evolve.podcast/3.22.1 (iPhone; ) (build 2358, iOS 13.5.1)",
         "podcast/ CFNetwork/1107 Darwin/19.0.0",
-        "podcast/878 CFNetwork/1335.0.3 Darwin/21.6.0"
+        "podcast/878 CFNetwork/1335.0.3 Darwin/21.6.0",
+        "PodcastApp/22.10.30 CFNetwork/1333.0.4 Darwin/21.5.0"
       ]
     },
     {
@@ -2432,6 +2457,12 @@
       "name": "Yandex Music",
       "examples": [
         "Yandex.Music/2019-11-01.trunk.5885661"
+      ]
+    },
+    {
+      "name": "Zeno",
+      "examples": [
+        "Zeno"
       ]
     },
     {

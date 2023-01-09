@@ -95,6 +95,15 @@
       "category": "bot"
     },
     {
+      "name": "reqwest (rust)",
+      "pattern": "^reqwest/\\d"
+    },
+    {
+      "name": "resty-requests (lua)",
+      "pattern": "^resty-requests",
+      "category": "bot"
+    },
+    {
       "name": "ruby",
       "pattern": "^Ruby"
     },
