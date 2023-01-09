@@ -6,7 +6,8 @@
     },
     {
       "name": "Apache HttpClient",
-      "pattern": "Apache-HttpClient"
+      "pattern": "Apache-HttpClient",
+      "category": "bot"
     },
     {
       "name": "AppleCoreMedia",
@@ -18,7 +19,8 @@
     },
     {
       "name": "Axios (Node)",
-      "pattern": "^axios/"
+      "pattern": "^axios/",
+      "category": "bot"
     },
     {
       "name": "Dalvik",
@@ -26,15 +28,18 @@
     },
     {
       "name": "Dart",
-      "pattern": "^Dart/"
+      "pattern": "^Dart/",
+      "category": "bot"
     },
     {
       "name": "Deno",
-      "pattern": "^Deno/"
+      "pattern": "^Deno/",
+      "category": "bot"
     },
     {
       "name": "ffmpeg",
-      "pattern": "^Lavf/"
+      "pattern": "^Lavf/",
+      "category": "bot"
     },
     {
       "name": "FileDownloader (Android)",
@@ -42,11 +47,13 @@
     },
     {
       "name": "Go Http Client",
-      "pattern": "^Go-http-client"
+      "pattern": "^Go-http-client",
+      "category": "bot"
     },
     {
       "name": "Got (node)",
-      "pattern": "^got(/| \\()"
+      "pattern": "^got(/| \\()",
+      "category": "bot"
     },
     {
       "name": "GStreamer",
@@ -70,11 +77,13 @@
     },
     {
       "name": "node-fetch",
-      "pattern": "^node-fetch(/.*)?$"
+      "pattern": "^node-fetch(/.*)?$",
+      "category": "bot"
     },
     {
       "name": "okhttp",
-      "pattern": "okhttp"
+      "pattern": "okhttp",
+      "category": "bot"
     },
     {
       "name": "react-native-track-player",
@@ -82,11 +91,17 @@
     },
     {
       "name": "Request (node)",
-      "pattern": "request\\.js"
+      "pattern": "request\\.js",
+      "category": "bot"
     },
     {
       "name": "ruby",
       "pattern": "^Ruby"
+    },
+    {
+      "name": "rest-client (ruby)",
+      "pattern": "^rest-client/.*ruby/",
+      "category": "bot"
     },
     {
       "name": "Safari View Service (SFSafariViewController)",
@@ -97,8 +112,14 @@
       "pattern": "stagefright/"
     },
     {
+      "name": "Symfony (php)",
+      "pattern": "^Symfony HttpClient/",
+      "category": "bot"
+    },
+    {
       "name": "urllib (python)",
-      "pattern": "^Python-urllib/"
+      "pattern": "^Python-urllib/",
+      "category": "bot"
     },
     {
       "name": "ExoPlayer (Android)",

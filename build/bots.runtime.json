@@ -157,6 +157,10 @@
       "pattern": "^fyyd-poll"
     },
     {
+      "name": "Go Storage Gateway V1",
+      "pattern": "^storagegw-v1-go$"
+    },
+    {
       "name": "Goodpods Bot",
       "pattern": "Goodpods/\\d+\\.\\d+"
     },
@@ -303,6 +307,10 @@
     {
       "name": "Podfollow",
       "pattern": "podfollowbot/"
+    },
+    {
+      "name": "Podgrab",
+      "pattern": "^Podgrab$"
     },
     {
       "name": "Podhound",
@@ -459,6 +467,10 @@
     {
       "name": "YandexBot",
       "pattern": "YandexBot/"
+    },
+    {
+      "name": "Zencast",
+      "pattern": "^Zencastr/"
     }
   ]
 }

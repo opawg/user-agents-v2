@@ -1397,6 +1397,10 @@
       "pattern": "(Sonnet|^Simple Podcast Player)"
     },
     {
+      "name": "Sony PlayStation 5",
+      "pattern": "^sony_tv;ps5;"
+    },
+    {
       "name": "Sonos",
       "pattern": "Sonos"
     },

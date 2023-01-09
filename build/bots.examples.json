@@ -193,6 +193,12 @@
       ]
     },
     {
+      "name": "Go Storage Gateway V1",
+      "examples": [
+        "storagegw-v1-go"
+      ]
+    },
+    {
       "name": "Goodpods Bot",
       "examples": [
         "Goodpods/2.2"
@@ -369,6 +375,12 @@
       ]
     },
     {
+      "name": "Podgrab",
+      "examples": [
+        "Podgrab"
+      ]
+    },
+    {
       "name": "Podhound",
       "examples": [
         "PodhoundBeta"
@@ -524,6 +536,12 @@
       "name": "Yahoo Crawler",
       "examples": [
         "Crawler Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+      ]
+    },
+    {
+      "name": "Zencast",
+      "examples": [
+        "Zencastr/2.0"
       ]
     }
   ]

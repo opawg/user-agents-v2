@@ -2155,6 +2155,12 @@
       ]
     },
     {
+      "name": "Sony PlayStation 5",
+      "examples": [
+        "sony_tv;ps5;9b18101888dd42948afd0b8792122bec;;tpapi;3.200.405"
+      ]
+    },
+    {
       "name": "SoundOn",
       "examples": [
         "SoundOn/1.9.17 (Linux;Android 10) ExoPlayerLib/2.9.4",

@@ -110,9 +110,21 @@
       ]
     },
     {
+      "name": "rest-client (ruby)",
+      "examples": [
+        "rest-client/2.0.2 (linux-gnu x86_64) ruby/2.6.8p205"
+      ]
+    },
+    {
       "name": "Safari View Service (SFSafariViewController)",
       "examples": [
         "SafariViewService/8614.1.25.0.31 CFNetwork/1390 Darwin/22.0.0"
+      ]
+    },
+    {
+      "name": "Symfony (php)",
+      "examples": [
+        "Symfony HttpClient/Curl"
       ]
     },
     {
