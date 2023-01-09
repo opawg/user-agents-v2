@@ -14,7 +14,9 @@
       "pattern": "Apache-HttpClient",
       "examples": [
         "Apache-HttpClient/4.5.3-SNAPSHOT (Java/1.8.0_73)"
-      ]
+      ],
+      "comments": "While the Apache HttpClient can also be used in an Android podcast player app, it's mostly seen today on the server-side (bots).  Most Android apps use other HTTP libraries these days.",
+      "category": "bot"
     },
     {
       "name": "AppleCoreMedia",
@@ -49,7 +51,8 @@
       "pattern": "^axios/",
       "examples": [
         "axios/0.26.1"
-      ]
+      ],
+      "category": "bot"
     },
     {
       "name": "Dalvik",
@@ -65,7 +68,8 @@
       "examples": [
         "Dart/2.18 (dart:io)"
       ],
-      "comments": "Default for the Dart programming language (Flutter uses Dart)"
+      "comments": "Default for the Dart programming language (Flutter uses Dart)",
+      "category": "bot"
     },
     {
       "name": "Deno",
@@ -73,12 +77,14 @@
       "examples": [
         "Deno/1.26.1"
       ],
-      "comments": "Default for the Deno JavaScript/TypeScript runtime"
+      "comments": "Default for the Deno JavaScript/TypeScript runtime",
+      "category": "bot"
     },
     {
       "name": "ffmpeg",
       "pattern": "^Lavf/",
-      "comments": "ffmpeg is a library used within TuneIn, VLC, ffmpeg and other programs. This is the default useragent for the ffmpeg library. Since it's a library, not an app by itself, we don't add its name here."
+      "comments": "ffmpeg is a library used within TuneIn, VLC, ffmpeg and other programs. This is the default useragent for the ffmpeg library.",
+      "category": "bot"
     },
     {
       "name": "FileDownloader (Android)",
@@ -99,7 +105,8 @@
       ],
       "urls": [
         "https://pkg.go.dev/net/http"
-      ]
+      ],
+      "category": "bot"
     },
     {
       "name": "Got (node)",
@@ -110,14 +117,16 @@
       "urls": [
         "https://play.google.com/store/apps/details?id=com.podimo&hl=en_US"
       ],
-      "comments": "Got is a HTTP library for NodeJs"
+      "comments": "Got is a HTTP library for NodeJs",
+      "category": "bot"
     },
     {
       "name": "GStreamer",
       "pattern": "^GStreamer|GStreamer/",
       "examples": [
         "amarok/2.8.0 (Phonon/4.7.80; Phonon-GStreamer/4.7.80)"
-      ]
+      ],
+      "comments": "User-facing Linux media playback apps like Amarok"
     },
     {
       "name": "gvfs",
@@ -154,14 +163,16 @@
       "examples": [
         "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",
         "node-fetch"
-      ]
+      ],
+      "category": "bot"
     },
     {
       "name": "okhttp",
       "pattern": "okhttp",
       "examples": [
         "okhttp/3.11.0"
-      ]
+      ],
+      "category": "bot"
     },
     {
       "name": "react-native-track-player",
@@ -177,12 +188,26 @@
     },
     {
       "name": "Request (node)",
-      "pattern": "request\\.js"
+      "pattern": "request\\.js",
+      "category": "bot"
     },
     {
       "name": "ruby",
       "pattern": "^Ruby",
       "comments": "The generic Ruby user-agent."
+    },
+    {
+      "name": "rest-client (ruby)",
+      "pattern": "^rest-client/.*ruby/",
+      "description": "A simple HTTP and REST client for Ruby, inspired by Sinatra",
+      "comments": "Found mostly coming from Amazon IPs",
+      "examples": [
+        "rest-client/2.0.2 (linux-gnu x86_64) ruby/2.6.8p205"
+      ],
+      "urls": [
+        "https://github.com/rest-client/rest-client"
+      ],
+      "category": "bot"
     },
     {
       "name": "Safari View Service (SFSafariViewController)",
@@ -193,14 +218,24 @@
     },
     {
       "name": "stagefright",
-      "pattern": "stagefright/"
+      "pattern": "stagefright/",
+      "comments": "(android)"
+    },
+    {
+      "name": "Symfony (php)",
+      "pattern": "^Symfony HttpClient/",
+      "examples": [
+        "Symfony HttpClient/Curl"
+      ],
+      "category": "bot"
     },
     {
       "name": "urllib (python)",
       "pattern": "^Python-urllib/",
       "examples": [
         "Python-urllib/3.9"
-      ]
+      ],
+      "category": "bot"
     },
     {
       "name": "ExoPlayer (Android)",

@@ -2854,6 +2854,14 @@
       ]
     },
     {
+      "name": "Sony PlayStation 5",
+      "pattern": "^sony_tv;ps5;",
+      "examples": [
+        "sony_tv;ps5;9b18101888dd42948afd0b8792122bec;;tpapi;3.200.405"
+      ],
+      "comments": "Possibly altered by Checkpoint Threat Prevention API"
+    },
+    {
       "name": "Sonos",
       "pattern": "Sonos"
     },

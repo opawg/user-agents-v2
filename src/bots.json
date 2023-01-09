@@ -319,6 +319,14 @@
       "pattern": "^fyyd-poll"
     },
     {
+      "name": "Go Storage Gateway V1",
+      "pattern": "^storagegw-v1-go$",
+      "comments": "Found coming from TikTok/ByteDance ASNs, along with Go Http Client.",
+      "examples": [
+        "storagegw-v1-go"
+      ]
+    },
+    {
       "name": "Goodpods Bot",
       "pattern": "Goodpods/\\d+\\.\\d+",
       "description": "The social podcasting app",
@@ -619,6 +627,18 @@
       ]
     },
     {
+      "name": "Podgrab",
+      "pattern": "^Podgrab$",
+      "description": "A self-hosted podcast manager to download episodes as soon as they become live",
+      "urls": [
+        "https://github.com/akhilrex/podgrab"
+      ],
+      "examples": [
+        "Podgrab"
+      ],
+      "comments": "Found used for automated archiving."
+    },
+    {
       "name": "Podhound",
       "pattern": "PodhoundBeta",
       "description": "AI-powered podcast discovery",
@@ -899,6 +919,13 @@
     {
       "name": "YandexBot",
       "pattern": "YandexBot/"
+    },
+    {
+      "name": "Zencast",
+      "pattern": "^Zencastr/",
+      "examples": [
+        "Zencastr/2.0"
+      ]
     }
   ]
 }
