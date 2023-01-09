@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "name": "Apple TV",
+      "examples": [
+        "apple;apple_tv;33ddb95064d1479ab37179579af23b77;;tpapi;3.200.405"
+      ]
+    },
+    {
       "name": "Apple iPhone",
       "examples": [
         "Fountain/0.5.3 ios https://www.fountain.fm",
@@ -8,11 +14,20 @@
       ]
     },
     {
+      "name": "Other Smart TV",
+      "examples": [
+        "Microsoft Xbox",
+        "sony_tv;ps5;9b18101888dd42948afd0b8792122bec;;tpapi;3.200.405",
+        "Google;ChromecastHD;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
+      ]
+    },
+    {
       "name": "Android Phone",
       "examples": [
         "GSA/13.39.12.26.arm64",
         "GSA/13.39.12.26.arm",
-        "sp-agent"
+        "sp-agent",
+        "FileDownloader (Android)"
       ]
     },
     {
