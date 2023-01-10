@@ -90,7 +90,7 @@
     },
     {
       "name": "Amazon Music",
-      "pattern": "^AmazonMusic"
+      "pattern": "^AmazonMusic|^Harley/\\d"
     },
     {
       "name": "AMPApp",
