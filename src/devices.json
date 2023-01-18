@@ -19,7 +19,8 @@
       "pattern": "Apple TV|AppleTV|apple;apple_tv",
       "category": "smart_tv",
       "examples": [
-        "apple;apple_tv;33ddb95064d1479ab37179579af23b77;;tpapi;3.200.405"
+        "apple;apple_tv;33ddb95064d1479ab37179579af23b77;;tpapi;3.200.405",
+        "AppleCoreMedia/1.0.0.20K71 (Apple TV; U; CPU OS 16_1 like Mac OS X; en_au)"
       ]
     },
     {
