@@ -23,6 +23,11 @@
       "category": "bot"
     },
     {
+      "name": "Colly",
+      "pattern": "github\\.com/gocolly",
+      "category": "bot"
+    },
+    {
       "name": "Dalvik",
       "pattern": "^Dalvik[/ ]"
     },

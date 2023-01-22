@@ -1329,6 +1329,10 @@
       "pattern": "Pro[Cc]ast"
     },
     {
+      "name": "PugPig Bolt",
+      "pattern": "^PugpigBolt "
+    },
+    {
       "name": "radio.de",
       "pattern": "^radio\\.de/"
     },

@@ -2071,6 +2071,13 @@
       ]
     },
     {
+      "name": "PugPig Bolt",
+      "examples": [
+        "PugpigBolt 2.29.3 (iPhone, iOS 16.1.1) on phone (model iPhone12,1)",
+        "PugpigBolt 2.14.7 (samsung, Android 12) on phone (model SM-F721U1)"
+      ]
+    },
+    {
       "name": "radio.de",
       "examples": [
         "radio.de/4671 CFNetwork/1121.2.2 Darwin/19.2.0"

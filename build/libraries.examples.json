@@ -30,6 +30,12 @@
       ]
     },
     {
+      "name": "Colly",
+      "examples": [
+        "colly - https://github.com/gocolly/colly"
+      ]
+    },
+    {
       "name": "Dalvik",
       "examples": [
         "Dalvik/2.1.0 (Linux; U; Android 9; SM-N950U Build/PPR1.180610.011)",
