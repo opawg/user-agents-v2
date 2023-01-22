@@ -133,6 +133,17 @@
       "pattern": "^gvfs"
     },
     {
+      "name": "hackney (elixir)",
+      "pattern": "^hackney/\\d",
+      "examples": [
+        "hackney/1.18.1"
+      ],
+      "urls": [
+        "https://github.com/benoitc/hackney"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader",
       "comments": "This is the KaiOS Downloader library, and this could refer to any app on this platform",
@@ -171,6 +182,17 @@
       "pattern": "okhttp",
       "examples": [
         "okhttp/3.11.0"
+      ],
+      "category": "bot"
+    },
+    {
+      "name": "python-httpx",
+      "pattern": "^python-httpx/",
+      "examples": [
+        "python-httpx/0.18.2"
+      ],
+      "urls": [
+        "https://www.python-httpx.org/"
       ],
       "category": "bot"
     },

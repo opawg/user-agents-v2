@@ -862,6 +862,17 @@
       ]
     },
     {
+      "name": "Tiny Tiny RSS",
+      "pattern": "^Tiny Tiny RSS/",
+      "examples": [
+        "Tiny Tiny RSS/22.12-c30b24d09 (Unsupported) (https://tt-rss.org/)"
+      ],
+      "urls": [
+        "https://tt-rss.org/"
+      ],
+      "comments": "Found autodownloading hundreds of episodes from an entire feed in rapid succession"
+    },
+    {
       "name": "Trendsmap Resolver",
       "pattern": "TrendsmapResolver/"
     },
