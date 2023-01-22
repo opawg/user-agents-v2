@@ -73,6 +73,12 @@
       ]
     },
     {
+      "name": "hackney (elixir)",
+      "examples": [
+        "hackney/1.18.1"
+      ]
+    },
+    {
       "name": "KaiOS Downloader",
       "examples": [
         "KaiOS Downloader"
@@ -101,6 +107,12 @@
       "name": "okhttp",
       "examples": [
         "okhttp/3.11.0"
+      ]
+    },
+    {
+      "name": "python-httpx",
+      "examples": [
+        "python-httpx/0.18.2"
       ]
     },
     {

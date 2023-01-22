@@ -429,6 +429,10 @@
       "pattern": "Timpibot/"
     },
     {
+      "name": "Tiny Tiny RSS",
+      "pattern": "^Tiny Tiny RSS/"
+    },
+    {
       "name": "Trendsmap Resolver",
       "pattern": "TrendsmapResolver/"
     },

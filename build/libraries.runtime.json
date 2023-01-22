@@ -64,6 +64,11 @@
       "pattern": "^gvfs"
     },
     {
+      "name": "hackney (elixir)",
+      "pattern": "^hackney/\\d",
+      "category": "bot"
+    },
+    {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader"
     },
@@ -83,6 +88,11 @@
     {
       "name": "okhttp",
       "pattern": "okhttp",
+      "category": "bot"
+    },
+    {
+      "name": "python-httpx",
+      "pattern": "^python-httpx/",
       "category": "bot"
     },
     {

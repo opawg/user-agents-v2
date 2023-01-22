@@ -516,6 +516,12 @@
       ]
     },
     {
+      "name": "Tiny Tiny RSS",
+      "examples": [
+        "Tiny Tiny RSS/22.12-c30b24d09 (Unsupported) (https://tt-rss.org/)"
+      ]
+    },
+    {
       "name": "Twingly Bot",
       "examples": [
         "Mozilla/5.0 (compatible; Twingly Recon; twingly.com)"
