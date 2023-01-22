@@ -361,6 +361,10 @@
       "pattern": "Podwatch-Pro Crawler"
     },
     {
+      "name": "Puppeteer",
+      "pattern": " HeadlessChrome/\\d"
+    },
+    {
       "name": "python-requests",
       "pattern": "python-requests"
     },
