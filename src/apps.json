@@ -2706,6 +2706,17 @@
       ]
     },
     {
+      "name": "PugPig Bolt",
+      "pattern": "^PugpigBolt ",
+      "examples": [
+        "PugpigBolt 2.29.3 (iPhone, iOS 16.1.1) on phone (model iPhone12,1)",
+        "PugpigBolt 2.14.7 (samsung, Android 12) on phone (model SM-F721U1)"
+      ],
+      "urls": [
+        "https://www.pugpig.com/products-and-services"
+      ]
+    },
+    {
       "name": "radio.de",
       "pattern": "^radio\\.de/",
       "description": "Radio.de is a radio and podcast app in Germany",

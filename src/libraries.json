@@ -55,6 +55,18 @@
       "category": "bot"
     },
     {
+      "name": "Colly",
+      "description": "Lightning Fast and Elegant Scraping Framework for Go",
+      "pattern": "github\\.com/gocolly",
+      "examples": [
+        "colly - https://github.com/gocolly/colly"
+      ],
+      "urls": [
+        "https://github.com/gocolly/colly"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "Dalvik",
       "pattern": "^Dalvik[/ ]",
       "examples": [
