@@ -741,6 +741,16 @@
       "urls": [ "https://www.agma-mmc.de/media-analyse/ma-podcast" ]
     },
     {
+      "name": "Puppeteer",
+      "pattern": " HeadlessChrome/\\d",
+      "examples": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/105.0.5173.0 Safari/537.36"
+      ],
+      "urls": [
+        "https://pptr.dev/"
+      ]
+    },
+    {
       "name": "python-requests",
       "pattern": "python-requests"
     },
