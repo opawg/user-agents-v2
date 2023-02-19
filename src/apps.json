@@ -687,7 +687,8 @@
       "examples": [
         "Bullhorn/1.0 (+http://bullhorn.fm/)",
         "Bullhorn",
-        "Bullhorn (https://bullhorn.fm)"
+        "Bullhorn (https://bullhorn.fm)",
+        "Bullhorn/1 CFNetwork/1335.0.3 Darwin/21.6.0"
       ]
     },
     {
