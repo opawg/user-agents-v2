@@ -637,6 +637,10 @@
       "pattern": "^FancyMusic/"
     },
     {
+      "name": "Fathom",
+      "pattern": "^Fathom/"
+    },
+    {
       "name": "Feeder",
       "pattern": "^Feeder/"
     },
@@ -1315,6 +1319,10 @@
     {
       "name": "PodTrapper",
       "pattern": "^PodTrapper"
+    },
+    {
+      "name": "Podvine",
+      "pattern": "^Podvine/\\d"
     },
     {
       "name": "Podverse",

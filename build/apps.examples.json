@@ -1010,6 +1010,12 @@
       ]
     },
     {
+      "name": "Fathom",
+      "examples": [
+        "Fathom/5 CFNetwork/1406.0.2 Darwin/22.4.0"
+      ]
+    },
+    {
       "name": "Feeder",
       "examples": [
         "Feeder/2785 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)"
@@ -2046,6 +2052,12 @@
       "name": "PodTrapper",
       "examples": [
         "PodTrapper"
+      ]
+    },
+    {
+      "name": "Podvine",
+      "examples": [
+        "Podvine/3.3.1 (www.podvine.com)"
       ]
     },
     {
