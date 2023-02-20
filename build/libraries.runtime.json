@@ -42,6 +42,11 @@
       "category": "bot"
     },
     {
+      "name": "Down (ruby)",
+      "pattern": "^Down/\\d",
+      "category": "bot"
+    },
+    {
       "name": "ffmpeg",
       "pattern": "^Lavf/",
       "category": "bot"

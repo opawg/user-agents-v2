@@ -55,6 +55,12 @@
       ]
     },
     {
+      "name": "Down (ruby)",
+      "examples": [
+        "Down/5.3.1"
+      ]
+    },
+    {
       "name": "FileDownloader (Android)",
       "examples": [
         "FileDownloader/1.7.7"
