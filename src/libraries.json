@@ -93,6 +93,18 @@
       "category": "bot"
     },
     {
+      "name": "Down (ruby)",
+      "description": "Streaming downloads using net/http, http.rb, HTTPX or wget",
+      "pattern": "^Down/\\d",
+      "examples": [
+        "Down/5.3.1"
+      ],
+      "urls": [
+        "https://github.com/janko/down"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "ffmpeg",
       "pattern": "^Lavf/",
       "comments": "ffmpeg is a library used within TuneIn, VLC, ffmpeg and other programs. This is the default useragent for the ffmpeg library.",
