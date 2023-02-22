@@ -1639,6 +1639,16 @@
       ]
     },
     {
+      "name": "Hark Audio",
+      "pattern": "^Hark/",
+      "urls": [
+        "https://harkaudio.com/"
+      ],
+      "examples": [
+        "Hark/10678 CFNetwork/1335.0.3 Darwin/21.6.0"
+      ]
+    },
+    {
       "name": "Heart",
       "pattern": "^Heart/",
       "examples": [
