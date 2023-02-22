@@ -1292,6 +1292,12 @@
       ]
     },
     {
+      "name": "Hark Audio",
+      "examples": [
+        "Hark/10678 CFNetwork/1335.0.3 Darwin/21.6.0"
+      ]
+    },
+    {
       "name": "Heart",
       "examples": [
         "Heart/1528207522 CFNetwork/897.15 Darwin/17.5.0"

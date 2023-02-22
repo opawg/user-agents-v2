@@ -817,6 +817,10 @@
       "pattern": "^HardCast/"
     },
     {
+      "name": "Hark Audio",
+      "pattern": "^Hark/"
+    },
+    {
       "name": "Heart",
       "pattern": "^Heart/"
     },
