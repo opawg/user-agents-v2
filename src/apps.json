@@ -3059,6 +3059,9 @@
       "examples": [
         "Substack/1457 CFNetwork/1335.0.3 Darwin/21.6.0"
       ],
+      "urls": [
+        "https://substack.com/"
+      ],
       "comments": "App doesn't download yet, and plays/streams with AppleCoreMedia ua, but other API calls use this ua"
     },
     {
