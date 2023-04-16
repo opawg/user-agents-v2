@@ -2273,6 +2273,17 @@
       ]
     },
     {
+      "name": "MPlayer",
+      "description": "GPL-licensed cross-platform movie player",
+      "pattern": "^MPlayer \\d",
+      "urls": [
+        "http://www.mplayerhq.hu/design7/info.html"
+      ],
+      "examples": [
+        "MPlayer 1.3.0 (Debian), built with gcc-6.2.1"
+      ]
+    },
+    {
       "name": "mpv",
       "pattern": "^mpv 0\\.|^libmpv$",
       "urls": [
