@@ -2291,6 +2291,12 @@
       ]
     },
     {
+      "name": "Substack",
+      "examples": [
+        "Substack/1457 CFNetwork/1335.0.3 Darwin/21.6.0"
+      ]
+    },
+    {
       "name": "Svenska Dagbladet iOS app",
       "examples": [
         "AppleCoreMedia/1.0.0.19E239 (iPhone; U; CPU OS 15_4 like Mac OS X; sv_se) iOS SvD Hermes/90.0.0 _app_"

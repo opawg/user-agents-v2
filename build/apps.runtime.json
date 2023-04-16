@@ -1489,6 +1489,10 @@
       "pattern": "^Subcast"
     },
     {
+      "name": "Substack",
+      "pattern": "^Substack/"
+    },
+    {
       "name": "Svenska Dagbladet iOS app",
       "pattern": "iOS SvD Hermes/"
     },
