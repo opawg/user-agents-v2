@@ -1784,6 +1784,12 @@
       ]
     },
     {
+      "name": "MPlayer",
+      "examples": [
+        "MPlayer 1.3.0 (Debian), built with gcc-6.2.1"
+      ]
+    },
+    {
       "name": "mpv",
       "examples": [
         "libmpv"

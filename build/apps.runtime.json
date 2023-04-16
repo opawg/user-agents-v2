@@ -1137,6 +1137,10 @@
       "pattern": "^Moon ?FM/"
     },
     {
+      "name": "MPlayer",
+      "pattern": "^MPlayer \\d"
+    },
+    {
       "name": "mpv",
       "pattern": "^mpv 0\\.|^libmpv$"
     },
