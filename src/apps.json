@@ -3053,6 +3053,15 @@
       "pattern": "^Subcast"
     },
     {
+      "name": "Substack",
+      "pattern": "^Substack/",
+      "description": "Substack iOS app",
+      "examples": [
+        "Substack/1457 CFNetwork/1335.0.3 Darwin/21.6.0"
+      ],
+      "comments": "App doesn't download yet, and plays/streams with AppleCoreMedia ua, but other API calls use this ua"
+    },
+    {
       "name": "Svenska Dagbladet iOS app",
       "pattern": "iOS SvD Hermes/",
       "description": "Svenska Dagbladet iOS app",
