@@ -2760,12 +2760,12 @@
       ]
     },
     {
-      "name": "radio.net",
+      "name": "radio.de",
       "pattern": "^(radio\\.[a-z]{2,3}|GetPodcast)[ /]\\d",
       "description": "Radio.de is a radio and podcast app in Germany",
       "urls": [
-        "https://www.radio.net/",
-        "https://www.radio.de/"
+        "https://www.radio.de/",
+        "https://www.radio.net/"
       ],
       "examples": [
         "radio.fr 5.6.22 (iPhone; iPhone OS 16.4; fr_FR)",
