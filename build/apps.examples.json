@@ -2104,9 +2104,21 @@
       ]
     },
     {
-      "name": "radio.de",
+      "name": "radio.net",
       "examples": [
-        "radio.de/4671 CFNetwork/1121.2.2 Darwin/19.2.0"
+        "radio.fr 5.6.22 (iPhone; iPhone OS 16.4; fr_FR)",
+        "radio.de 5.6.22 (iPad; iPhone OS 16.4; de_DE)",
+        "radio.de 5.6.22 (iPhone; iPhone OS 16.4; de_DE)",
+        "radio.net 5.7.3 (iPhone; iPhone OS 17.0.1; fr_FR)",
+        "GetPodcast 5.6.22 (iPhone; iPhone OS 16.4; de_DE)",
+        "GetPodcast 5.6.22 (iPhone; 16.4; de_DE)",
+        "radio.de/4671 CFNetwork/1121.2.2 Darwin/19.2.0",
+        "radio.de/5.10.5.3 (Linux; 13) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.3.0 (Linux;Android 13) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.5.3 (Linux; Android 13) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.5.3 (Linux; Android 13; de_DE) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.5.3 (Linux; Android 13; zn-Hans) ExoPlayerLib/2.18.2",
+        "GetPodcast/5.10.5.3 (Linux; Android 13; de_DE) ExoPlayerLib/2.18.2"
       ]
     },
     {

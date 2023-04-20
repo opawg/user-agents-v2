@@ -1349,8 +1349,8 @@
       "pattern": "^PugpigBolt "
     },
     {
-      "name": "radio.de",
-      "pattern": "^radio\\.de/"
+      "name": "radio.net",
+      "pattern": "^(radio\\.[a-z]{2,3}|GetPodcast)[ /]\\d"
     },
     {
       "name": "Radioline",
