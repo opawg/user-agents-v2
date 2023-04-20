@@ -153,7 +153,7 @@
     {
       "name": "All You Can Books",
       "pattern": "AllYouCanBooks",
-      "examples": [ 
+      "examples": [
         "AllYouCanBooks/510 CFNetwork/811.5.4 Darwin/16.7.0",
         "Mozilla/5.0 (Linux; Android 9; CLT-L29 Build/HUAWEICLT-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.101 Mobile Safari/537.36 AllYouCanBooksAppAndroid"
       ]
@@ -2760,15 +2760,29 @@
       ]
     },
     {
-      "name": "radio.de",
-      "pattern": "^radio\\.de/",
+      "name": "radio.net",
+      "pattern": "^(radio\\.[a-z]{2,3}|GetPodcast)[ /]\\d",
       "description": "Radio.de is a radio and podcast app in Germany",
       "urls": [
+        "https://www.radio.net/",
         "https://www.radio.de/"
       ],
       "examples": [
-        "radio.de/4671 CFNetwork/1121.2.2 Darwin/19.2.0"
-      ]
+        "radio.fr 5.6.22 (iPhone; iPhone OS 16.4; fr_FR)",
+        "radio.de 5.6.22 (iPad; iPhone OS 16.4; de_DE)",
+        "radio.de 5.6.22 (iPhone; iPhone OS 16.4; de_DE)",
+        "radio.net 5.7.3 (iPhone; iPhone OS 17.0.1; fr_FR)",
+        "GetPodcast 5.6.22 (iPhone; iPhone OS 16.4; de_DE)",
+        "GetPodcast 5.6.22 (iPhone; 16.4; de_DE)",
+        "radio.de/4671 CFNetwork/1121.2.2 Darwin/19.2.0",
+        "radio.de/5.10.5.3 (Linux; 13) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.3.0 (Linux;Android 13) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.5.3 (Linux; Android 13) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.5.3 (Linux; Android 13; de_DE) ExoPlayerLib/2.18.2",
+        "radio.de/5.10.5.3 (Linux; Android 13; zn-Hans) ExoPlayerLib/2.18.2",
+        "GetPodcast/5.10.5.3 (Linux; Android 13; de_DE) ExoPlayerLib/2.18.2"
+      ],
+      "comments": "radio.de GmbH is the operator of the international service radio.net as well as the regional platforms radio.de, radio.at, radio.fr, radio.se, radio.dk, radio.pt, radio.es, radio.it, radio.pl and GetPodcast"
     },
     {
       "name": "Radioline",
