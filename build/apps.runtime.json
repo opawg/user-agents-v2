@@ -949,6 +949,10 @@
       "pattern": "^Jabbercast/"
     },
     {
+      "name": "Jam",
+      "pattern": "^Jam/\\d.*listentojam"
+    },
+    {
       "name": "Jimcast",
       "pattern": "^Jimcast/"
     },

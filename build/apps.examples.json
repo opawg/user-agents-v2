@@ -1511,6 +1511,13 @@
       ]
     },
     {
+      "name": "Jam",
+      "examples": [
+        "Jam/1.11.1 iOS/16.2 (www.listentojam.com)",
+        "Jam/1.11.1 Android/12 (www.listentojam.com)"
+      ]
+    },
+    {
       "name": "Jimcast",
       "examples": [
         "Jimcast/1.0 CFNetwork/672.1.15 Darwin/14.0.0"
