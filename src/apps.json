@@ -1914,6 +1914,17 @@
       ]
     },
     {
+      "name": "Jam",
+      "pattern": "^Jam/\\d.*listentojam",
+      "examples": [
+        "Jam/1.11.1 iOS/16.2 (www.listentojam.com)",
+        "Jam/1.11.1 Android/12 (www.listentojam.com)"
+      ],
+      "urls": [
+        "https://join.jam.ai/"
+      ]
+    },
+    {
       "name": "Jimcast",
       "pattern": "^Jimcast/",
       "examples": [
