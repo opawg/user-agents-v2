@@ -1253,6 +1253,16 @@
       ]
     },
     {
+      "name": "faidr",
+      "pattern": "^CFR%20Plus/",
+      "examples": [
+        "CFR%20Plus/9 CFNetwork/1406.0.4 Darwin/22.4.0"
+      ],
+      "urls": [
+        "https://auddia.com/faidr-app/"
+      ]
+    },
+    {
       "name": "FaithPlay",
       "pattern": "^FaithPlay FaithPlay/",
       "examples": [
