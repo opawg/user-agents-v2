@@ -993,6 +993,12 @@
       ]
     },
     {
+      "name": "faidr",
+      "examples": [
+        "CFR%20Plus/9 CFNetwork/1406.0.4 Darwin/22.4.0"
+      ]
+    },
+    {
       "name": "FaithPlay",
       "examples": [
         "FaithPlay FaithPlay/1.1.5 CFNetwork/1107.1 Darwin/19.0.0"

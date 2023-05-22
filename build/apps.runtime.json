@@ -625,6 +625,10 @@
       "pattern": "(iPhone|iPad).* \\[FBAN|iOS/Facebook|^FB4A/Facebook|^facebook-mobile/|^Facebook/|^\\[FBAN/"
     },
     {
+      "name": "faidr",
+      "pattern": "^CFR%20Plus/"
+    },
+    {
       "name": "FaithPlay",
       "pattern": "^FaithPlay FaithPlay/"
     },
