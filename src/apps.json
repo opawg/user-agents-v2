@@ -1260,7 +1260,8 @@
       ],
       "urls": [
         "https://auddia.com/faidr-app/"
-      ]
+      ],
+      "comments": "Android is streaming only, sends: Dalvik/2.1.0 (Linux; U; Android 11; Pixel 2 Build/RP1A.201005.004.A1)"
     },
     {
       "name": "FaithPlay",
