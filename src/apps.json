@@ -2146,6 +2146,17 @@
       ]
     },
     {
+      "name": "Liulo",
+      "pattern": "^Liulo/",
+      "examples": [
+        "Liulo/1.1.6 (vn.bachminh.podcastvn; build:6; iOS 17.0.0) Alamofire/5.6.4"
+      ],
+      "urls": [
+        "https://liulo.fm"
+      ],
+      "comments": "Podcasting platform in Vietnam"
+    },
+    {
       "name": "Listen5",
       "pattern": "Listen5"
     },
