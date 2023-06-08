@@ -1684,6 +1684,12 @@
       ]
     },
     {
+      "name": "Liulo",
+      "examples": [
+        "Liulo/1.1.6 (vn.bachminh.podcastvn; build:6; iOS 17.0.0) Alamofire/5.6.4"
+      ]
+    },
+    {
       "name": "Livio Radio",
       "examples": [
         "Livio Radio/2.6.2 CFNetwork/609.1.4 Darwin/13.0.0"
