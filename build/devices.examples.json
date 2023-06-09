@@ -28,7 +28,8 @@
         "GSA/13.39.12.26.arm64",
         "GSA/13.39.12.26.arm",
         "sp-agent",
-        "FileDownloader (Android)"
+        "FileDownloader (Android)",
+        "PRDownloader"
       ]
     },
     {

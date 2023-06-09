@@ -122,6 +122,12 @@
       ]
     },
     {
+      "name": "PRDownloader",
+      "examples": [
+        "PRDownloader"
+      ]
+    },
+    {
       "name": "python-httpx",
       "examples": [
         "python-httpx/0.18.2"

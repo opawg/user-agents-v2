@@ -101,6 +101,10 @@
       "category": "bot"
     },
     {
+      "name": "PRDownloader",
+      "pattern": "^PRDownloader$"
+    },
+    {
       "name": "python-httpx",
       "pattern": "^python-httpx/",
       "category": "bot"
