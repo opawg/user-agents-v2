@@ -990,7 +990,7 @@
     },
     {
       "name": "Kasts",
-      "pattern": "^Kasts/"
+      "pattern": "^Kasts/|^kasts "
     },
     {
       "name": "Kids Listen",
