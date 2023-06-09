@@ -2003,9 +2003,10 @@
     },
     {
       "name": "Kasts",
-      "pattern": "^Kasts/",
+      "pattern": "^Kasts/|^kasts ",
       "examples": [
-        "Kasts/22.09; Syndication"
+        "Kasts/22.09; Syndication",
+        "kasts LibVLC"
       ],
       "urls": [
         "https://apps.kde.org/kasts/"
