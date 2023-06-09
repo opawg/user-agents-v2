@@ -36,6 +36,18 @@
       ]
     },
     {
+      "name": "aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility",
+      "pattern": "^aria2/",
+      "examples": [
+        "aria2/1.36.0"
+      ],
+      "urls": [
+        "https://aria2.github.io/"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "Armadillo",
       "pattern": "^Armadillo/1",
       "urls": [
@@ -151,6 +163,18 @@
         "amarok/2.8.0 (Phonon/4.7.80; Phonon-GStreamer/4.7.80)"
       ],
       "comments": "User-facing Linux media playback apps like Amarok"
+    },
+    {
+      "name": "Guzzle",
+      "pattern": "^GuzzleHttp",
+      "description": "Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.",
+      "urls": [
+        "https://docs.guzzlephp.org/"
+      ],
+      "examples": [
+        "GuzzleHttp/7"
+      ],
+      "category": "bot"
     },
     {
       "name": "gvfs",

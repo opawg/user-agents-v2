@@ -865,6 +865,13 @@
       "pattern": "^StitcherBot"
     },
     {
+      "name": "Substack Content Fetcher",
+      "pattern": "^SubstackContentFetch/",
+      "examples": [
+        "SubstackContentFetch/1.0 (https://substack.com/)"
+      ]
+    },
+    {
       "name": "Timpi search crawler",
       "pattern": "Timpibot/",
       "examples": [
