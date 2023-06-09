@@ -429,6 +429,10 @@
       "pattern": "^StitcherBot"
     },
     {
+      "name": "Substack Content Fetcher",
+      "pattern": "^SubstackContentFetch/"
+    },
+    {
       "name": "Timpi search crawler",
       "pattern": "Timpibot/"
     },

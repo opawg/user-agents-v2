@@ -19,7 +19,11 @@
       "examples": [
         "Microsoft Xbox",
         "sony_tv;ps5;9b18101888dd42948afd0b8792122bec;;tpapi;3.200.405",
-        "Google;ChromecastHD;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
+        "Google;ChromecastHD;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "roku;3930mx;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
+        "TCL;UnionTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "Xiaomi;MIBOX4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "Hisense;HiSmartTVA4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
       ]
     },
     {

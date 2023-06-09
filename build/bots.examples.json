@@ -516,6 +516,12 @@
       ]
     },
     {
+      "name": "Substack Content Fetcher",
+      "examples": [
+        "SubstackContentFetch/1.0 (https://substack.com/)"
+      ]
+    },
+    {
       "name": "Timpi search crawler",
       "examples": [
         "Timpibot/0.8 ( http://www.timpi.io)"

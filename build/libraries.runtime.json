@@ -14,6 +14,11 @@
       "pattern": "^AppleCoreMedia/1"
     },
     {
+      "name": "aria2",
+      "pattern": "^aria2/",
+      "category": "bot"
+    },
+    {
       "name": "Armadillo",
       "pattern": "^Armadillo/1"
     },
@@ -68,6 +73,11 @@
     {
       "name": "GStreamer",
       "pattern": "^GStreamer|GStreamer/"
+    },
+    {
+      "name": "Guzzle",
+      "pattern": "^GuzzleHttp",
+      "category": "bot"
     },
     {
       "name": "gvfs",

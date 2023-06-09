@@ -18,6 +18,12 @@
       ]
     },
     {
+      "name": "aria2",
+      "examples": [
+        "aria2/1.36.0"
+      ]
+    },
+    {
       "name": "Armadillo",
       "examples": [
         "Armadillo/12.19 (Linux;Android 11) ExoPlayerLib/2.17.1"
@@ -82,6 +88,12 @@
       "name": "GStreamer",
       "examples": [
         "amarok/2.8.0 (Phonon/4.7.80; Phonon-GStreamer/4.7.80)"
+      ]
+    },
+    {
+      "name": "Guzzle",
+      "examples": [
+        "GuzzleHttp/7"
       ]
     },
     {
