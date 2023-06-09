@@ -175,6 +175,20 @@
       ]
     },
     {
+      "name": "Blubrry Migration Service",
+      "pattern": "^Blubrry Migration Service",
+      "examples": [
+        "Blubrry Migration Service"
+      ]
+    },
+    {
+      "name": "Buzzsprout Importer",
+      "pattern": "^Buzzsprout Importer",
+      "examples": [
+        "Buzzsprout Importer"
+      ]
+    },
+    {
       "name": "CastFeedValidator",
       "pattern": "^CastFeedValidator/",
       "examples": [
@@ -230,6 +244,13 @@
     {
       "name": "Datagnion Bot",
       "pattern": "^datagnionbot"
+    },
+    {
+      "name": "dataprovider.com",
+      "pattern": "Dataprovider\\.com",
+      "examples": [
+        "Mozilla/5.0 (compatible; Dataprovider.com)"
+      ]
     },
     {
       "name": "Daum",
