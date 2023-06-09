@@ -210,6 +210,17 @@
       "category": "bot"
     },
     {
+      "name": "PRDownloader",
+      "description": "A file downloader library for Android with pause and resume support",
+      "pattern": "^PRDownloader$",
+      "examples": [
+        "PRDownloader"
+      ],
+      "urls": [
+        "https://github.com/amitshekhariitbhu/PRDownloader"
+      ]
+    },
+    {
       "name": "python-httpx",
       "pattern": "^python-httpx/",
       "examples": [
