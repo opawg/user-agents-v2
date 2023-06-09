@@ -100,6 +100,18 @@
       ]
     },
     {
+      "name": "Blubrry Migration Service",
+      "examples": [
+        "Blubrry Migration Service"
+      ]
+    },
+    {
+      "name": "Buzzsprout Importer",
+      "examples": [
+        "Buzzsprout Importer"
+      ]
+    },
+    {
       "name": "CastFeedValidator",
       "examples": [
         "CastFeedValidator/3.0.5 (https://castfeedvalidator.com)"
@@ -129,6 +141,12 @@
       "name": "DataforSEO",
       "examples": [
         "Mozilla/5.0 (compatible; DataForSeoBot/1.0; +https://dataforseo.com/dataforseo-bot)"
+      ]
+    },
+    {
+      "name": "dataprovider.com",
+      "examples": [
+        "Mozilla/5.0 (compatible; Dataprovider.com)"
       ]
     },
     {

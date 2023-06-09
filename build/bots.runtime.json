@@ -77,6 +77,14 @@
       "pattern": "^bl\\.uk_ldfc_bot"
     },
     {
+      "name": "Blubrry Migration Service",
+      "pattern": "^Blubrry Migration Service"
+    },
+    {
+      "name": "Buzzsprout Importer",
+      "pattern": "^Buzzsprout Importer"
+    },
+    {
       "name": "CastFeedValidator",
       "pattern": "^CastFeedValidator/"
     },
@@ -107,6 +115,10 @@
     {
       "name": "Datagnion Bot",
       "pattern": "^datagnionbot"
+    },
+    {
+      "name": "dataprovider.com",
+      "pattern": "Dataprovider\\.com"
     },
     {
       "name": "Daum",
