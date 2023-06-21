@@ -1617,6 +1617,10 @@
       "pattern": "^NSPlayer|WMPlayer/|^Windows-Media-Player/"
     },
     {
+      "name": "WynkMusic",
+      "pattern": "^WynkMusic/"
+    },
+    {
       "name": "Xiao Yu Zhou",
       "pattern": "^Xiaoyuzhou/"
     },

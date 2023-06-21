@@ -2513,6 +2513,12 @@
       ]
     },
     {
+      "name": "WynkMusic",
+      "examples": [
+        "WynkMusic/3.42.0.21 (Linux;Android 13) ExoPlayerLib/2.11.7"
+      ]
+    },
+    {
       "name": "Xiao Yu Zhou",
       "examples": [
         "Xiaoyuzhou/1.9.6 Android/10",
