@@ -3363,6 +3363,16 @@
       ]
     },
     {
+      "name": "WynkMusic",
+      "pattern": "^WynkMusic/",
+      "urls": [
+        "https://wynk.in/podcasts"
+      ],
+      "examples": [
+        "WynkMusic/3.42.0.21 (Linux;Android 13) ExoPlayerLib/2.11.7"
+      ]
+    },
+    {
       "name": "Xiao Yu Zhou",
       "pattern": "^Xiaoyuzhou/",
       "description": "Xiao Yu Zhou, a podcast app",
