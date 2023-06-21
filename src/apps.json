@@ -3342,6 +3342,9 @@
     {
       "name": "WynkMusic",
       "pattern": "^WynkMusic/",
+      "urls": [
+        "https://wynk.in/podcasts"
+      ],
       "examples": [
         "WynkMusic/3.42.0.21 (Linux;Android 13) ExoPlayerLib/2.11.7"
       ]
