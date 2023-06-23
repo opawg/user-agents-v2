@@ -721,6 +721,10 @@
       "pattern": "^FreeMusicPlusFree/"
     },
     {
+      "name": "Fréquence Plus",
+      "pattern": "^FrequencePlus/"
+    },
+    {
       "name": "Gaana",
       "pattern": "^GaanaAndroid-|^Gaana-iOS|^Gaana/"
     },

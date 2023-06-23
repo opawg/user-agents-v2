@@ -1136,6 +1136,12 @@
       ]
     },
     {
+      "name": "Fréquence Plus",
+      "examples": [
+        "FrequencePlus/2.1.1 (Linux;Android 12) ExoPlayerLib/2.15.0"
+      ]
+    },
+    {
       "name": "Gaana",
       "examples": [
         "GaanaAndroid-8.13.0/Dalvik/2.1.0 (Linux; U; Android 9; vivo 1906 Build/PKQ1.190616.001)",
