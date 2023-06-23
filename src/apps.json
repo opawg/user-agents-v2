@@ -1443,6 +1443,16 @@
       ]
     },
     {
+      "name": "Fréquence Plus",
+      "pattern": "^FrequencePlus/",
+      "examples": [
+        "FrequencePlus/2.1.1 (Linux;Android 12) ExoPlayerLib/2.15.0"
+      ],
+      "urls": [
+        "https://www.frequenceplus.fr"
+      ]
+    },
+    {
       "name": "Gaana",
       "pattern": "^GaanaAndroid-|^Gaana-iOS|^Gaana/",
       "examples": [
