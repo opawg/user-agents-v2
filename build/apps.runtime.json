@@ -1529,6 +1529,10 @@
       "pattern": "^Swinsian/"
     },
     {
+      "name": "SYOK",
+      "pattern": "^SYOK/"
+    },
+    {
       "name": "TED",
       "pattern": "^TED |^TED/"
     },
