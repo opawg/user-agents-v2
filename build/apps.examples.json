@@ -1588,6 +1588,13 @@
       ]
     },
     {
+      "name": "KidsPod",
+      "examples": [
+        "KidspodMobileClient/111 CFNetwork/1465.2 Darwin/23.0.0",
+        "KidspodMobileClient/111 CFNetwork/1408.0.4 Darwin/22.5.0"
+      ]
+    },
+    {
       "name": "KKBOX",
       "examples": [
         "KKBOX/7.10.70/iOS/14.2"

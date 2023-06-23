@@ -997,6 +997,10 @@
       "pattern": "^Kids(%20| )Listen/"
     },
     {
+      "name": "KidsPod",
+      "pattern": "^KidspodMobileClient/"
+    },
+    {
       "name": "KKBOX",
       "pattern": "^KKBOX/"
     },
