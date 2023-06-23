@@ -3173,6 +3173,16 @@
       ]
     },
     {
+      "name": "SYOK",
+      "pattern": "^SYOK/",
+      "examples": [
+        "SYOK/965 CFNetwork/1406.0.4 Darwin/22.4.0"
+      ],
+      "urls": [
+        "https://syok.my/"
+      ]
+    },
+    {
       "name": "TED",
       "pattern": "^TED |^TED/",
       "examples": [
