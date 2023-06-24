@@ -944,6 +944,16 @@
       ]
     },
     {
+      "name": "Veritone Engine Toolkit",
+      "pattern": "^veritone/engine-toolkit",
+      "urls": [
+        "https://machinebox.io/veritone/engine-toolkit"
+      ],
+      "examples": [
+        "veritone/engine-toolkit-3.0"
+      ]
+    },
+    {
       "name": "Vurbl",
       "pattern": "VurblBot",
       "description": "An audio streaming destination",
