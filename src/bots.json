@@ -626,6 +626,16 @@
       ]
     },
     {
+      "name": "Podcast Archiver",
+      "pattern": "^Podcast%20Archiver/",
+      "urls": [
+        "https://www.fredrikblank.com/podcast-archiver/"
+      ],
+      "examples": [
+        "Podcast%20Archiver/3000000003 CFNetwork/1406.0.4 Darwin/22.4.0"
+      ]
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud",
       "description": "Le podcast, simplement. A French-language web-based podcast player.",
@@ -890,6 +900,14 @@
       "pattern": "^SubstackContentFetch/",
       "examples": [
         "SubstackContentFetch/1.0 (https://substack.com/)"
+      ]
+    },
+    {
+      "name": "SupportingCast",
+      "pattern": "^SupportingCast(/.*)?$",
+      "examples": [
+        "SupportingCast/1.0",
+        "SupportingCast"
       ]
     },
     {

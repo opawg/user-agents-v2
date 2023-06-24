@@ -192,6 +192,15 @@
       "category": "bot"
     },
     {
+      "name": "HTTP:Tiny",
+      "description": "A small, simple, correct HTTP/1.1 client (Perl)",
+      "pattern": "^HTTP-Tiny/",
+      "examples": [
+        "HTTP-Tiny/0.076"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader",
       "comments": "This is the KaiOS Downloader library, and this could refer to any app on this platform",
