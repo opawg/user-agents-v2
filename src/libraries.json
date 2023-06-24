@@ -342,9 +342,10 @@
     },
     {
       "name": "urllib (python)",
-      "pattern": "^Python-urllib/",
+      "pattern": "^(Python-urllib|python-urllib3)/",
       "examples": [
-        "Python-urllib/3.9"
+        "Python-urllib/3.9",
+        "python-urllib3/1.26.7"
       ],
       "category": "bot"
     },

@@ -197,9 +197,10 @@
     },
     {
       "name": "Castopod",
-      "pattern": "Castopod/1\\.0",
+      "pattern": "Castopod/\\d",
       "examples": [
-        "Castopod/1.0"
+        "Castopod/1.0",
+        "Castopod/1.1.2"
       ]
     },
     {
