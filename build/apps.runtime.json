@@ -1409,6 +1409,10 @@
       "pattern": "^RadioPublic/android-|^RadioPublic Android|RadioPublic iOS|RadioPublic.+CFNetwork|^RadioPublic/iOS|^RadioPublicDraper/"
     },
     {
+      "name": "Reeder",
+      "pattern": "^Reeder/"
+    },
+    {
       "name": "Repod",
       "pattern": "(^Repod/.+iOS|^Repod/.+Android)"
     },

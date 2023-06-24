@@ -2210,6 +2210,12 @@
       ]
     },
     {
+      "name": "Reeder",
+      "examples": [
+        "Reeder/5040002 CFNetwork/1404.0.5 Darwin/22.3.0"
+      ]
+    },
+    {
       "name": "Repod",
       "examples": [
         "Repod/2.9.0.363 CFNetwork/1240.0.4 Darwin/20.6.0 (iPhone/X iOS/14.7.1)",

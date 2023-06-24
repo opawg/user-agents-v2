@@ -52,7 +52,7 @@
     },
     {
       "name": "Other Smart TV",
-      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;un\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA4KVH2|^tcl;c105x|^onn\\.;8821x|^Funai;PHILIPS4KTV",
+      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;[uq]n\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;c105x|^onn\\.;8821x|^Funai;PHILIPS4KTV",
       "category": "smart_tv"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_Home_Speaker",
       "category": "smart_speaker"
     },
     {

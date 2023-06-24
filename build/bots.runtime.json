@@ -385,6 +385,10 @@
       "pattern": "python-requests"
     },
     {
+      "name": "Qiniu spider",
+      "pattern": "qiniu.*spider"
+    },
+    {
       "name": "RedCircle",
       "pattern": "RedCircle"
     },

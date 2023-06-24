@@ -467,6 +467,12 @@
       ]
     },
     {
+      "name": "Qiniu spider",
+      "examples": [
+        "z0-qiniu-imgstg-spider-1.0"
+      ]
+    },
+    {
       "name": "RedCircle",
       "examples": [
         "RedCircle"
