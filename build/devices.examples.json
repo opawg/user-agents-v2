@@ -33,7 +33,8 @@
         "GSA/13.39.12.26.arm",
         "sp-agent",
         "FileDownloader (Android)",
-        "PRDownloader"
+        "PRDownloader",
+        "TURTLECAST/0.5.1"
       ]
     },
     {

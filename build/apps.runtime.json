@@ -1569,6 +1569,10 @@
       "pattern": "^TuneIn| TuneIn/"
     },
     {
+      "name": "Turtlecast",
+      "pattern": "^(Turtlecast|TURTLECAST)/"
+    },
+    {
       "name": "Twitter",
       "pattern": "^Twitter(Android)?/| Twitter for i"
     },

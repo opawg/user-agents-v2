@@ -57,7 +57,7 @@
     },
     {
       "name": "Android Phone",
-      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$",
+      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$|^(Turtlecast|TURTLECAST)/",
       "category": "mobile"
     },
     {

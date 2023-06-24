@@ -2444,6 +2444,13 @@
       ]
     },
     {
+      "name": "Turtlecast",
+      "examples": [
+        "TURTLECAST/0.5.1",
+        "Turtlecast/0.7.7; (Android 13); +https://www.turtlecast.app"
+      ]
+    },
+    {
       "name": "Twitter",
       "examples": [
         "TwitterAndroid/8.8.0-release.82 (18080082-r-82) SM-T837V/9 (samsung;SM-T837V;Verizon;gts4lltevzw;0;;0;2015)",
