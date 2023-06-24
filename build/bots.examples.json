@@ -570,6 +570,12 @@
       ]
     },
     {
+      "name": "Veritone Engine Toolkit",
+      "examples": [
+        "veritone/engine-toolkit-3.0"
+      ]
+    },
+    {
       "name": "Vurbl",
       "examples": [
         "Mozilla/5.0 https://vurbl.com VurblBot/1.0"
