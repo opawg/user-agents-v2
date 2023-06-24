@@ -3275,6 +3275,18 @@
       ]
     },
     {
+      "name": "Turtlecast",
+      "pattern": "^(Turtlecast|TURTLECAST)\/",
+      "urls": [
+        "https://www.turtlecast.app/"
+      ],
+      "examples": [
+        "TURTLECAST/0.5.1",
+        "Turtlecast/0.7.7; (Android 13); +https://www.turtlecast.app"
+      ],
+      "comments": "Android only"
+    },
+    {
       "name": "Twitter",
       "pattern": "^Twitter(Android)?/| Twitter for i",
       "examples": [

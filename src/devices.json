@@ -79,7 +79,7 @@
     },
     {
       "name": "Android Phone",
-      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$",
+      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$|^(Turtlecast|TURTLECAST)\/",
       "category": "mobile",
       "comments": "Must be after CrKey and Android Tablet",
       "examples": [
@@ -87,7 +87,8 @@
         "GSA/13.39.12.26.arm",
         "sp-agent",
         "FileDownloader (Android)",
-        "PRDownloader"
+        "PRDownloader",
+        "TURTLECAST/0.5.1"
       ]
     },
     {
