@@ -15,6 +15,12 @@
       ]
     },
     {
+      "name": "Android Tablet",
+      "examples": [
+        "ZTE;Xview;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
+      ]
+    },
+    {
       "name": "Other Smart TV",
       "examples": [
         "Microsoft Xbox",
@@ -23,7 +29,13 @@
         "roku;3930mx;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "TCL;UnionTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "Xiaomi;MIBOX4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
-        "Hisense;HiSmartTVA4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
+        "Hisense;HiSmartTVA4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "samsung;un43mu6100;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung;un50ru7100fxzc;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "Xiaomi;MiTV-AESP0;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "hisense;c235x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
+        "skyworth;NoblexTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "Sony;BRAVIA4KVH2;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
       ]
     },
     {

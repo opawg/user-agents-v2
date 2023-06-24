@@ -103,6 +103,12 @@
       ]
     },
     {
+      "name": "HTTP:Tiny",
+      "examples": [
+        "HTTP-Tiny/0.076"
+      ]
+    },
+    {
       "name": "KaiOS Downloader",
       "examples": [
         "KaiOS Downloader"

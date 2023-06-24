@@ -393,6 +393,12 @@
       ]
     },
     {
+      "name": "Podcast Archiver",
+      "examples": [
+        "Podcast%20Archiver/3000000003 CFNetwork/1406.0.4 Darwin/22.4.0"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"
@@ -537,6 +543,13 @@
       "name": "Substack Content Fetcher",
       "examples": [
         "SubstackContentFetch/1.0 (https://substack.com/)"
+      ]
+    },
+    {
+      "name": "SupportingCast",
+      "examples": [
+        "SupportingCast/1.0",
+        "SupportingCast"
       ]
     },
     {

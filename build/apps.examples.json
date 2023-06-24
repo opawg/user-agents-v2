@@ -356,6 +356,12 @@
       ]
     },
     {
+      "name": "Awasu",
+      "examples": [
+        "Awasu/3.2PE"
+      ]
+    },
+    {
       "name": "Azul",
       "examples": [
         "Azul/5.8 CFNetwork/711.1.16 Darwin/14.0.0"
@@ -557,7 +563,8 @@
     {
       "name": "capsule.fm",
       "examples": [
-        "capsule.fm/1 CFNetwork/976 Darwin/18.2.0"
+        "capsule.fm/1 CFNetwork/976 Darwin/18.2.0",
+        "capsule-android"
       ]
     },
     {
@@ -741,6 +748,12 @@
       "name": "CrossPreach",
       "examples": [
         "CrossPreach/1.3 CFNetwork/711.1.16 Darwin/14.0.0"
+      ]
+    },
+    {
+      "name": "Damus",
+      "examples": [
+        "damus/24 CFNetwork/1406.0.4 Darwin/22.4.0"
       ]
     },
     {
@@ -1970,7 +1983,8 @@
     {
       "name": "Podcast Republic",
       "examples": [
-        "PodcastRepublic/18.0 (Linux; U; Android 10;blueline/QP1A.190711.020.C3)"
+        "PodcastRepublic/18.0 (Linux; U; Android 10;blueline/QP1A.190711.020.C3)",
+        "PodcastRepublic/18.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X)"
       ]
     },
     {
@@ -2562,7 +2576,8 @@
     {
       "name": "Yandex Music",
       "examples": [
-        "Yandex.Music/2019-11-01.trunk.5885661"
+        "Yandex.Music/2019-11-01.trunk.5885661",
+        "Ya.Music/2022-10-06.trunk.10125214"
       ]
     },
     {

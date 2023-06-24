@@ -317,6 +317,10 @@
       "pattern": "^Podcastindex\\.org/"
     },
     {
+      "name": "Podcast Archiver",
+      "pattern": "^Podcast%20Archiver/"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
@@ -443,6 +447,10 @@
     {
       "name": "Substack Content Fetcher",
       "pattern": "^SubstackContentFetch/"
+    },
+    {
+      "name": "SupportingCast",
+      "pattern": "^SupportingCast(/.*)?$"
     },
     {
       "name": "Timpi search crawler",

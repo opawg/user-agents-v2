@@ -205,6 +205,10 @@
       "pattern": "^AVPlay/"
     },
     {
+      "name": "Awasu",
+      "pattern": "^Awasu/"
+    },
+    {
       "name": "Azul",
       "pattern": "^Azul/"
     },
@@ -346,7 +350,7 @@
     },
     {
       "name": "capsule.fm",
-      "pattern": "^capsule\\.fm/"
+      "pattern": "^capsule\\.fm/|^capsule-android"
     },
     {
       "name": "Cast",
@@ -467,6 +471,10 @@
     {
       "name": "CrossPreach",
       "pattern": "^CrossPreach/"
+    },
+    {
+      "name": "Damus",
+      "pattern": "^damus/"
     },
     {
       "name": "DataDogApp",
@@ -1250,7 +1258,7 @@
     },
     {
       "name": "Podcast Republic",
-      "pattern": "^PodcastRepublic.+Android"
+      "pattern": "^PodcastRepublic/"
     },
     {
       "name": "Podcastly",
@@ -1646,7 +1654,7 @@
     },
     {
       "name": "Yandex Music",
-      "pattern": "^Yandex\\.Music/"
+      "pattern": "^Ya(ndex)?\\.Music/"
     },
     {
       "name": "Yapa",

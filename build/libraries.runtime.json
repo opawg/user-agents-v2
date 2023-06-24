@@ -89,6 +89,11 @@
       "category": "bot"
     },
     {
+      "name": "HTTP:Tiny",
+      "pattern": "^HTTP-Tiny/",
+      "category": "bot"
+    },
+    {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader"
     },
