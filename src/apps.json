@@ -2933,6 +2933,13 @@
       ]
     },
     {
+      "name": "Reeder",
+      "pattern": "^Reeder/",
+      "examples": [
+        "Reeder/5040002 CFNetwork/1404.0.5 Darwin/22.3.0"
+      ]
+    },
+    {
       "name": "Repod",
       "pattern": "(^Repod/.+iOS|^Repod/.+Android)",
       "description": "Repod is a social podcast app that helps creators engage, montetization, and grow their community.",

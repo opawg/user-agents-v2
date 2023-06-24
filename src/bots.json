@@ -787,6 +787,13 @@
       "pattern": "python-requests"
     },
     {
+      "name": "Qiniu spider",
+      "pattern": "qiniu.*spider",
+      "examples": [
+        "z0-qiniu-imgstg-spider-1.0"
+      ]
+    },
+    {
       "name": "RedCircle",
       "pattern": "RedCircle",
       "description": "A platform for podcasts and brands to scale their message.",

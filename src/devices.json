@@ -67,7 +67,7 @@
     },
     {
       "name": "Other Smart TV",
-      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;un\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA4KVH2|^tcl;c105x|^onn\\.;8821x|^Funai;PHILIPS4KTV",
+      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;[uq]n\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;c105x|^onn\\.;8821x|^Funai;PHILIPS4KTV",
       "category": "smart_tv",
       "comments": "Must be before Android Phones",
       "examples": [
@@ -79,12 +79,14 @@
         "Microsoft Xbox",
         "onn.;8821x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "roku;3930mx;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
+        "samsung;qn55q60rafxza;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;un43mu6100;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;un50ru7100fxzc;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;un50tu7000g;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "skyworth;NoblexTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "sony_tv;ps5;9b18101888dd42948afd0b8792122bec;;tpapi;3.200.405",
         "Sony;BRAVIA4KVH2;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "Sony;BRAVIA4KUR3;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "tcl;c105x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "TCL;UnionTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "Xiaomi;MIBOX4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
@@ -118,8 +120,11 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader",
-      "category": "smart_speaker"
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_Home_Speaker",
+      "category": "smart_speaker",
+      "examples": [
+        "Bose;Bose_Home_Speaker_500"
+      ]
     },
     {
       "name": "Other Computer",
