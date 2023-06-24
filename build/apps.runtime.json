@@ -293,6 +293,10 @@
       "pattern": "^Boom/"
     },
     {
+      "name": "Boomplay",
+      "pattern": "^Boomplay/"
+    },
+    {
       "name": "Bose SoundTouch",
       "pattern": "^Bose/"
     },
@@ -371,6 +375,10 @@
     {
       "name": "Casterbate",
       "pattern": "^Casterbate/"
+    },
+    {
+      "name": "castero",
+      "pattern": "^castero \\d"
     },
     {
       "name": "castget",
@@ -515,6 +523,10 @@
     {
       "name": "doubleTwist CloudPlayer",
       "pattern": "^doubleTwist CloudPlayer"
+    },
+    {
+      "name": "Doughnut",
+      "pattern": "^Doughnut/"
     },
     {
       "name": "Downcast",
@@ -1150,7 +1162,7 @@
     },
     {
       "name": "MixerBox",
-      "pattern": "^MixerBox/"
+      "pattern": "^MixerBox(%20Pro)?/"
     },
     {
       "name": "MobileApp",
@@ -1207,6 +1219,10 @@
     {
       "name": "Overcast",
       "pattern": "^Overcast/|^Overcast.*Apple Watch"
+    },
+    {
+      "name": "Overhaul",
+      "pattern": "^Podcast Overhaul/"
     },
     {
       "name": "Palco MP3",

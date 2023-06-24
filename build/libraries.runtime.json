@@ -166,7 +166,7 @@
     },
     {
       "name": "urllib (python)",
-      "pattern": "^Python-urllib/",
+      "pattern": "^(Python-urllib|python-urllib3)/",
       "category": "bot"
     },
     {

@@ -90,7 +90,7 @@
     },
     {
       "name": "Castopod",
-      "pattern": "Castopod/1\\.0"
+      "pattern": "Castopod/\\d"
     },
     {
       "name": "Chartable",

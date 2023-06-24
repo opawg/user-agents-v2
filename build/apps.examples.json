@@ -486,6 +486,12 @@
       ]
     },
     {
+      "name": "Boomplay",
+      "examples": [
+        "Boomplay/5.1.5 (iPhone; iOS 12.4.7; Scale/3.00)"
+      ]
+    },
+    {
       "name": "bPod",
       "examples": [
         "bPod"
@@ -601,6 +607,12 @@
       "name": "Casterbate",
       "examples": [
         "Casterbate/1 CFNetwork/744.5 Darwin/14.4.0"
+      ]
+    },
+    {
+      "name": "castero",
+      "examples": [
+        "castero 0.9.5 <https://github.com/xgi/castero>"
       ]
     },
     {
@@ -820,6 +832,12 @@
       "name": "doubleTwist CloudPlayer",
       "examples": [
         "doubleTwist CloudPlayer"
+      ]
+    },
+    {
+      "name": "Doughnut",
+      "examples": [
+        "Doughnut/1666453501 CFNetwork/1335.0.3 Darwin/21.6.0"
       ]
     },
     {
@@ -1808,7 +1826,8 @@
       "examples": [
         "MixerBox/12.33 (Linux;Android 11) ExoPlayerLib/2.11.1",
         "MixerBox/807.iOS (iPhone; iOS 14.4; en_US)",
-        "MixerBox/869 CFNetwork/1300.1 Darwin/21.0.0"
+        "MixerBox/869 CFNetwork/1300.1 Darwin/21.0.0",
+        "MixerBox%20Pro/10015 CFNetwork/1406.0.4 Darwin/22.4.0"
       ]
     },
     {
@@ -1903,6 +1922,12 @@
         "Overcast/3.0 (+http://overcast.fm/; iOS podcast app)",
         "Overcast ( http://overcast.fm/; Apple Watch podcast app)",
         "Overcast/792 CFNetwork/1098.7 Darwin/19.0.0"
+      ]
+    },
+    {
+      "name": "Overhaul",
+      "examples": [
+        "Podcast Overhaul/4.1.1 iOS/16.1.1 +https://www.podcastoverhaul.com/"
       ]
     },
     {

@@ -120,7 +120,8 @@
     {
       "name": "Castopod",
       "examples": [
-        "Castopod/1.0"
+        "Castopod/1.0",
+        "Castopod/1.1.2"
       ]
     },
     {

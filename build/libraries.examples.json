@@ -190,7 +190,8 @@
     {
       "name": "urllib (python)",
       "examples": [
-        "Python-urllib/3.9"
+        "Python-urllib/3.9",
+        "python-urllib3/1.26.7"
       ]
     },
     {
