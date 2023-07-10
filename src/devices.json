@@ -49,8 +49,11 @@
     },
     {
       "name": "Google Home",
-      "pattern": "GoogleChirp|Google-Speech-Actions",
-      "category": "smart_speaker"
+      "pattern": "GoogleChirp|Google-Speech-Actions|CrKey.*DeviceType/SmartSpeaker",
+      "category": "smart_speaker",
+      "examples": [
+        "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.225 Safari/537.36 CrKey/1.56.500000 DeviceType/SmartSpeaker"
+      ]
     },
     {
       "name": "Google Chromebook",
