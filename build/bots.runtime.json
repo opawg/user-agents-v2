@@ -181,6 +181,10 @@
       "pattern": "Goodpods/\\d+\\.\\d+"
     },
     {
+      "name": "Google Adsense Bot",
+      "pattern": "Mediapartners-Google"
+    },
+    {
       "name": "Google AdsBot",
       "pattern": "AdsBot-Google"
     },
@@ -190,7 +194,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google"
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler"
     },
     {
       "name": "Gumball",

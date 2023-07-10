@@ -2254,6 +2254,12 @@
       ]
     },
     {
+      "name": "RTL+",
+      "examples": [
+        "RTL+"
+      ]
+    },
+    {
       "name": "SachNoi",
       "examples": [
         "SachNoi.app/1 CFNetwork/1197 Darwin/20.0.0",

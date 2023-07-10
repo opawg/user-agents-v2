@@ -1437,6 +1437,10 @@
       "pattern": "^RSSOwl.*Windows"
     },
     {
+      "name": "RTL+",
+      "pattern": "RTL\\+"
+    },
+    {
       "name": "SachNoi",
       "pattern": "^SachNoi\\.app/|^SachNoiApp/"
     },

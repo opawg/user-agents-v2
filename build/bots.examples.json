@@ -230,11 +230,18 @@
       ]
     },
     {
+      "name": "Google Adsense Bot",
+      "examples": [
+        "Mediapartners-Google"
+      ]
+    },
+    {
       "name": "Googlebot",
       "examples": [
         "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; http://www.google.com/bot.html)",
         "Googlebot-Image/1.0",
-        "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)"
+        "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)",
+        "google-xrawler"
       ]
     },
     {

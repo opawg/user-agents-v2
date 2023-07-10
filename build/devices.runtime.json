@@ -92,7 +92,7 @@
     },
     {
       "name": "Other Mobile Device",
-      "pattern": "Player FM$|^Podkicker/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$",
+      "pattern": "Player FM$|^Podkicker/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$|RTL\\+",
       "category": "mobile"
     }
   ]
