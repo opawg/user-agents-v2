@@ -37,7 +37,7 @@
     },
     {
       "name": "Google Home",
-      "pattern": "GoogleChirp|Google-Speech-Actions",
+      "pattern": "GoogleChirp|Google-Speech-Actions|CrKey.*DeviceType/SmartSpeaker",
       "category": "smart_speaker"
     },
     {

@@ -15,6 +15,12 @@
       ]
     },
     {
+      "name": "Google Home",
+      "examples": [
+        "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.225 Safari/537.36 CrKey/1.56.500000 DeviceType/SmartSpeaker"
+      ]
+    },
+    {
       "name": "Android Tablet",
       "examples": [
         "ZTE;Xview;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
