@@ -3001,6 +3001,17 @@
       ]
     },
     {
+      "name": "RTL+",
+      "pattern": "RTL\\+",
+      "examples": [
+        "RTL+"
+      ],
+      "urls": [
+        "https://apps.apple.com/de/app/rtl/id1057991212",
+        "https://play.google.com/store/apps/details?id=de.rtli.tvnow&hl=en_US&gl=US"
+      ]
+    },
+    {
       "name": "SachNoi",
       "pattern": "^SachNoi\\.app/|^SachNoiApp/",
       "examples": [

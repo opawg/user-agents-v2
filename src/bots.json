@@ -369,6 +369,16 @@
       ]
     },
     {
+      "name": "Google Adsense Bot",
+      "pattern": "Mediapartners-Google",
+      "examples": [
+        "Mediapartners-Google"
+      ],
+      "urls": [
+        "https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers"
+      ]
+    },
+    {
       "name": "Google AdsBot",
       "pattern": "AdsBot-Google",
       "urls": [
@@ -381,7 +391,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google",
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler",
       "description": "Google's search bots",
       "urls": [
         "http://www.google.com/bot.html"
@@ -389,7 +399,8 @@
       "examples": [
         "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; http://www.google.com/bot.html)",
         "Googlebot-Image/1.0",
-        "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)"
+        "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)",
+        "google-xrawler"
       ]
     },
     {

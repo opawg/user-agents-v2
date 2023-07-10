@@ -146,14 +146,15 @@
     },
     {
       "name": "Other Mobile Device",
-      "pattern": "Player FM$|^Podkicker\/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$",
+      "pattern": "Player FM$|^Podkicker\/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$|RTL\\+",
       "category": "mobile",
       "examples": [
         "Mozilla/5.0 (Mobile; Nokia_8110_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1 PodKast",
         "Zune/4.8",
         "PodcastGuru 2.0.2-beta3",
         "Pocket Casts",
-        "AmazonMusic"
+        "AmazonMusic",
+        "RTL+"
       ]
     }
   ]
