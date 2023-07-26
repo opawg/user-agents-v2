@@ -61,6 +61,11 @@
       "pattern": "^FileDownloader/"
     },
     {
+      "name": "git-annex",
+      "pattern": "^git-annex",
+      "category": "bot"
+    },
+    {
       "name": "Go Http Client",
       "pattern": "^Go-http-client",
       "category": "bot"
@@ -154,6 +159,11 @@
     {
       "name": "Safari View Service (SFSafariViewController)",
       "pattern": "^SafariViewService/"
+    },
+    {
+      "name": "Scrapy (python)",
+      "pattern": "^Scrapy/",
+      "category": "bot"
     },
     {
       "name": "stagefright",

@@ -153,6 +153,10 @@
       "pattern": "^Recordatorios/"
     },
     {
+      "name": "Arvocast",
+      "pattern": "^Arvocast/"
+    },
+    {
       "name": "Askoyvaringen iOS app",
       "pattern": "iOS Askoyvaringen Hermes/"
     },

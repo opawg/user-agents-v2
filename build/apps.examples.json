@@ -284,6 +284,12 @@
       ]
     },
     {
+      "name": "Arvocast",
+      "examples": [
+        "Arvocast/3752 CFNetwork/1404.0.5 Darwin/22.3.0"
+      ]
+    },
+    {
       "name": "Askoyvaringen iOS app",
       "examples": [
         "AppleCoreMedia/1.0.0.19E239 (iPhone; U; CPU OS 15_4 like Mac OS X; sv_se) iOS Askoyvaringen Hermes/90.0.0 _app_"

@@ -73,6 +73,12 @@
       ]
     },
     {
+      "name": "git-annex",
+      "examples": [
+        "git-annex/10.20230407"
+      ]
+    },
+    {
       "name": "Go Http Client",
       "examples": [
         "Go-http-client/2.0"
@@ -179,6 +185,12 @@
       "name": "Safari View Service (SFSafariViewController)",
       "examples": [
         "SafariViewService/8614.1.25.0.31 CFNetwork/1390 Darwin/22.0.0"
+      ]
+    },
+    {
+      "name": "Scrapy (python)",
+      "examples": [
+        "Scrapy/2.9.0 (+https://scrapy.org)"
       ]
     },
     {
