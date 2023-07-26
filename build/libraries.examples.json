@@ -188,6 +188,12 @@
       ]
     },
     {
+      "name": "undici (node)",
+      "examples": [
+        "undici"
+      ]
+    },
+    {
       "name": "urllib (python)",
       "examples": [
         "Python-urllib/3.9",

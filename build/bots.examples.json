@@ -401,6 +401,12 @@
       ]
     },
     {
+      "name": "Podcast de facto Standard",
+      "examples": [
+        "PodcastStandard/0.1.0 (+https://podcast-standard.org)"
+      ]
+    },
+    {
       "name": "Podcast Archiver",
       "examples": [
         "Podcast%20Archiver/3000000003 CFNetwork/1406.0.4 Darwin/22.4.0"
@@ -594,6 +600,12 @@
       "name": "TelegramBot",
       "examples": [
         "TelegramBot (like TwitterBot)"
+      ]
+    },
+    {
+      "name": "theTradeDesk Content Web Scraper",
+      "examples": [
+        "Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)"
       ]
     },
     {

@@ -321,6 +321,10 @@
       "pattern": "^Podcastindex\\.org/"
     },
     {
+      "name": "Podcast de facto Standard",
+      "pattern": "^PodcastStandard/"
+    },
+    {
       "name": "Podcast Archiver",
       "pattern": "^Podcast%20Archiver/"
     },
@@ -491,6 +495,10 @@
     {
       "name": "TelegramBot",
       "pattern": "^TelegramBot "
+    },
+    {
+      "name": "theTradeDesk Content Web Scraper",
+      "pattern": "TTD-Content"
     },
     {
       "name": "Veritone Engine Toolkit",

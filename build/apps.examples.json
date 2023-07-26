@@ -273,7 +273,8 @@
         "Podcast/1660.5 CFNetwork/1335.0.3 Darwin/21.6.0",
         "Podcast%E2%80%99ler/1710.17 CFNetwork/1399 Darwin/22.1.0",
         "%E0%B8%9E%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%97%E0%B9%8C/4022.300.6 CFNetwork/1402.0.8 Darwin/22.2.0",
-        "%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%82%D0%B0%D1%80/4022.510.4 CFNetwork/1406.0.4 Darwin/22.4.0"
+        "%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%82%D0%B0%D1%80/4022.510.4 CFNetwork/1406.0.4 Darwin/22.4.0",
+        "%E0%A4%AA%E0%A5%89%E0%A4%A1%E0%A4%95%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F/4022.300.6 CFNetwork/1402.0.8 Darwin/22.2.0"
       ]
     },
     {
@@ -1806,7 +1807,8 @@
     {
       "name": "Mimir",
       "examples": [
-        "Mimir/1 CFNetwork/1098 Darwin/19.0.0 (x86_64)"
+        "Mimir/1 CFNetwork/1098 Darwin/19.0.0 (x86_64)",
+        "Mimir-macOS/1.7.2"
       ]
     },
     {

@@ -165,6 +165,11 @@
       "category": "bot"
     },
     {
+      "name": "undici (node)",
+      "pattern": "^undici$",
+      "category": "bot"
+    },
+    {
       "name": "urllib (python)",
       "pattern": "^(Python-urllib|python-urllib3)/",
       "category": "bot"
