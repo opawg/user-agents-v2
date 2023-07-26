@@ -48,6 +48,15 @@
         "MobileSafari/604.1 CFNetwork/1107.1 Darwin/19.0.0",
         "Safari/18614.4.6.1.6 CFNetwork/1404.0.5 Darwin/22.3.0"
       ]
+    },
+    {
+      "name": "iOS WebView",
+      "examples": [
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "Mozilla/5.0 (iPad; CPU OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E1480",
+        "Mozilla/5.0 (iPod touch; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+      ]
     }
   ]
 }
