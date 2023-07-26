@@ -354,6 +354,13 @@
       ]
     },
     {
+      "name": "Arvocast",
+      "pattern": "^Arvocast/",
+      "examples": [
+        "Arvocast/3752 CFNetwork/1404.0.5 Darwin/22.3.0"
+      ]
+    },
+    {
       "name": "Askoyvaringen iOS app",
       "pattern": "iOS Askoyvaringen Hermes/",
       "description": "Askoyvaringen iOS app",

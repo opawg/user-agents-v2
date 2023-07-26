@@ -133,6 +133,18 @@
       ]
     },
     {
+      "name": "git-annex",
+      "description": "Allows managing large files with git, without storing the file contents in git",
+      "pattern": "^git-annex",
+      "examples": [
+        "git-annex/10.20230407"
+      ],
+      "urls": [
+        "https://git-annex.branchable.com/"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "Go Http Client",
       "pattern": "^Go-http-client",
       "comments": "Default user-agent for Go programs",
@@ -326,6 +338,17 @@
       "examples": [
         "SafariViewService/8614.1.25.0.31 CFNetwork/1390 Darwin/22.0.0"
       ]
+    },
+    {
+      "name": "Scrapy (python)",
+      "pattern": "^Scrapy/",
+      "examples": [
+        "Scrapy/2.9.0 (+https://scrapy.org)"
+      ],
+      "urls": [
+        "https://scrapy.org"
+      ],
+      "category": "bot"
     },
     {
       "name": "stagefright",
