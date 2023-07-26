@@ -638,6 +638,17 @@
       ]
     },
     {
+      "name": "Podcast de facto Standard",
+      "description": "Dedicated to providing guidance and information on the conventions and standards used in podcasting",
+      "pattern": "^PodcastStandard/",
+      "examples": [
+        "PodcastStandard/0.1.0 (+https://podcast-standard.org)"
+      ],
+      "urls": [
+        "https://podcast-standard.org/"
+      ]
+    },
+    {
       "name": "Podcast Archiver",
       "pattern": "^Podcast%20Archiver/",
       "urls": [
@@ -978,6 +989,16 @@
       "pattern": "^TelegramBot ",
       "examples": [
         "TelegramBot (like TwitterBot)"
+      ]
+    },
+    {
+      "name": "theTradeDesk Content Web Scraper",
+      "pattern": "TTD-Content",
+      "examples": [
+        "Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)"
+      ],
+      "urls": [
+        "https://www.thetradedesk.com/us/ttd-content"
       ]
     },
     {

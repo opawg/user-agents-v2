@@ -341,6 +341,17 @@
       "category": "bot"
     },
     {
+      "name": "undici (node)",
+      "pattern": "^undici$",
+      "examples": [
+        "undici"
+      ],
+      "category": "bot",
+      "urls": [
+        "https://github.com/nodejs/undici"
+      ]
+    },
+    {
       "name": "urllib (python)",
       "pattern": "^(Python-urllib|python-urllib3)/",
       "examples": [
