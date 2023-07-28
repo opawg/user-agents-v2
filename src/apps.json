@@ -1793,7 +1793,9 @@
       "comments": "All Hubbard Radio station apps available on iOS and Android. Used when downloading or streaming podcast episodes.",      
       "urls": [
         "https://hubbardradio.com",
-        "https://hubbardbroadcasting.com"
+        "https://hubbardbroadcasting.com",
+        "https://apps.apple.com/bs/developer/hubbard-radio/id512607571",
+        "https://play.google.com/store/apps/developer?id=Hubbard+Radio"
       ],
       "examples": [
         "101 ESPN/iOS 8.1.13 (iPad Air /12.5.7) HubbardApp/120",
