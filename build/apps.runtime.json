@@ -881,6 +881,10 @@
       "pattern": "^HRN/"
     },
     {
+      "name": "Hubbard Radio",
+      "pattern": "HubbardApp/"
+    },
+    {
       "name": "Hubhopper",
       "pattern": "^Hubhopper$"
     },
