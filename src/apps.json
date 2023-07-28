@@ -1787,6 +1787,33 @@
       ]
     },
     {
+      "name": "Hubbard Radio",
+      "pattern": "HubbardApp/",
+      "description": "Hubbard Radio Apps",
+      "comments": "All Hubbard Radio station apps available on iOS and Android. Used when downloading or streaming podcast episodes.",      
+      "urls": [
+        "https://hubbardradio.com",
+        "https://hubbardbroadcasting.com",
+        "https://apps.apple.com/developer/hubbard-radio/id512607571",
+        "https://play.google.com/store/apps/developer?id=Hubbard+Radio"
+      ],
+      "examples": [
+        "101 ESPN/iOS 8.1.13 (iPad Air /12.5.7) HubbardApp/120",
+        "101.9 THE MIX/iOS 1.6.16 (iPhone XR/16.5.1) HubbardApp/120",
+        "92.3 WIL/iOS 4.7.11 (iPhone 12 Pro/16.5.1) HubbardApp/120",
+        "97.9 WRMF/iOS 1.2.11 (iPhone 11/16.5.1) HubbardApp/120",
+        "The Point/iOS 5.3.11 (iPhone 12 Pro Max/16.5.1) HubbardApp/120",
+        "TMA STL/iOS 1.0.6 (iPad Mini 5/16.1.1) HubbardApp/120",
+        "98 KUPD/Android 2.2.6 (SM-S918U/Android 13 Build TP1A.220624.014) HubbardApp/20",
+        "B-105.1/Android 3.2.5 (GCE x86 phone/Android 9 Build PGR1.190916.001) HubbardApp/20",
+        "KDUS 1060/Android 1.0.3 (Pixel 5/Android 13 Build TQ3A.230705.001) HubbardApp/20",
+        "KS95/Android 2.5.6 (SM-G973F/Android 12 Build SP1A.210812.016) HubbardApp/20",
+        "myTalk 107.1/Android 2.3.6 (cp3705A/Android 9 Build 3705A.210319.0D) HubbardApp/20",
+        "SKOR North/Android 3.2.6 (SM-G973U/Android 12 Build SP1A.210812.016) HubbardApp/20",
+        "105.7 The Point/Android 2.2.5 (HD1907/Android 12 Build SKQ1.220303.001) HubbardApp/20"
+      ]
+    },
+    {
       "name": "Hubhopper",
       "pattern": "^Hubhopper$",
       "examples": [
