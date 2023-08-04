@@ -284,6 +284,16 @@
       ]
     },
     {
+      "name": "Apple HomePod",
+      "description": "Playback initiated directly from the device",
+      "pattern": "^AirPodcasts/\\d",
+      "examples": [
+        "AirPodcasts/4022.700.8 CFNetwork/1410.0.3 Darwin/22.6.0",
+        "AirPodcasts/4022.700.8 CFNetwork/1410.0.2 Darwin/22.6.0"
+      ],
+      "comments": "Verified on HomePod Gen 1 and HomePod Mini. Spelunked in https://twitter.com/_inside/status/969787463613939712 and https://www.theverge.com/2017/7/31/16067710/apple-leaked-homepod-firmware-os-third-party-apps"
+    },
+    {
       "name": "Apple iMessage",
       "pattern": "^MessagesViewService/|^Messages/|^Messages Share Extension/|^MessagesNotificationExtension/",
       "examples": [

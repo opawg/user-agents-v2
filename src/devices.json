@@ -6,8 +6,11 @@
   "entries": [
     {
       "name": "Apple HomePod",
-      "pattern": "HomePod",
-      "category": "smart_speaker"
+      "pattern": "HomePod|^AirPodcasts/\\d",
+      "category": "smart_speaker",
+      "examples": [
+        "AirPodcasts/4022.700.8 CFNetwork/1410.0.3 Darwin/22.6.0"
+      ]
     },
     {
       "name": "Apple iPad",

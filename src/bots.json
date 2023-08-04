@@ -12,6 +12,16 @@
       ]
     },
     {
+      "name": "Adswizz",
+      "pattern": "^AIS VirtualListener",
+      "urls": [
+        "https://www.adswizz.com/publishers/insertion-suite/"
+      ],
+      "examples": [
+        "AIS VirtualListener"
+      ]
+    },
+    {
       "name": "AhrefsBot",
       "pattern": "AhrefsBot/",
       "urls": [
