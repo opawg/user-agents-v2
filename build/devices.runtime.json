@@ -2,7 +2,7 @@
   "entries": [
     {
       "name": "Apple HomePod",
-      "pattern": "HomePod",
+      "pattern": "HomePod|^AirPodcasts/\\d",
       "category": "smart_speaker"
     },
     {

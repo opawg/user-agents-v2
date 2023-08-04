@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "name": "Apple HomePod",
+      "examples": [
+        "AirPodcasts/4022.700.8 CFNetwork/1410.0.3 Darwin/22.6.0"
+      ]
+    },
+    {
       "name": "Apple TV",
       "examples": [
         "apple;apple_tv;33ddb95064d1479ab37179579af23b77;;tpapi;3.200.405",

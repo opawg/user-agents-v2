@@ -221,6 +221,13 @@
       ]
     },
     {
+      "name": "Apple HomePod",
+      "examples": [
+        "AirPodcasts/4022.700.8 CFNetwork/1410.0.3 Darwin/22.6.0",
+        "AirPodcasts/4022.700.8 CFNetwork/1410.0.2 Darwin/22.6.0"
+      ]
+    },
+    {
       "name": "Apple iMessage",
       "examples": [
         "MessagesViewService/1.0 CFNetwork/1120 Darwin/19.0.0",

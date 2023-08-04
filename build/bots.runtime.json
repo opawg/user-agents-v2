@@ -5,6 +5,10 @@
       "pattern": "AAABot"
     },
     {
+      "name": "Adswizz",
+      "pattern": "^AIS VirtualListener"
+    },
+    {
       "name": "AhrefsBot",
       "pattern": "AhrefsBot/"
     },

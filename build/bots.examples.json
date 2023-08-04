@@ -7,6 +7,12 @@
       ]
     },
     {
+      "name": "Adswizz",
+      "examples": [
+        "AIS VirtualListener"
+      ]
+    },
+    {
       "name": "AhrefsBot",
       "examples": [
         "Mozilla/5.0 (compatible; AhrefsBot/7.0; http://ahrefs.com/robot/)",

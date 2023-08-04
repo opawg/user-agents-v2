@@ -133,6 +133,10 @@
       "pattern": "^Apollo/"
     },
     {
+      "name": "Apple HomePod",
+      "pattern": "^AirPodcasts/\\d"
+    },
+    {
       "name": "Apple iMessage",
       "pattern": "^MessagesViewService/|^Messages/|^Messages Share Extension/|^MessagesNotificationExtension/"
     },
