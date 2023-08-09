@@ -67,6 +67,18 @@
       "category": "bot"
     },
     {
+      "name": "CarrierWave (ruby)",
+      "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+      "pattern": "^CarrierWave/",
+      "examples": [
+        "CarrierWave/2.2.4"
+      ],
+      "urls": [
+        "https://github.com/carrierwaveuploader/carrierwave/"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "Colly",
       "description": "Lightning Fast and Elegant Scraping Framework for Go",
       "pattern": "github\\.com/gocolly",
