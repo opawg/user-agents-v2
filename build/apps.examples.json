@@ -984,6 +984,12 @@
       ]
     },
     {
+      "name": "Emacs",
+      "examples": [
+        "URL/Emacs Emacs/28.2 (TTY; x86_64-pc-linux-gnu)"
+      ]
+    },
+    {
       "name": "Encounter",
       "examples": [
         "Encounter/1 CFNetwork/711.3.18 Darwin/14.0.0"
@@ -1939,7 +1945,14 @@
     {
       "name": "NRC Audio",
       "examples": [
-        "NRC Audio/2.0.0 (nl.nrc.audio; build:29; Android 12; Sdk:31; Manufacturer:samsung; Model: SM-G975F) OkHttp/4.9.3"
+        "NRC Audio/2.0.0 (nl.nrc.audio; build:29; Android 12; Sdk:31; Manufacturer:samsung; Model: SM-G975F) OkHttp/4.9.3",
+        "NRC%20Audio/1 CFNetwork/1410.0.3 Darwin/22.6.0"
+      ]
+    },
+    {
+      "name": "NRC",
+      "examples": [
+        "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1"
       ]
     },
     {

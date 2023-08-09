@@ -621,6 +621,10 @@
       "pattern": "^EMAudioPlayer "
     },
     {
+      "name": "Emacs",
+      "pattern": "^URL/Emacs "
+    },
+    {
       "name": "Encounter",
       "pattern": "^Encounter/"
     },
@@ -1222,7 +1226,11 @@
     },
     {
       "name": "NRC Audio",
-      "pattern": "NRC Audio/.*Android"
+      "pattern": "^NRC( |%20)Audio/"
+    },
+    {
+      "name": "NRC",
+      "pattern": "^NRC-Nieuws/"
     },
     {
       "name": "Outcast",

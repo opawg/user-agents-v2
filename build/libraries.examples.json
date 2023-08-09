@@ -36,6 +36,12 @@
       ]
     },
     {
+      "name": "CarrierWave (ruby)",
+      "examples": [
+        "CarrierWave/2.2.4"
+      ]
+    },
+    {
       "name": "Colly",
       "examples": [
         "colly - https://github.com/gocolly/colly"
