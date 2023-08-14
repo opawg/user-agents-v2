@@ -1582,7 +1582,7 @@
     },
     {
       "name": "SYOK",
-      "pattern": "^SYOK/"
+      "pattern": "^SYOK|^my\\.com\\.astro\\.player|^my.com.astro.player"
     },
     {
       "name": "TED",
