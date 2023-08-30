@@ -501,6 +501,10 @@
       "pattern": "^DaumWebtoon/"
     },
     {
+      "name": "De Standaard",
+      "pattern": "be\\.standaard\\.audio"
+    },
+    {
       "name": "Deezer",
       "pattern": "(^Deezer/|^DeezerJukebox/|^Deezer.*Electron)"
     },
@@ -1230,7 +1234,7 @@
     },
     {
       "name": "NRC",
-      "pattern": "^NRC-Nieuws/"
+      "pattern": "nl\\.nrc\\.nrcapp"
     },
     {
       "name": "Outcast",

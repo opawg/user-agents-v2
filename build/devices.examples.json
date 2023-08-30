@@ -75,6 +75,12 @@
       ]
     },
     {
+      "name": "Amazon Smart Speaker",
+      "examples": [
+        "Amazon;Echo_Pop;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422"
+      ]
+    },
+    {
       "name": "Other Smart Speaker",
       "examples": [
         "Bose;Bose_Home_Speaker_500;1d2cf25b1643474983fae381b00cea3c;;tpapi;3.198.103",

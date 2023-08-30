@@ -67,7 +67,7 @@
     },
     {
       "name": "Amazon Smart Speaker",
-      "pattern": "Alexa|^Echo/",
+      "pattern": "Alexa|^Echo/|^Amazon;Echo",
       "category": "smart_speaker"
     },
     {

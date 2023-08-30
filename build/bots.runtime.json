@@ -281,6 +281,10 @@
       "pattern": " NetcraftSurveyAgent/"
     },
     {
+      "name": "Newspaper",
+      "pattern": "^newspaper/\\d"
+    },
+    {
       "name": "OgScrper",
       "pattern": "OgScrper"
     },
@@ -523,6 +527,10 @@
     {
       "name": "Windows Crawler",
       "pattern": "^ZDM/.*Windows"
+    },
+    {
+      "name": "Windows PowerShell",
+      "pattern": "WindowsPowerShell/"
     },
     {
       "name": "WordPress",

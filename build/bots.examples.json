@@ -359,6 +359,12 @@
       ]
     },
     {
+      "name": "Newspaper",
+      "examples": [
+        "newspaper/0.3.0"
+      ]
+    },
+    {
       "name": "OgScrper",
       "examples": [
         "OgScrper"
@@ -636,6 +642,12 @@
       "name": "Windows Crawler",
       "examples": [
         "ZDM/4.0; Windows Mobile 7.0;"
+      ]
+    },
+    {
+      "name": "Windows PowerShell",
+      "examples": [
+        "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.19041.2673"
       ]
     },
     {

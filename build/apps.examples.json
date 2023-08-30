@@ -795,6 +795,12 @@
       ]
     },
     {
+      "name": "De Standaard",
+      "examples": [
+        "DS podcast/1.0.5 (be.standaard.audio; build:6; Android 12; Sdk:31; Manufacturer:samsung; Model: SM-A415F) OkHttp/4.9.1"
+      ]
+    },
+    {
       "name": "Deezer",
       "examples": [
         "Deezer/6.2.2.80 (Android; 9; Mobile; fr) samsung SM-G950F",
@@ -1952,7 +1958,9 @@
     {
       "name": "NRC",
       "examples": [
-        "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1"
+        "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1",
+        "iPad (compatible; Tablet2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iPadOS 16.6",
+        "iPhone (compatible; Smartphone2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iOS 16.6"
       ]
     },
     {
