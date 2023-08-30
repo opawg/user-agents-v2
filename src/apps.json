@@ -3332,7 +3332,7 @@
     },
     {
       "name": "SYOK",
-      "pattern": "^SYOK|^my\\.com\\.astro\\.player|^my.com.astro.player",
+      "pattern": "^SYOK|^my\\.com\\.astro\\.player",
       "examples": [
         "SYOK/965 CFNetwork/1406.0.4 Darwin/22.4.0",
         "my.com.astro.player"
