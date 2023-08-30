@@ -1586,7 +1586,7 @@
     },
     {
       "name": "SYOK",
-      "pattern": "^SYOK|^my\\.com\\.astro\\.player|^my.com.astro.player"
+      "pattern": "^SYOK|^my\\.com\\.astro\\.player"
     },
     {
       "name": "TED",
