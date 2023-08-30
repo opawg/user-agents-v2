@@ -571,6 +571,17 @@
       ]
     },
     {
+      "name": "Newspaper",
+      "description": "News, full-text, and article metadata extraction in Python 3.",
+      "pattern": "^newspaper/\\d",
+      "examples": [
+        "newspaper/0.3.0"
+      ],
+      "urls": [
+        "https://github.com/codelucas/newspaper"
+      ]
+    },
+    {
       "name": "OgScrper",
       "pattern": "OgScrper",
       "examples": [
@@ -586,6 +597,9 @@
       "pattern": "^op3-fetcher/",
       "examples": [
         "op3-fetcher/1.0 (https://op3.dev)"
+      ],
+      "urls": [
+        "https://op3.dev"
       ]
     },
     {
@@ -1048,6 +1062,13 @@
       "pattern": "^ZDM/.*Windows",
       "examples": [
         "ZDM/4.0; Windows Mobile 7.0;"
+      ]
+    },
+    {
+      "name": "Windows PowerShell",
+      "pattern": "WindowsPowerShell/",
+      "examples": [
+        "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.19041.2673"
       ]
     },
     {

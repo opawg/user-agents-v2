@@ -1024,6 +1024,16 @@
       ]
     },
     {
+      "name": "De Standaard",
+      "pattern": "be\\.standaard\\.audio",
+      "examples": [
+        "DS podcast/1.0.5 (be.standaard.audio; build:6; Android 12; Sdk:31; Manufacturer:samsung; Model: SM-A415F) OkHttp/4.9.1"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=be.standaard.audio"
+      ]
+    },
+    {
       "name": "Deezer",
       "pattern": "(^Deezer/|^DeezerJukebox/|^Deezer.*Electron)",
       "urls": [
@@ -2519,10 +2529,12 @@
     },
     {
       "name": "NRC",
-      "pattern": "^NRC-Nieuws/",
+      "pattern": "nl\\.nrc\\.nrcapp",
       "description": "The free NRC app offers you the latest news and the digital version of the paper newspaper.",
       "examples": [
-        "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1"
+        "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1",
+        "iPad (compatible; Tablet2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iPadOS 16.6",
+        "iPhone (compatible; Smartphone2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iOS 16.6"
       ],
       "urls": [
         "https://www.nrc.nl/app/"

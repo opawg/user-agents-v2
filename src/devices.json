@@ -126,8 +126,11 @@
     },
     {
       "name": "Amazon Smart Speaker",
-      "pattern": "Alexa|^Echo/",
-      "category": "smart_speaker"
+      "pattern": "Alexa|^Echo/|^Amazon;Echo",
+      "category": "smart_speaker",
+      "examples": [
+        "Amazon;Echo_Pop;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422"
+      ]
     },
     {
       "name": "Other Smart Speaker",
