@@ -797,7 +797,8 @@
     {
       "name": "De Standaard",
       "examples": [
-        "DS podcast/1.0.5 (be.standaard.audio; build:6; Android 12; Sdk:31; Manufacturer:samsung; Model: SM-A415F) OkHttp/4.9.1"
+        "DS podcast/1.0.5 (be.standaard.audio; build:6; Android 12; Sdk:31; Manufacturer:samsung; Model: SM-A415F) OkHttp/4.9.1",
+        "DS%20Podcast/2 CFNetwork/1410.0.3 Darwin/22.6.0"
       ]
     },
     {

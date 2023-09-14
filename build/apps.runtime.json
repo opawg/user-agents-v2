@@ -502,7 +502,7 @@
     },
     {
       "name": "De Standaard",
-      "pattern": "be\\.standaard\\.audio"
+      "pattern": "be\\.standaard\\.audio|^DS%20Podcast/"
     },
     {
       "name": "Deezer",
