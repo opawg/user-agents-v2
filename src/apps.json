@@ -2956,6 +2956,17 @@
       ]
     },
     {
+      "name": "Radio Downloader",
+      "pattern": "^Podcast Provider.*?Radio Downloader",
+      "description": "An easy to use application for managing podcast subscriptions and downloads.",
+      "examples": [
+        "Podcast Provider 0.34-9e9009e7 for Radio Downloader 0.34-9e9009e7"
+      ],
+      "urls": [
+        "https://nerdoftheherd.com/tools/radiodld/"
+      ]
+    },
+    {
       "name": "radio.de",
       "pattern": "^(radio\\.[a-z]{2,3}|GetPodcast)[ /]\\d",
       "description": "Radio.de is a radio and podcast app in Germany",

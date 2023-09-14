@@ -100,7 +100,7 @@
     },
     {
       "name": "Apple Podcasts automated checks",
-      "pattern": "(iTMS|itunesstored)"
+      "pattern": "(iTMS|itunesstored|itms)"
     },
     {
       "name": "Applebot",
@@ -337,6 +337,17 @@
       "pattern": "^Feedly/",
       "examples": [
         "Feedly/1.0 (+http://www.feedly.com/fetcher.html; like FeedFetcher-Google)"
+      ]
+    },
+    {
+      "name": "Feedspot Fetcher",
+      "pattern": "https://www\\.feedspot\\.com/fs/fetcher",
+      "description": "Feedspot Fetcher is how Feedspot fetches RSS/Atom feed when users add the feed to their Feedspot account.",
+      "urls": [
+        "https://www.feedspot.com/fs/fetcher"
+      ],
+      "examples": [
+        "Mozilla/5.0 (compatible; Feedspot/1.0 (+https://www.feedspot.com/fs/fetcher; like FeedFetcher-Google)"
       ]
     },
     {
