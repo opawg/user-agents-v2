@@ -1234,7 +1234,7 @@
     },
     {
       "name": "NRC",
-      "pattern": "nl\\.nrc\\.nrcapp"
+      "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/"
     },
     {
       "name": "Outcast",
