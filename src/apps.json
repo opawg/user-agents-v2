@@ -2529,12 +2529,13 @@
     },
     {
       "name": "NRC",
-      "pattern": "nl\\.nrc\\.nrcapp",
+      "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/",
       "description": "The free NRC app offers you the latest news and the digital version of the paper newspaper.",
       "examples": [
         "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1",
         "iPad (compatible; Tablet2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iPadOS 16.6",
-        "iPhone (compatible; Smartphone2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iOS 16.6"
+        "iPhone (compatible; Smartphone2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iOS 16.6",
+        "NRC-Nieuws/5.4.0 (com.twipemobile.nrc; build:540; Android:13; Sdk:33; Manufacturer:samsung; Model: SM-A528B) OkHttp/4.11.0"
       ],
       "urls": [
         "https://www.nrc.nl/app/"
