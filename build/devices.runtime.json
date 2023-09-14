@@ -72,7 +72,7 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar)|^HEOS;DENON",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar)|^HEOS;DENON|^Denon;DENON-DWHS",
       "category": "smart_speaker"
     },
     {

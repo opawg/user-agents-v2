@@ -38,7 +38,7 @@
     },
     {
       "name": "Apple Podcasts automated checks",
-      "pattern": "(iTMS|itunesstored)"
+      "pattern": "(iTMS|itunesstored|itms)"
     },
     {
       "name": "Applebot",
@@ -163,6 +163,10 @@
     {
       "name": "Feedly",
       "pattern": "^Feedly/"
+    },
+    {
+      "name": "Feedspot Fetcher",
+      "pattern": "https://www\\.feedspot\\.com/fs/fetcher"
     },
     {
       "name": "FlexGet",

@@ -1417,6 +1417,10 @@
       "pattern": "^PugpigBolt "
     },
     {
+      "name": "Radio Downloader",
+      "pattern": "^Podcast Provider.*?Radio Downloader"
+    },
+    {
       "name": "radio.de",
       "pattern": "^(radio\\.[a-z]{2,3}|GetPodcast)[ /]\\d"
     },

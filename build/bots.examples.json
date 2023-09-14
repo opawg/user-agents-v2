@@ -212,6 +212,12 @@
       ]
     },
     {
+      "name": "Feedspot Fetcher",
+      "examples": [
+        "Mozilla/5.0 (compatible; Feedspot/1.0 (+https://www.feedspot.com/fs/fetcher; like FeedFetcher-Google)"
+      ]
+    },
+    {
       "name": "FlexGet",
       "examples": [
         "FlexGet/3.3.4 (www.flexget.com)"
