@@ -1165,6 +1165,10 @@
       "pattern": "^Messenger/"
     },
     {
+      "name": "Microsoft Outlook",
+      "pattern": "^Outlook-Android/|^Microsoft Office/.*?Microsoft Outlook"
+    },
+    {
       "name": "Microsoft Xbox",
       "pattern": "^microsoft;xbox_"
     },
