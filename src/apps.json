@@ -2377,6 +2377,14 @@
       ]
     },
     {
+      "name": "Microsoft Outlook",
+      "pattern": "^Outlook-Android/|^Microsoft Office/.*?Microsoft Outlook",
+      "examples": [
+        "Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.16130; Pro)",
+        "Outlook-Android/2.0"
+      ]
+    },
+    {
       "name": "Microsoft Xbox",
       "pattern": "^microsoft;xbox_",
       "examples": [
