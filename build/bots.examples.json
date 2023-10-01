@@ -474,6 +474,12 @@
       ]
     },
     {
+      "name": "PodUptime",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodUptime/1.0; +https://poduptime.com)"
+      ]
+    },
+    {
       "name": "PodvineBot",
       "examples": [
         "PodvineBot/4.0.1 (www.podvine.com)"

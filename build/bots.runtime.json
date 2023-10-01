@@ -381,6 +381,10 @@
       "pattern": "(^Adswizz-podscribe/|^Podscribe/)"
     },
     {
+      "name": "PodUptime",
+      "pattern": "PodUptime/\\d"
+    },
+    {
       "name": "Podverse Feed Parser",
       "pattern": "^Podverse/Feed Parser"
     },
