@@ -797,6 +797,17 @@
       ]
     },
     {
+      "name": "PodUptime",
+      "description": "Uptime Monitoring for the Podcast Industry",
+      "pattern": "PodUptime/\\d",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodUptime/1.0; +https://poduptime.com)"
+      ],
+      "urls": [
+        "https://poduptime.com/"
+      ]
+    },
+    {
       "name": "Podverse Feed Parser",
       "pattern": "^Podverse/Feed Parser",
       "description": "The Podverse feed parser.",
