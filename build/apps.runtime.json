@@ -1201,6 +1201,10 @@
       "pattern": "^Moon ?FM/"
     },
     {
+      "name": "mowPod",
+      "pattern": "^mowPod/"
+    },
+    {
       "name": "MPlayer",
       "pattern": "^MPlayer \\d"
     },
