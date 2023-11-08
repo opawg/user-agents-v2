@@ -30,6 +30,13 @@
       ]
     },
     {
+      "name": "Async Http Client (java)",
+      "examples": [
+        "AHC/2.1",
+        "AHC/2.0"
+      ]
+    },
+    {
       "name": "Axios (Node)",
       "examples": [
         "axios/0.26.1"

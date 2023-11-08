@@ -23,6 +23,11 @@
       "pattern": "^Armadillo/1"
     },
     {
+      "name": "Async Http Client (java)",
+      "pattern": "^AHC/\\d+\\.\\d+",
+      "category": "bot"
+    },
+    {
       "name": "Axios (Node)",
       "pattern": "^axios/",
       "category": "bot"
