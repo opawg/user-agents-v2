@@ -59,6 +59,21 @@
       ]
     },
     {
+      "name": "Async Http Client (java)",
+      "description": "The AsyncHttpClient (AHC) library allows Java applications to easily execute HTTP requests and asynchronously process HTTP responses.",
+      "pattern": "^AHC/\\d+\\.\\d+",
+      "examples": [
+        "AHC/2.1",
+        "AHC/2.0"
+      ],
+      "urls": [
+        "https://github.com/AsyncHttpClient/async-http-client",
+        "https://twitter.com/AsyncHttpClient"
+      ],
+      "comments": "Android compat is not supported (https://github.com/AsyncHttpClient/async-http-client/issues?q=is%3Aissue+android), UAs found in https://github.com/AsyncHttpClient/async-http-client/blame/25e12bfd03f6375a91ca264a32588fbba7ab900c/client/src/main/resources/org/asynchttpclient/config/ahc-default.properties#L15",
+      "category": "bot"
+    },
+    {
       "name": "Axios (Node)",
       "pattern": "^axios/",
       "examples": [
