@@ -89,6 +89,10 @@
       "pattern": "^Buzzsprout Importer"
     },
     {
+      "name": "Bytespider.*bytedance",
+      "pattern": "Bytespider"
+    },
+    {
       "name": "CastFeedValidator",
       "pattern": "^CastFeedValidator/"
     },
@@ -375,6 +379,10 @@
     {
       "name": "Podnods Bot",
       "pattern": "(podnods-crawler|podnods)"
+    },
+    {
+      "name": "Podroll Analyzer",
+      "pattern": "^pdrl\\.fm "
     },
     {
       "name": "Podscribe",

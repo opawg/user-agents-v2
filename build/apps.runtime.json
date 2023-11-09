@@ -1098,7 +1098,7 @@
     },
     {
       "name": "LinkedIn",
-      "pattern": "iPhone.+\\[LinkedInApp\\]|^LinkedIn/"
+      "pattern": "AppleWebKit.+\\[LinkedInApp\\]|^LinkedIn/"
     },
     {
       "name": "Lisny",
@@ -1301,6 +1301,10 @@
       "pattern": "^Podcast.*Addict/|^Podcast Addict "
     },
     {
+      "name": "Podcast Archiver",
+      "pattern": "janwh/podcast-archiver"
+    },
+    {
       "name": "Podcast Player",
       "pattern": "^Podcast Player/"
     },
@@ -1327,6 +1331,10 @@
     {
       "name": "PodCruncher",
       "pattern": "^PodCruncher/.* CFNetwork/"
+    },
+    {
+      "name": "poddl - podcast downloader",
+      "pattern": "poddl - podcast downloader"
     },
     {
       "name": "Podeo",
@@ -1467,6 +1475,10 @@
     {
       "name": "RSS Radio",
       "pattern": "^RSSRadio"
+    },
+    {
+      "name": "RSSDemon",
+      "pattern": "com\\.meecel\\.feedreader\\.RssDemonAd"
     },
     {
       "name": "RSSOwl",
@@ -1719,6 +1731,10 @@
     {
       "name": "Yapa",
       "pattern": "^yapa/"
+    },
+    {
+      "name": "YouTube Music",
+      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/"
     },
     {
       "name": "Zeno",

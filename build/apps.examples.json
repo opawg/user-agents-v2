@@ -1757,7 +1757,8 @@
       "name": "LinkedIn",
       "examples": [
         "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [LinkedInApp]",
-        "LinkedIn/9.14.4868 CFNetwork/1107.1 Darwin/19.0.0"
+        "LinkedIn/9.14.4868 CFNetwork/1107.1 Darwin/19.0.0",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [LinkedInApp]/9.28.7219"
       ]
     },
     {
@@ -2069,6 +2070,12 @@
       ]
     },
     {
+      "name": "Podcast Archiver",
+      "examples": [
+        "Podcast-Archiver/0.5.1 (https://github.com/janwh/podcast-archiver)"
+      ]
+    },
+    {
       "name": "Podcast Player",
       "examples": [
         "Podcast Player/1.0 (phone;android RMX3195_11_A.18)"
@@ -2106,6 +2113,12 @@
       "examples": [
         "PodCruncher/3.7.1 CFNetwork/1125.2 Darwin/19.4.0",
         "PodCruncher/3.7.1 CFNetwork/978.0.7 Darwin/18.7.0"
+      ]
+    },
+    {
+      "name": "poddl - podcast downloader",
+      "examples": [
+        "poddl - podcast downloader"
       ]
     },
     {
@@ -2320,6 +2333,12 @@
       "examples": [
         "RSSRadio7/9252 CFNetwork/1107.1 Darwin/19.0.0",
         "RSSRadio/9710"
+      ]
+    },
+    {
+      "name": "RSSDemon",
+      "examples": [
+        "com.meecel.feedreader.RssDemonAd"
       ]
     },
     {
@@ -2691,6 +2710,14 @@
       "examples": [
         "Yandex.Music/2019-11-01.trunk.5885661",
         "Ya.Music/2022-10-06.trunk.10125214"
+      ]
+    },
+    {
+      "name": "YouTube Music",
+      "examples": [
+        "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231105.002; Cronet/114.0.5735.84)",
+        "com.google.android.apps.youtube.music/62251340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)",
+        "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)"
       ]
     },
     {
