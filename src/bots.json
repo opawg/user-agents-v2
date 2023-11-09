@@ -199,6 +199,13 @@
       ]
     },
     {
+      "name": "Bytespider.*bytedance",
+      "pattern": "Bytespider",
+      "examples": [
+        "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)"
+      ]
+    },
+    {
       "name": "CastFeedValidator",
       "pattern": "^CastFeedValidator/",
       "examples": [
@@ -786,6 +793,13 @@
       "description": "Podnods is a podcast discovery site. This user agent is for crawling podcast data.",
       "urls": [
         "https://podnods.com/about"
+      ]
+    },
+    {
+      "name": "Podroll Analyzer",
+      "pattern": "^pdrl\\.fm ",
+      "examples": [
+        "pdrl.fm Analyzer / 1.0.0"
       ]
     },
     {

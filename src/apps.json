@@ -2255,11 +2255,12 @@
     },
     {
       "name": "LinkedIn",
-      "pattern": "iPhone.+\\[LinkedInApp\\]|^LinkedIn/",
+      "pattern": "AppleWebKit.+\\[LinkedInApp\\]|^LinkedIn/",
       "description": "The LinkedIn app's built-in browser on iPhones.",
       "examples": [
         "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [LinkedInApp]",
-        "LinkedIn/9.14.4868 CFNetwork/1107.1 Darwin/19.0.0"
+        "LinkedIn/9.14.4868 CFNetwork/1107.1 Darwin/19.0.0",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [LinkedInApp]/9.28.7219"
       ]
     },
     {
@@ -2693,6 +2694,17 @@
       ]
     },
     {
+      "name": "Podcast Archiver",
+      "description": "Archive all episodes from your favorite podcasts.",
+      "pattern": "janwh/podcast-archiver",
+      "examples": [
+        "Podcast-Archiver/0.5.1 (https://github.com/janwh/podcast-archiver)"
+      ],
+      "urls": [
+        "https://github.com/janw/podcast-archiver"
+      ]
+    },
+    {
       "name": "Podcast Player",
       "pattern": "^Podcast Player/",
       "examples": [
@@ -2743,6 +2755,18 @@
       "examples": [
         "PodCruncher/3.7.1 CFNetwork/1125.2 Darwin/19.4.0",
         "PodCruncher/3.7.1 CFNetwork/978.0.7 Darwin/18.7.0"
+      ]
+    },
+    {
+      "name": "poddl - podcast downloader",
+      "description": "a cross platform command line podcast downloader for downloading all, individual, or a range of podcast episodes from an RSS feed.",
+      "pattern": "poddl - podcast downloader",
+      "examples": [
+        "poddl - podcast downloader"
+      ],
+      "urls": [
+        "https://www.fredrikblank.com/poddl/",
+        "https://github.com/freshe/poddl"
       ]
     },
     {
@@ -3096,6 +3120,17 @@
       "examples": [
         "RSSRadio7/9252 CFNetwork/1107.1 Darwin/19.0.0",
         "RSSRadio/9710"
+      ]
+    },
+    {
+      "name": "RSSDemon",
+      "description": "RssDemon is a powerful, clean and easy to use Rss Feed and podcast reader.",
+      "pattern": "com\\.meecel\\.feedreader\\.RssDemonAd",
+      "examples": [
+        "com.meecel.feedreader.RssDemonAd"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.meecel.feedreader.RssDemonAd"
       ]
     },
     {
@@ -3641,6 +3676,18 @@
     {
       "name": "Yapa",
       "pattern": "^yapa/"
+    },
+    {
+      "name": "YouTube Music",
+      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/",
+      "examples": [
+        "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231105.002; Cronet/114.0.5735.84)",
+        "com.google.android.apps.youtube.music/62251340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)",
+        "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)"
+      ],
+      "urls": [
+        "https://music.youtube.com/"
+      ]
     },
     {
       "name": "Zeno",
