@@ -222,6 +222,11 @@
       "category": "app"
     },
     {
+      "name": "Podmust",
+      "pattern": "://podmust\\.com/",
+      "category": "app"
+    },
+    {
       "name": "Podplay",
       "pattern": "podplay\\.com",
       "category": "app"
