@@ -393,7 +393,9 @@
     {
       "name": "Podmust",
       "pattern": "://podmust\\.com/",
-      "examples": ["https://podmust.com/"],
+      "examples": [
+        "https://podmust.com/"
+      ],
       "category": "app"
     },
     {
