@@ -1734,7 +1734,7 @@
     },
     {
       "name": "YouTube Music",
-      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/"
+      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d"
     },
     {
       "name": "Zeno",
