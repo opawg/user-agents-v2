@@ -2601,9 +2601,10 @@
     },
     {
       "name": "Pandora",
-      "pattern": "(^Pandora.+Android| Pandora/)",
+      "pattern": "(^Pandora/| Pandora/)",
       "examples": [
         "Pandora/2009.2 Android/7.1.1 gteslteatt (ExoPlayerLib1.5.14.1)",
+        "Pandora/2179 CFNetwork/1410.0.3 Darwin/22.6.0",
         "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Pandora/2009.2",
         "Mozilla/5.0 (iPad; CPU OS 12_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Pandora/1908.1"
       ]
