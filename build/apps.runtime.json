@@ -1262,7 +1262,7 @@
     },
     {
       "name": "Pandora",
-      "pattern": "(^Pandora.+Android| Pandora/)"
+      "pattern": "(^Pandora/| Pandora/)"
     },
     {
       "name": "Parler",
