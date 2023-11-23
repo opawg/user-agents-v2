@@ -133,14 +133,18 @@
     },
     {
       "name": "Alexa-enabled device",
-      "pattern": "(^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/)",
+      "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo",
       "svg": "amazon.svg",
       "examples": [
         "Echo/1.0(APNG)",
         "AlexaMediaPlayer/vizzini.locked.38.0 (Linux;Android 5.1.1) ExoPlayerLib/1.5.9",
         "AlexaService/2.2.303087.0 (Linux;Android 9) ExoPlayerLib/2.8.4",
         "Alexa Mobile Voice/2.2.2768.0 (Linux;Android 7.0) ExoPlayerLib/2.2.0",
-        "Echo/1.0(MRM)"
+        "Echo/1.0(MRM)",
+        "Amazon;Echo_Dot;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
+        "Amazon;Echo_Dot_with_clock;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
+        "Amazon;Echo_Show_5;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
+        "Amazon;Echo;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422"
       ]
     },
     {
@@ -394,6 +398,16 @@
       "pattern": "^Radio\\.com/",
       "examples": [
         "Radio.com/12.2.0 (com.cbsradio.cbsradioplayer; build:1; iOS 14.6.0) Alamofire/4.8.1"
+      ]
+    },
+    {
+      "name": "Audials",
+      "pattern": "^com\\.audials/",
+      "examples": [
+        "com.audials/9.52.0-0+gb3764950b-1058878988 (Linux;Android 11) AndroidXMedia3/1.1.1"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.audials"
       ]
     },
     {
@@ -2550,13 +2564,14 @@
     },
     {
       "name": "NRC",
-      "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/",
+      "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/|com\\.twipemobile\\.nrc",
       "description": "The free NRC app offers you the latest news and the digital version of the paper newspaper.",
       "examples": [
         "NRC-Nieuws/10.3.1 (nl.nrc.nrcapp; build:210; iOS 16.6.0) Alamofire/10.3.1",
         "iPad (compatible; Tablet2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iPadOS 16.6",
         "iPhone (compatible; Smartphone2.0) NRC Digitale Editie, nl.nrc.nrcapp 10.0.7 (197) / iOS 16.6",
-        "NRC-Nieuws/5.4.0 (com.twipemobile.nrc; build:540; Android:13; Sdk:33; Manufacturer:samsung; Model: SM-A528B) OkHttp/4.11.0"
+        "NRC-Nieuws/5.4.0 (com.twipemobile.nrc; build:540; Android:13; Sdk:33; Manufacturer:samsung; Model: SM-A528B) OkHttp/4.11.0",
+        "SM-T970 (compatible; Tablet2.0) HandelsbladProduction, com.twipemobile.nrc 5.1.4 (511) / Android 33"
       ],
       "urls": [
         "https://www.nrc.nl/app/"
