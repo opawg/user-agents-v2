@@ -66,7 +66,7 @@
     },
     {
       "name": "Alexa-enabled device",
-      "pattern": "(^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/)"
+      "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo"
     },
     {
       "name": "AlienBlue",
@@ -171,6 +171,10 @@
     {
       "name": "Audacy",
       "pattern": "^Radio\\.com/"
+    },
+    {
+      "name": "Audials",
+      "pattern": "^com\\.audials/"
     },
     {
       "name": "Audible",
@@ -1242,7 +1246,7 @@
     },
     {
       "name": "NRC",
-      "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/"
+      "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/|com\\.twipemobile\\.nrc"
     },
     {
       "name": "Outcast",
