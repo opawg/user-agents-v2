@@ -3700,12 +3700,26 @@
         "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231105.002; Cronet/114.0.5735.84)",
         "com.google.android.apps.youtube.music/62251340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)",
         "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)",
+        "com.google.android.apps.youtube.music/62852240 (Linux; U; Android 11; pt_PT; SM-A705FN; Build/RP1A.200720.012; Cronet/120.0.6057.2)",
         "YouTubeMusic/20231020.1.1 CFNetwork/1474 Darwin/23.0.0",
-        "YouTubeMusic/20230915.1.1 CFNetwork/1410.0.3 Darwin/22.6.0"
+        "YouTubeMusic/20230915.1.1 CFNetwork/1410.0.3 Darwin/22.6.0",
+        "YouTubeMusic/6.29.2 CFNetwork/1485 Darwin/23.1.0"
       ],
       "urls": [
         "https://music.youtube.com/"
       ]
+    },
+    {
+      "name": "YouTube Music (ReVanced)",
+      "pattern": "^app\\.revanced\\.android\\.apps\\.youtube\\.music/",
+      "examples": [
+        "app.revanced.android.apps.youtube.music/62852240 (Linux; U; Android 11; pt_BR; Redmi Note 8 Pro; Build/RP1A.200720.011; Cronet/120.0.6057.2)"
+      ],
+      "urls": [
+        "https://revanced.app/patches?pkg=com.google.android.apps.youtube.music",
+        "https://github.com/ReVanced/revanced-patches"
+      ],
+      "comments": "Unofficial 3p-patched version of public apk to block ads, enable premium features"
     },
     {
       "name": "Zeno",
