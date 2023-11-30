@@ -1741,6 +1741,10 @@
       "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d"
     },
     {
+      "name": "YouTube Music (ReVanced)",
+      "pattern": "^app\\.revanced\\.android\\.apps\\.youtube\\.music/"
+    },
+    {
       "name": "Zeno",
       "pattern": "^Zeno$"
     },
