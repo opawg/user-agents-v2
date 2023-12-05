@@ -1349,6 +1349,10 @@
       "pattern": "^Podfriend"
     },
     {
+      "name": "Podgrab",
+      "pattern": "^Podgrab "
+    },
+    {
       "name": "Podhero",
       "pattern": "^Podhero|^Swoot[/ ]"
     },
