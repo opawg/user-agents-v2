@@ -2804,6 +2804,17 @@
       ]
     },
     {
+      "name": "Podgrab",
+      "pattern": "^Podgrab ",
+      "description": "A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.",
+      "urls": [
+        "https://github.com/akhilrex/podgrab"
+      ],
+      "examples": [
+        "Podgrab - docker"
+      ]
+    },
+    {
       "name": "Podhero",
       "pattern": "^Podhero|^Swoot[/ ]",
       "description": "Podhero app on iOS and Android.",
