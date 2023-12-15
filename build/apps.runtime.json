@@ -1237,8 +1237,8 @@
       "pattern": "^Newsly"
     },
     {
-      "name": "NPR One",
-      "pattern": "(^NPR%20One/|^NPROneAndroid)"
+      "name": "NPR",
+      "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid"
     },
     {
       "name": "NRC Audio",

@@ -1967,10 +1967,11 @@
       ]
     },
     {
-      "name": "NPR One",
+      "name": "NPR",
       "examples": [
         "NPR%20One/234 CFNetwork/1197 Darwin/20.0.0",
-        "NPROneAndroid"
+        "NPROneAndroid",
+        "NPR/618 CFNetwork/1485 Darwin/23.1.0"
       ]
     },
     {
