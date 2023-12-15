@@ -1971,7 +1971,8 @@
       "examples": [
         "NPR%20One/234 CFNetwork/1197 Darwin/20.0.0",
         "NPROneAndroid",
-        "NPR/618 CFNetwork/1485 Darwin/23.1.0"
+        "NPR/618 CFNetwork/1485 Darwin/23.1.0",
+        "Dalvik/2.1.0 (Linux; U; Android 13; SM-G991U Build/TP1A.220624.014) nprone_android/3.7.0/OSv:13"
       ]
     },
     {

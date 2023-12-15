@@ -1238,7 +1238,7 @@
     },
     {
       "name": "NPR",
-      "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid"
+      "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid|nprone_android/"
     },
     {
       "name": "NRC Audio",
