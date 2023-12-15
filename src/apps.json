@@ -2546,12 +2546,14 @@
       ]
     },
     {
-      "name": "NPR One",
-      "pattern": "(^NPR%20One/|^NPROneAndroid)",
+      "name": "NPR",
+      "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid",
       "examples": [
         "NPR%20One/234 CFNetwork/1197 Darwin/20.0.0",
-        "NPROneAndroid"
-      ]
+        "NPROneAndroid",
+        "NPR/618 CFNetwork/1485 Darwin/23.1.0"
+      ],
+      "comments": "formerly NPR One: https://www.npr.org/about-npr/1218775096/npr-unifies-mobile-app-experience-for-listeners-sunsets-npr-one-app"
     },
     {
       "name": "NRC Audio",
