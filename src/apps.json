@@ -2547,11 +2547,12 @@
     },
     {
       "name": "NPR",
-      "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid",
+      "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid|nprone_android/",
       "examples": [
         "NPR%20One/234 CFNetwork/1197 Darwin/20.0.0",
         "NPROneAndroid",
-        "NPR/618 CFNetwork/1485 Darwin/23.1.0"
+        "NPR/618 CFNetwork/1485 Darwin/23.1.0",
+        "Dalvik/2.1.0 (Linux; U; Android 13; SM-G991U Build/TP1A.220624.014) nprone_android/3.7.0/OSv:13"
       ],
       "comments": "formerly NPR One: https://www.npr.org/about-npr/1218775096/npr-unifies-mobile-app-experience-for-listeners-sunsets-npr-one-app"
     },
