@@ -964,6 +964,16 @@
       ]
     },
     {
+      "name": "Cooler",
+      "pattern": "^CoolerFM/",
+      "examples": [
+        "CoolerFM/1.0 iPhone/15 +https://cooler.fm"
+      ],
+      "urls": [
+        "https://cooler.fm"
+      ]
+    },
+    {
       "name": "Copied",
       "pattern": "^Copied/",
       "examples": [
