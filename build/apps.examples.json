@@ -745,6 +745,12 @@
       ]
     },
     {
+      "name": "Cooler",
+      "examples": [
+        "CoolerFM/1.0 iPhone/15 +https://cooler.fm"
+      ]
+    },
+    {
       "name": "Copied",
       "examples": [
         "Copied/142 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"

@@ -465,6 +465,10 @@
       "pattern": "^Commotion/"
     },
     {
+      "name": "Cooler",
+      "pattern": "^CoolerFM/"
+    },
+    {
       "name": "Copied",
       "pattern": "^Copied/"
     },
