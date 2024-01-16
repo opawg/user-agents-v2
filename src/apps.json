@@ -2402,6 +2402,16 @@
       ]
     },
     {
+      "name": "Metacast",
+      "pattern": "^Metacast/",
+      "examples": [
+        "Metacast/189 CFNetwork/1485 Darwin/23.1.0"
+      ],
+      "urls": [
+        "https://metacast.app/"
+      ]
+    },
+    {
       "name": "Microsoft Outlook",
       "pattern": "^Outlook-Android/|^Microsoft Office/.*?Microsoft Outlook",
       "examples": [
