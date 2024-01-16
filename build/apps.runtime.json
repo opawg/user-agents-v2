@@ -1173,6 +1173,10 @@
       "pattern": "^Messenger/"
     },
     {
+      "name": "Metacast",
+      "pattern": "^Metacast/"
+    },
+    {
       "name": "Microsoft Outlook",
       "pattern": "^Outlook-Android/|^Microsoft Office/.*?Microsoft Outlook"
     },

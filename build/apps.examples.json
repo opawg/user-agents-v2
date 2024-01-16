@@ -1859,6 +1859,12 @@
       ]
     },
     {
+      "name": "Metacast",
+      "examples": [
+        "Metacast/189 CFNetwork/1485 Darwin/23.1.0"
+      ]
+    },
+    {
       "name": "Microsoft Outlook",
       "examples": [
         "Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.16130; Pro)",
