@@ -482,6 +482,18 @@
       "category": "host"
     },
     {
+      "name": "TrueFans",
+      "pattern": "://(pod|true)fans\\.fm/",
+      "examples": [
+        "https://truefans.fm/",
+        "https://podfans.fm/"
+      ],
+      "urls": [
+        "https://truefans.fm/"
+      ],
+      "category": "app"
+    },
+    {
       "name": "TuneIn",
       "pattern": "^https://tunein\\.com/",
       "examples": [
