@@ -362,6 +362,13 @@
       ]
     },
     {
+      "name": "TrueFans",
+      "examples": [
+        "https://truefans.fm/",
+        "https://podfans.fm/"
+      ]
+    },
+    {
       "name": "TuneIn",
       "examples": [
         "https://tunein.com/"
