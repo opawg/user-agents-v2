@@ -133,6 +133,11 @@
       "pattern": "^https://www\\.listennotes\\.com/"
     },
     {
+      "name": "LN Beats",
+      "pattern": "://lnbeats\\.com/",
+      "category": "app"
+    },
+    {
       "name": "Luminary",
       "pattern": "://luminarypodcasts\\.com/",
       "category": "app"
