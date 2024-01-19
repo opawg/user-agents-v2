@@ -232,6 +232,17 @@
       ]
     },
     {
+      "name": "LN Beats",
+      "pattern": "://lnbeats\\.com/",
+      "examples": [
+        "https://lnbeats.com/"
+      ],
+      "urls": [
+        "https://lnbeats.com/"
+      ],
+      "category": "app"
+    },
+    {
       "name": "Luminary",
       "pattern": "://luminarypodcasts\\.com/",
       "examples": [
