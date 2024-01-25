@@ -421,6 +421,16 @@
         "https://github.com/google/ExoPlayer"
       ],
       "comments": "Must match after react-native-track-player. Unable to track down where everyone is copying yourApplicationName from, there are several small exoplayer examples with similar code."
+    },
+    {
+      "name": "ESP32 HTTP Client",
+      "pattern": "^ESP32 HTTP Client/",
+      "examples": [
+        "ESP32 HTTP Client/1.0"
+      ],
+      "urls": [
+        "https://github.com/espressif/arduino-esp32"
+      ]
     }
   ]
 }
