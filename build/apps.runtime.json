@@ -1774,15 +1774,15 @@
     },
     {
       "name": "talkSPORT app",
-      "pattern": "(^talkSPORT.+Android|^talkSPORT.+Darwin)"
+      "pattern": "^talkSPORT/"
     },
     {
       "name": "Times Radio app",
-      "pattern": "(^Times%20Radio.+Android|^Times\\sRadio.+Android|^Times%20Radio.+Darwin|^Times\\sRadio.+Darwin)"
+      "pattern": "^Times(%20|\\s)Radio"
     },
     {
       "name": "Virgin Radio app",
-      "pattern": "(^Virgin%20Radio.+Android|^Virgin\\sRadio.+Android|^Virgin%20Radio.+Darwin|^Virgin\\sRadio.+Darwin)"
+      "pattern": "^Virgin(%20|\\s)Radio"
     }
   ]
 }
