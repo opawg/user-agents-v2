@@ -197,6 +197,10 @@
     {
       "name": "ExoPlayer (Android)",
       "pattern": " ExoPlayerLib/"
+    },
+    {
+      "name": "ESP32 HTTP Client",
+      "pattern": "^ESP32 HTTP Client/"
     }
   ]
 }

@@ -231,6 +231,12 @@
         "yourApplicationName/2.21.9 (Linux;Android 11) ExoPlayerLib/2.14.0",
         "ExoPlayerLib/2.14.0 (Linux; Android 12) ExoPlayerLib/2.14.0"
       ]
+    },
+    {
+      "name": "ESP32 HTTP Client",
+      "examples": [
+        "ESP32 HTTP Client/1.0"
+      ]
     }
   ]
 }
