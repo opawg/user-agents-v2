@@ -206,7 +206,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler"
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News"
     },
     {
       "name": "Gumball",
