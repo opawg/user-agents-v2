@@ -1638,7 +1638,7 @@
     },
     {
       "name": "The Economist",
-      "pattern": "(^lamarr-iOS|^TheEconomist-Lamarr-ios|^lamarr-android|^TheEconomist-Lamarr-android)"
+      "pattern": "(^lamarr-iOS|^TheEconomist-Lamarr-ios|^TheEconomist-Lamarr-iOS|^lamarr-android|^TheEconomist-Lamarr-android)"
     },
     {
       "name": "The Podcast App",
