@@ -3794,7 +3794,7 @@
     },
     {
       "name": "talkSPORT app",
-      "pattern": "(^talkSPORT.+Android|^talkSPORT.+Darwin)",
+      "pattern": "^talkSPORT/",
       "examples": [
         "talkSPORT/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
         "talkSPORT/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0"
@@ -3802,7 +3802,7 @@
     },
     {
       "name": "Times Radio app",
-      "pattern": "(^Times%20Radio.+Android|^Times\\sRadio.+Android|^Times%20Radio.+Darwin|^Times\\sRadio.+Darwin)",
+      "pattern": "^Times(%20|\\s)Radio",
       "examples": [
         "Times%20Radio/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
         "Times%20Radio/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
@@ -3811,7 +3811,7 @@
     },
     {
       "name": "Virgin Radio app",
-      "pattern": "(^Virgin%20Radio.+Android|^Virgin\\sRadio.+Android|^Virgin%20Radio.+Darwin|^Virgin\\sRadio.+Darwin)",
+      "pattern": "^Virgin(%20|\\s)Radio",
       "examples": [
         "Virgin%20Radio/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
         "Virgin%20Radio/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
