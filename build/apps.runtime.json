@@ -1771,6 +1771,18 @@
     {
       "name": "KAIOS podcast app",
       "pattern": ".*KAIOS/"
+    },
+    {
+      "name": "talkSPORT app",
+      "pattern": "(^talkSPORT.+Android|^talkSPORT.+Darwin)"
+    },
+    {
+      "name": "Times Radio app",
+      "pattern": "(^Times%20Radio.+Android|^Times\\sRadio.+Android|^Times%20Radio.+Darwin|^Times\\sRadio.+Darwin)"
+    },
+    {
+      "name": "Virgin Radio app",
+      "pattern": "(^Virgin%20Radio.+Android|^Virgin\\sRadio.+Android|^Virgin%20Radio.+Darwin|^Virgin\\sRadio.+Darwin)"
     }
   ]
 }

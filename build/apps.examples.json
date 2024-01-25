@@ -2780,6 +2780,29 @@
       "examples": [
         "Mozilla/5.0 (Mobile; LYF/F271i/LYF_F271i-000-01-20-101019; Android; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5"
       ]
+    },
+    {
+      "name": "talkSPORT app",
+      "examples": [
+        "talkSPORT/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
+        "talkSPORT/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0"
+      ]
+    },
+    {
+      "name": "Times Radio app",
+      "examples": [
+        "Times%20Radio/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
+        "Times%20Radio/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
+        "Times%20Radio/45.2.0.22025 / (Linux; Android 13) ExoPlayerLib/2.17.1 / samsung (SM-A145R)"
+      ]
+    },
+    {
+      "name": "Virgin Radio app",
+      "examples": [
+        "Virgin%20Radio/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
+        "Virgin%20Radio/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
+        "Virgin%20Radio/45.2.0.22026 / (Linux; Android 14) ExoPlayerLib/2.17.1 / samsung (SM-G996B)"
+      ]
     }
   ]
 }
