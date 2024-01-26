@@ -3794,10 +3794,11 @@
     },
     {
       "name": "talkSPORT app",
-      "pattern": "^talkSPORT/",
+      "pattern": "^talkS(PORT|port)/",
       "examples": [
         "talkSPORT/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
-        "talkSPORT/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0"
+        "talkSPORT/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
+        "talkSport/45.2.1./iOS 17.2.1/iPhone iPhone"
       ]
     },
     {
