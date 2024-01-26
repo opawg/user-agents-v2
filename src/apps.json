@@ -3817,6 +3817,15 @@
         "Virgin%20Radio/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
         "Virgin%20Radio/45.2.0.22026 / (Linux; Android 14) ExoPlayerLib/2.17.1 / samsung (SM-G996B)"
       ]
+    },
+    {
+      "name": "Global Player",
+      "pattern": "^Global Player/",
+      "examples": [
+        "Global Player/119.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "Global Player/119.0 (iPad; CPU iPad OS 17_2 like Mac OS X)",
+        "Global Player/78.0.0 Android 14/samsung SM-S911B"
+      ]
     }
   ]
 }
