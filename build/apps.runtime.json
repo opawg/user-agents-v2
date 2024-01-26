@@ -1774,7 +1774,7 @@
     },
     {
       "name": "talkSPORT app",
-      "pattern": "^talkSPORT/"
+      "pattern": "^talkS(PORT|port)/"
     },
     {
       "name": "Times Radio app",
@@ -1783,6 +1783,10 @@
     {
       "name": "Virgin Radio app",
       "pattern": "^Virgin(%20|\\s)Radio"
+    },
+    {
+      "name": "Global Player",
+      "pattern": "^Global Player/"
     }
   ]
 }
