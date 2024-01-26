@@ -3794,10 +3794,11 @@
     },
     {
       "name": "talkSPORT app",
-      "pattern": "^talkSPORT/",
+      "pattern": "^talkS(PORT|port)/",
       "examples": [
         "talkSPORT/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
-        "talkSPORT/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0"
+        "talkSPORT/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
+        "talkSport/45.2.1./iOS 17.2.1/iPhone iPhone"
       ]
     },
     {
@@ -3816,6 +3817,15 @@
         "Virgin%20Radio/x.x.x.xxx.xxx (Linux; Android x) ExoPlayerLib/x.xx.x",
         "Virgin%20Radio/xxxxxxxxxxx CFNetwork/1126 Darwin/19.5.0",
         "Virgin%20Radio/45.2.0.22026 / (Linux; Android 14) ExoPlayerLib/2.17.1 / samsung (SM-G996B)"
+      ]
+    },
+    {
+      "name": "Global Player",
+      "pattern": "^Global Player/",
+      "examples": [
+        "Global Player/119.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "Global Player/119.0 (iPad; CPU iPad OS 17_2 like Mac OS X)",
+        "Global Player/78.0.0 Android 14/samsung SM-S911B"
       ]
     }
   ]
