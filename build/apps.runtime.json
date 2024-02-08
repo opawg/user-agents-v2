@@ -1174,7 +1174,7 @@
     },
     {
       "name": "Metacast",
-      "pattern": "^Metacast/"
+      "pattern": "^Metacast(/.*)?$"
     },
     {
       "name": "Microsoft Outlook",
