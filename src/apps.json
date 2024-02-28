@@ -402,9 +402,10 @@
     },
     {
       "name": "Audials",
-      "pattern": "^com\\.audials/",
+      "pattern": "^com\\.audials(\\.paid)?/",
       "examples": [
-        "com.audials/9.52.0-0+gb3764950b-1058878988 (Linux;Android 11) AndroidXMedia3/1.1.1"
+        "com.audials/9.52.0-0+gb3764950b-1058878988 (Linux;Android 11) AndroidXMedia3/1.1.1",
+        "com.audials.paid/9.54.2-0+gd5b7eebd0-1117772855 (Linux;Android 14) AndroidXMedia3/1.2.0"
       ],
       "urls": [
         "https://play.google.com/store/apps/details?id=com.audials"
@@ -3051,6 +3052,17 @@
       ]
     },
     {
+      "name": "Pypodder",
+      "description": "A scriptable podcatcher written in python 3",
+      "pattern": "^pypodder$",
+      "examples": [
+        "pypodder"
+      ],
+      "urls": [
+        "https://github.com/Northcode/pypodder"
+      ]
+    },
+    {
       "name": "Radio Downloader",
       "pattern": "^Podcast Provider.*?Radio Downloader",
       "description": "An easy to use application for managing podcast subscriptions and downloads.",
@@ -3388,6 +3400,17 @@
     {
       "name": "Storiyoh",
       "pattern": "^Storiyoh/"
+    },
+    {
+      "name": "Storybutton",
+      "description": "An audio player device for kids",
+      "pattern": "^Storybutton/",
+      "examples": [
+        "Storybutton/1.0"
+      ],
+      "urls": [
+        "https://storybutton.com/"
+      ]
     },
     {
       "name": "StoryShots",

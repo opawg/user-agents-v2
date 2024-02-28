@@ -82,6 +82,18 @@
       "category": "bot"
     },
     {
+      "name": "Bun",
+      "description": "A fast all-in-one JavaScript runtime and toolkit",
+      "pattern": "^Bun/\\d",
+      "examples": [
+        "Bun/1.0.7"
+      ],
+      "urls": [
+        "https://bun.sh/"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "CarrierWave (ruby)",
       "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
       "pattern": "^CarrierWave/",

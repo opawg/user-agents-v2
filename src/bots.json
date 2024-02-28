@@ -483,6 +483,17 @@
       "comments": "Institut National de l'Audiovisuel is a repository of all French radio and television audiovisual archives."
     },
     {
+      "name": "Library and Archives Canada",
+      "description": "The Web and Social Media Preservation Program at Library and Archives Canada (LAC) acquires Canadian web resources for the purposes of digital preservation and makes them available to the public via the Government of Canada Web Archive (GCWA) for future research.",
+      "pattern": "LAC_IAHarvester/",
+      "examples": [
+        "Mozilla/5.0 (compatible; LAC_IAHarvester/3.3.0; +https://library-archives.canada.ca/eng/services/government-canada/web-social-media-preservation-program/Pages/web-archive.aspx)"
+      ],
+      "urls": [
+        "https://library-archives.canada.ca/eng/services/government-canada/web-social-media-preservation-program/Pages/web-archive.aspx"
+      ]
+    },
+    {
       "name": "Libsyn",
       "pattern": "^Libsyn4",
       "examples": [
