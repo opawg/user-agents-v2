@@ -425,6 +425,10 @@
       "pattern": "qiniu.*spider"
     },
     {
+      "name": "Radioline Stream Monitoring",
+      "pattern": "^Radioline Stream Monitoring"
+    },
+    {
       "name": "RedCircle",
       "pattern": "RedCircle"
     },
