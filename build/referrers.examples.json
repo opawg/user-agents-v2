@@ -141,6 +141,12 @@
       ]
     },
     {
+      "name": "iVoox",
+      "examples": [
+        "https://www.ivoox.com/"
+      ]
+    },
+    {
       "name": "Jam",
       "examples": [
         "https://www.jam.ai/"
@@ -329,6 +335,12 @@
       "name": "Podvine",
       "examples": [
         "https://podvine.com/"
+      ]
+    },
+    {
+      "name": "Radioline",
+      "examples": [
+        "https://www.radioline.co/"
       ]
     },
     {
