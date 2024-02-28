@@ -192,6 +192,14 @@
       "category": "app"
     },
     {
+      "name": "iVoox",
+      "pattern": "://www\\.ivoox\\.com/",
+      "examples": [
+        "https://www.ivoox.com/"
+      ],
+      "category": "app"
+    },
+    {
       "name": "Jam",
       "pattern": "://www\\.jam\\.ai/",
       "examples": [
@@ -422,7 +430,8 @@
       "pattern": "^https://podtail\\.com/",
       "examples": [
         "https://podtail.com/"
-      ]
+      ],
+      "category": "app"
     },
     {
       "name": "Podverse",
@@ -444,6 +453,14 @@
     {
       "name": "Podyssey",
       "pattern": "^https://podyssey\\.fm/",
+      "category": "app"
+    },
+    {
+      "name": "Radioline",
+      "pattern": "://www\\.radioline\\.co/",
+      "examples": [
+        "https://www.radioline.co/"
+      ],
       "category": "app"
     },
     {
