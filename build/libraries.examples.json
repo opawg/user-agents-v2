@@ -43,6 +43,12 @@
       ]
     },
     {
+      "name": "Bun",
+      "examples": [
+        "Bun/1.0.7"
+      ]
+    },
+    {
       "name": "CarrierWave (ruby)",
       "examples": [
         "CarrierWave/2.2.4"

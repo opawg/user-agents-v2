@@ -233,6 +233,10 @@
       "pattern": "INA dlweb"
     },
     {
+      "name": "Library and Archives Canada",
+      "pattern": "LAC_IAHarvester/"
+    },
+    {
       "name": "Libsyn",
       "pattern": "^Libsyn4"
     },

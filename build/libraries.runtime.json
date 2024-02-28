@@ -33,6 +33,11 @@
       "category": "bot"
     },
     {
+      "name": "Bun",
+      "pattern": "^Bun/\\d",
+      "category": "bot"
+    },
+    {
       "name": "CarrierWave (ruby)",
       "pattern": "^CarrierWave/",
       "category": "bot"

@@ -321,7 +321,8 @@
     {
       "name": "Audials",
       "examples": [
-        "com.audials/9.52.0-0+gb3764950b-1058878988 (Linux;Android 11) AndroidXMedia3/1.1.1"
+        "com.audials/9.52.0-0+gb3764950b-1058878988 (Linux;Android 11) AndroidXMedia3/1.1.1",
+        "com.audials.paid/9.54.2-0+gd5b7eebd0-1117772855 (Linux;Android 14) AndroidXMedia3/1.2.0"
       ]
     },
     {
@@ -2292,6 +2293,12 @@
       ]
     },
     {
+      "name": "Pypodder",
+      "examples": [
+        "pypodder"
+      ]
+    },
+    {
       "name": "Radio Downloader",
       "examples": [
         "Podcast Provider 0.34-9e9009e7 for Radio Downloader 0.34-9e9009e7"
@@ -2506,6 +2513,12 @@
       "examples": [
         "Stoler%20Report/1.4 CFNetwork/672.1.14 Darwin/14.0.0",
         "Stoler Report/1.4 CFNetwork/672.1.14 Darwin/14.0.0"
+      ]
+    },
+    {
+      "name": "Storybutton",
+      "examples": [
+        "Storybutton/1.0"
       ]
     },
     {

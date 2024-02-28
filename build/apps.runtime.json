@@ -174,7 +174,7 @@
     },
     {
       "name": "Audials",
-      "pattern": "^com\\.audials/"
+      "pattern": "^com\\.audials(\\.paid)?/"
     },
     {
       "name": "Audible",
@@ -1449,6 +1449,10 @@
       "pattern": "^PugpigBolt "
     },
     {
+      "name": "Pypodder",
+      "pattern": "^pypodder$"
+    },
+    {
       "name": "Radio Downloader",
       "pattern": "^Podcast Provider.*?Radio Downloader"
     },
@@ -1595,6 +1599,10 @@
     {
       "name": "Storiyoh",
       "pattern": "^Storiyoh/"
+    },
+    {
+      "name": "Storybutton",
+      "pattern": "^Storybutton/"
     },
     {
       "name": "StoryShots",
