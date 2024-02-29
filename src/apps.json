@@ -930,13 +930,6 @@
       ]
     },
     {
-      "name": "Classic FM",
-      "pattern": "^Classic FM/",
-      "examples": [
-        "Classic FM/1563188702 CFNetwork/978.0.7 Darwin/18.7.0"
-      ]
-    },
-    {
       "name": "Client",
       "pattern": "^Client/",
       "examples": [
@@ -1613,13 +1606,6 @@
       ]
     },
     {
-      "name": "Gold",
-      "pattern": "^Gold/",
-      "examples": [
-        "Gold/1528207522 CFNetwork/902.2 Darwin/17.7.0"
-      ]
-    },
-    {
       "name": "GoldenPod",
       "pattern": "^GoldenPod/",
       "examples": [
@@ -1780,13 +1766,6 @@
       ],
       "examples": [
         "Hark/10678 CFNetwork/1335.0.3 Darwin/21.6.0"
-      ]
-    },
-    {
-      "name": "Heart",
-      "pattern": "^Heart/",
-      "examples": [
-        "Heart/1528207522 CFNetwork/897.15 Darwin/17.5.0"
       ]
     },
     {
@@ -2229,13 +2208,6 @@
       "pattern": "^Laughable.+iOS|^Laughable/",
       "examples": [
         "Laughable/2.1.6.1 CFNetwork/808.1.4 Darwin/16.1.0"
-      ]
-    },
-    {
-      "name": "LBC",
-      "pattern": "^LBC/",
-      "examples": [
-        "LBC/1544724632 CFNetwork/811.5.4 Darwin/16.7.0"
       ]
     },
     {
