@@ -722,12 +722,6 @@
       ]
     },
     {
-      "name": "Classic FM",
-      "examples": [
-        "Classic FM/1563188702 CFNetwork/978.0.7 Darwin/18.7.0"
-      ]
-    },
-    {
       "name": "Client",
       "examples": [
         "Client/16042 CFNetwork/1098.7 Darwin/19.0.0"
@@ -1257,12 +1251,6 @@
       ]
     },
     {
-      "name": "Gold",
-      "examples": [
-        "Gold/1528207522 CFNetwork/902.2 Darwin/17.7.0"
-      ]
-    },
-    {
       "name": "GoldenPod",
       "examples": [
         "GoldenPod/0.8.4 (GNU/Linux; podcatcher; Using LWP) libwwwperl"
@@ -1383,12 +1371,6 @@
       "name": "Hark Audio",
       "examples": [
         "Hark/10678 CFNetwork/1335.0.3 Darwin/21.6.0"
-      ]
-    },
-    {
-      "name": "Heart",
-      "examples": [
-        "Heart/1528207522 CFNetwork/897.15 Darwin/17.5.0"
       ]
     },
     {
@@ -1734,12 +1716,6 @@
       "name": "Laughable",
       "examples": [
         "Laughable/2.1.6.1 CFNetwork/808.1.4 Darwin/16.1.0"
-      ]
-    },
-    {
-      "name": "LBC",
-      "examples": [
-        "LBC/1544724632 CFNetwork/811.5.4 Darwin/16.7.0"
       ]
     },
     {
@@ -2330,6 +2306,15 @@
       ]
     },
     {
+      "name": "RadioPlayer",
+      "examples": [
+        "Radioplayer/7.7.4.100 ios/17.2.1 AVPlayer/5.0.0 (Swift) Radioplayer Worldwide Ltd",
+        "Radioplayer/7.7.4.100 android/13 ExoPlayer/2.18.1 Radioplayer Worldwide Ltd",
+        "Radioplayer/100 CFNetwork/1490.0.4 Darwin/23.2.0",
+        "Radioplayer%20UK/815 CFNetwork/1490.0.4 Darwin/23.2.0"
+      ]
+    },
+    {
       "name": "RadioPublic",
       "examples": [
         "RadioPublic/android-2.2",
@@ -2824,7 +2809,27 @@
       "examples": [
         "Global Player/119.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
         "Global Player/119.0 (iPad; CPU iPad OS 17_2 like Mac OS X)",
-        "Global Player/78.0.0 Android 14/samsung SM-S911B"
+        "Global Player/78.0.0 Android 14/samsung SM-S911B",
+        "Radio X/120.1 (iPhone; CPU iPhone OS 16_1 like Mac OS X)",
+        "Capital XTRA/119.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X)",
+        "Capital FM/78.1.0 Android 14/samsung SM-S901B",
+        "Smooth/121.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X)",
+        "LBC/91 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "LBC/120.1 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "LBC/67.0.0 Android 13/samsung SM-A135F",
+        "Heart/120.1 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "Heart/69.0.0 Android 11/samsung SM-A405FN",
+        "Classic FM/120.1 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "Classic FM/78.0.0 Android 11/samsung SM-A202F",
+        "Gold/120.1 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X)",
+        "Gold/78.1.0 Android 14/samsung SM-S911B"
+      ]
+    },
+    {
+      "name": "TalkRadio",
+      "examples": [
+        "Talk%20Radio/45.2.1./iOS 17.2.1/iPhone iPhone",
+        "Talk%20Radio/45.2.1./iPadOS 15.8/iPad 3)"
       ]
     }
   ]

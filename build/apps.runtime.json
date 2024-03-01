@@ -445,10 +445,6 @@
       "pattern": "^Clammr/"
     },
     {
-      "name": "Classic FM",
-      "pattern": "^Classic FM/"
-    },
-    {
       "name": "Client",
       "pattern": "^Client/"
     },
@@ -793,10 +789,6 @@
       "pattern": "^Godster/"
     },
     {
-      "name": "Gold",
-      "pattern": "^Gold/"
-    },
-    {
       "name": "GoldenPod",
       "pattern": "^GoldenPod/"
     },
@@ -871,10 +863,6 @@
     {
       "name": "Hark Audio",
       "pattern": "^Hark/"
-    },
-    {
-      "name": "Heart",
-      "pattern": "^Heart/"
     },
     {
       "name": "HermesPod",
@@ -1079,10 +1067,6 @@
     {
       "name": "Laughable",
       "pattern": "^Laughable.+iOS|^Laughable/"
-    },
-    {
-      "name": "LBC",
-      "pattern": "^LBC/"
     },
     {
       "name": "Leaf",
@@ -1466,7 +1450,7 @@
     },
     {
       "name": "RadioPlayer",
-      "pattern": "(^Radioplayer Android app|^Radioplayer iOS app)"
+      "pattern": "(^Radioplayer Android app|^Radioplayer iOS app)|^Radioplayer(%20UK)?/"
     },
     {
       "name": "RadioPublic",
@@ -1794,7 +1778,11 @@
     },
     {
       "name": "Global Player",
-      "pattern": "^Global Player/"
+      "pattern": "^Global Player/|^Radio X/|^Capital (XTRA|FM)/|^Smooth/|^LBC/|^Heart/|^Classic FM/|^Gold/"
+    },
+    {
+      "name": "TalkRadio",
+      "pattern": "^Talk%20Radio/"
     }
   ]
 }
