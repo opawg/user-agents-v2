@@ -3823,6 +3823,7 @@
     },
     {
       "name": "Global Player",
+      "description": "Global Player also powers many station-branded apps such as LBC, Heart, and Classic FM",
       "pattern": "^Global Player/|^Radio X/|^Capital (XTRA|FM)/|^Smooth/|^LBC/|^Heart/|^Classic FM/|^Gold/",
       "urls": [
         "https://www.globalplayer.com/"
