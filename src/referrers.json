@@ -169,7 +169,7 @@
     },
     {
       "name": "Headliner",
-      "pattern": "^https\\://make\\.headliner\\.app/",
+      "pattern": "^https\\://(make\\.)?headliner\\.(app|link)/",
       "examples": [
         "https://make.headliner.app/"
       ],
