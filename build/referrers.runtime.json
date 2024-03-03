@@ -95,7 +95,7 @@
     },
     {
       "name": "Headliner",
-      "pattern": "^https\\://(make\\.)?headliner\\.(app|link)/",
+      "pattern": "^https\\://((make|disco|eddy|play)\\.)?headliner\\.(app|link)/",
       "category": "app"
     },
     {
