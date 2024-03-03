@@ -169,9 +169,12 @@
     },
     {
       "name": "Headliner",
-      "pattern": "^https\\://(make\\.)?headliner\\.(app|link)/",
+      "pattern": "^https\\://((make|disco|eddy|play)\\.)?headliner\\.(app|link)/",
       "examples": [
-        "https://make.headliner.app/"
+        "https://make.headliner.app/",
+        "https://disco.headliner.link/",
+        "https://eddy.headliner.app/",
+        "https://play.headliner.app/"
       ],
       "category": "app"
     },
