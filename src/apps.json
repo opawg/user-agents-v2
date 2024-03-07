@@ -1876,7 +1876,7 @@
       ]
     },
     {
-      "name": "iCatcher",
+      "name": "iCatcher!",
       "pattern": "^i[Cc]atcher|\\(iCatcher",
       "examples": [
         "icatcher/4506 CFNetwork/609.1.4 Darwin/13.0.0",
@@ -2454,7 +2454,7 @@
       ]
     },
     {
-      "name": "MoonFM",
+      "name": "Moon FM",
       "pattern": "^Moon ?FM/",
       "examples": [
         "MoonFM/128 CFNetwork/978.0.7 Darwin/18.7.0",
@@ -2836,7 +2836,7 @@
       ]
     },
     {
-      "name": "PodKast app",
+      "name": "PodKast",
       "pattern": ".*PodKast$",
       "description": "PodKast is a podcast app available for KaiOS smartphones",
       "examples": [
@@ -3153,7 +3153,7 @@
       ]
     },
     {
-      "name": "RSS Radio",
+      "name": "RSSRadio",
       "pattern": "^RSSRadio",
       "urls": [
         "http://rssrad.io"
@@ -3488,7 +3488,7 @@
       ]
     },
     {
-      "name": "The Podcast App",
+      "name": "Podcast App",
       "pattern": "^ThePodcastApp|iOS.*The Podcast App/|com\\.evolve\\.podcast/|^podcast/\\d* |^PodcastApp/\\d",
       "examples": [
         "ThePodcastApp/6.23.0 (iPhone; iOS 15.6.1; ) player (build 6272; +https://podcast.app/)",
