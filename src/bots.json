@@ -62,6 +62,16 @@
       ]
     },
     {
+      "name": "All Ears",
+      "pattern": "^AllEars/",
+      "examples": [
+        "AllEars/1.0; (+www.allears.ai)"
+      ],
+      "urls": [
+        "https://allears.ai"
+      ]
+    },
+    {
       "name": "Amazon Music Podcasts Bot",
       "pattern": "^Amazon Music Podcast",
       "description": "A music and podcasts streaming app",
