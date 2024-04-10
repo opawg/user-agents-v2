@@ -33,6 +33,12 @@
       ]
     },
     {
+      "name": "All Ears",
+      "examples": [
+        "AllEars/1.0; (+www.allears.ai)"
+      ]
+    },
+    {
       "name": "Anchor Importer",
       "examples": [
         "AnchorImport/1.0"

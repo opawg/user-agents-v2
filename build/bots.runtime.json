@@ -25,6 +25,10 @@
       "pattern": "^Alignabot"
     },
     {
+      "name": "All Ears",
+      "pattern": "^AllEars/"
+    },
+    {
       "name": "Amazon Music Podcasts Bot",
       "pattern": "^Amazon Music Podcast"
     },
