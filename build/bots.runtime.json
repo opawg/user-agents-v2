@@ -393,6 +393,10 @@
       "pattern": "^pdrl\\.fm "
     },
     {
+      "name": "Podscan Bot",
+      "pattern": "^PodscanBot/"
+    },
+    {
       "name": "Podscribe",
       "pattern": "(^Adswizz-podscribe/|^Podscribe/)"
     },
