@@ -825,6 +825,17 @@
       ]
     },
     {
+      "name": "Podscan Bot",
+      "pattern": "^PodscanBot/",
+      "examples": [
+        "PodscanBot/1.1.0 Ubuntu/22.04 (Linux) +https://podscan.fm",
+        "PodscanBot/1.1.0 Ubuntu/22.04 (Linux) Podscan.fm"
+      ],
+      "urls": [
+        "https://podscan.fm"
+      ]
+    },
+    {
       "name": "Podscribe",
       "pattern": "(^Adswizz-podscribe/|^Podscribe/)",
       "examples": [
