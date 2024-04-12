@@ -513,6 +513,10 @@
       "pattern": "^Tiny Tiny RSS/"
     },
     {
+      "name": "Transistor",
+      "pattern": "^Transistor\\.fm/"
+    },
+    {
       "name": "Trendsmap Resolver",
       "pattern": "TrendsmapResolver/"
     },

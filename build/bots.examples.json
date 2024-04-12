@@ -647,6 +647,12 @@
       ]
     },
     {
+      "name": "Transistor",
+      "examples": [
+        "Transistor.fm/1.0"
+      ]
+    },
+    {
       "name": "Twingly Bot",
       "examples": [
         "Mozilla/5.0 (compatible; Twingly Recon; twingly.com)"
