@@ -1059,6 +1059,16 @@
       "comments": "Found autodownloading hundreds of episodes from an entire feed in rapid succession"
     },
     {
+      "name": "Transistor",
+      "pattern": "^Transistor\\.fm/",
+      "examples": [
+        "Transistor.fm/1.0"
+      ],
+      "urls": [
+        "https://transistor.fm"
+      ]
+    },
+    {
       "name": "Trendsmap Resolver",
       "pattern": "TrendsmapResolver/"
     },
