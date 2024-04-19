@@ -1769,6 +1769,19 @@
       ]
     },
     {
+      "name": "Headliner",
+      "pattern": "^Headliner/.*\\(Headliner-.*\\+https://www\\.headliner\\.app\\)$",
+      "description": "Variety of tools to help promote and drive listens to a podcast.",
+      "urls": [
+        "https://play.headliner.app/",
+        "https://www.headliner.app/publisher-widgets/"
+      ],
+      "examples": [
+        "Headliner/1.0.0 (Headliner-Play/1.0.0; +https://www.headliner.app)",
+        "Headliner/1.0.0 (Headliner-Disco/1.0.0; +https://www.headliner.app)"
+      ]
+    },
+    {
       "name": "HermesPod",
       "pattern": "hermespod\\.com/",
       "description": "HermesPod is the easiest way to subscribe, download and listen to podcasts. It's a Windows app.",

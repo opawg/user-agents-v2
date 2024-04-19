@@ -452,8 +452,8 @@
     },
     {
       "name": "Headliner",
-      "pattern": "Headliner/",
-      "comments": "A tool that takes audio to reformat it for video platforms",
+      "pattern": "^Headliner/.*\\+https://headliner\\.app$",
+      "comments": "Variety of tools to help promote and drive listens to a podcast.",
       "examples": [
         "Headliner/1.0.0 +https://headliner.app"
       ]
