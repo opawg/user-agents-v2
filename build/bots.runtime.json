@@ -218,7 +218,7 @@
     },
     {
       "name": "Headliner",
-      "pattern": "Headliner/"
+      "pattern": "^Headliner/.*\\+https://headliner\\.app$"
     },
     {
       "name": "HubSpot Crawler",

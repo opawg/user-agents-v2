@@ -1374,6 +1374,13 @@
       ]
     },
     {
+      "name": "Headliner",
+      "examples": [
+        "Headliner/1.0.0 (Headliner-Play/1.0.0; +https://www.headliner.app)",
+        "Headliner/1.0.0 (Headliner-Disco/1.0.0; +https://www.headliner.app)"
+      ]
+    },
+    {
       "name": "HermesPod",
       "examples": [
         "hermespod.com/v1.5.x"

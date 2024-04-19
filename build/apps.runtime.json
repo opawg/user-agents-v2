@@ -865,6 +865,10 @@
       "pattern": "^Hark/"
     },
     {
+      "name": "Headliner",
+      "pattern": "^Headliner/.*\\(Headliner-.*\\+https://www\\.headliner\\.app\\)$"
+    },
+    {
       "name": "HermesPod",
       "pattern": "hermespod\\.com/"
     },
