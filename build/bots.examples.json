@@ -106,6 +106,12 @@
       ]
     },
     {
+      "name": "Beacon Podcast Sync",
+      "examples": [
+        "Beacon/1.0 Podcast Sync +https://getbeacons.com/"
+      ]
+    },
+    {
       "name": "British Library",
       "examples": [
         "bl.uk_ldfc_bot/3.4.0-20200518 ( http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)"
@@ -272,7 +278,8 @@
         "Googlebot-Image/1.0",
         "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)",
         "google-xrawler",
-        "Googlebot-News Audio"
+        "Googlebot-News Audio",
+        "Google-Safety"
       ]
     },
     {
@@ -298,6 +305,13 @@
       "examples": [
         "Mozilla/5.0 (compatible; special_archiver; Archive-It; http://archive-it.org/files/site-owners-special.html)",
         "ia_archiver-web.archive.org"
+      ]
+    },
+    {
+      "name": "IPFS Podcasting Node",
+      "examples": [
+        "IPFS Podcasting Node/0.6n (+https://ipfspodcasting.net)",
+        "IPFS Podcasting Node/0.7p,u,s (+https://ipfspodcasting.net)"
       ]
     },
     {
@@ -656,6 +670,12 @@
       "name": "Transistor",
       "examples": [
         "Transistor.fm/1.0"
+      ]
+    },
+    {
+      "name": "Triton Digital Podcast Sync",
+      "examples": [
+        "Triton Digital Podcast Sync"
       ]
     },
     {

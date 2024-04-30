@@ -81,6 +81,10 @@
       "pattern": "^bbot/"
     },
     {
+      "name": "Beacon Podcast Sync",
+      "pattern": "^Beacon/\\d"
+    },
+    {
       "name": "British Library",
       "pattern": "^bl\\.uk_ldfc_bot"
     },
@@ -214,7 +218,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News"
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$"
     },
     {
       "name": "Gumball",
@@ -231,6 +235,10 @@
     {
       "name": "Internet Archive",
       "pattern": "Archive-It;|web\\.archive\\.org"
+    },
+    {
+      "name": "IPFS Podcasting Node",
+      "pattern": "^IPFS Podcasting Node/"
     },
     {
       "name": "Jaunt",
@@ -523,6 +531,10 @@
     {
       "name": "Trendsmap Resolver",
       "pattern": "TrendsmapResolver/"
+    },
+    {
+      "name": "Triton Digital Podcast Sync",
+      "pattern": "^Triton Digital Podcast Sync$"
     },
     {
       "name": "Twingly Bot",
