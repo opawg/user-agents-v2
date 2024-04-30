@@ -184,6 +184,16 @@
       ]
     },
     {
+      "name": "Beacon Podcast Sync",
+      "pattern": "^Beacon/\\d",
+      "examples": [
+        "Beacon/1.0 Podcast Sync +https://getbeacons.com/"
+      ],
+      "urls": [
+        "https://getbeacons.com/"
+      ]
+    },
+    {
       "name": "British Library",
       "pattern": "^bl\\.uk_ldfc_bot",
       "description": "British Library's legal deposit web crawler",
@@ -439,7 +449,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News",
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$",
       "description": "Google's search bots",
       "urls": [
         "http://www.google.com/bot.html"
@@ -449,7 +459,8 @@
         "Googlebot-Image/1.0",
         "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)",
         "google-xrawler",
-        "Googlebot-News Audio"
+        "Googlebot-News Audio",
+        "Google-Safety"
       ]
     },
     {
@@ -485,6 +496,18 @@
       "examples": [
         "Mozilla/5.0 (compatible; special_archiver; Archive-It; http://archive-it.org/files/site-owners-special.html)",
         "ia_archiver-web.archive.org"
+      ]
+    },
+    {
+      "name": "IPFS Podcasting Node",
+      "description": "Nodes downloading from the original source (before pinning to IPFS)",
+      "pattern": "^IPFS Podcasting Node/",
+      "examples": [
+        "IPFS Podcasting Node/0.6n (+https://ipfspodcasting.net)",
+        "IPFS Podcasting Node/0.7p,u,s (+https://ipfspodcasting.net)"
+      ],
+      "urls": [
+        "https://ipfspodcasting.net"
       ]
     },
     {
@@ -1081,6 +1104,13 @@
     {
       "name": "Trendsmap Resolver",
       "pattern": "TrendsmapResolver/"
+    },
+    {
+      "name": "Triton Digital Podcast Sync",
+      "pattern": "^Triton Digital Podcast Sync$",
+      "examples": [
+        "Triton Digital Podcast Sync"
+      ]
     },
     {
       "name": "Twingly Bot",
