@@ -202,6 +202,16 @@
       ]
     },
     {
+      "name": "Bullhorn Crawler",
+      "pattern": "^BullhornCrawler/",
+      "examples": [
+        "BullhornCrawler/unknown-version(+http://bullhorn.fm/)"
+      ],
+      "urls": [
+        "https://bullhorn.fm/"
+      ]
+    },
+    {
       "name": "Buzzsprout Importer",
       "pattern": "^Buzzsprout Importer",
       "examples": [
