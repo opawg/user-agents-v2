@@ -89,6 +89,10 @@
       "pattern": "^Blubrry Migration Service"
     },
     {
+      "name": "Bullhorn Crawler",
+      "pattern": "^BullhornCrawler/"
+    },
+    {
       "name": "Buzzsprout Importer",
       "pattern": "^Buzzsprout Importer"
     },

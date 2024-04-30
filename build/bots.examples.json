@@ -118,6 +118,12 @@
       ]
     },
     {
+      "name": "Bullhorn Crawler",
+      "examples": [
+        "BullhornCrawler/unknown-version(+http://bullhorn.fm/)"
+      ]
+    },
+    {
       "name": "Buzzsprout Importer",
       "examples": [
         "Buzzsprout Importer"
