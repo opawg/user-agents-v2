@@ -3026,6 +3026,17 @@
       ]
     },
     {
+      "name": "Protopage",
+      "pattern": "^Protopage/",
+      "description": "Free, personalized start pages",
+      "urls": [
+        "http://www.protopage.com"
+      ],
+      "examples": [
+        "Protopage/3.0 (http://www.protopage.com)"
+      ]
+    },
+    {
       "name": "PugPig Bolt",
       "pattern": "^PugpigBolt ",
       "examples": [
