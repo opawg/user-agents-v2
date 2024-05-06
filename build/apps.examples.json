@@ -2269,6 +2269,12 @@
       ]
     },
     {
+      "name": "Protopage",
+      "examples": [
+        "Protopage/3.0 (http://www.protopage.com)"
+      ]
+    },
+    {
       "name": "PugPig Bolt",
       "examples": [
         "PugpigBolt 2.29.3 (iPhone, iOS 16.1.1) on phone (model iPhone12,1)",

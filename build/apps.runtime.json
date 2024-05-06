@@ -1433,6 +1433,10 @@
       "pattern": "Pro[Cc]ast"
     },
     {
+      "name": "Protopage",
+      "pattern": "^Protopage/"
+    },
+    {
       "name": "PugPig Bolt",
       "pattern": "^PugpigBolt "
     },
