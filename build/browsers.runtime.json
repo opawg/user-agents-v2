@@ -29,6 +29,10 @@
       "pattern": "^NCSA Mosaic/"
     },
     {
+      "name": "DuckDuckGo",
+      "pattern": "^DuckDuckGo"
+    },
+    {
       "name": "Safari",
       "pattern": "Macintosh.*AppleWebKit.*Safari/|Windows.*AppleWebKit.*Safari/|iPhone.*AppleWebKit.*Safari/|iPad.*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
     },
