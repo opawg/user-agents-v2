@@ -1569,11 +1569,16 @@
       ]
     },
     {
-      "name": "Garmin fenix 5X",
-      "pattern": "^Garmin fenix 5X Plus",
+      "name": "Garmin fenix",
+      "pattern": "^Garmin fenix ",
       "comments": "This uses Spotify to transfer audio to compatible watches",
       "examples": [
-        "Garmin fenix 5X Plus/18.0"
+        "Garmin fenix 5X Plus/18.0",
+        "Garmin fenix 6 Pro/26.0",
+        "Garmin fenix 6X Sapphire/26.0"
+      ],
+      "urls": [
+        "https://www.garmin.com/en-US/p/865925"
       ]
     },
     {
@@ -1582,6 +1587,31 @@
       "comments": "This uses Spotify to transfer audio to compatible watches",
       "examples": [
         "Garmin Forerunner 245 Music/11.60"
+      ]
+    },
+    {
+      "name": "Garmin tactix",
+      "pattern": "^Garmin tactix",
+      "comments": "This uses Spotify to transfer audio to compatible watches",
+      "examples": [
+        "Garmin tactix Delta/26.0"
+      ]
+    },
+    {
+      "name": "Garmin Venu",
+      "pattern": "^Garmin Venu ",
+      "comments": "This uses Spotify to transfer audio to compatible watches",
+      "examples": [
+        "Garmin Venu 2S/17.4"
+      ]
+    },
+    {
+      "name": "Garmin Vivoactive",
+      "pattern": "^Garmin v",
+      "comments": "This uses Spotify to transfer audio to compatible watches",
+      "examples": [
+        "Garmin v\xC3\xADvoactive 4S/7.80",
+        "Garmin vivoactive 3 Music/6.30"
       ]
     },
     {
