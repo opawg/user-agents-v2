@@ -1610,7 +1610,6 @@
       "pattern": "^Garmin v",
       "comments": "This uses Spotify to transfer audio to compatible watches",
       "examples": [
-        "Garmin v\xC3\xADvoactive 4S/7.80",
         "Garmin vivoactive 3 Music/6.30"
       ]
     },
