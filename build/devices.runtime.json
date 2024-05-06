@@ -87,7 +87,7 @@
     },
     {
       "name": "Other Watch",
-      "pattern": "watch|Watch",
+      "pattern": "watch|Watch|^Garmin ",
       "category": "watch"
     },
     {
