@@ -61,6 +61,14 @@
       ]
     },
     {
+      "name": "DuckDuckGo",
+      "pattern": "^DuckDuckGo",
+      "examples": [
+        "DuckDuckGo/3 CFNetwork/1494.0.7 Darwin/23.4.0"
+      ],
+      "comments": "Not a bot; but a downloadable browser on iOS"
+    },
+    {
       "name": "Safari",
       "pattern": "Macintosh.*AppleWebKit.*Safari/|Windows.*AppleWebKit.*Safari/|iPhone.*AppleWebKit.*Safari/|iPad.*AppleWebKit.*Safari/|^MobileSafari/|^Safari/",
       "comments": "Must match below Chrome",
