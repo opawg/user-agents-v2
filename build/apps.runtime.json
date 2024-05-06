@@ -1581,6 +1581,10 @@
       "pattern": "(^Spreaker for Android|Spreaker/)"
     },
     {
+      "name": "Sprewell",
+      "pattern": "^Sprewell/"
+    },
+    {
       "name": "Stavanger Aftenblad Android app",
       "pattern": "Android SA Hermes/"
     },

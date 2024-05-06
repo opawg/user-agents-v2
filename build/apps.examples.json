@@ -2501,6 +2501,12 @@
       ]
     },
     {
+      "name": "Sprewell",
+      "examples": [
+        "Sprewell/101 CFNetwork/1494.0.7 Darwin/23.4.0"
+      ]
+    },
+    {
       "name": "Stavanger Aftenblad Android app",
       "examples": [
         "Android SA Hermes/1000094692 _app_"
