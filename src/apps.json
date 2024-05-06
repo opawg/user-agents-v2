@@ -3356,6 +3356,18 @@
       "pattern": "(^Spreaker for Android|Spreaker/)"
     },
     {
+      "name": "Sprewell",
+      "pattern": "^Sprewell/",
+      "description": "A 'world podcast player' for iOS and Android",
+      "examples": [
+        "Sprewell/101 CFNetwork/1494.0.7 Darwin/23.4.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/sprewell-podcast/id1497544057",
+        "https://play.google.com/store/apps/details?id=com.sprewellpodcast.app&hl=en&gl=US"
+      ]
+    },
+    {
       "name": "Stavanger Aftenblad Android app",
       "pattern": "Android SA Hermes/",
       "description": "Stavanger Aftenblad Android app",
