@@ -1221,15 +1221,35 @@
       ]
     },
     {
-      "name": "Garmin fenix 5X",
+      "name": "Garmin fenix",
       "examples": [
-        "Garmin fenix 5X Plus/18.0"
+        "Garmin fenix 5X Plus/18.0",
+        "Garmin fenix 6 Pro/26.0",
+        "Garmin fenix 6X Sapphire/26.0"
       ]
     },
     {
       "name": "Garmin Forerunner",
       "examples": [
         "Garmin Forerunner 245 Music/11.60"
+      ]
+    },
+    {
+      "name": "Garmin tactix",
+      "examples": [
+        "Garmin tactix Delta/26.0"
+      ]
+    },
+    {
+      "name": "Garmin Venu",
+      "examples": [
+        "Garmin Venu 2S/17.4"
+      ]
+    },
+    {
+      "name": "Garmin Vivoactive",
+      "examples": [
+        "Garmin vivoactive 3 Music/6.30"
       ]
     },
     {

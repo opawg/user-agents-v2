@@ -769,12 +769,24 @@
       "pattern": "^GaanaAndroid-|^Gaana-iOS|^Gaana/"
     },
     {
-      "name": "Garmin fenix 5X",
-      "pattern": "^Garmin fenix 5X Plus"
+      "name": "Garmin fenix",
+      "pattern": "^Garmin fenix "
     },
     {
       "name": "Garmin Forerunner",
       "pattern": "^Garmin Forerunner"
+    },
+    {
+      "name": "Garmin tactix",
+      "pattern": "^Garmin tactix"
+    },
+    {
+      "name": "Garmin Venu",
+      "pattern": "^Garmin Venu "
+    },
+    {
+      "name": "Garmin Vivoactive",
+      "pattern": "^Garmin v"
     },
     {
       "name": "GBEngine",
