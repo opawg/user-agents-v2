@@ -1237,6 +1237,10 @@
       "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^myTuner$|^myTuneriOS%20Free/"
     },
     {
+      "name": "NetNewsWire",
+      "pattern": "^NetNewsWire"
+    },
+    {
       "name": "Newsboat",
       "pattern": "^Newsboat/"
     },

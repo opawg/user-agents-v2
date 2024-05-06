@@ -1972,6 +1972,12 @@
       ]
     },
     {
+      "name": "NetNewsWire",
+      "examples": [
+        "NetNewsWire (RSS Reader; https://netnewswire.com/)"
+      ]
+    },
+    {
       "name": "Newsboat",
       "examples": [
         "Newsboat/2.29.0 (Linux x86_64)"
