@@ -121,6 +121,10 @@
       "pattern": "^clark-crawler2"
     },
     {
+      "name": "Claudebot",
+      "pattern": "ClaudeBot/"
+    },
+    {
       "name": "Critical Mention",
       "pattern": "^Podcast-CriticalMention/"
     },

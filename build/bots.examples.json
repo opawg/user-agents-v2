@@ -155,6 +155,12 @@
       ]
     },
     {
+      "name": "Claudebot",
+      "examples": [
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)"
+      ]
+    },
+    {
       "name": "Critical Mention",
       "examples": [
         "Podcast-CriticalMention/1.0"

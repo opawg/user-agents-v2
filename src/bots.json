@@ -262,6 +262,17 @@
       "pattern": "^clark-crawler2"
     },
     {
+      "name": "Claudebot",
+      "pattern": "ClaudeBot/",
+      "description": "Claude is a family of large language models developed by Anthropic and designed to revolutionize the way you interact with AI",
+      "urls": [
+        "https://docs.anthropic.com/claude/docs/intro-to-claude"
+      ],
+      "examples": [
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)"
+      ]
+    },
+    {
       "name": "Critical Mention",
       "pattern": "^Podcast-CriticalMention/",
       "description": "Critical Mention is a business intelligence company, monitoring podcasts on the web for their clients",
