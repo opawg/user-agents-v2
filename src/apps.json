@@ -2565,6 +2565,16 @@
       ]
     },
     {
+      "name": "NetNewsWire",
+      "pattern": "^NetNewsWire",
+      "examples": [
+        "NetNewsWire (RSS Reader; https://netnewswire.com/)"
+      ],
+      "urls": [
+        "https://netnewswire.com/"
+      ]
+    },
+    {
       "name": "Newsboat",
       "pattern": "^Newsboat/",
       "examples": [
