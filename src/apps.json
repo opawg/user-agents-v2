@@ -2144,13 +2144,6 @@
       ]
     },
     {
-      "name": "Just Audio",
-      "pattern": "just_audio/",
-      "examples": [
-        "just_audio/3.6.2 (Linux;Android 9) ExoPlayerLib/2.13.1"
-      ]
-    },
-    {
       "name": "Kajabi",
       "pattern": " Kajabi|KajabiPodcast",
       "examples": [

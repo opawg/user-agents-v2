@@ -252,6 +252,18 @@
       "category": "bot"
     },
     {
+      "name": "Just Audio",
+      "description": "just_audio is a feature-rich audio player for Android, iOS, macOS, web, Linux and Windows (Flutter/Dart)",
+      "pattern": "^just_audio/",
+      "examples": [
+        "just_audio/3.6.2 (Linux;Android 9) ExoPlayerLib/2.13.1",
+        "just_audio/1.0.68 (Linux;Android 12) ExoPlayerLib/2.18.7"
+      ],
+      "urls": [
+        "https://pub.dev/packages/just_audio"
+      ]
+    },
+    {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader",
       "comments": "This is the KaiOS Downloader library, and this could refer to any app on this platform",
