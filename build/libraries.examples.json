@@ -134,6 +134,13 @@
       ]
     },
     {
+      "name": "Just Audio",
+      "examples": [
+        "just_audio/3.6.2 (Linux;Android 9) ExoPlayerLib/2.13.1",
+        "just_audio/1.0.68 (Linux;Android 12) ExoPlayerLib/2.18.7"
+      ]
+    },
+    {
       "name": "KaiOS Downloader",
       "examples": [
         "KaiOS Downloader"

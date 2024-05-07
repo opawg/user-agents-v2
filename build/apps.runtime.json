@@ -1029,10 +1029,6 @@
       "pattern": "^Juice/"
     },
     {
-      "name": "Just Audio",
-      "pattern": "just_audio/"
-    },
-    {
       "name": "Kajabi",
       "pattern": " Kajabi|KajabiPodcast"
     },

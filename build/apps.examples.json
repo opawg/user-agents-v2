@@ -1658,12 +1658,6 @@
       ]
     },
     {
-      "name": "Just Audio",
-      "examples": [
-        "just_audio/3.6.2 (Linux;Android 9) ExoPlayerLib/2.13.1"
-      ]
-    },
-    {
       "name": "Kajabi",
       "examples": [
         "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 KajabiMobileApp",

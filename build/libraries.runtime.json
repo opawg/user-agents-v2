@@ -114,6 +114,10 @@
       "category": "bot"
     },
     {
+      "name": "Just Audio",
+      "pattern": "^just_audio/"
+    },
+    {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader"
     },
