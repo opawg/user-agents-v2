@@ -45,6 +45,13 @@
       ]
     },
     {
+      "name": "Apple Notes share extension",
+      "examples": [
+        "com.apple.mobilenotes.SharingExtension/2511 CFNetwork/1494.0.7 Darwin/23.4.0",
+        "com.apple.Notes.SharingExtension/2812 CFNetwork/1494.0.7 Darwin/23.4.0"
+      ]
+    },
+    {
       "name": "Apple Podcasts (Watch)",
       "examples": [
         "atc/1.0",
@@ -314,6 +321,13 @@
       ]
     },
     {
+      "name": "iOS share menu",
+      "examples": [
+        "SharingUIService/1 CFNetwork/1467.1 Darwin/23.0.0",
+        "SharingUIService/1 CFNetwork/1490.0.4 Darwin/23.2.0"
+      ]
+    },
+    {
       "name": "IPFS Podcasting Node",
       "examples": [
         "IPFS Podcasting Node/0.6n (+https://ipfspodcasting.net)",
@@ -354,6 +368,13 @@
       "name": "LTX71",
       "examples": [
         "ltx71 - (http://ltx71.com/)"
+      ]
+    },
+    {
+      "name": "MacOS share menu",
+      "examples": [
+        "ShareSheetUI/1 CFNetwork/1399.4 Darwin/22.1.0",
+        "ShareSheetUI/1 CFNetwork/1474 Darwin/23.0.0"
       ]
     },
     {

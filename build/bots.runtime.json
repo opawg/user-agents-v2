@@ -37,6 +37,10 @@
       "pattern": "AnchorImport"
     },
     {
+      "name": "Apple Notes share extension",
+      "pattern": "^com.apple.(mobilenotes.SharingExtension|Notes.SharingExtension)/"
+    },
+    {
       "name": "Apple Podcasts (Watch)",
       "pattern": "^atc/|\\(null\\) watchOS/"
     },
@@ -241,6 +245,10 @@
       "pattern": "Archive-It;|web\\.archive\\.org"
     },
     {
+      "name": "iOS share menu",
+      "pattern": "^SharingUIService/"
+    },
+    {
       "name": "IPFS Podcasting Node",
       "pattern": "^IPFS Podcasting Node/"
     },
@@ -275,6 +283,10 @@
     {
       "name": "LTX71",
       "pattern": "^ltx71 "
+    },
+    {
+      "name": "MacOS share menu",
+      "pattern": "^ShareSheetUI/"
     },
     {
       "name": "MauiBot",
