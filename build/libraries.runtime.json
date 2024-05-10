@@ -1,6 +1,11 @@
 {
   "entries": [
     {
+      "name": "AIOHTTP",
+      "pattern": "^Python/\\d.*aiohttp/\\d",
+      "category": "bot"
+    },
+    {
       "name": "AndroidDownloadManager",
       "pattern": "^AndroidDownloadManager"
     },
@@ -114,6 +119,11 @@
       "category": "bot"
     },
     {
+      "name": "http.rb",
+      "pattern": "^http\\.rb/[\\d.]+",
+      "category": "bot"
+    },
+    {
       "name": "Just Audio",
       "pattern": "^just_audio/"
     },
@@ -124,6 +134,11 @@
     {
       "name": "libsoup",
       "pattern": "^libsoup/"
+    },
+    {
+      "name": "lua-resty-http",
+      "pattern": "^lua-resty-http/\\d",
+      "category": "bot"
     },
     {
       "name": "Android License Verification Library",
@@ -162,6 +177,11 @@
       "pattern": "^reqwest/\\d"
     },
     {
+      "name": "resty (go)",
+      "pattern": "^go-resty/\\d",
+      "category": "bot"
+    },
+    {
       "name": "resty-requests (lua)",
       "pattern": "^resty-requests",
       "category": "bot"
@@ -190,7 +210,7 @@
     },
     {
       "name": "Symfony (php)",
-      "pattern": "^Symfony HttpClient/",
+      "pattern": "^Symfony HttpClient[/ ]",
       "category": "bot"
     },
     {

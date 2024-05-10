@@ -269,6 +269,10 @@
       "pattern": "LivelapBot"
     },
     {
+      "name": "ListenNotes",
+      "pattern": "^ListenNotes/3\\.0 \\("
+    },
+    {
       "name": "LTX71",
       "pattern": "^ltx71 "
     },

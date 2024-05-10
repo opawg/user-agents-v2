@@ -93,6 +93,10 @@
       "pattern": "^AmazonMusic|^Harley/\\d"
     },
     {
+      "name": "Ampache",
+      "pattern": "^Ampache/\\d"
+    },
+    {
       "name": "AMPApp",
       "pattern": "^AMPApp/"
     },
@@ -1463,6 +1467,10 @@
     {
       "name": "Radio Downloader",
       "pattern": "^Podcast Provider.*?Radio Downloader"
+    },
+    {
+      "name": "Radio thmanyah",
+      "pattern": "^Radio thmanyah "
     },
     {
       "name": "radio.de",

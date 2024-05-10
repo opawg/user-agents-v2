@@ -345,6 +345,12 @@
       ]
     },
     {
+      "name": "ListenNotes",
+      "examples": [
+        "ListenNotes/3.0 (id=c1ef144e30174bf6ba1fedf9174ed908; +https://www.listennotes.com/about/)"
+      ]
+    },
+    {
       "name": "LTX71",
       "examples": [
         "ltx71 - (http://ltx71.com/)"
