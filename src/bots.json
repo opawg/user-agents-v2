@@ -566,6 +566,16 @@
       "pattern": "LivelapBot"
     },
     {
+      "name": "ListenNotes",
+      "pattern": "^ListenNotes/3\\.0 \\(",
+      "examples": [
+        "ListenNotes/3.0 (id=c1ef144e30174bf6ba1fedf9174ed908; +https://www.listennotes.com/about/)"
+      ],
+      "urls": [
+        "https://www.listennotes.com/about/"
+      ]
+    },
+    {
       "name": "LTX71",
       "pattern": "^ltx71 ",
       "description": "We continuously scan the internet for security research purposes.",
