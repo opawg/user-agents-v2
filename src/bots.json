@@ -88,6 +88,14 @@
       ]
     },
     {
+      "name": "Apple Notes share extension",
+      "pattern": "^com.apple.(mobilenotes.SharingExtension|Notes.SharingExtension)/",
+      "examples": [
+        "com.apple.mobilenotes.SharingExtension/2511 CFNetwork/1494.0.7 Darwin/23.4.0",
+        "com.apple.Notes.SharingExtension/2812 CFNetwork/1494.0.7 Darwin/23.4.0"
+      ]
+    },
+    {
       "name": "Apple Podcasts (Watch)",
       "pattern": "^atc/|\\(null\\) watchOS/",
       "comments": "Verified (via stamping the audio URL with the RSS useragent) as being sourced from Apple Podcasts; and accordingly this is marked as a bot since these downloads are duplicated with the phone.",
@@ -510,6 +518,15 @@
       ]
     },
     {
+      "name": "iOS share menu",
+      "pattern": "^SharingUIService/",
+      "examples": [
+        "SharingUIService/1 CFNetwork/1467.1 Darwin/23.0.0",
+        "SharingUIService/1 CFNetwork/1490.0.4 Darwin/23.2.0"
+      ],
+      "comments": "Found on iOS 17 e.g. when long-pressing an enclosure link from Safari and choosing Share..."
+    },
+    {
       "name": "IPFS Podcasting Node",
       "description": "Nodes downloading from the original source (before pinning to IPFS)",
       "pattern": "^IPFS Podcasting Node/",
@@ -585,6 +602,15 @@
       "examples": [
         "ltx71 - (http://ltx71.com/)"
       ]
+    },
+    {
+      "name": "MacOS share menu",
+      "pattern": "^ShareSheetUI/",
+      "examples": [
+        "ShareSheetUI/1 CFNetwork/1399.4 Darwin/22.1.0",
+        "ShareSheetUI/1 CFNetwork/1474 Darwin/23.0.0"
+      ],
+      "comments": "Found on MacOS 13 (Ventura) and higher e.g. when right-clicking an enclosure link from Safari and choosing Share..."
     },
     {
       "name": "MauiBot",
