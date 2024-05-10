@@ -1102,6 +1102,19 @@
       ]
     },
     {
+      "name": "Dlf Audiothek",
+      "pattern": "^DlfAudiothek/|^Dlf Audiothek",
+      "urls": [
+        "https://play.google.com/store/apps/details?id=de.deutschlandfunk.dlfaudiothek",
+        "https://apps.apple.com/de/app/dlf-audiothek/id1255398824"
+      ],
+      "examples": [
+        "Dlf Audiothek; version:2.5.4(2023061301); bundle:de.deutschlandfunk.dlfaudiothek; iOS 17.4.1",
+        "Dlf Audiothek/2.5.6 (Linux; U; Android 13; FP3 Build/6.A.025.0)",
+        "DlfAudiothek/3.0.3 (iPhone; iOS 17.4.1)"
+      ]
+    },
+    {
       "name": "DManager",
       "pattern": "^DManager/",
       "examples": [
