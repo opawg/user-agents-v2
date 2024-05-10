@@ -157,6 +157,10 @@
       "pattern": "^Recordatorios/"
     },
     {
+      "name": "ARD Audiothek",
+      "pattern": "^ARD Audiothek|^ARD%20Audiothek/|^ARD-Audiothek"
+    },
+    {
       "name": "Arvocast",
       "pattern": "^Arvocast/"
     },
@@ -519,6 +523,10 @@
     {
       "name": "DevCasts",
       "pattern": "^devcasts/.*CFNetwork"
+    },
+    {
+      "name": "Dlf Audiothek",
+      "pattern": "^DlfAudiothek/|^Dlf Audiothek"
     },
     {
       "name": "DManager",

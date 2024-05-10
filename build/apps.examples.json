@@ -295,6 +295,15 @@
       ]
     },
     {
+      "name": "ARD Audiothek",
+      "examples": [
+        "ARD Audiothek/2.15.1 (Google Play) Dalvik/2.1.0 (Linux; U; Android 13; FP4 Build/TKQ1.230127.002)/2.15.1 (Linux;Android 13) AndroidXMedia3/1.2.1",
+        "ARD%20Audiothek/93 CFNetwork/1494.0.7 Darwin/23.4.0",
+        "ARD Audiothek iOS Version 2.6.11, Build 90",
+        "ARD-Audiothek/31"
+      ]
+    },
+    {
       "name": "Arvocast",
       "examples": [
         "Arvocast/3752 CFNetwork/1404.0.5 Darwin/22.3.0"
@@ -833,6 +842,14 @@
       "name": "DevCasts",
       "examples": [
         "devcasts/1.0.1.00 CFNetwork/1197 Darwin/20.0.0"
+      ]
+    },
+    {
+      "name": "Dlf Audiothek",
+      "examples": [
+        "Dlf Audiothek; version:2.5.4(2023061301); bundle:de.deutschlandfunk.dlfaudiothek; iOS 17.4.1",
+        "Dlf Audiothek/2.5.6 (Linux; U; Android 13; FP3 Build/6.A.025.0)",
+        "DlfAudiothek/3.0.3 (iPhone; iOS 17.4.1)"
       ]
     },
     {
