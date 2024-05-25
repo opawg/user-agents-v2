@@ -1261,6 +1261,13 @@
       ]
     },
     {
+      "name": "DRN1",
+      "pattern": "^DRN1;",
+      "examples": [
+        "DRN1; iPhone; iOS 17.4.1"
+      ]
+    },
+    {
       "name": "DroolRadio",
       "pattern": "^DroolRadio/",
       "examples": [
