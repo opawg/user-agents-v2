@@ -970,6 +970,13 @@
       ]
     },
     {
+      "name": "DRN1",
+      "examples": [
+        "DRN1; iPhone; iOS 17.4.1",
+        "DRN1; Android; Samsung 17.4.1"
+      ]
+    },
+    {
       "name": "DroolRadio",
       "examples": [
         "DroolRadio/38 CFNetwork/609.1.4 Darwin/13.0.0"

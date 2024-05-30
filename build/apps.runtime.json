@@ -605,6 +605,10 @@
       "pattern": "^DriveCast/"
     },
     {
+      "name": "DRN1",
+      "pattern": "^DRN1;"
+    },
+    {
       "name": "DroolRadio",
       "pattern": "^DroolRadio/"
     },
