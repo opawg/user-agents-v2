@@ -1310,6 +1310,19 @@
       ]
     },
     {
+      "name": "Earmark",
+      "description": "Earmark is a free, audio-based continuing professional education app for accounting and tax professionals.",
+      "pattern": "^Earmark/",
+      "examples": [
+        "Earmark/1.0 Android",
+        "Earmark/1.0 iOS"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/earmark/id1562599728",
+        "https://play.google.com/store/apps/details?id=com.earmarkcpe.app"
+      ]
+    },
+    {
       "name": "EasyGet",
       "pattern": "^EasyGet/",
       "examples": [
