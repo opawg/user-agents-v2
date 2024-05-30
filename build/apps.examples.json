@@ -1007,6 +1007,13 @@
       ]
     },
     {
+      "name": "Earmark",
+      "examples": [
+        "Earmark/1.0 Android",
+        "Earmark/1.0 iOS"
+      ]
+    },
+    {
       "name": "EasyGet",
       "examples": [
         "EasyGet/1.0.70 CFNetwork/672.1.13 Darwin/14.0.0"
