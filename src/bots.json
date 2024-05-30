@@ -1007,6 +1007,16 @@
       ]
     },
     {
+      "name": "Rephonic",
+      "pattern": "^Rephonic/\\d",
+      "urls": [
+        "https://rephonic.com/"
+      ],
+      "examples": [
+        "Rephonic/1.0"
+      ]
+    },
+    {
       "name": "Ridder Bot",
       "pattern": " RidderBot/",
       "examples": [

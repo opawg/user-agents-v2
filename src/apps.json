@@ -2857,6 +2857,17 @@
       ]
     },
     {
+      "name": "Podcini",
+      "description": "Open source podcast player for Android in Kotlin with androidx.media3",
+      "pattern": "^Podcini/\\d",
+      "examples": [
+        "Podcini/4.6.2"
+      ],
+      "urls": [
+        "https://github.com/XilinJia/Podcini"
+      ]
+    },
+    {
       "name": "Podclipper",
       "pattern": "^Podclipper/",
       "examples": [
