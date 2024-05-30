@@ -1353,6 +1353,10 @@
       "pattern": "^Podchaser |^Podchaser-Parser"
     },
     {
+      "name": "Podcini",
+      "pattern": "^Podcini/\\d"
+    },
+    {
       "name": "Podclipper",
       "pattern": "^Podclipper/"
     },

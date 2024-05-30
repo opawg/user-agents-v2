@@ -473,6 +473,10 @@
       "pattern": "RedCircle"
     },
     {
+      "name": "Rephonic",
+      "pattern": "^Rephonic/\\d"
+    },
+    {
       "name": "Ridder Bot",
       "pattern": " RidderBot/"
     },

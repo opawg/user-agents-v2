@@ -607,6 +607,12 @@
       ]
     },
     {
+      "name": "Rephonic",
+      "examples": [
+        "Rephonic/1.0"
+      ]
+    },
+    {
       "name": "Ridder Bot",
       "examples": [
         "Mozilla/5.0 (compatible; RidderBot/1.0; bot@ridder.co)"
