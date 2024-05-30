@@ -1263,8 +1263,13 @@
     {
       "name": "DRN1",
       "pattern": "^DRN1;",
+      "urls": [
+        "https://www.drn1.com.au/",
+        "https://www.drn1.com"
+      ],
       "examples": [
         "DRN1; iPhone; iOS 17.4.1"
+        "DRN1; Android; Samsung 17.4.1"
       ]
     },
     {
