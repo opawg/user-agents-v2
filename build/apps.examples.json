@@ -973,7 +973,8 @@
       "name": "DRN1",
       "examples": [
         "DRN1; iPhone; iOS 17.4.1",
-        "DRN1; Android; Samsung 17.4.1"
+        "DRN1; Android; Samsung 17.4.1",
+        "DRN1; Website; Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15"
       ]
     },
     {
