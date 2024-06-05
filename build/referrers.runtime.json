@@ -59,6 +59,11 @@
       "category": "app"
     },
     {
+      "name": "Discord",
+      "pattern": "://[^/]+\\.discordsays\\.com/",
+      "category": "app"
+    },
+    {
       "name": "Facebook",
       "pattern": "^https?://(lm|m|www|l)\\.facebook\\.com/",
       "category": "app"
