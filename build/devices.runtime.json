@@ -72,7 +72,7 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/|^Bluesound;|^Yamaha;WX-",
       "category": "smart_speaker"
     },
     {

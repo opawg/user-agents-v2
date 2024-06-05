@@ -1157,6 +1157,10 @@
       "pattern": "^MajelanApp"
     },
     {
+      "name": "Mame Cast",
+      "pattern": "^Mame%20Cast/"
+    },
+    {
       "name": "MaxTubePro",
       "pattern": "^MaxTubePro/"
     },

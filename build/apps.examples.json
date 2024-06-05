@@ -1853,6 +1853,12 @@
       ]
     },
     {
+      "name": "Mame Cast",
+      "examples": [
+        "Mame%20Cast/36 CFNetwork/1240.0.4 Darwin/20.6.0"
+      ]
+    },
+    {
       "name": "MaxTubePro",
       "examples": [
         "MaxTubePro/1.5 CFNetwork/711.1.16 Darwin/14.0.0"
