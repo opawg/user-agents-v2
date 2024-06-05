@@ -2421,6 +2421,16 @@
       "pattern": "^MajelanApp"
     },
     {
+      "name": "Mame Cast",
+      "pattern": "^Mame%20Cast/",
+      "examples": [
+        "Mame%20Cast/36 CFNetwork/1240.0.4 Darwin/20.6.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/mame-cast-a-podcast-player/id1495516059"
+      ]
+    },
+    {
       "name": "MaxTubePro",
       "pattern": "^MaxTubePro/",
       "examples": [

@@ -138,15 +138,24 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/|^Bluesound;|^Yamaha;WX-",
       "category": "smart_speaker",
       "examples": [
+        "Bluesound;N110;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
+        "Bluesound;N125;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
+        "Bluesound;N130;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
+        "Bluesound;N225v2;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
+        "Bluesound;N330;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
+        "Bluesound;P125;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
         "Bose;Bose_Home_Speaker_500;1d2cf25b1643474983fae381b00cea3c;;tpapi;3.198.103",
         "Bose;Bose_Home_Speaker_500",
+        "Bose;Bose_Portable_Home_Speaker;1d2cf25b1643474983fae381b00cea3c;;tpapi;3.198.103",
+        "Bose;Bose_Smart_Speaker_500;1d2cf25b1643474983fae381b00cea3c;;tpapi;3.198.103",
         "Bose;Bose_Soundbar_700;1d2cf25b1643474983fae381b00cea3c;;tpapi;3.198.103",
-        "HEOS;DENON-DWA_40-200;3c043256d0a14590ab901fdc062e55c7;;tpapi;3.202.330",
         "Denon;DENON-DWHS_60-150;8f2c0cd9c29f44b39c868f9c7055662c;;tpapi;3.202.330",
-        "Storybutton/1.0"
+        "HEOS;DENON-DWA_40-200;3c043256d0a14590ab901fdc062e55c7;;tpapi;3.202.330",
+        "Storybutton/1.0",
+        "Yamaha;WX-021;59c7bf046992472ab0689f5fc7fa08e2;1810    ;tpapi;3.201.417"
       ]
     },
     {
