@@ -110,6 +110,18 @@
       "category": "app"
     },
     {
+      "name": "Discord",
+      "pattern": "://[^/]+\\.discordsays\\.com/",
+      "examples": [
+        "https://1196535986226745437.discordsays.com/"
+      ],
+      "urls": [
+        "https://techcrunch.com/2024/06/04/discord-and-tunein-partner-to-bring-live-radio-to-the-social-platform/"
+      ],
+      "category": "app",
+      "comments": "all discord activities hosted on discordsays.com. mac: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/120.0.6099.291 Electron/28.2.10 Safari/537.36, ios: Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+    },
+    {
       "name": "Facebook",
       "pattern": "^https?://(lm|m|www|l)\\.facebook\\.com/",
       "examples": [
