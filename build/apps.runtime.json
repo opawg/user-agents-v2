@@ -1206,7 +1206,7 @@
     },
     {
       "name": "Mimir",
-      "pattern": "^Mimir(-macOS)?/"
+      "pattern": "^Mimir(-macOS|-iOS)?/"
     },
     {
       "name": "Miro",

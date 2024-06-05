@@ -52,7 +52,7 @@
     },
     {
       "name": "Other Smart TV",
-      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;[uq]n\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;(c1\\d{2}x|7140x)|^onn\\.;8821x|^Funai;PHILIPS4KTV|^Sagemcom;VSB|^TPV;[A-Z0-9]+AndroidTV;",
+      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;[uq][nej]\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;(c1\\d{2}x|7140x)|^onn\\.;8821x|^Funai;PHILIPS4KTV|^Sagemcom;VSB|^TPV;[A-Z0-9]+AndroidTV;|^(CVT_NULL|MediaTek);SMARTTV;|^NVIDIA;SHIELDAndroidTV|UHDAndroidTV;|^westinghouse;7808x;|^ZTE;B820C",
       "category": "smart_tv"
     },
     {

@@ -35,16 +35,21 @@
     {
       "name": "Other Smart TV",
       "examples": [
+        "CVT_NULL;SMARTTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
         "Funai;PHILIPS4KTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "Google;ChromecastHD;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "hisense;c205x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "hisense;c235x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "Hisense;HiSmartTVA4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "MediaTek;SMARTTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
         "Microsoft Xbox",
+        "NVIDIA;SHIELDAndroidTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356",
         "onn.;8821x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "roku;3930mx;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "Sagemcom;VSB3940_TPL;4501664231eb4355ab482f1ca12dc38a;;tpapi;3.199.315",
         "samsung;qn55q60rafxza;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung;ue50tu7020wxxn;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung;uj5500;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.167.55",
         "samsung;un43mu6100;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;un50ru7100fxzc;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;un50tu7000g;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
@@ -58,9 +63,12 @@
         "tcl;c112x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "TCL;UnionTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "TPV;20202021UHDAndroidTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "TPV;202122PhilipsUHDAndroidTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356",
+        "westinghouse;7808x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.203.233",
         "Xiaomi;MIBOX4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "Xiaomi;MiTV-AESP0;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
-        "Xiaomi;MiTV-MOOQ0;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
+        "Xiaomi;MiTV-MOOQ0;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "ZTE;B820C-A15;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356"
       ]
     },
     {
