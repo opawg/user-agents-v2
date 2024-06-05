@@ -2512,10 +2512,11 @@
     },
     {
       "name": "Mimir",
-      "pattern": "^Mimir(-macOS)?/",
+      "pattern": "^Mimir(-macOS|-iOS)?/",
       "examples": [
         "Mimir/1 CFNetwork/1098 Darwin/19.0.0 (x86_64)",
-        "Mimir-macOS/1.7.2"
+        "Mimir-macOS/1.7.2",
+        "Mimir-iOS/1.4.1"
       ]
     },
     {
