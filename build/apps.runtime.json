@@ -390,7 +390,7 @@
     },
     {
       "name": "CastBox",
-      "pattern": "^Cast[Bb]ox"
+      "pattern": "^Cast[Bb]ox|^fm\\.castbox\\."
     },
     {
       "name": "Casterbate",
