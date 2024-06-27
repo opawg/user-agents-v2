@@ -2487,7 +2487,10 @@
     {
       "name": "SiriusXM",
       "examples": [
-        "SiriusXM/1608138304 CFNetwork/1206 Darwin/20.1.0"
+        "SiriusXM/1608138304 CFNetwork/1206 Darwin/20.1.0",
+        "SXMApp/36270 CFNetwork/1496.0.7 Darwin/23.5.0",
+        "sxm-android/7.5.2 samsung/SM-S918U Android/14",
+        "sxm-android/7.5.0 motorola/motorola-edge-plus-5G-UW-(2022) Android/13"
       ]
     },
     {
