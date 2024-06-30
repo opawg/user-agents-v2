@@ -49,6 +49,12 @@
       ]
     },
     {
+      "name": "Bubble (no-code)",
+      "examples": [
+        "Bubble"
+      ]
+    },
+    {
       "name": "Bun",
       "examples": [
         "Bun/1.0.7"

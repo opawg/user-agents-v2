@@ -38,6 +38,10 @@
       "category": "bot"
     },
     {
+      "name": "Bubble (no-code)",
+      "pattern": "^Bubble$"
+    },
+    {
       "name": "Bun",
       "pattern": "^Bun/\\d",
       "category": "bot"

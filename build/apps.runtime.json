@@ -1269,6 +1269,10 @@
       "pattern": "^Newsly"
     },
     {
+      "name": "Noice",
+      "pattern": "^Noice/"
+    },
+    {
       "name": "NPR",
       "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid|nprone_android/"
     },
@@ -1311,6 +1315,10 @@
     {
       "name": "Playapod",
       "pattern": "^Playapod"
+    },
+    {
+      "name": "PlaydioCast Podcast Radio",
+      "pattern": "^PlaydioCast/"
     },
     {
       "name": "Player FM",
@@ -1667,6 +1675,10 @@
     {
       "name": "Swinsian",
       "pattern": "^Swinsian/"
+    },
+    {
+      "name": "Sybel",
+      "pattern": "^Sybel$"
     },
     {
       "name": "SYOK",
