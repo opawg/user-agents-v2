@@ -94,6 +94,18 @@
       "category": "bot"
     },
     {
+      "name": "Bubble (no-code)",
+      "description": "The full-stack, no-code app builder for everyone",
+      "pattern": "^Bubble$",
+      "examples": [
+        "Bubble"
+      ],
+      "urls": [
+        "https://bubble.io/"
+      ],
+      "comments": "https://forum.bubble.io/t/upgrade-to-bubble-version-25-giving-all-external-api-calls-a-default-user-agent-if-they-dont-already-have-one-set/271309"
+    },
+    {
       "name": "Bun",
       "description": "A fast all-in-one JavaScript runtime and toolkit",
       "pattern": "^Bun/\\d",

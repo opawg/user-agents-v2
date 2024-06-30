@@ -2661,6 +2661,17 @@
       ]
     },
     {
+      "name": "Noice",
+      "pattern": "^Noice/",
+      "examples": [
+        "Noice/3.38.1 (Apple; iOS 17.4.1) AVQueuePlayer/0",
+        "Noice/3.39 (Apple; iOS 17.4.1) AVQueuePlayer/0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/noice-podcast-radio/id1484372791"
+      ]
+    },
+    {
       "name": "NPR",
       "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid|nprone_android/",
       "examples": [
@@ -2765,6 +2776,16 @@
       ],
       "examples": [
         "Playapod/2.4.11"
+      ]
+    },
+    {
+      "name": "PlaydioCast Podcast Radio",
+      "pattern": "^PlaydioCast/",
+      "examples": [
+        "PlaydioCast/272 CFNetwork/1496.0.7 Darwin/23.5.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/playdiocast-podcast-radio/id858974970"
       ]
     },
     {
@@ -3606,6 +3627,16 @@
       ],
       "examples": [
         "Swinsian/472 CFNetwork/978.0.7 Darwin/18.7.0 (x86_64)"
+      ]
+    },
+    {
+      "name": "Sybel",
+      "pattern": "^Sybel$",
+      "examples": [
+        "Sybel"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/sybel-audio-series-podcasts/id1396497254"
       ]
     },
     {
