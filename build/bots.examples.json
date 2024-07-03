@@ -457,7 +457,9 @@
     {
       "name": "Overcast feed parser",
       "examples": [
-        "Overcast/1.0 Podcast Sync"
+        "Overcast/1.0 Podcast Sync",
+        "Overcast/1.0 Podcast Sync (+http://overcast.fm/)",
+        "Overcast/1.0 Podcast Sync (1 subscribers; feed-id=1234567; +http://overcast.fm/)"
       ]
     },
     {
