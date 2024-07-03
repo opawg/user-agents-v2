@@ -165,6 +165,10 @@
       "pattern": "^ARD Audiothek|^ARD%20Audiothek/|^ARD-Audiothek"
     },
     {
+      "name": "Arte Radio",
+      "pattern": "^arteradio/"
+    },
+    {
       "name": "Arvocast",
       "pattern": "^Arvocast/"
     },

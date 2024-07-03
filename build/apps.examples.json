@@ -310,6 +310,13 @@
       ]
     },
     {
+      "name": "Arte Radio",
+      "examples": [
+        "arteradio/1.1.1 Android/12",
+        "arteradio/1.1.1 iOS/12"
+      ]
+    },
+    {
       "name": "Arvocast",
       "examples": [
         "Arvocast/3752 CFNetwork/1404.0.5 Darwin/22.3.0"
