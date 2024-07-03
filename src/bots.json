@@ -727,7 +727,9 @@
       "pattern": "^Overcast/1\\.0 Podcast Sync",
       "comments": "Marco Arment says: when a new episode is detected, the servers fetch a copy of it to seed these values with an initial set of data to make the privacy screen more accurate.",
       "examples": [
-        "Overcast/1.0 Podcast Sync"
+        "Overcast/1.0 Podcast Sync",
+        "Overcast/1.0 Podcast Sync (+http://overcast.fm/)",
+        "Overcast/1.0 Podcast Sync (1 subscribers; feed-id=1234567; +http://overcast.fm/)"
       ]
     },
     {
