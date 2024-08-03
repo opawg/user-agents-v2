@@ -723,6 +723,17 @@
       ]
     },
     {
+      "name": "OpenAI GPTBot",
+      "pattern": "GPTBot/",
+      "examples": [
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)",
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)"
+      ],
+      "urls": [
+        "https://openai.com/gptbot"
+      ]
+    },
+    {
       "name": "Overcast feed parser",
       "pattern": "^Overcast/1\\.0 Podcast Sync",
       "comments": "Marco Arment says: when a new episode is detected, the servers fetch a copy of it to seed these values with an initial set of data to make the privacy screen more accurate.",
