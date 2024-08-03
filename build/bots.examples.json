@@ -455,6 +455,13 @@
       ]
     },
     {
+      "name": "OpenAI GPTBot",
+      "examples": [
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)",
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)"
+      ]
+    },
+    {
       "name": "Overcast feed parser",
       "examples": [
         "Overcast/1.0 Podcast Sync",

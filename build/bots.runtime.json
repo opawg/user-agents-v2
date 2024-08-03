@@ -345,6 +345,10 @@
       "pattern": "^op3-fetcher/"
     },
     {
+      "name": "OpenAI GPTBot",
+      "pattern": "GPTBot/"
+    },
+    {
       "name": "Overcast feed parser",
       "pattern": "^Overcast/1\\.0 Podcast Sync"
     },
