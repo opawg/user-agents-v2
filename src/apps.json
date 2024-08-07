@@ -2495,10 +2495,10 @@
     },
     {
       "name": "Metacast",
-      "pattern": "^Metacast(/.*)?$",
+      "pattern": "^Metacast/",
       "examples": [
-        "Metacast/189 CFNetwork/1485 Darwin/23.1.0",
-        "Metacast"
+        "Metacast/0.73.5 (ios)",
+        "Metacast/1.2.0 (android)"
       ],
       "urls": [
         "https://metacast.app/"

@@ -627,6 +627,16 @@
       ]
     },
     {
+      "name": "Metacast Crawler",
+      "pattern": "^Metacast/.* Crawler",
+      "examples": [
+        "Metacast/1.0 Crawler +https://metacast.app"
+      ],
+      "urls": [
+        "https://metacast.app/"
+      ]
+    },
+    {
       "name": "Microsoft Bingbot",
       "pattern": "(BingPreview/|adidxbot/|[bB]ingbot/)",
       "urls": [
