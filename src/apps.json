@@ -2498,8 +2498,7 @@
       "pattern": "^Metacast/",
       "examples": [
         "Metacast/0.73.5 (ios)",
-        "Metacast/1.2.0 (android)",
-        "Metacast/1.0 WebApp +https://metacast.app"
+        "Metacast/1.2.0 (android)"
       ],
       "urls": [
         "https://metacast.app/"
