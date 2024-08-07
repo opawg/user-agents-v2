@@ -297,6 +297,10 @@
       "pattern": "rb/.*Mastodon/"
     },
     {
+      "name": "Metacast Crawler",
+      "pattern": "^Metacast/.* Crawler"
+    },
+    {
       "name": "Microsoft Bingbot",
       "pattern": "(BingPreview/|adidxbot/|[bB]ingbot/)"
     },
