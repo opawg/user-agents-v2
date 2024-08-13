@@ -3705,6 +3705,9 @@
       "examples": [
         "TwipeMobileApp PLATFORM=iOS VERSION=5.4.7.0 ENV=PROD isPhone",
         "TwipeMobileApp PLATFORM=Android VERSION=5.4.7.0 ENV=PROD isTablet"
+      ],
+      "urls": [
+        "https://www.twipemobile.com/"
       ]
     },
     {
