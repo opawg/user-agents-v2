@@ -3700,6 +3700,17 @@
       ]
     },
     {
+      "name": "Twipe Mobile App",
+      "pattern": "^TwipeMobileApp",
+      "examples": [
+        "TwipeMobileApp PLATFORM=iOS VERSION=5.4.7.0 ENV=PROD isPhone",
+        "TwipeMobileApp PLATFORM=Android VERSION=5.4.7.0 ENV=PROD isTablet"
+      ],
+      "urls": [
+        "https://www.twipemobile.com/"
+      ]
+    },
+    {
       "name": "Mozilla Thunderbird",
       "pattern": " Thunderbird/",
       "examples": [
