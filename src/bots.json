@@ -959,9 +959,10 @@
     {
       "name": "PodUptime",
       "description": "Uptime Monitoring for the Podcast Industry",
-      "pattern": "PodUptime/\\d",
+      "pattern": "(PodUptime|PodUptimeBot)/\\d",
       "examples": [
-        "Mozilla/5.0 (compatible; PodUptime/1.0; +https://poduptime.com)"
+        "Mozilla/5.0 (compatible; PodUptime/1.0; +https://poduptime.com)",
+        "Mozilla/5.0 (compatible; PodUptimeBot/1.0; +https://poduptime.com; rid:5c02fc9b-2660-4d3e-a352-de1a1aabdc0a)"
       ],
       "urls": [
         "https://poduptime.com/"
@@ -1222,6 +1223,16 @@
       "pattern": "^UCast/",
       "examples": [
         "UCast/1.0 Podcast Sync (1 subscribers; feed-id=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDg0OTQucnNzEAEBAD32-0242-42AC-8583-21E9BAD8C544; +http://www.ucastapp.com/)"
+      ]
+    },
+    {
+      "name": "UptimeRobot",
+      "pattern": "UptimeRobot/\\d",
+      "examples": [
+        "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+      ],
+      "urls": [
+        "https://uptimerobot.com/"
       ]
     },
     {
