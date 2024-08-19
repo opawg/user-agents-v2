@@ -22,6 +22,16 @@
       ]
     },
     {
+      "name": "ma Podcast (agma) Bot",
+      "pattern": "^agma/",
+      "urls": [
+        "https://www.agma-mmc.de/media-analyse/ma-podcast"
+      ],
+      "examples": [
+        "agma/1.0"
+      ]
+    },
+    {
       "name": "AhrefsBot",
       "pattern": "AhrefsBot/",
       "urls": [
