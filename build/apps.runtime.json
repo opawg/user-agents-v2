@@ -1705,6 +1705,10 @@
       "pattern": "^ThePodcastApp|iOS.*The Podcast App/|com\\.evolve\\.podcast/|^podcast/\\d* |^PodcastApp/\\d"
     },
     {
+      "name": "Twipe Mobile App",
+      "pattern": "^TwipeMobileApp"
+    },
+    {
       "name": "Mozilla Thunderbird",
       "pattern": " Thunderbird/"
     },

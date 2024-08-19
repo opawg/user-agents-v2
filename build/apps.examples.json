@@ -2707,6 +2707,13 @@
       ]
     },
     {
+      "name": "Twipe Mobile App",
+      "examples": [
+        "TwipeMobileApp PLATFORM=iOS VERSION=5.4.7.0 ENV=PROD isPhone",
+        "TwipeMobileApp PLATFORM=Android VERSION=5.4.7.0 ENV=PROD isTablet"
+      ]
+    },
+    {
       "name": "Mozilla Thunderbird",
       "examples": [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Thunderbird/102.4.1"
