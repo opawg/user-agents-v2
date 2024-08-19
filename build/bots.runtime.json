@@ -446,7 +446,7 @@
     },
     {
       "name": "PodUptime",
-      "pattern": "PodUptime/\\d"
+      "pattern": "(PodUptime|PodUptimeBot)/\\d"
     },
     {
       "name": "Podverse Feed Parser",
@@ -587,6 +587,10 @@
     {
       "name": "UCast",
       "pattern": "^UCast/"
+    },
+    {
+      "name": "UptimeRobot",
+      "pattern": "UptimeRobot/\\d"
     },
     {
       "name": "TelegramBot",
