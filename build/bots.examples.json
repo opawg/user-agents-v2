@@ -13,6 +13,12 @@
       ]
     },
     {
+      "name": "ma Podcast (agma) Bot",
+      "examples": [
+        "agma/1.0"
+      ]
+    },
+    {
       "name": "AhrefsBot",
       "examples": [
         "Mozilla/5.0 (compatible; AhrefsBot/7.0; http://ahrefs.com/robot/)",

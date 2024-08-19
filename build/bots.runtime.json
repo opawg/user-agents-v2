@@ -9,6 +9,10 @@
       "pattern": "^AIS VirtualListener"
     },
     {
+      "name": "ma Podcast (agma) Bot",
+      "pattern": "^agma/"
+    },
+    {
       "name": "AhrefsBot",
       "pattern": "AhrefsBot/"
     },
