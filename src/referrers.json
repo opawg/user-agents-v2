@@ -7,6 +7,15 @@
   "$schema": "https://raw.githubusercontent.com/opawg/user-agents-v2/master/schemas/patterns.schema.json",
   "entries": [
     {
+      "name": "Alitu Web Player",
+      "pattern": "://[^./]+\\.alitu\\.com/",
+      "examples": [
+        "https://asdf.alitu.com/",
+        "https://www.alitu.com/"
+      ],
+      "category": "host"
+    },
+    {
       "name": "Amazon Music",
       "pattern": "^https://music\\.amazon\\.",
       "examples": [
