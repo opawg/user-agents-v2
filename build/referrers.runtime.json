@@ -1,6 +1,11 @@
 {
   "entries": [
     {
+      "name": "Alitu Web Player",
+      "pattern": "://[^./]+\\.alitu\\.com/",
+      "category": "host"
+    },
+    {
       "name": "Amazon Music",
       "pattern": "^https://music\\.amazon\\.",
       "category": "app"

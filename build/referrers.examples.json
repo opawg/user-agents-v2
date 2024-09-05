@@ -1,6 +1,13 @@
 {
   "entries": [
     {
+      "name": "Alitu Web Player",
+      "examples": [
+        "https://asdf.alitu.com/",
+        "https://www.alitu.com/"
+      ]
+    },
+    {
       "name": "Amazon Music",
       "examples": [
         "https://music.amazon.com/",
