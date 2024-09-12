@@ -2820,6 +2820,13 @@
       ]
     },
     {
+      "name": "Wavlake",
+      "examples": [
+        "Wavlake/0.0.2 iPhone 11/35 https://wavlake.com",
+        "Wavlake/0.0.1 Android 18/34 https://wavlake.com"
+      ]
+    },
+    {
       "name": "Winamp",
       "examples": [
         "WinampMPEG/2.7"

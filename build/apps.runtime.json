@@ -1777,6 +1777,10 @@
       "pattern": "^Voiz FM/"
     },
     {
+      "name": "Wavlake",
+      "pattern": "^Wavlake/"
+    },
+    {
       "name": "Winamp",
       "pattern": "^Winamp"
     },
