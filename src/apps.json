@@ -3865,6 +3865,17 @@
       ]
     },
     {
+      "name": "Wavlake",
+      "pattern": "^Wavlake/",
+      "urls": [
+        "https://wavlake.com"
+      ],
+      "examples": [
+        "Wavlake/0.0.2 iPhone 11/35 https://wavlake.com",
+        "Wavlake/0.0.1 Android 18/34 https://wavlake.com"
+      ]
+    },
+    {
       "name": "Winamp",
       "pattern": "^Winamp",
       "examples": [
