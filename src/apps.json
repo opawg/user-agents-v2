@@ -1949,7 +1949,7 @@
       "name": "Hubbard Radio",
       "pattern": "HubbardApp/",
       "description": "Hubbard Radio Apps",
-      "comments": "All Hubbard Radio station apps available on iOS and Android. Used when downloading or streaming podcast episodes.",
+      "comments": "All Hubbard Radio station apps available on iOS and Android. Used when downloading or streaming podcast episodes.",      
       "urls": [
         "https://hubbardradio.com",
         "https://hubbardbroadcasting.com",
@@ -2601,7 +2601,7 @@
         "mowPod/1.0 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
       ]
     },
-    {
+   {
       "name": "MPlayer",
       "description": "GPL-licensed cross-platform movie player",
       "pattern": "^MPlayer \\d",
@@ -3872,6 +3872,17 @@
       "pattern": "^Voiz FM/",
       "examples": [
         "Voiz FM/10.1.0 (Linux;Android 8.1.0) ExoPlayerLib/2.9.3"
+      ]
+    },
+    {
+      "name": "Wavlake",
+      "pattern": "^Wavlake/",
+      "urls": [
+        "https://wavlake.com"
+      ],
+      "examples": [
+        "Wavlake/0.0.2 iPhone 11/35 https://wavlake.com",
+        "Wavlake/0.0.1 Android 18/34 https://wavlake.com"
       ]
     },
     {
