@@ -360,6 +360,12 @@
       ]
     },
     {
+      "name": "audiobookshelf",
+      "examples": [
+        "audiobookshelf (+https://audiobookshelf.org)"
+      ]
+    },
+    {
       "name": "AudioWave",
       "examples": [
         "AudioWave/1.5 (+https://audiowave.io/; iPhone 15.4)",

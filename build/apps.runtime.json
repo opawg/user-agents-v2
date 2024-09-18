@@ -201,6 +201,10 @@
       "pattern": "^Android_AudioNow"
     },
     {
+      "name": "audiobookshelf",
+      "pattern": "^audiobookshelf"
+    },
+    {
       "name": "AudioWave",
       "pattern": "(^AudioWave/1|^AudioWave iOS)"
     },
