@@ -467,6 +467,16 @@
       ]
     },
     {
+      "name": "audiobookshelf",
+      "pattern": "^audiobookshelf",
+      "urls": [
+        "https://www.audiobookshelf.org/guides/podcasts/"
+      ],
+      "examples": [
+        "audiobookshelf (+https://audiobookshelf.org)"
+      ]
+    },
+    {
       "name": "AudioWave",
       "pattern": "(^AudioWave/1|^AudioWave iOS)",
       "urls": [
