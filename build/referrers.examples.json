@@ -59,6 +59,13 @@
       ]
     },
     {
+      "name": "Castos Web Player",
+      "examples": [
+        "https://audience.castos.com/player/1641975",
+        "https://audience.castos.com/playlist-player/4310"
+      ]
+    },
+    {
       "name": "Castro",
       "examples": [
         "https://castro.fm/"

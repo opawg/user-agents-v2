@@ -41,6 +41,11 @@
       "category": "app"
     },
     {
+      "name": "Castos Web Player",
+      "pattern": "^https://[a-z0-9]+\\.castos\\.com/",
+      "category": "host"
+    },
+    {
       "name": "Castro",
       "pattern": "^https://castro\\.fm/",
       "category": "app"
