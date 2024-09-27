@@ -82,7 +82,7 @@
     },
     {
       "name": "Castos Web Player",
-      "pattern": "^https://[a-z0-9]+\\.castos\\.com/(player|playlist-player)/",
+      "pattern": "^https://[a-z0-9]+\\.castos\\.com/",
       "examples": [
         "https://audience.castos.com/player/1641975",
         "https://audience.castos.com/playlist-player/4310"
