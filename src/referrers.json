@@ -81,6 +81,15 @@
       "category": "app"
     },
     {
+      "name": "Castos Web Player",
+      "pattern": "^https://[a-z0-9]+\\.castos\\.com/",
+      "examples": [
+        "https://audience.castos.com/player/1641975",
+        "https://audience.castos.com/playlist-player/4310"
+      ],
+      "category": "host"
+    },
+    {
       "name": "Castro",
       "pattern": "^https://castro\\.fm/",
       "examples": [
