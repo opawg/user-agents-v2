@@ -1211,6 +1211,12 @@
       ]
     },
     {
+      "name": "FocusPodcast",
+      "examples": [
+        "FocusPodcast_2.8.1.20240715"
+      ]
+    },
+    {
       "name": "foobar2000",
       "examples": [
         "foobar2000/1.x"
