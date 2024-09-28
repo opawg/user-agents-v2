@@ -1570,6 +1570,17 @@
       ]
     },
     {
+      "name": "FocusPodcast",
+      "pattern": "^FocusPodcast_",
+      "urls": [
+        "https://www.focus.hk.cn/",
+        "https://github.com/allentown521/FocusPodcast"
+      ],
+      "examples": [
+        "FocusPodcast_2.8.1.20240715"
+      ]
+    },
+    {
       "name": "foobar2000",
       "pattern": "^foobar2000/",
       "urls": [
