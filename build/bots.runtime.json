@@ -157,6 +157,10 @@
       "pattern": "http://cs\\.daum\\.net"
     },
     {
+      "name": "Deepcast Podcast Sync",
+      "pattern": "^DeepCast/\\d.*Sync"
+    },
+    {
       "name": "Deezer Podcasters",
       "pattern": "^Deezer Podcasters/1\\.0"
     },
@@ -433,6 +437,10 @@
       "pattern": "(podnods-crawler|podnods)"
     },
     {
+      "name": "Podplay Podcast Sync",
+      "pattern": "^Podplay-Podcast-Sync/"
+    },
+    {
       "name": "Podroll Analyzer",
       "pattern": "^pdrl\\.fm "
     },
@@ -535,6 +543,10 @@
     {
       "name": "SoundOn Bot",
       "pattern": "^SoundOn/[\\d.]+\\s+\\(bot"
+    },
+    {
+      "name": "Speechmatics ASR",
+      "pattern": "^Speechmatics-API/"
     },
     {
       "name": "Spotify cache service",

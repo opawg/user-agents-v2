@@ -206,6 +206,12 @@
       ]
     },
     {
+      "name": "Deepcast Podcast Sync",
+      "examples": [
+        "DeepCast/4.3.0 Podcast Sync (+https://deepcast.fm)"
+      ]
+    },
+    {
       "name": "Digg",
       "examples": [
         "Digg Mozilla/5.0 (Digg/1.0; support@digg.com)"
@@ -560,6 +566,12 @@
       ]
     },
     {
+      "name": "Podplay Podcast Sync",
+      "examples": [
+        "Podplay-Podcast-Sync/1.0 (+https://podplay.com/articles/contact)"
+      ]
+    },
+    {
       "name": "Podroll Analyzer",
       "examples": [
         "pdrl.fm Analyzer / 1.0.0"
@@ -694,6 +706,12 @@
       "name": "Snapchat Bot",
       "examples": [
         "Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robots"
+      ]
+    },
+    {
+      "name": "Speechmatics ASR",
+      "examples": [
+        "Speechmatics-API/2.0"
       ]
     },
     {

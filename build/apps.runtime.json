@@ -134,7 +134,7 @@
     },
     {
       "name": "Apollo",
-      "pattern": "^Apollo/"
+      "pattern": "^Apollo/|Apollo Podcasts \\(android\\)"
     },
     {
       "name": "Apple HomePod",
@@ -255,6 +255,10 @@
     {
       "name": "BashPodder",
       "pattern": "^BashPodder"
+    },
+    {
+      "name": "BBC iPlayer",
+      "pattern": "^BBCiPlayer/"
     },
     {
       "name": "BBC iPlayer Radio",
@@ -510,7 +514,7 @@
     },
     {
       "name": "Damus",
-      "pattern": "^damus/"
+      "pattern": "^damus|%D8%AF%D8%A7%D9%85%D9%8F%D8%B3|%E8%BE%BE%E6%91%A9/"
     },
     {
       "name": "DataDogApp",
@@ -1045,6 +1049,10 @@
       "pattern": "^Jam/\\d.*listentojam"
     },
     {
+      "name": "Jamit",
+      "pattern": "^Jamit$"
+    },
+    {
       "name": "Jimcast",
       "pattern": "^Jimcast/"
     },
@@ -1131,6 +1139,10 @@
     {
       "name": "lifegateburleson",
       "pattern": "^lifegateburleson/"
+    },
+    {
+      "name": "Life Radio",
+      "pattern": "^life-radio-konsole-app-android"
     },
     {
       "name": "LinkedIn",
@@ -1285,6 +1297,10 @@
       "pattern": "^Noice/"
     },
     {
+      "name": "Nos",
+      "pattern": "^Nos|Nos%20Staging|Nos%20Dev/"
+    },
+    {
       "name": "NPR",
       "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid|nprone_android/"
     },
@@ -1415,6 +1431,10 @@
     {
       "name": "Podimo",
       "pattern": "^Podimo/"
+    },
+    {
+      "name": "Podium Podcast",
+      "pattern": "^Podium/\\d"
     },
     {
       "name": "PodKast app",
@@ -1578,7 +1598,7 @@
     },
     {
       "name": "SiriusXM",
-      "pattern": "^SiriusXM/|^SXMApp/|^sxm-android/"
+      "pattern": "^SiriusXM|SXMApp|sxm-android|sxm-apple/"
     },
     {
       "name": "Slack",
