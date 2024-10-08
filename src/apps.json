@@ -293,9 +293,13 @@
     },
     {
       "name": "Apollo",
-      "pattern": "^Apollo/",
+      "pattern": "^Apollo/|Apollo Podcasts \\(android\\)",
       "examples": [
-        "Apollo/11.28 CFNetwork/1085.4 Darwin/19.0.0"
+        "Apollo/11.28 CFNetwork/1085.4 Darwin/19.0.0",
+        "Apollo Podcasts (android) https://apollopods.com"
+      ],
+      "urls": [
+        "https://apollopods.com/"
       ]
     },
     {
@@ -574,6 +578,17 @@
       "pattern": "^BashPodder",
       "urls": [
         "http://lincgeek.org/bashpodder/"
+      ]
+    },
+    {
+      "name": "BBC iPlayer",
+      "pattern": "^BBCiPlayer/",
+      "examples": [
+        "BBCiPlayer/4.75.0.1 (iPad2,5; iPhone OS 9.3.5) BBCSMP/36.2.0 BBCHTTPClient/8.0.2"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=bbc.iplayer.android&hl=en_US",
+        "https://apps.apple.com/gb/app/bbc-iplayer/id416580485"
       ]
     },
     {
@@ -1067,9 +1082,11 @@
     },
     {
       "name": "Damus",
-      "pattern": "^damus/",
+      "pattern": "^damus|%D8%AF%D8%A7%D9%85%D9%8F%D8%B3|%E8%BE%BE%E6%91%A9/",
       "examples": [
-        "damus/24 CFNetwork/1406.0.4 Darwin/22.4.0"
+        "damus/24 CFNetwork/1406.0.4 Darwin/22.4.0",
+        "%D8%AF%D8%A7%D9%85%D9%8F%D8%B3/1 CFNetwork/1498.700.2 Darwin/23.6.0",
+        "%E8%BE%BE%E6%91%A9/1 CFNetwork/1474 Darwin/23.0.0"
       ]
     },
     {
@@ -2202,6 +2219,16 @@
       ]
     },
     {
+      "name": "Jamit",
+      "pattern": "^Jamit$",
+      "examples": [
+        "Jamit"
+      ],
+      "urls": [
+        "https://jamit.app/"
+      ]
+    },
+    {
       "name": "Jimcast",
       "pattern": "^Jimcast/",
       "examples": [
@@ -2378,6 +2405,16 @@
       "pattern": "^lifegateburleson/",
       "examples": [
         "lifegateburleson/10 CFNetwork/672.1.15 Darwin/14.0.0"
+      ]
+    },
+    {
+      "name": "Life Radio",
+      "pattern": "^life-radio-konsole-app-android",
+      "examples": [
+        "life-radio-konsole-app-android"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.mobileagreements.radio.liferadio"
       ]
     },
     {
@@ -2702,6 +2739,19 @@
       ]
     },
     {
+      "name": "Nos",
+      "pattern": "^Nos|Nos%20Staging|Nos%20Dev/",
+      "examples": [
+        "Nos/280 CFNetwork/1498.700.2 Darwin/23.6.0",
+        "Nos%20Staging/482 CFNetwork/1498.700.2 Darwin/23.6.0",
+        "Nos/278 CFNetwork/1498.700.2 Darwin/23.6.0",
+        "Nos%20Dev/6 CFNetwork/1568.100.1 Darwin/24.0.0"
+      ],
+      "urls": [
+        "https://www.nos.social/"
+      ]
+    },
+    {
       "name": "NPR",
       "pattern": "^NPR/|^NPR%20One/|^NPROneAndroid|nprone_android/",
       "examples": [
@@ -3016,6 +3066,16 @@
       "examples": [
         "Podimo/1.11.3 build 121/iOS 13.3",
         "Podimo/1.11.3 build 91/Android 28"
+      ]
+    },
+    {
+      "name": "Podium Podcast",
+      "pattern": "^Podium/\\d",
+      "urls": [
+        "https://apps.apple.com/us/app/podium-podcast/id1151134762"
+      ],
+      "examples": [
+        "Podium/2.5.4 iOS_iPhone 15.0 Build 11"
       ]
     },
     {
@@ -3427,12 +3487,13 @@
     },
     {
       "name": "SiriusXM",
-      "pattern": "^SiriusXM/|^SXMApp/|^sxm-android/",
+      "pattern": "^SiriusXM|SXMApp|sxm-android|sxm-apple/",
       "examples": [
         "SiriusXM/1608138304 CFNetwork/1206 Darwin/20.1.0",
         "SXMApp/36270 CFNetwork/1496.0.7 Darwin/23.5.0",
         "sxm-android/7.5.2 samsung/SM-S918U Android/14",
-        "sxm-android/7.5.0 motorola/motorola-edge-plus-5G-UW-(2022) Android/13"
+        "sxm-android/7.5.0 motorola/motorola-edge-plus-5G-UW-(2022) Android/13",
+        "sxm-apple/7.8.1 iPhone14,5 iOS17.6.1"
       ]
     },
     {

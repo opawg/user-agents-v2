@@ -337,6 +337,16 @@
       ]
     },
     {
+      "name": "Deepcast Podcast Sync",
+      "pattern": "^DeepCast/\\d.*Sync",
+      "examples": [
+        "DeepCast/4.3.0 Podcast Sync (+https://deepcast.fm)"
+      ],
+      "urls": [
+        "https://deepcast.fm/"
+      ]
+    },
+    {
       "name": "Deezer Podcasters",
       "pattern": "^Deezer Podcasters/1\\.0"
     },
@@ -931,6 +941,16 @@
       ]
     },
     {
+      "name": "Podplay Podcast Sync",
+      "pattern": "^Podplay-Podcast-Sync/",
+      "examples": [
+        "Podplay-Podcast-Sync/1.0 (+https://podplay.com/articles/contact)"
+      ],
+      "urls": [
+        "https://podplay.com/articles/contact"
+      ]
+    },
+    {
       "name": "Podroll Analyzer",
       "pattern": "^pdrl\\.fm ",
       "examples": [
@@ -1136,6 +1156,16 @@
     {
       "name": "SoundOn Bot",
       "pattern": "^SoundOn/[\\d.]+\\s+\\(bot"
+    },
+    {
+      "name": "Speechmatics ASR",
+      "pattern": "^Speechmatics-API/",
+      "examples": [
+        "Speechmatics-API/2.0"
+      ],
+      "urls": [
+        "https://www.speechmatics.com/"
+      ]
     },
     {
       "name": "Spotify cache service",
