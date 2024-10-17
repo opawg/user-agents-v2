@@ -925,6 +925,16 @@
       ]
     },
     {
+      "name": "Podmon Bot",
+      "pattern": "Podmonbot/",
+      "urls": [
+        "https://podmon.io/"
+      ],
+      "examples": [
+        "Podmonbot/1.0"
+      ]
+    },
+    {
       "name": "Podnews",
       "pattern": "PodnewsBot",
       "description": "Podnews runs a number of bots to read and test RSS and audio files",
