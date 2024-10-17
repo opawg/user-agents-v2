@@ -430,7 +430,7 @@
     },
     {
       "name": "Podmon Bot",
-      "pattern": "Podmonbot/"
+      "pattern": "^Podmonbot/"
     },
     {
       "name": "Podnews",
