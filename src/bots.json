@@ -926,7 +926,7 @@
     },
     {
       "name": "Podmon Bot",
-      "pattern": "Podmonbot/",
+      "pattern": "^Podmonbot/",
       "urls": [
         "https://podmon.io/"
       ],
