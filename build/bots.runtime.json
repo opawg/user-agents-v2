@@ -429,6 +429,10 @@
       "pattern": "^Podio/"
     },
     {
+      "name": "Podmon Bot",
+      "pattern": "Podmonbot/"
+    },
+    {
       "name": "Podnews",
       "pattern": "PodnewsBot"
     },

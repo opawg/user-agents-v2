@@ -566,6 +566,12 @@
       ]
     },
     {
+      "name": "Podmon Bot",
+      "examples": [
+        "Podmonbot/1.0"
+      ]
+    },
+    {
       "name": "Podplay Podcast Sync",
       "examples": [
         "Podplay-Podcast-Sync/1.0 (+https://podplay.com/articles/contact)"
