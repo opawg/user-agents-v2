@@ -1429,6 +1429,10 @@
       "pattern": "^Podhero|^Swoot[/ ]"
     },
     {
+      "name": "Podhome",
+      "pattern": "^Podhome App"
+    },
+    {
       "name": "Podimo",
       "pattern": "^Podimo/"
     },

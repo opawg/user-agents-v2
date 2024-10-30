@@ -2292,6 +2292,13 @@
       ]
     },
     {
+      "name": "Podhome",
+      "examples": [
+        "Podhome App/1.0 CFNetwork/1121.2.2 Darwin/19.2.0",
+        "Podhome App/1.0 (Linux; Android 10; SM-G960F Build/QP1A.190711.020) ExoPlayerLib/2.10.4"
+      ]
+    },
+    {
       "name": "Podimo",
       "examples": [
         "Podimo/1.11.3 build 121/iOS 13.3",
