@@ -3057,6 +3057,18 @@
       ]
     },
     {
+      "name": "Podhome",
+      "pattern": "^Podhome App",
+      "description": "Podhome app on iOS, Android and Web.",
+      "urls": [
+        "https://www.podhome.fm/"
+      ],
+      "examples": [
+        "Podhome App/1.0 CFNetwork/1121.2.2 Darwin/19.2.0",
+        "Podhome App/1.0 (Linux; Android 10; SM-G960F Build/QP1A.190711.020) ExoPlayerLib/2.10.4"
+      ]
+    },
+    {
       "name": "Podimo",
       "pattern": "^Podimo/",
       "urls": [
