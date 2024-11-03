@@ -4172,6 +4172,13 @@
         "Talk%20Radio/45.2.1./iOS 17.2.1/iPhone iPhone",
         "Talk%20Radio/45.2.1./iPadOS 15.8/iPad 3)"
       ]
-    }
+    },
+{
+  "name": "JamxFeeds",
+  "pattern": "^JamxFeeds/",
+  "examples": [
+    "JamxFeeds/1.0.3"
+  ]
+}
   ]
 }
