@@ -1706,6 +1706,12 @@
       ]
     },
     {
+      "name": "JamxFeeds",
+      "examples": [
+        "JamxFeeds/1.0.3"
+      ]
+    },
+    {
       "name": "Jimcast",
       "examples": [
         "Jimcast/1.0 CFNetwork/672.1.15 Darwin/14.0.0"
@@ -3021,12 +3027,6 @@
       "examples": [
         "Talk%20Radio/45.2.1./iOS 17.2.1/iPhone iPhone",
         "Talk%20Radio/45.2.1./iPadOS 15.8/iPad 3)"
-      ]
-    },
-    {
-      "name": "JamxFeeds",
-      "examples": [
-        "JamxFeeds/1.0.3"
       ]
     }
   ]

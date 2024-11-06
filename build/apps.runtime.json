@@ -1053,6 +1053,10 @@
       "pattern": "^Jamit$"
     },
     {
+      "name": "JamxFeeds",
+      "pattern": "^JamxFeeds/"
+    },
+    {
       "name": "Jimcast",
       "pattern": "^Jimcast/"
     },
@@ -1891,10 +1895,6 @@
     {
       "name": "TalkRadio",
       "pattern": "^Talk%20Radio/"
-    },
-    {
-      "name": "JamxFeeds",
-      "pattern": "^JamxFeeds/"
     }
   ]
 }
