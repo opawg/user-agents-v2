@@ -846,6 +846,16 @@
       ]
     },
     {
+      "name": "Podcast Archiver (janw)",
+      "pattern": "^podcast-archiver/v\\d",
+      "urls": [
+        "https://github.com/janw/podcast-archiver"
+      ],
+      "examples": [
+        "podcast-archiver/v1.7.1 (https://github.com/janw/podcast-archiver)"
+      ]
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud",
       "description": "Le podcast, simplement. A French-language web-based podcast player.",
@@ -1205,6 +1215,16 @@
       ]
     },
     {
+      "name": "Taddy Podcast API",
+      "pattern": "^Taddy Podcast API ",
+      "urls": [
+        "https://taddy.org/developers"
+      ],
+      "examples": [
+        "Taddy Podcast API (https://taddy.org/developers)"
+      ]
+    },
+    {
       "name": "Timpi search crawler",
       "pattern": "Timpibot/",
       "examples": [
@@ -1241,6 +1261,16 @@
       "pattern": "^Triton Digital Podcast Sync$",
       "examples": [
         "Triton Digital Podcast Sync"
+      ]
+    },
+    {
+      "name": "TurnitinBot",
+      "pattern": "^Turnitin \\(",
+      "urls": [
+        "https://www.turnitin.com/robot/crawlerinfo.html"
+      ],
+      "examples": [
+        "Turnitin (https://bit.ly/2UvnfoQ)"
       ]
     },
     {
