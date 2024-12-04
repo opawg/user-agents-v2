@@ -338,7 +338,8 @@
     {
       "name": "Audacy",
       "examples": [
-        "Radio.com/12.2.0 (com.cbsradio.cbsradioplayer; build:1; iOS 14.6.0) Alamofire/4.8.1"
+        "Radio.com/12.2.0 (com.cbsradio.cbsradioplayer; build:1; iOS 14.6.0) Alamofire/4.8.1",
+        "Audacy 16.11.0 / Android"
       ]
     },
     {

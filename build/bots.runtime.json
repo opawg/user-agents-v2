@@ -401,6 +401,10 @@
       "pattern": "^Podcast%20Archiver/"
     },
     {
+      "name": "Podcast Archiver (janw)",
+      "pattern": "^podcast-archiver/v\\d"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
@@ -569,6 +573,10 @@
       "pattern": "^SupportingCast(/.*)?$"
     },
     {
+      "name": "Taddy Podcast API",
+      "pattern": "^Taddy Podcast API "
+    },
+    {
       "name": "Timpi search crawler",
       "pattern": "Timpibot/"
     },
@@ -587,6 +595,10 @@
     {
       "name": "Triton Digital Podcast Sync",
       "pattern": "^Triton Digital Podcast Sync$"
+    },
+    {
+      "name": "TurnitinBot",
+      "pattern": "^Turnitin \\("
     },
     {
       "name": "Twingly Bot",

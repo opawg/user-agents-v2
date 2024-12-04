@@ -530,6 +530,12 @@
       ]
     },
     {
+      "name": "Podcast Archiver (janw)",
+      "examples": [
+        "podcast-archiver/v1.7.1 (https://github.com/janw/podcast-archiver)"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"
@@ -740,6 +746,12 @@
       ]
     },
     {
+      "name": "Taddy Podcast API",
+      "examples": [
+        "Taddy Podcast API (https://taddy.org/developers)"
+      ]
+    },
+    {
       "name": "Timpi search crawler",
       "examples": [
         "Timpibot/0.8 ( http://www.timpi.io)"
@@ -761,6 +773,12 @@
       "name": "Triton Digital Podcast Sync",
       "examples": [
         "Triton Digital Podcast Sync"
+      ]
+    },
+    {
+      "name": "TurnitinBot",
+      "examples": [
+        "Turnitin (https://bit.ly/2UvnfoQ)"
       ]
     },
     {

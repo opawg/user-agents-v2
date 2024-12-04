@@ -182,7 +182,7 @@
     },
     {
       "name": "Audacy",
-      "pattern": "^Radio\\.com/"
+      "pattern": "^Radio\\.com/|^Audacy \\d"
     },
     {
       "name": "Audials",
