@@ -856,6 +856,16 @@
       ]
     },
     {
+      "name": "Podcastics",
+      "pattern": "^Podcastics$",
+      "urls": [
+        "https://podcastics.com"
+      ],
+      "examples": [
+        "Podcastics"
+      ]
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud",
       "description": "Le podcast, simplement. A French-language web-based podcast player.",
