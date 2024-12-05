@@ -405,6 +405,10 @@
       "pattern": "^podcast-archiver/v\\d"
     },
     {
+      "name": "Podcastics",
+      "pattern": "^Podcastics$"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
