@@ -990,7 +990,7 @@
     },
     {
       "name": "iHeartRadio",
-      "pattern": "^iHeartRadio/|^iHeartPodcasts/"
+      "pattern": "^iHeartRadio/|^iHeartPodcasts/|^iHeart/"
     },
     {
       "name": "iHorror",
