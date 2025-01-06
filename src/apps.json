@@ -2091,7 +2091,7 @@
     },
     {
       "name": "iHeartRadio",
-      "pattern": "^iHeartRadio/|^iHeartPodcasts/",
+      "pattern": "^iHeartRadio/|^iHeartPodcasts/|^iHeart/",
       "urls": [
         "https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller",
         "https://apps.apple.com/us/app/iheart-radio-music-podcasts/id290638154"
@@ -2103,7 +2103,10 @@
         "iHeartRadio/9.20.0 (iPhone; iOS 13.4.1; iPhone11,8)",
         "iHeartRadio/9.20.0 (iPad; iOS 13.4.1; iPad6,12)",
         "iHeartRadio/9.7.0 (iPod touch; iOS 12.4.5; iPod7,1)",
-        "iHeartPodcasts/1.1.0 (Android 10; SM-A505FN Build/QP1A.190711.020)"
+        "iHeartPodcasts/1.1.0 (Android 10; SM-A505FN Build/QP1A.190711.020)",
+        "iHeart/10.47.0 (iOS/18.1; Phone; en-US; AppStore; Apple/iPhone13,2)",
+        "iHeart/10.47.0 (Linux; U; Android 14; V2130 Build/UP1A.231005.007)",
+        "iHeart/10.47.0 (Windows NT 10.0; Win64; x64; MSAppHost/3.0)"
       ]
     },
     {
