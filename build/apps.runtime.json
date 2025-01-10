@@ -1289,6 +1289,10 @@
       "pattern": "^NetNewsWire"
     },
     {
+      "name": "Neuecast",
+      "pattern": "^Neuecast/"
+    },
+    {
       "name": "Newsboat",
       "pattern": "^Newsboat/"
     },
@@ -1527,6 +1531,10 @@
     {
       "name": "Pypodder",
       "pattern": "^pypodder$"
+    },
+    {
+      "name": "Queue",
+      "pattern": "^Queue/\\d"
     },
     {
       "name": "Radio Downloader",

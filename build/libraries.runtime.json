@@ -128,6 +128,11 @@
       "category": "bot"
     },
     {
+      "name": "net/http-easy (racket)",
+      "pattern": "^net/http-easy.*racket",
+      "category": "bot"
+    },
+    {
       "name": "Just Audio",
       "pattern": "^just_audio/"
     },

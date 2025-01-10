@@ -684,6 +684,12 @@
       ]
     },
     {
+      "name": "RunPod",
+      "examples": [
+        "runpod-python/0.0.0 (https://runpod.io; support@runpod.io)"
+      ]
+    },
+    {
       "name": "Screaming Frog SEO Spider",
       "examples": [
         "Screaming Frog SEO Spider/5.1"

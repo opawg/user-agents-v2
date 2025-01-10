@@ -525,6 +525,10 @@
       "pattern": "^Mechanize|[ -]Mechanize/"
     },
     {
+      "name": "RunPod",
+      "pattern": "^runpod-python/"
+    },
+    {
       "name": "Screaming Frog SEO Spider",
       "pattern": "^Screaming Frog "
     },

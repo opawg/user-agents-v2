@@ -2068,6 +2068,13 @@
       ]
     },
     {
+      "name": "Neuecast",
+      "examples": [
+        "Neuecast/1.2.1 (iOS; 18.2)",
+        "Neuecast/1.2.2 (iOS; 18.1.1)"
+      ]
+    },
+    {
       "name": "Newsboat",
       "examples": [
         "Newsboat/2.29.0 (Linux x86_64)"
@@ -2436,6 +2443,12 @@
       "name": "Pypodder",
       "examples": [
         "pypodder"
+      ]
+    },
+    {
+      "name": "Queue",
+      "examples": [
+        "Queue/1.9.1 (1) (iOS)"
       ]
     },
     {

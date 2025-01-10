@@ -152,6 +152,12 @@
       ]
     },
     {
+      "name": "net/http-easy (racket)",
+      "examples": [
+        "net/http-easy (macosx; racket[CS] 8.15.0.7; 0.8.2)"
+      ]
+    },
+    {
       "name": "Just Audio",
       "examples": [
         "just_audio/3.6.2 (Linux;Android 9) ExoPlayerLib/2.13.1",
