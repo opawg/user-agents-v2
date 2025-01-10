@@ -2727,6 +2727,17 @@
       ]
     },
     {
+      "name": "Neuecast",
+      "pattern": "^Neuecast/",
+      "examples": [
+        "Neuecast/1.2.1 (iOS; 18.2)",
+        "Neuecast/1.2.2 (iOS; 18.1.1)"
+      ],
+      "urls": [
+        "https://neuecast.app/"
+      ]
+    },
+    {
       "name": "Newsboat",
       "pattern": "^Newsboat/",
       "examples": [
@@ -3304,6 +3315,16 @@
       ],
       "urls": [
         "https://github.com/Northcode/pypodder"
+      ]
+    },
+    {
+      "name": "Queue",
+      "pattern": "^Queue/\\d",
+      "examples": [
+        "Queue/1.9.1 (1) (iOS)"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/queue-simple-podcasts/id6639586996"
       ]
     },
     {

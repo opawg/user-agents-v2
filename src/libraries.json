@@ -288,6 +288,17 @@
       "category": "bot"
     },
     {
+      "name": "net/http-easy (racket)",
+      "pattern": "^net/http-easy.*racket",
+      "examples": [
+        "net/http-easy (macosx; racket[CS] 8.15.0.7; 0.8.2)"
+      ],
+      "urls": [
+        "https://docs.racket-lang.org/http-easy/index.html"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "Just Audio",
       "description": "just_audio is a feature-rich audio player for Android, iOS, macOS, web, Linux and Windows (Flutter/Dart)",
       "pattern": "^just_audio/",

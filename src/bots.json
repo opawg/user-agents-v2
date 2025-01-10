@@ -1131,6 +1131,17 @@
       ]
     },
     {
+      "name": "RunPod",
+      "pattern": "^runpod-python/",
+      "examples": [
+        "runpod-python/0.0.0 (https://runpod.io; support@runpod.io)"
+      ],
+      "urls": [
+        "https://www.runpod.io/"
+      ],
+      "comments": "https://github.com/runpod/runpod-python/blob/9c5918e9bc83f82bdfbb9fa94ad049e56c76a398/runpod/serverless/utils/rp_download.py#L23"
+    },
+    {
       "name": "Screaming Frog SEO Spider",
       "pattern": "^Screaming Frog ",
       "examples": [
