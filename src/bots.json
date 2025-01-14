@@ -1435,6 +1435,16 @@
       "examples": [
         "Zencastr/2.0"
       ]
+    },
+    {
+      "name": "podwords",
+      "pattern": "^podwordsbot/",
+      "examples": [
+        "podwordsbot/0.0.1 podwords"
+      ],
+      "urls": [
+        "https://www.facebook.com/podwords"
+      ]
     }
   ]
 }
