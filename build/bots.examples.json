@@ -542,6 +542,13 @@
       ]
     },
     {
+      "name": "Podcatcher Bot",
+      "examples": [
+        "Podcatcher Bot 1.0",
+        "Podcatcher Bot 1.0 (1 subscribers; +https://podcatcher.net)"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"

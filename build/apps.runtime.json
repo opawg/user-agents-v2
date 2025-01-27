@@ -1397,6 +1397,10 @@
       "pattern": "^Podcastly/|^Podcastly$"
     },
     {
+      "name": "Podcatcher",
+      "pattern": "^Podcatcher \\d"
+    },
+    {
       "name": "Podchaser",
       "pattern": "^Podchaser |^Podchaser-Parser"
     },

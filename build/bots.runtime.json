@@ -409,6 +409,10 @@
       "pattern": "^Podcastics$"
     },
     {
+      "name": "Podcatcher Bot",
+      "pattern": "^Podcatcher Bot 1.0"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
