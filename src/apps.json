@@ -1981,7 +1981,7 @@
       "name": "Hubbard Radio",
       "pattern": "HubbardApp/",
       "description": "Hubbard Radio Apps",
-      "comments": "All Hubbard Radio station apps available on iOS and Android. Used when downloading or streaming podcast episodes.",      
+      "comments": "All Hubbard Radio station apps available on iOS and Android. Used when downloading or streaming podcast episodes.",
       "urls": [
         "https://hubbardradio.com",
         "https://hubbardbroadcasting.com",
@@ -2988,6 +2988,14 @@
       "examples": [
         "Podcastly/1.4.1 (samsung; CPU OS android 11; en_us)",
         "Podcastly"
+      ]
+    },
+    {
+      "name": "Podcatcher",
+      "pattern": "^Podcatcher \\d",
+      "examples": [
+        "Podcatcher 1.3",
+        "Podcatcher 1.3 (+https://podcatcher.net)"
       ]
     },
     {
