@@ -866,10 +866,9 @@
       ]
     },
     {
-      "name": "Podcatcher",
+      "name": "Podcatcher Bot",
       "pattern": "^Podcatcher Bot 1.0",
       "examples": [
-        "Podcatcher 0.1",
         "Podcatcher Bot 1.0",
         "Podcatcher Bot 1.0 (1 subscribers; +https://podcatcher.net)"
       ]
