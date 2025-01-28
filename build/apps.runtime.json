@@ -1353,6 +1353,10 @@
       "pattern": "^PeaCast/"
     },
     {
+      "name": "phonostar Radio-App",
+      "pattern": "^phonostar-Player/\\d"
+    },
+    {
       "name": "Playapod",
       "pattern": "^Playapod"
     },

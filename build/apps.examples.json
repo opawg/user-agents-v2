@@ -2191,6 +2191,12 @@
       ]
     },
     {
+      "name": "phonostar Radio-App",
+      "examples": [
+        "phonostar-Player/4.08"
+      ]
+    },
+    {
       "name": "Playapod",
       "examples": [
         "Playapod/2.4.11"

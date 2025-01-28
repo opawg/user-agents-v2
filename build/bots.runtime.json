@@ -253,6 +253,10 @@
       "pattern": "Archive-It;|web\\.archive\\.org"
     },
     {
+      "name": "iono.fm feed importer",
+      "pattern": "^iono/feed_importer"
+    },
+    {
       "name": "iOS share menu",
       "pattern": "^SharingUIService/"
     },

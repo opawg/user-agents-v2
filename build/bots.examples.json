@@ -333,6 +333,12 @@
       ]
     },
     {
+      "name": "iono.fm feed importer",
+      "examples": [
+        "iono/feed_importer"
+      ]
+    },
+    {
       "name": "iOS share menu",
       "examples": [
         "SharingUIService/1 CFNetwork/1467.1 Darwin/23.0.0",
