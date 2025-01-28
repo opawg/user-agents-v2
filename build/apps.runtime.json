@@ -1137,6 +1137,10 @@
       "pattern": "LG Player"
     },
     {
+      "name": "LG webOS TV",
+      "pattern": "Web0S; Linux/SmartTV.*WebAppManager"
+    },
+    {
       "name": "LifeEssentials",
       "pattern": "^Life(%20)?Essentials(App)?/"
     },
