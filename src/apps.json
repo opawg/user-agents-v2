@@ -2895,6 +2895,16 @@
       ]
     },
     {
+      "name": "phonostar Radio-App",
+      "pattern": "^phonostar-Player/\\d",
+      "examples": [
+        "phonostar-Player/4.08"
+      ],
+      "urls": [
+        "https://www.phonostar.de/radio/radioaufnehmen/radio-app"
+      ]
+    },
+    {
       "name": "Playapod",
       "pattern": "^Playapod",
       "description": "Best Cross-Platform Podcast and News App",

@@ -538,6 +538,16 @@
       ]
     },
     {
+      "name": "iono.fm feed importer",
+      "pattern": "^iono/feed_importer",
+      "examples": [
+        "iono/feed_importer"
+      ],
+      "urls": [
+        "https://iono.fm/"
+      ]
+    },
+    {
       "name": "iOS share menu",
       "pattern": "^SharingUIService/",
       "examples": [
