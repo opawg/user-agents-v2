@@ -630,6 +630,12 @@
       ]
     },
     {
+      "name": "Podtail RSS Crawler",
+      "examples": [
+        "Mozilla/5.0 (compatible; Podtail/2.0; +https://podtail.com/)"
+      ]
+    },
+    {
       "name": "PodvineBot",
       "examples": [
         "PodvineBot/4.0.1 (www.podvine.com)"

@@ -477,6 +477,10 @@
       "pattern": "(PodUptime|PodUptimeBot)/\\d"
     },
     {
+      "name": "Podtail RSS Crawler",
+      "pattern": "/podtail\\.com"
+    },
+    {
       "name": "Podverse Feed Parser",
       "pattern": "^Podverse/Feed Parser"
     },
