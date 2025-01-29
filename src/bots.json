@@ -1037,6 +1037,13 @@
       ]
     },
     {
+      "name": "Podtail RSS Crawler",
+      "pattern": "/podtail\\.com",
+      "examples": [
+        "Mozilla/5.0 (compatible; Podtail/2.0; +https://podtail.com/)"
+      ]
+    },
+    {
       "name": "Podverse Feed Parser",
       "pattern": "^Podverse/Feed Parser",
       "description": "The Podverse feed parser.",
