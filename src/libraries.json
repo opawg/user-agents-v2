@@ -299,6 +299,18 @@
       "category": "bot"
     },
     {
+      "name": "Java Platform Default",
+      "description": "Java platform-provided client default used in the desktop/server runtime",
+      "pattern": "^Java/\\d",
+      "examples": [
+        "Java/17",
+        "Java/21.0.5",
+        "Java/11.0.13",
+        "Java/17.0.1"
+      ],
+      "category": "bot"
+    },
+    {
       "name": "Just Audio",
       "description": "just_audio is a feature-rich audio player for Android, iOS, macOS, web, Linux and Windows (Flutter/Dart)",
       "pattern": "^just_audio/",
