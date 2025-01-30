@@ -133,6 +133,11 @@
       "category": "bot"
     },
     {
+      "name": "Java Platform Default",
+      "pattern": "^Java/\\d",
+      "category": "bot"
+    },
+    {
       "name": "Just Audio",
       "pattern": "^just_audio/"
     },

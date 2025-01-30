@@ -158,6 +158,15 @@
       ]
     },
     {
+      "name": "Java Platform Default",
+      "examples": [
+        "Java/17",
+        "Java/21.0.5",
+        "Java/11.0.13",
+        "Java/17.0.1"
+      ]
+    },
+    {
       "name": "Just Audio",
       "examples": [
         "just_audio/3.6.2 (Linux;Android 9) ExoPlayerLib/2.13.1",
