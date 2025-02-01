@@ -488,7 +488,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$",
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feed[fF]etcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$",
       "description": "Google's search bots",
       "urls": [
         "http://www.google.com/bot.html"
@@ -499,7 +499,8 @@
         "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)",
         "google-xrawler",
         "Googlebot-News Audio",
-        "Google-Safety"
+        "Google-Safety",
+        "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
       ]
     },
     {
@@ -606,6 +607,16 @@
       "pattern": "^libwww-perl| libwww-perl",
       "examples": [
         "LWP::Simple/6.34 libwww-perl/6.34"
+      ]
+    },
+    {
+      "name": "LinkPreview",
+      "pattern": "^LinkPreview/\\d",
+      "examples": [
+        "LinkPreview/1.6 (https://www.linkpreview.net)"
+      ],
+      "urls": [
+        "https://www.linkpreview.net/"
       ]
     },
     {
@@ -753,6 +764,13 @@
       "pattern": "^OkDownload/"
     },
     {
+      "name": "OmniStudio",
+      "pattern": "^OmnyStudio/\\d",
+      "examples": [
+        "OmnyStudio/1.0"
+      ]
+    },
+    {
       "name": "OP3 Fetcher",
       "pattern": "^op3-fetcher/",
       "examples": [
@@ -781,6 +799,17 @@
         "Overcast/1.0 Podcast Sync",
         "Overcast/1.0 Podcast Sync (+http://overcast.fm/)",
         "Overcast/1.0 Podcast Sync (1 subscribers; feed-id=1234567; +http://overcast.fm/)"
+      ]
+    },
+    {
+      "name": "Owler Open Web Crawler",
+      "description": "We crawl the Web to create an open web index and to bootstrap a more open internet search ecosystem",
+      "pattern": "^Owler \\(",
+      "examples": [
+        "Owler (ows.eu/owler)"
+      ],
+      "urls": [
+        "https://ows.eu/owler"
       ]
     },
     {
@@ -1287,6 +1316,13 @@
         "https://tt-rss.org/"
       ],
       "comments": "Found autodownloading hundreds of episodes from an entire feed in rapid succession"
+    },
+    {
+      "name": "TranscribeServer",
+      "pattern": "^TranscribeServer/\\d",
+      "examples": [
+        "TranscribeServer/1.0 (com.xiao.TranscribeServer; build:1; macOS 15.2.0) Alamofire/5.10.2"
+      ]
     },
     {
       "name": "Transistor",

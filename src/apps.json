@@ -155,6 +155,16 @@
       ]
     },
     {
+      "name": "All Daf",
+      "pattern": "^AllDaf/\\d",
+      "examples": [
+        "AllDaf/1 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/all-daf/id1480151101"
+      ]
+    },
+    {
       "name": "All You Can Books",
       "pattern": "AllYouCanBooks",
       "examples": [
@@ -167,6 +177,16 @@
       "pattern": "^AllHitMusicRadio/",
       "examples": [
         "AllHitMusicRadio/1.0 CFNetwork/978.0.7 Darwin/18.5.0"
+      ]
+    },
+    {
+      "name": "All Mishnah",
+      "pattern": "^AllMishna/\\d",
+      "examples": [
+        "AllMishna/1 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/all-mishnah/id1598932850"
       ]
     },
     {
@@ -1196,6 +1216,16 @@
       ]
     },
     {
+      "name": "Dosis Diaria",
+      "pattern": "^Dosis Diaria/\\d",
+      "examples": [
+        "Dosis Diaria/1.1.8 (com.elministerioroka.Dosis-Diaria; build:12; iOS 18.1.1) Alamofire/4.8.2"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/dosis-diaria/id6466759396"
+      ]
+    },
+    {
       "name": "doubleTwist CloudPlayer",
       "pattern": "^doubleTwist CloudPlayer",
       "urls": [
@@ -1426,6 +1456,16 @@
       "pattern": "^EvanApp/",
       "examples": [
         "EvanApp/1 CFNetwork/897.15 Darwin/17.5.0"
+      ]
+    },
+    {
+      "name": "Everand",
+      "pattern": "^Everand/\\d",
+      "examples": [
+        "Everand/167 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/everand-ebooks-and-audiobooks/id542557212"
       ]
     },
     {
@@ -2132,6 +2172,17 @@
       ]
     },
     {
+      "name": "InstacastPlus",
+      "description": "InstacastPlus is built on the previously popular podcast app Instacast. Discover podcasts that entertain, inform, and inspire.",
+      "pattern": "^InstacastPlus/\\d",
+      "examples": [
+        "InstacastPlus/1 CFNetwork/1496.0.7 Darwin/23.5.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/instacastplus/id6472283494"
+      ]
+    },
+    {
       "name": "Instagram",
       "pattern": "^Instagram/|Mobile/.* Instagram",
       "examples": [
@@ -2514,6 +2565,16 @@
       ]
     },
     {
+      "name": "Lysten",
+      "pattern": "^Lysten/\\d",
+      "examples": [
+        "Lysten/485 CFNetwork/1474 Darwin/23.0.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/lysten-podcast-player/id1579212581"
+      ]
+    },
+    {
       "name": "MacJournal",
       "pattern": "^MacJournal/",
       "examples": [
@@ -2642,7 +2703,7 @@
     },
     {
       "name": "MixerBox",
-      "pattern": "^MixerBox(%20Pro)?/",
+      "pattern": "^MixerBox((%20| )Pro)?/",
       "urls": [
         "https://www.mixerbox.com/"
       ],
@@ -2650,7 +2711,8 @@
         "MixerBox/12.33 (Linux;Android 11) ExoPlayerLib/2.11.1",
         "MixerBox/807.iOS (iPhone; iOS 14.4; en_US)",
         "MixerBox/869 CFNetwork/1300.1 Darwin/21.0.0",
-        "MixerBox%20Pro/10015 CFNetwork/1406.0.4 Darwin/22.4.0"
+        "MixerBox%20Pro/10015 CFNetwork/1406.0.4 Darwin/22.4.0",
+        "MixerBox Pro/10015 CFNetwork/1568.200.51 Darwin/24.1.0"
       ]
     },
     {
@@ -2725,14 +2787,17 @@
     },
     {
       "name": "MyTuner",
-      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^myTuner$|^myTuneriOS%20Free/",
+      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner Podcasts/\\d|^myTuneriOS Free/\\d",
       "examples": [
         "myTuner Radio app/11 CFNetwork/978.0.7 Darwin/18.7.0",
         "myTuner%20Radio%20app/11 CFNetwork/978.0.7 Darwin/18.7.0",
         "mytuner_podcasts_androidplayer/1.0.0 (Linux;Android 6.0) ExoPlayerLib/2.8.4",
         "MyTuner-ExoPlayerAdapter",
         "myTuner",
-        "myTuneriOS%20Free/120 CFNetwork/1402.0.8 Darwin/22.2.0"
+        "myTuneriOS%20Free/120 CFNetwork/1402.0.8 Darwin/22.2.0",
+        "myTuner Podcasts/30 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "myTuneriOS Free/202 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "mytuner"
       ]
     },
     {
@@ -3322,6 +3387,16 @@
       ]
     },
     {
+      "name": "Pratilipi FM",
+      "pattern": "^Pratilipi FM/\\d",
+      "examples": [
+        "Pratilipi FM/6.3.2 (Linux;Android 14) AndroidXMedia3/1.2.1"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.pratilipi.android.pratilipifm&hl=en_US"
+      ]
+    },
+    {
       "name": "ProCast",
       "pattern": "Pro[Cc]ast",
       "description": "The new generation of Podcast player.",
@@ -3798,6 +3873,16 @@
       "comments": "Must match after ios app"
     },
     {
+      "name": "SWAPA",
+      "pattern": "^SWAPA/\\d",
+      "examples": [
+        "SWAPA/171 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/swapa/id766906650"
+      ]
+    },
+    {
       "name": "Swinsian",
       "pattern": "^Swinsian/",
       "urls": [
@@ -3898,6 +3983,16 @@
       "pattern": "^TREBLE/",
       "examples": [
         "TREBLE/1.0"
+      ]
+    },
+    {
+      "name": "Tubidy Fm Offline Music Player",
+      "pattern": "^Tubidy FM/\\d",
+      "examples": [
+        "Tubidy FM/1 CFNetwork/1335.0.3.4 Darwin/21.6.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/tubidy-fm-offline-music-player/id1355464544"
       ]
     },
     {
@@ -4072,6 +4167,26 @@
         "NSPlayer/12.00.18362.0418 WMFSDK/12.00.18362.0418",
         "Windows-Media-Player/12.0.15063.1805",
         "Lavf52.104.0 WMPlayer/10.0.0.364 guid/3300AD50-2C39-46C0-AE0A-AC7B8159E203"
+      ]
+    },
+    {
+      "name": "Wink 106",
+      "pattern": "^Wink106/\\d",
+      "examples": [
+        "Wink106/9 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.wink106.player&hl=en_US"
+      ]
+    },
+    {
+      "name": "WOWY Radio",
+      "pattern": "^Wowy Radio/\\d",
+      "examples": [
+        "Wowy Radio/12.0.6 (Pixel 7 Pro; Android 14)"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.wowy.player&hl=en_US"
       ]
     },
     {
