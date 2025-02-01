@@ -10,11 +10,11 @@
     },
     {
       "name": "Edge",
-      "pattern": "(Xbox.+Edg?/|Android.+EdgA/|iPhone.+EdgiOS/|Macintosh.+MacEdgeClient/|Windows Phone.+Edge?/|Windows.+Edge?/)"
+      "pattern": "(Xbox.+Edg?/|Android.+EdgA/|iPhone.+EdgiOS/|Macintosh.+MacEdgeClient/|Windows Phone.+Edge?/|Windows.+Edge?/|X11.+Edge?/)"
     },
     {
       "name": "Chrome",
-      "pattern": "^.*Android.*Chrome/|CrOS.*Chrome/|Linux.*Chrome/|Mac OS X.*Chrome/|Windows.*Chrome/|iPad.*CriOS/|iPhone.*CriOS/|^Chrome/\\d.*CFNetwork"
+      "pattern": "^.*Android.*Chrome/|CrOS.*Chrome/|Linux.*Chrome/|Mac OS X.*Chrome/|Windows.*Chrome/|iPad.*CriOS/|iPhone.*CriOS/|^Chrome/\\d.*CFNetwork|X11.*Chrome/"
     },
     {
       "name": "Firefox",
@@ -34,15 +34,15 @@
     },
     {
       "name": "Safari",
-      "pattern": "Macintosh.*AppleWebKit.*Safari/|Windows.*AppleWebKit.*Safari/|iPhone.*AppleWebKit.*Safari/|iPad.*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
+      "pattern": "(Macintosh|Windows|iPhone|iPad|X11|BB10).*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
     },
     {
       "name": "iOS WebView",
       "pattern": "Mozilla/5\\.0 \\([A-Za-z ]+; CPU( iPhone)? OS [\\d_]+ like Mac OS X\\) AppleWebKit/[\\d.]+ \\(KHTML, like Gecko\\) Mobile/[0-9A-Z]{6,}"
     },
     {
-      "name": "Apple WebKit",
-      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone); .*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$"
+      "name": "Generic WebKit",
+      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone|Windows).*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$"
     }
   ]
 }

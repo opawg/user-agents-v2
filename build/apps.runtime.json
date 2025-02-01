@@ -1429,6 +1429,10 @@
       "pattern": "^Podcastly/|^Podcastly$"
     },
     {
+      "name": "Podcast Saver",
+      "pattern": "^Podcast%20Saver/\\d"
+    },
+    {
       "name": "Podcatcher",
       "pattern": "^Podcatcher \\d"
     },
@@ -1562,7 +1566,7 @@
     },
     {
       "name": "ProCast",
-      "pattern": "Pro[Cc]ast"
+      "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d"
     },
     {
       "name": "PugPig Bolt",
