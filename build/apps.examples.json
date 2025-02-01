@@ -121,6 +121,12 @@
       ]
     },
     {
+      "name": "All Daf",
+      "examples": [
+        "AllDaf/1 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ]
+    },
+    {
       "name": "All You Can Books",
       "examples": [
         "AllYouCanBooks/510 CFNetwork/811.5.4 Darwin/16.7.0",
@@ -131,6 +137,12 @@
       "name": "AllHitMusicRadio",
       "examples": [
         "AllHitMusicRadio/1.0 CFNetwork/978.0.7 Darwin/18.5.0"
+      ]
+    },
+    {
+      "name": "All Mishnah",
+      "examples": [
+        "AllMishna/1 CFNetwork/1568.200.51 Darwin/24.1.0"
       ]
     },
     {
@@ -908,6 +920,12 @@
       ]
     },
     {
+      "name": "Dosis Diaria",
+      "examples": [
+        "Dosis Diaria/1.1.8 (com.elministerioroka.Dosis-Diaria; build:12; iOS 18.1.1) Alamofire/4.8.2"
+      ]
+    },
+    {
       "name": "doubleTwist CloudPlayer",
       "examples": [
         "doubleTwist CloudPlayer"
@@ -1091,6 +1109,12 @@
       "name": "EvanApp",
       "examples": [
         "EvanApp/1 CFNetwork/897.15 Darwin/17.5.0"
+      ]
+    },
+    {
+      "name": "Everand",
+      "examples": [
+        "Everand/167 CFNetwork/1568.200.51 Darwin/24.1.0"
       ]
     },
     {
@@ -1630,6 +1654,12 @@
       ]
     },
     {
+      "name": "InstacastPlus",
+      "examples": [
+        "InstacastPlus/1 CFNetwork/1496.0.7 Darwin/23.5.0"
+      ]
+    },
+    {
       "name": "Instagram",
       "examples": [
         "Instagram/252729634 CFNetwork/1126 Darwin/19.5.0",
@@ -1912,6 +1942,12 @@
       ]
     },
     {
+      "name": "Lysten",
+      "examples": [
+        "Lysten/485 CFNetwork/1474 Darwin/23.0.0"
+      ]
+    },
+    {
       "name": "MacJournal",
       "examples": [
         "MacJournal/6.2.1 CFNetwork/811.5.4 Darwin/16.7.0 (x86_64)"
@@ -2012,7 +2048,8 @@
         "MixerBox/12.33 (Linux;Android 11) ExoPlayerLib/2.11.1",
         "MixerBox/807.iOS (iPhone; iOS 14.4; en_US)",
         "MixerBox/869 CFNetwork/1300.1 Darwin/21.0.0",
-        "MixerBox%20Pro/10015 CFNetwork/1406.0.4 Darwin/22.4.0"
+        "MixerBox%20Pro/10015 CFNetwork/1406.0.4 Darwin/22.4.0",
+        "MixerBox Pro/10015 CFNetwork/1568.200.51 Darwin/24.1.0"
       ]
     },
     {
@@ -2072,7 +2109,10 @@
         "mytuner_podcasts_androidplayer/1.0.0 (Linux;Android 6.0) ExoPlayerLib/2.8.4",
         "MyTuner-ExoPlayerAdapter",
         "myTuner",
-        "myTuneriOS%20Free/120 CFNetwork/1402.0.8 Darwin/22.2.0"
+        "myTuneriOS%20Free/120 CFNetwork/1402.0.8 Darwin/22.2.0",
+        "myTuner Podcasts/30 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "myTuneriOS Free/202 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "mytuner"
       ]
     },
     {
@@ -2454,6 +2494,12 @@
       ]
     },
     {
+      "name": "Pratilipi FM",
+      "examples": [
+        "Pratilipi FM/6.3.2 (Linux;Android 14) AndroidXMedia3/1.2.1"
+      ]
+    },
+    {
       "name": "ProCast",
       "examples": [
         "ProCast/1 CFNetwork/1240.0.4 Darwin/20.6.0"
@@ -2758,6 +2804,12 @@
       ]
     },
     {
+      "name": "SWAPA",
+      "examples": [
+        "SWAPA/171 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ]
+    },
+    {
       "name": "Swinsian",
       "examples": [
         "Swinsian/472 CFNetwork/978.0.7 Darwin/18.7.0 (x86_64)"
@@ -2835,6 +2887,12 @@
       "name": "Treble",
       "examples": [
         "TREBLE/1.0"
+      ]
+    },
+    {
+      "name": "Tubidy Fm Offline Music Player",
+      "examples": [
+        "Tubidy FM/1 CFNetwork/1335.0.3.4 Darwin/21.6.0"
       ]
     },
     {
@@ -2956,6 +3014,18 @@
         "NSPlayer/12.00.18362.0418 WMFSDK/12.00.18362.0418",
         "Windows-Media-Player/12.0.15063.1805",
         "Lavf52.104.0 WMPlayer/10.0.0.364 guid/3300AD50-2C39-46C0-AE0A-AC7B8159E203"
+      ]
+    },
+    {
+      "name": "Wink 106",
+      "examples": [
+        "Wink106/9 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ]
+    },
+    {
+      "name": "WOWY Radio",
+      "examples": [
+        "Wowy Radio/12.0.6 (Pixel 7 Pro; Android 14)"
       ]
     },
     {

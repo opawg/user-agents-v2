@@ -234,7 +234,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feedfetcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$"
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feed[fF]etcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$"
     },
     {
       "name": "Gumball",
@@ -283,6 +283,10 @@
     {
       "name": "libwww-perl",
       "pattern": "^libwww-perl| libwww-perl"
+    },
+    {
+      "name": "LinkPreview",
+      "pattern": "^LinkPreview/\\d"
     },
     {
       "name": "Livelap Crawler",
@@ -357,6 +361,10 @@
       "pattern": "^OkDownload/"
     },
     {
+      "name": "OmniStudio",
+      "pattern": "^OmnyStudio/\\d"
+    },
+    {
       "name": "OP3 Fetcher",
       "pattern": "^op3-fetcher/"
     },
@@ -367,6 +375,10 @@
     {
       "name": "Overcast feed parser",
       "pattern": "^Overcast/1\\.0 Podcast Sync"
+    },
+    {
+      "name": "Owler Open Web Crawler",
+      "pattern": "^Owler \\("
     },
     {
       "name": "Pandora RSS crawler",
@@ -603,6 +615,10 @@
     {
       "name": "Tiny Tiny RSS",
       "pattern": "^Tiny Tiny RSS/"
+    },
+    {
+      "name": "TranscribeServer",
+      "pattern": "^TranscribeServer/\\d"
     },
     {
       "name": "Transistor",

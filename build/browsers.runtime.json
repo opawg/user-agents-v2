@@ -39,6 +39,10 @@
     {
       "name": "iOS WebView",
       "pattern": "Mozilla/5\\.0 \\([A-Za-z ]+; CPU( iPhone)? OS [\\d_]+ like Mac OS X\\) AppleWebKit/[\\d.]+ \\(KHTML, like Gecko\\) Mobile/[0-9A-Z]{6,}"
+    },
+    {
+      "name": "Apple WebKit",
+      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone); .*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$"
     }
   ]
 }

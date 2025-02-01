@@ -304,7 +304,8 @@
         "Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4653447469100830145)",
         "google-xrawler",
         "Googlebot-News Audio",
-        "Google-Safety"
+        "Google-Safety",
+        "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
       ]
     },
     {
@@ -374,6 +375,12 @@
       "name": "libwww-perl",
       "examples": [
         "LWP::Simple/6.34 libwww-perl/6.34"
+      ]
+    },
+    {
+      "name": "LinkPreview",
+      "examples": [
+        "LinkPreview/1.6 (https://www.linkpreview.net)"
       ]
     },
     {
@@ -473,6 +480,12 @@
       ]
     },
     {
+      "name": "OmniStudio",
+      "examples": [
+        "OmnyStudio/1.0"
+      ]
+    },
+    {
       "name": "OP3 Fetcher",
       "examples": [
         "op3-fetcher/1.0 (https://op3.dev)"
@@ -491,6 +504,12 @@
         "Overcast/1.0 Podcast Sync",
         "Overcast/1.0 Podcast Sync (+http://overcast.fm/)",
         "Overcast/1.0 Podcast Sync (1 subscribers; feed-id=1234567; +http://overcast.fm/)"
+      ]
+    },
+    {
+      "name": "Owler Open Web Crawler",
+      "examples": [
+        "Owler (ows.eu/owler)"
       ]
     },
     {
@@ -792,6 +811,12 @@
       "name": "Tiny Tiny RSS",
       "examples": [
         "Tiny Tiny RSS/22.12-c30b24d09 (Unsupported) (https://tt-rss.org/)"
+      ]
+    },
+    {
+      "name": "TranscribeServer",
+      "examples": [
+        "TranscribeServer/1.0 (com.xiao.TranscribeServer; build:1; macOS 15.2.0) Alamofire/5.10.2"
       ]
     },
     {

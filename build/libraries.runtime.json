@@ -242,6 +242,10 @@
       "pattern": " ExoPlayerLib/"
     },
     {
+      "name": "Jetpack Media3 (Android)",
+      "pattern": "^ExoPlayer(Demo)?/[\\d\\.]+ \\(Linux;Android \\d+\\) AndroidXMedia3/\\d+\\.\\d+\\.\\d+$"
+    },
+    {
       "name": "ESP32 HTTP Client",
       "pattern": "^ESP32 HTTP Client/"
     }

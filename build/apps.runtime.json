@@ -73,12 +73,20 @@
       "pattern": "^AlienBlue/"
     },
     {
+      "name": "All Daf",
+      "pattern": "^AllDaf/\\d"
+    },
+    {
       "name": "All You Can Books",
       "pattern": "AllYouCanBooks"
     },
     {
       "name": "AllHitMusicRadio",
       "pattern": "^AllHitMusicRadio/"
+    },
+    {
+      "name": "All Mishnah",
+      "pattern": "^AllMishna/\\d"
     },
     {
       "name": "Aloha",
@@ -561,6 +569,10 @@
       "pattern": "^Dolphini(Pad|Phone)/"
     },
     {
+      "name": "Dosis Diaria",
+      "pattern": "^Dosis Diaria/\\d"
+    },
+    {
       "name": "doubleTwist CloudPlayer",
       "pattern": "^doubleTwist CloudPlayer"
     },
@@ -679,6 +691,10 @@
     {
       "name": "EvanApp",
       "pattern": "^EvanApp/"
+    },
+    {
+      "name": "Everand",
+      "pattern": "^Everand/\\d"
     },
     {
       "name": "Expo",
@@ -1005,6 +1021,10 @@
       "pattern": "^Instacast Instacast/|^Instacast/"
     },
     {
+      "name": "InstacastPlus",
+      "pattern": "^InstacastPlus/\\d"
+    },
+    {
       "name": "Instagram",
       "pattern": "^Instagram/|Mobile/.* Instagram"
     },
@@ -1181,6 +1201,10 @@
       "pattern": "^Luminary(Preprod)?/|^luminary\\.next/"
     },
     {
+      "name": "Lysten",
+      "pattern": "^Lysten/\\d"
+    },
+    {
       "name": "MacJournal",
       "pattern": "^MacJournal/"
     },
@@ -1250,7 +1274,7 @@
     },
     {
       "name": "MixerBox",
-      "pattern": "^MixerBox(%20Pro)?/"
+      "pattern": "^MixerBox((%20| )Pro)?/"
     },
     {
       "name": "MobileApp",
@@ -1286,7 +1310,7 @@
     },
     {
       "name": "MyTuner",
-      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^myTuner$|^myTuneriOS%20Free/"
+      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner Podcasts/\\d|^myTuneriOS Free/\\d"
     },
     {
       "name": "NetNewsWire",
@@ -1533,6 +1557,10 @@
       "pattern": "Podyssey App|com\\.toysinboxes\\.Echo|fm\\.podyssey\\.podcasts|^Podyssey"
     },
     {
+      "name": "Pratilipi FM",
+      "pattern": "^Pratilipi FM/\\d"
+    },
+    {
       "name": "ProCast",
       "pattern": "Pro[Cc]ast"
     },
@@ -1733,6 +1761,10 @@
       "pattern": "SvD Hermes/"
     },
     {
+      "name": "SWAPA",
+      "pattern": "^SWAPA/\\d"
+    },
+    {
       "name": "Swinsian",
       "pattern": "^Swinsian/"
     },
@@ -1775,6 +1807,10 @@
     {
       "name": "Treble",
       "pattern": "^TREBLE/"
+    },
+    {
+      "name": "Tubidy Fm Offline Music Player",
+      "pattern": "^Tubidy FM/\\d"
     },
     {
       "name": "Tumult",
@@ -1851,6 +1887,14 @@
     {
       "name": "Windows Media Player",
       "pattern": "^NSPlayer|WMPlayer/|^Windows-Media-Player/"
+    },
+    {
+      "name": "Wink 106",
+      "pattern": "^Wink106/\\d"
+    },
+    {
+      "name": "WOWY Radio",
+      "pattern": "^Wowy Radio/\\d"
     },
     {
       "name": "WynkMusic",

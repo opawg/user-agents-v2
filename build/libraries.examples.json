@@ -292,6 +292,14 @@
       ]
     },
     {
+      "name": "Jetpack Media3 (Android)",
+      "examples": [
+        "ExoPlayerDemo/2.5.5 (Linux;Android 14) AndroidXMedia3/1.1.1",
+        "ExoPlayerDemo/2.3 (Linux;Android 14) AndroidXMedia3/1.1.1",
+        "ExoPlayer/11.2 (Linux;Android 13) AndroidXMedia3/1.4.1"
+      ]
+    },
+    {
       "name": "ESP32 HTTP Client",
       "examples": [
         "ESP32 HTTP Client/1.0"
