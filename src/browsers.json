@@ -21,19 +21,22 @@
     },
     {
       "name": "Edge",
-      "pattern": "(Xbox.+Edg?/|Android.+EdgA/|iPhone.+EdgiOS/|Macintosh.+MacEdgeClient/|Windows Phone.+Edge?/|Windows.+Edge?/)",
+      "pattern": "(Xbox.+Edg?/|Android.+EdgA/|iPhone.+EdgiOS/|Macintosh.+MacEdgeClient/|Windows Phone.+Edge?/|Windows.+Edge?/|X11.+Edge?/)",
       "examples": [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; WebView/3.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; WebView/3.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299",
+        "Mozilla/5.0 (X11) AppleWebKit/62.41 (KHTML, like Gecko) Edge/17.10859 Safari/452.6"
       ],
       "comments": "Must match above Chrome"
     },
     {
       "name": "Chrome",
-      "pattern": "^.*Android.*Chrome/|CrOS.*Chrome/|Linux.*Chrome/|Mac OS X.*Chrome/|Windows.*Chrome/|iPad.*CriOS/|iPhone.*CriOS/|^Chrome/\\d.*CFNetwork",
+      "pattern": "^.*Android.*Chrome/|CrOS.*Chrome/|Linux.*Chrome/|Mac OS X.*Chrome/|Windows.*Chrome/|iPad.*CriOS/|iPhone.*CriOS/|^Chrome/\\d.*CFNetwork|X11.*Chrome/",
       "examples": [
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36",
-        "Chrome/103.0.5060.63 CFNetwork/1390 Darwin/22.0.0"
+        "Chrome/103.0.5060.63 CFNetwork/1390 Darwin/22.0.0",
+        "Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36",
+        "Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36"
       ],
       "comments": "Must match below Edge"
     },
@@ -70,12 +73,14 @@
     },
     {
       "name": "Safari",
-      "pattern": "Macintosh.*AppleWebKit.*Safari/|Windows.*AppleWebKit.*Safari/|iPhone.*AppleWebKit.*Safari/|iPad.*AppleWebKit.*Safari/|^MobileSafari/|^Safari/",
+      "pattern": "(Macintosh|Windows|iPhone|iPad|X11|BB10).*AppleWebKit.*Safari/|^MobileSafari/|^Safari/",
       "comments": "Must match below Chrome",
       "examples": [
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15",
         "MobileSafari/604.1 CFNetwork/1107.1 Darwin/19.0.0",
-        "Safari/18614.4.6.1.6 CFNetwork/1404.0.5 Darwin/22.3.0"
+        "Safari/18614.4.6.1.6 CFNetwork/1404.0.5 Darwin/22.3.0",
+        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+        "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.3.3216 Mobile Safari/537.35+"
       ]
     },
     {
@@ -91,12 +96,15 @@
       ]
     },
     {
-      "name": "Apple WebKit",
-      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone); .*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$",
-      "description": "WebKit-based browsers on Apple devices that do not further identify themselves",
+      "name": "Generic WebKit",
+      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone|Windows).*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$",
+      "description": "WebKit-based browsers that do not further identify themselves",
       "examples": [
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko)",
-        "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)",
+        "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)",
+        "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko)",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)"
       ]
     }
   ]

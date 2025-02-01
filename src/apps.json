@@ -3085,6 +3085,16 @@
       ]
     },
     {
+      "name": "Podcast Saver",
+      "pattern": "^Podcast%20Saver/\\d",
+      "examples": [
+        "Podcast%20Saver/27 CFNetwork/1498.700.2 Darwin/23.6.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/podcast-saver/id1498364459"
+      ]
+    },
+    {
       "name": "Podcatcher",
       "pattern": "^Podcatcher \\d",
       "examples": [
@@ -3398,13 +3408,14 @@
     },
     {
       "name": "ProCast",
-      "pattern": "Pro[Cc]ast",
+      "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d",
       "description": "The new generation of Podcast player.",
       "urls": [
         "https://podcast-app.de/"
       ],
       "examples": [
-        "ProCast/1 CFNetwork/1240.0.4 Darwin/20.6.0"
+        "ProCast/1 CFNetwork/1240.0.4 Darwin/20.6.0",
+        "com.podflitzer.android/1.8.1 (Linux;Android 10) AndroidXMedia3/1.4.1"
       ]
     },
     {
