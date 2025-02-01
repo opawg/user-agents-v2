@@ -581,6 +581,10 @@
       "pattern": "://developers\\.snap\\.com/robots"
     },
     {
+      "name": "SoundMadeSeen",
+      "pattern": "^SoundMadeSeen/\\d"
+    },
+    {
       "name": "SoundOn Bot",
       "pattern": "^SoundOn/[\\d.]+\\s+\\(bot"
     },

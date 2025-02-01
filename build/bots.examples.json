@@ -771,6 +771,12 @@
       ]
     },
     {
+      "name": "SoundMadeSeen",
+      "examples": [
+        "SoundMadeSeen/1.0 +https://soundmadeseen.com"
+      ]
+    },
+    {
       "name": "Speechmatics ASR",
       "examples": [
         "Speechmatics-API/2.0"

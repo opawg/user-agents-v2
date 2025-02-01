@@ -1109,6 +1109,10 @@
       "pattern": "^Kasts/|^kasts "
     },
     {
+      "name": "KERA Public Media App",
+      "pattern": "^KERAPublicRadioApp/\\d"
+    },
+    {
       "name": "Kids Listen",
       "pattern": "^Kids(%20| )Listen/"
     },
