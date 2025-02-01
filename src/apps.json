@@ -2368,6 +2368,16 @@
       "description": "Kasts is a convergent podcast application that looks good on desktop and mobile."
     },
     {
+      "name": "KERA Public Media App",
+      "pattern": "^KERAPublicRadioApp/\\d",
+      "examples": [
+        "KERAPublicRadioApp/6.2.17 (iPhone14,5; iOS 18.1.1)"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/kera-public-media-app/id390567162"
+      ]
+    },
+    {
       "name": "Kids Listen",
       "pattern": "^Kids(%20| )Listen/",
       "examples": [

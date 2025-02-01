@@ -1249,6 +1249,17 @@
       ]
     },
     {
+      "name": "SoundMadeSeen",
+      "description": "SoundMadeSeen is the easy way to turn your podcast, audiobook or talk into sharable video and AI text content in minutes",
+      "pattern": "^SoundMadeSeen/\\d",
+      "examples": [
+        "SoundMadeSeen/1.0 +https://soundmadeseen.com"
+      ],
+      "urls": [
+        "https://soundmadeseen.com"
+      ]
+    },
+    {
       "name": "SoundOn Bot",
       "pattern": "^SoundOn/[\\d.]+\\s+\\(bot"
     },
