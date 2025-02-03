@@ -132,6 +132,16 @@
       ]
     },
     {
+      "name": "Aisten - Podcast Transcription",
+      "pattern": "^Aisten/\\d",
+      "examples": [
+        "Aisten/19 CFNetwork/3826.400.120 Darwin/24.3.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/aisten-podcast-transcription/id6453694910"
+      ]
+    },
+    {
       "name": "Alexa-enabled device",
       "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo",
       "svg": "amazon.svg",
@@ -1007,10 +1017,33 @@
       ]
     },
     {
+      "name": "Cinemo Infotainment System",
+      "pattern": "^Cinemo/\\d| Cinemo/\\d",
+      "examples": [
+        "Cinemo/2023.w35.004.p005100.9fbde87f",
+        "Cinemo/2021.w49.039.p001025.bebbed45",
+        "gcc_linux_MIB3Premium_esolutions_CLU35/1.0 Cinemo/2020.27.9.0",
+        "gcc_linux_wayland_aarch64_pcc_mib3_eu/1.0 Cinemo/1.252.7.100516"
+      ],
+      "urls": [
+        "https://www.cinemo.com/products-and-services/cinemo-core/"
+      ]
+    },
+    {
       "name": "Clammr",
       "pattern": "^Clammr/",
       "examples": [
         "Clammr/5 CFNetwork/758.3.15 Darwin/15.4.0"
+      ]
+    },
+    {
+      "name": "Claro música radio",
+      "pattern": "^Claro Musica iOS/\\d",
+      "examples": [
+        "Claro Musica iOS/13.2.18-13.2.18 CFNetwork/1.0 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/claro-m%C3%BAsica-radio/id1437327586"
       ]
     },
     {
@@ -1111,6 +1144,16 @@
         "damus/24 CFNetwork/1406.0.4 Darwin/22.4.0",
         "%D8%AF%D8%A7%D9%85%D9%8F%D8%B3/1 CFNetwork/1498.700.2 Darwin/23.6.0",
         "%E8%BE%BE%E6%91%A9/1 CFNetwork/1474 Darwin/23.0.0"
+      ]
+    },
+    {
+      "name": "DAN Podcast App",
+      "pattern": "^DAN Podcast/\\d",
+      "examples": [
+        "DAN Podcast/2024.07.09"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/dan-podcast-app/id1562075864"
       ]
     },
     {
@@ -1967,6 +2010,19 @@
       ]
     },
     {
+      "name": "Heard.FM",
+      "pattern": "^Heard\\.FM(  )?/",
+      "examples": [
+        "Heard.FM/1.0 (Linux; U; Android 13.0; Xiaomi 23124RN87I",
+        "Heard.FM  /18.2 CFNetwork/1.0 Darwin/24.2.0",
+        "Heard.FM/1.0 (Linux; U; Android 13.0; samsung SM-A525F",
+        "Heard.FM  /18.1.1 CFNetwork/1.0 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://heard.fm/"
+      ]
+    },
+    {
       "name": "HermesPod",
       "pattern": "hermespod\\.com/",
       "description": "HermesPod is the easiest way to subscribe, download and listen to podcasts. It's a Windows app.",
@@ -2796,8 +2852,18 @@
       ]
     },
     {
+      "name": "MusiPro",
+      "pattern": "^MusiPro/\\d",
+      "examples": [
+        "MusiPro/1 CFNetwork/1568.300.101 Darwin/24.2.0"
+      ],
+      "urls": [
+        "https://musipro-music-player-and-strea.appstor.io/"
+      ]
+    },
+    {
       "name": "MyTuner",
-      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner Podcasts/\\d|^myTuneriOS Free/\\d",
+      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner( |%20)Podcasts/\\d|^myTuneriOS Free/\\d|^myTuneriOS/\\d",
       "examples": [
         "myTuner Radio app/11 CFNetwork/978.0.7 Darwin/18.7.0",
         "myTuner%20Radio%20app/11 CFNetwork/978.0.7 Darwin/18.7.0",
@@ -2807,7 +2873,9 @@
         "myTuneriOS%20Free/120 CFNetwork/1402.0.8 Darwin/22.2.0",
         "myTuner Podcasts/30 CFNetwork/1568.200.51 Darwin/24.1.0",
         "myTuneriOS Free/202 CFNetwork/1568.200.51 Darwin/24.1.0",
-        "mytuner"
+        "mytuner",
+        "myTuner%20Podcasts/30 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "myTuneriOS/55 CFNetwork/1568.300.101 Darwin/24.2.0"
       ]
     },
     {
@@ -3418,14 +3486,15 @@
     },
     {
       "name": "ProCast",
-      "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d",
+      "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d|^Procast \\(",
       "description": "The new generation of Podcast player.",
       "urls": [
         "https://podcast-app.de/"
       ],
       "examples": [
         "ProCast/1 CFNetwork/1240.0.4 Darwin/20.6.0",
-        "com.podflitzer.android/1.8.1 (Linux;Android 10) AndroidXMedia3/1.4.1"
+        "com.podflitzer.android/1.8.1 (Linux;Android 10) AndroidXMedia3/1.4.1",
+        "Procast (iOS)"
       ]
     },
     {
@@ -3542,6 +3611,16 @@
         "RadioPublic/android-2.2",
         "RadioPublic/iOS-2.0",
         "RadioPublicDraper/81b12be Faraday/0.15.2 ruby/2.3.8"
+      ]
+    },
+    {
+      "name": "Radios México",
+      "pattern": "^Radios%20M%C3%A9xico/\\d",
+      "examples": [
+        "Radios%20M%C3%A9xico/14 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/radios-m%C3%A9xico/id1042399696"
       ]
     },
     {
@@ -3876,6 +3955,16 @@
       "comments": "App doesn't download yet, and plays/streams with AppleCoreMedia ua, but other API calls use this ua"
     },
     {
+      "name": "Supla",
+      "pattern": "^Supla/\\d",
+      "examples": [
+        "Supla/157 iPhone16,1 iOS/18.2.1 CFNetwork/1.0 Darwin/24.2.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/supla/id1048533570"
+      ]
+    },
+    {
       "name": "Svenska Dagbladet iOS app",
       "pattern": "iOS SvD Hermes/",
       "description": "Svenska Dagbladet iOS app",
@@ -3944,6 +4033,16 @@
       ]
     },
     {
+      "name": "Telmate",
+      "pattern": "^telmate-audio-player",
+      "examples": [
+        "telmate-audio-player"
+      ],
+      "urls": [
+        "https://www.telmate.com/wp-content/uploads/2017/05/TEL-DS-TelmateDevices-8.5x11-SMALL-r8.pdf"
+      ]
+    },
+    {
       "name": "The God Minute",
       "pattern": "^The God Minute/",
       "examples": [
@@ -4008,9 +4107,10 @@
     },
     {
       "name": "Tubidy Fm Offline Music Player",
-      "pattern": "^Tubidy FM/\\d",
+      "pattern": "^Tubidy( |%20)FM/\\d",
       "examples": [
-        "Tubidy FM/1 CFNetwork/1335.0.3.4 Darwin/21.6.0"
+        "Tubidy FM/1 CFNetwork/1335.0.3.4 Darwin/21.6.0",
+        "Tubidy%20FM/1 CFNetwork/1568.300.101 Darwin/24.2.0"
       ],
       "urls": [
         "https://apps.apple.com/us/app/tubidy-fm-offline-music-player/id1355464544"

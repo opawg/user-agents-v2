@@ -230,6 +230,14 @@
       ]
     },
     {
+      "name": "Blubrry Crawler",
+      "pattern": "^Blubrry (Podcasting|PowerPress)/\\d",
+      "examples": [
+        "Blubrry Podcasting/1.0",
+        "Blubrry PowerPress/11.9.19"
+      ]
+    },
+    {
       "name": "Bullhorn Crawler",
       "pattern": "^BullhornCrawler/",
       "examples": [
@@ -393,7 +401,7 @@
     },
     {
       "name": "Facebook Bot",
-      "pattern": "FacebookBot|f?acebookexternalhit/?|^podcastbot$|Facebot|facebookexternalua|^facebookplatform/",
+      "pattern": "FacebookBot|f?acebookexternalhit/?|^podcastbot$|Facebot|facebookexternalua|^facebookplatform/|^\"?meta-externalagent/\\d",
       "urls": [
         "https://www.facebook.com/externalhit_uatext.php"
       ],
@@ -405,7 +413,9 @@
         "Facebot",
         "facebookexternalua",
         "facebookplatform/1.0 (+http://developers.facebook.com)",
-        "acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)"
+        "acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)",
+        "meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+        "\"meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)\""
       ]
     },
     {
@@ -512,11 +522,22 @@
       ]
     },
     {
+      "name": "Headline Crawler",
+      "pattern": "https://headline\\.com",
+      "examples": [
+        "Mozilla/5.0 (compatible; ev-crawler/1.0;  https://headline.com/legal/crawler)"
+      ],
+      "urls": [
+        "https://headline.com/legal/crawler"
+      ]
+    },
+    {
       "name": "Headliner",
-      "pattern": "^Headliner/.*\\+https://headliner\\.app$",
+      "pattern": "^Headliner/.*[+ ]https://headliner\\.app$",
       "comments": "Variety of tools to help promote and drive listens to a podcast.",
       "examples": [
-        "Headliner/1.0.0 +https://headliner.app"
+        "Headliner/1.0.0 +https://headliner.app",
+        "Headliner/1.0.0  https://headliner.app"
       ]
     },
     {
@@ -750,6 +771,16 @@
       ],
       "urls": [
         "https://github.com/codelucas/newspaper"
+      ]
+    },
+    {
+      "name": "NL Israel Internet Archiver",
+      "pattern": "NL-Israel_IA",
+      "examples": [
+        "Mozilla/5.0 (compatible; NL-Israel_IAHarvester2025/3.3.0;  https://www.nli.org.il/he/research-and-teach/internet-archive/law-and-order)"
+      ],
+      "urls": [
+        "https://www.nli.org.il/he/research-and-teach/internet-archive/law-and-order"
       ]
     },
     {
@@ -1194,6 +1225,16 @@
         "https://www.runpod.io/"
       ],
       "comments": "https://github.com/runpod/runpod-python/blob/9c5918e9bc83f82bdfbb9fa94ad049e56c76a398/runpod/serverless/utils/rp_download.py#L23"
+    },
+    {
+      "name": "SB Intuitions Crawler",
+      "pattern": "https://sbintuitions\\.co\\.jp",
+      "examples": [
+        "SB Intuitions Crawler ( https://sbintuitions.co.jp)"
+      ],
+      "urls": [
+        "https://sbintuitions.co.jp"
+      ]
     },
     {
       "name": "Screaming Frog SEO Spider",
