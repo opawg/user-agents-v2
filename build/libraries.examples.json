@@ -296,7 +296,9 @@
       "examples": [
         "ExoPlayerDemo/2.5.5 (Linux;Android 14) AndroidXMedia3/1.1.1",
         "ExoPlayerDemo/2.3 (Linux;Android 14) AndroidXMedia3/1.1.1",
-        "ExoPlayer/11.2 (Linux;Android 13) AndroidXMedia3/1.4.1"
+        "ExoPlayer/11.2 (Linux;Android 13) AndroidXMedia3/1.4.1",
+        "ExoPlayer/11.2 (Linux;Android 8.1.0) AndroidXMedia3/1.4.1",
+        "ExoPlayerPlugin/1.0.30 (Linux;Android 14) AndroidXMedia3/1.1.1"
       ]
     },
     {

@@ -65,6 +65,10 @@
       "pattern": "^Airsonic/"
     },
     {
+      "name": "Aisten - Podcast Transcription",
+      "pattern": "^Aisten/\\d"
+    },
+    {
       "name": "Alexa-enabled device",
       "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo"
     },
@@ -469,8 +473,16 @@
       "pattern": "^ChurchLink/"
     },
     {
+      "name": "Cinemo Infotainment System",
+      "pattern": "^Cinemo/\\d| Cinemo/\\d"
+    },
+    {
       "name": "Clammr",
       "pattern": "^Clammr/"
+    },
+    {
+      "name": "Claro música radio",
+      "pattern": "^Claro Musica iOS/\\d"
     },
     {
       "name": "Client",
@@ -523,6 +535,10 @@
     {
       "name": "Damus",
       "pattern": "^damus|%D8%AF%D8%A7%D9%85%D9%8F%D8%B3|%E8%BE%BE%E6%91%A9/"
+    },
+    {
+      "name": "DAN Podcast App",
+      "pattern": "^DAN Podcast/\\d"
     },
     {
       "name": "DataDogApp",
@@ -933,6 +949,10 @@
       "pattern": "^Headliner/.*\\(Headliner-.*\\+https://www\\.headliner\\.app\\)$"
     },
     {
+      "name": "Heard.FM",
+      "pattern": "^Heard\\.FM(  )?/"
+    },
+    {
       "name": "HermesPod",
       "pattern": "hermespod\\.com/"
     },
@@ -1313,8 +1333,12 @@
       "pattern": "^Music%20Download/"
     },
     {
+      "name": "MusiPro",
+      "pattern": "^MusiPro/\\d"
+    },
+    {
       "name": "MyTuner",
-      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner Podcasts/\\d|^myTuneriOS Free/\\d"
+      "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner( |%20)Podcasts/\\d|^myTuneriOS Free/\\d|^myTuneriOS/\\d"
     },
     {
       "name": "NetNewsWire",
@@ -1570,7 +1594,7 @@
     },
     {
       "name": "ProCast",
-      "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d"
+      "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d|^Procast \\("
     },
     {
       "name": "PugPig Bolt",
@@ -1607,6 +1631,10 @@
     {
       "name": "RadioPublic",
       "pattern": "^RadioPublic/android-|^RadioPublic Android|RadioPublic iOS|RadioPublic.+CFNetwork|^RadioPublic/iOS|^RadioPublicDraper/"
+    },
+    {
+      "name": "Radios México",
+      "pattern": "^Radios%20M%C3%A9xico/\\d"
     },
     {
       "name": "Reeder",
@@ -1761,6 +1789,10 @@
       "pattern": "^Substack/"
     },
     {
+      "name": "Supla",
+      "pattern": "^Supla/\\d"
+    },
+    {
       "name": "Svenska Dagbladet iOS app",
       "pattern": "iOS SvD Hermes/"
     },
@@ -1787,6 +1819,10 @@
     {
       "name": "TED",
       "pattern": "^TED |^TED/"
+    },
+    {
+      "name": "Telmate",
+      "pattern": "^telmate-audio-player"
     },
     {
       "name": "The God Minute",
@@ -1818,7 +1854,7 @@
     },
     {
       "name": "Tubidy Fm Offline Music Player",
-      "pattern": "^Tubidy FM/\\d"
+      "pattern": "^Tubidy( |%20)FM/\\d"
     },
     {
       "name": "Tumult",

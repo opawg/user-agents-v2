@@ -34,7 +34,7 @@
     },
     {
       "name": "Safari",
-      "pattern": "(Macintosh|Windows|iPhone|iPad|X11|BB10).*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
+      "pattern": "(Macintosh|Windows|iPhone|iPad|X11|BB10|SMART-TV).*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
     },
     {
       "name": "iOS WebView",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Generic WebKit",
-      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone|Windows).*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$"
+      "pattern": "^Mozilla/5.0 \\((Macintosh|iPhone|iPad|Windows|iPod).*\\) AppleWebKit/[\\d+\\.]+ \\(KHTML, like Gecko\\)$"
     }
   ]
 }

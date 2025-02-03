@@ -137,6 +137,13 @@
       ]
     },
     {
+      "name": "Blubrry Crawler",
+      "examples": [
+        "Blubrry Podcasting/1.0",
+        "Blubrry PowerPress/11.9.19"
+      ]
+    },
+    {
       "name": "Bullhorn Crawler",
       "examples": [
         "BullhornCrawler/unknown-version(+http://bullhorn.fm/)"
@@ -251,7 +258,9 @@
         "Facebot",
         "facebookexternalua",
         "facebookplatform/1.0 (+http://developers.facebook.com)",
-        "acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)"
+        "acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)",
+        "meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+        "\"meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)\""
       ]
     },
     {
@@ -315,9 +324,16 @@
       ]
     },
     {
+      "name": "Headline Crawler",
+      "examples": [
+        "Mozilla/5.0 (compatible; ev-crawler/1.0;  https://headline.com/legal/crawler)"
+      ]
+    },
+    {
       "name": "Headliner",
       "examples": [
-        "Headliner/1.0.0 +https://headliner.app"
+        "Headliner/1.0.0 +https://headliner.app",
+        "Headliner/1.0.0  https://headliner.app"
       ]
     },
     {
@@ -471,6 +487,12 @@
       "name": "Newspaper",
       "examples": [
         "newspaper/0.3.0"
+      ]
+    },
+    {
+      "name": "NL Israel Internet Archiver",
+      "examples": [
+        "Mozilla/5.0 (compatible; NL-Israel_IAHarvester2025/3.3.0;  https://www.nli.org.il/he/research-and-teach/internet-archive/law-and-order)"
       ]
     },
     {
@@ -725,6 +747,12 @@
       "name": "RunPod",
       "examples": [
         "runpod-python/0.0.0 (https://runpod.io; support@runpod.io)"
+      ]
+    },
+    {
+      "name": "SB Intuitions Crawler",
+      "examples": [
+        "SB Intuitions Crawler ( https://sbintuitions.co.jp)"
       ]
     },
     {

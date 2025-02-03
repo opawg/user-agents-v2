@@ -101,6 +101,10 @@
       "pattern": "^Blubrry Migration Service"
     },
     {
+      "name": "Blubrry Crawler",
+      "pattern": "^Blubrry (Podcasting|PowerPress)/\\d"
+    },
+    {
       "name": "Bullhorn Crawler",
       "pattern": "^BullhornCrawler/"
     },
@@ -190,7 +194,7 @@
     },
     {
       "name": "Facebook Bot",
-      "pattern": "FacebookBot|f?acebookexternalhit/?|^podcastbot$|Facebot|facebookexternalua|^facebookplatform/"
+      "pattern": "FacebookBot|f?acebookexternalhit/?|^podcastbot$|Facebot|facebookexternalua|^facebookplatform/|^\"?meta-externalagent/\\d"
     },
     {
       "name": "Feedly",
@@ -241,8 +245,12 @@
       "pattern": "^Gumball"
     },
     {
+      "name": "Headline Crawler",
+      "pattern": "https://headline\\.com"
+    },
+    {
       "name": "Headliner",
-      "pattern": "^Headliner/.*\\+https://headliner\\.app$"
+      "pattern": "^Headliner/.*[+ ]https://headliner\\.app$"
     },
     {
       "name": "HubSpot Crawler",
@@ -351,6 +359,10 @@
     {
       "name": "Newspaper",
       "pattern": "^newspaper/\\d"
+    },
+    {
+      "name": "NL Israel Internet Archiver",
+      "pattern": "NL-Israel_IA"
     },
     {
       "name": "OgScrper",
@@ -551,6 +563,10 @@
     {
       "name": "RunPod",
       "pattern": "^runpod-python/"
+    },
+    {
+      "name": "SB Intuitions Crawler",
+      "pattern": "https://sbintuitions\\.co\\.jp"
     },
     {
       "name": "Screaming Frog SEO Spider",
