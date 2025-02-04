@@ -34,7 +34,7 @@
     },
     {
       "name": "Safari",
-      "pattern": "(Macintosh|Windows|iPhone|iPad|X11|BB10|SMART-TV).*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
+      "pattern": "(Macintosh|Windows|iPhone|iPad|X11|BB10|SMART-TV|Linux).*AppleWebKit.*Safari/|^MobileSafari/|^Safari/"
     },
     {
       "name": "iOS WebView",

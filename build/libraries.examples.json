@@ -36,6 +36,12 @@
       ]
     },
     {
+      "name": "assets_audio_player (flutter)",
+      "examples": [
+        "assets_audio_player"
+      ]
+    },
+    {
       "name": "Async Http Client (java)",
       "examples": [
         "AHC/2.1",

@@ -28,6 +28,10 @@
       "pattern": "^Armadillo/1"
     },
     {
+      "name": "assets_audio_player (flutter)",
+      "pattern": "^assets_audio_player"
+    },
+    {
       "name": "Async Http Client (java)",
       "pattern": "^AHC/\\d+\\.\\d+",
       "category": "bot"

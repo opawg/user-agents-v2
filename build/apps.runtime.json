@@ -173,6 +173,10 @@
       "pattern": "^Recordatorios/"
     },
     {
+      "name": "Arabian Business",
+      "pattern": "^Arabian%20Business/\\d"
+    },
+    {
       "name": "ARD Audiothek",
       "pattern": "^ARD Audiothek|^ARD%20Audiothek/|^ARD-Audiothek"
     },
@@ -219,6 +223,10 @@
     {
       "name": "AudioWave",
       "pattern": "(^AudioWave/1|^AudioWave iOS)"
+    },
+    {
+      "name": "Audirvāna Studio",
+      "pattern": "Audirv%C4%81na%20Studio/\\d"
     },
     {
       "name": "Aural",
@@ -338,7 +346,7 @@
     },
     {
       "name": "Boomplay",
-      "pattern": "^Boomplay/"
+      "pattern": "^Boomplay( Lite)?/\\d"
     },
     {
       "name": "Bose SoundTouch",
@@ -443,6 +451,10 @@
     {
       "name": "CEBrowser",
       "pattern": "^CEBrowser/"
+    },
+    {
+      "name": "České Podcasty",
+      "pattern": "^cz\\.ceskeappky\\.podcasty"
     },
     {
       "name": "CFC",
@@ -1382,7 +1394,7 @@
     },
     {
       "name": "Overcast",
-      "pattern": "^Overcast/|^Overcast.*Apple Watch"
+      "pattern": "^Overcast/|^Overcast.*Apple Watch|^Overcast Player "
     },
     {
       "name": "Overhaul",
@@ -1775,6 +1787,10 @@
     {
       "name": "StoryShots",
       "pattern": "^StoryShots/"
+    },
+    {
+      "name": "Storytel",
+      "pattern": "^Storytel/\\d"
     },
     {
       "name": "Strilen iOS app",

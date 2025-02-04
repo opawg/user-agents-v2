@@ -181,6 +181,12 @@
       ]
     },
     {
+      "name": "Comscore Crawler",
+      "examples": [
+        "Mozilla/5.0 (compatible; proximic;  https://www.comscore.com/Web-Crawler)"
+      ]
+    },
+    {
       "name": "Critical Mention",
       "examples": [
         "Podcast-CriticalMention/1.0"

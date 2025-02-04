@@ -137,6 +137,10 @@
       "pattern": "ClaudeBot/"
     },
     {
+      "name": "Comscore Crawler",
+      "pattern": "https://www\\.comscore\\.com"
+    },
+    {
       "name": "Critical Mention",
       "pattern": "^Podcast-CriticalMention/"
     },
