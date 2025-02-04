@@ -413,6 +413,16 @@
       ]
     },
     {
+      "name": "Arabian Business",
+      "pattern": "^Arabian%20Business/\\d",
+      "examples": [
+        "Arabian%20Business/21687 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/arabian-business/id1466594419"
+      ]
+    },
+    {
       "name": "ARD Audiothek",
       "pattern": "^ARD Audiothek|^ARD%20Audiothek/|^ARD-Audiothek",
       "urls": [
@@ -523,6 +533,16 @@
       "examples": [
         "AudioWave/1.5 (+https://audiowave.io/; iPhone 15.4)",
         "AudioWave iOS"
+      ]
+    },
+    {
+      "name": "Audirvāna Studio",
+      "pattern": "Audirv%C4%81na%20Studio/\\d",
+      "examples": [
+        "Audirv%C4%81na%20Studio/20906 CFNetwork/1568.300.101 Darwin/24.2.0"
+      ],
+      "urls": [
+        "https://audirvana.com/audirvana-studio-key-features-overview/"
       ]
     },
     {
@@ -753,9 +773,10 @@
     },
     {
       "name": "Boomplay",
-      "pattern": "^Boomplay/",
+      "pattern": "^Boomplay( Lite)?/\\d",
       "examples": [
-        "Boomplay/5.1.5 (iPhone; iOS 12.4.7; Scale/3.00)"
+        "Boomplay/5.1.5 (iPhone; iOS 12.4.7; Scale/3.00)",
+        "Boomplay Lite/1.3.0 (iPhone; iOS 12.5.7; Scale/3.00)"
       ],
       "urls": [
         "https://www.boomplay.com/"
@@ -964,6 +985,16 @@
       "pattern": "^CEBrowser/",
       "examples": [
         "CEBrowser/2.5.2.4 CFNetwork/711.1.12 Darwin/14.0.0"
+      ]
+    },
+    {
+      "name": "České Podcasty",
+      "pattern": "^cz\\.ceskeappky\\.podcasty",
+      "examples": [
+        "cz.ceskeappky.podcasty"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=cz.ceskeappky.podcasty&hl=cs"
       ]
     },
     {
@@ -2986,11 +3017,12 @@
     },
     {
       "name": "Overcast",
-      "pattern": "^Overcast/|^Overcast.*Apple Watch",
+      "pattern": "^Overcast/|^Overcast.*Apple Watch|^Overcast Player ",
       "examples": [
         "Overcast/3.0 (+http://overcast.fm/; iOS podcast app)",
         "Overcast (+http://overcast.fm/; Apple Watch podcast app)",
-        "Overcast/792 CFNetwork/1098.7 Darwin/19.0.0"
+        "Overcast/792 CFNetwork/1098.7 Darwin/19.0.0",
+        "Overcast Player 66271"
       ]
     },
     {
@@ -3928,6 +3960,18 @@
       "pattern": "^StoryShots/",
       "examples": [
         "StoryShots/1.9.72 (Linux;Android 9) ExoPlayerLib/2.11.4"
+      ]
+    },
+    {
+      "name": "Storytel",
+      "pattern": "^Storytel/\\d",
+      "examples": [
+        "Storytel/24.50.0 (iPadOS 18.1; iPad13,18) Release/449.1",
+        "Storytel/25.2 (Android 8.0.0; HUAWEI AGSL09) Release/2288820",
+        "Storytel/24.52 (Android 14; samsung SMG991U1) Release/2288809"
+      ],
+      "urls": [
+        "https://www.storytel.com/tv/podcasts"
       ]
     },
     {

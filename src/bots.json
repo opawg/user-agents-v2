@@ -299,6 +299,16 @@
       ]
     },
     {
+      "name": "Comscore Crawler",
+      "pattern": "https://www\\.comscore\\.com",
+      "examples": [
+        "Mozilla/5.0 (compatible; proximic;  https://www.comscore.com/Web-Crawler)"
+      ],
+      "urls": [
+        "https://www.comscore.com/Web-Crawler"
+      ]
+    },
+    {
       "name": "Critical Mention",
       "pattern": "^Podcast-CriticalMention/",
       "description": "Critical Mention is a business intelligence company, monitoring podcasts on the web for their clients",

@@ -71,6 +71,16 @@
       ]
     },
     {
+      "name": "assets_audio_player (flutter)",
+      "pattern": "^assets_audio_player",
+      "examples": [
+        "assets_audio_player"
+      ],
+      "urls": [
+        "https://pub.dev/packages/assets_audio_player"
+      ]
+    },
+    {
       "name": "Async Http Client (java)",
       "description": "The AsyncHttpClient (AHC) library allows Java applications to easily execute HTTP requests and asynchronously process HTTP responses.",
       "pattern": "^AHC/\\d+\\.\\d+",
