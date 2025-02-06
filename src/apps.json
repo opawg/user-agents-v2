@@ -606,6 +606,16 @@
       ]
     },
     {
+      "name": "Babbel",
+      "pattern": "^Babbel/\\d",
+      "examples": [
+        "Babbel/66695 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/babbel-language-learning/id829587759"
+      ]
+    },
+    {
       "name": "BaladoQuebec",
       "pattern": "^BaladoQuebec/",
       "examples": [
@@ -670,6 +680,17 @@
       "pattern": "^Bear/",
       "examples": [
         "Bear/5702 CFNetwork/811.8 Darwin/16.7.0 (x86_64)"
+      ]
+    },
+    {
+      "name": "Behind the Knife",
+      "pattern": "^BehindTheKnife/\\d",
+      "examples": [
+        "BehindTheKnife/1.0.31+142/Android",
+        "BehindTheKnife/1.0.31+142/iOS"
+      ],
+      "urls": [
+        "https://behindtheknife.org/"
       ]
     },
     {
@@ -1127,6 +1148,16 @@
       "pattern": "^CoreDataPlayerSample/",
       "examples": [
         "CoreDataPlayerSample/1 CFNetwork/975.0.3 Darwin/17.7.0"
+      ]
+    },
+    {
+      "name": "Corriere della Sera",
+      "pattern": "^Corriere della Sera/\\d",
+      "examples": [
+        "Corriere della Sera/7.49.0 (iPhone14,5; iOS 18.1.1;)"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/corriere-della-sera/id371701657"
       ]
     },
     {
@@ -2169,6 +2200,20 @@
       ]
     },
     {
+      "name": "IDEngineering",
+      "pattern": "^com\\.IDEngineering\\.[A-Za-z0-9.]+",
+      "examples": [
+        "com.IDEngineering.bbc.english.learning",
+        "com.IDEngineering.BBC.minute.learn.english",
+        "com.IDEngineering.bbc.the.english.we.speak",
+        "com.IDEngineering.Learn.English_6_minutes",
+        "com.IDEngineering.bbc.podcast.in.our.time"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/developer?id=IDEngineering&hl=en_US"
+      ]
+    },
+    {
       "name": "iDL",
       "pattern": "^iDL/",
       "examples": [
@@ -2278,6 +2323,17 @@
       ]
     },
     {
+      "name": "Internazionale",
+      "pattern": "^Internazionale App for (Android|iOS)/",
+      "examples": [
+        "Internazionale App for Android/null bnull (Phone; android; it_IT)",
+        "Internazionale App for iOS/null bnull (iPhone; ios; it_IT)"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.internazionale.app&hl=en_US"
+      ]
+    },
+    {
       "name": "iOnGreenville",
       "pattern": "^iOnGreenville/",
       "examples": [
@@ -2324,6 +2380,16 @@
         "iTunes/12.10.9 (Windows; Microsoft Windows 10 x64 Home Premium Edition (Build 19041); x64) AppleWebKit/7609.3005.1003.3",
         "iTunes-iPhone",
         "iTunesU/3.4 iOS/9.3.2 model/iPod7,1 hwp/t7000 build/13F69 (4; dt:123)"
+      ]
+    },
+    {
+      "name": "ITV News",
+      "pattern": "^com\\.itv\\.itvnewsapp/\\d",
+      "examples": [
+        "com.itv.itvnewsapp/2.47.0(iPhone12,8; ios 18.1.1; en-GB)"
+      ],
+      "urls": [
+        "https://apps.apple.com/gb/app/itv-news-breaking-stories/id907113454"
       ]
     },
     {
@@ -2907,6 +2973,18 @@
         "mytuner",
         "myTuner%20Podcasts/30 CFNetwork/1568.200.51 Darwin/24.1.0",
         "myTuneriOS/55 CFNetwork/1568.300.101 Darwin/24.2.0"
+      ]
+    },
+    {
+      "name": "Nabd Pulse",
+      "pattern": "^(com.waveline.nabd|Nabd)/\\d",
+      "examples": [
+        "com.waveline.nabd/17.3 (Linux;Android 14) AndroidXMedia3/1.2.1",
+        "Nabd/11.4.0 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.waveline.nabd&hl=en_US",
+        "https://apps.apple.com/us/app/%D9%86%D8%A8%D8%B6-nabd-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B9%D8%A7%D8%AC%D9%84/id569532697"
       ]
     },
     {
@@ -3663,6 +3741,16 @@
       ]
     },
     {
+      "name": "Relevant Radio",
+      "pattern": "^Relevant Radio/",
+      "examples": [
+        "Relevant Radio/Android 4.0.11 (moto g stylus (2022)/Android 12 Build S3RDES32.123-37-5-22)"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.jacobsmedia.relevantradio&hl=en_US"
+      ]
+    },
+    {
       "name": "Repod",
       "pattern": "(^Repod/.+iOS|^Repod/.+Android)",
       "description": "Repod is a social podcast app that helps creators engage, montetization, and grow their community.",
@@ -3893,7 +3981,12 @@
     },
     {
       "name": "Spreaker",
-      "pattern": "(^Spreaker for Android|Spreaker/)"
+      "pattern": "^Spreaker for Android|^Spreaker Custom App for (Android|iOS)|Spreaker/|^Spreaker \\d",
+      "examples": [
+        "Spreaker Custom App for Android 5.5.3 release:2021-04-08 device:phone (samsung SM-N986B; Android 12; it_IT)",
+        "Spreaker Custom App for iOS 2.2.2 rv:6302 (iPhone15,3; iOS 18.1.1; en_US) SPKAudioPlayer",
+        "Spreaker 7.17.0 rv:1300 (iPhone8,4; iOS 15.8.3; en_CA)"
+      ]
     },
     {
       "name": "Sprewell",

@@ -556,6 +556,20 @@
       "comments": "Copied code without changing demo user agent"
     },
     {
+      "name": "ExoMedia",
+      "description": "ExoMedia is an audio/video playback library for Android built on top of the ExoPlayer with straightforward APIs and integrations",
+      "pattern": "^ExoMedia \\d.*Android",
+      "examples": [
+        "ExoMedia 5.0.0 / Android 14 / SM-S711U",
+        "ExoMedia 5.0.0 / Android 15 / Pixel 8a",
+        "ExoMedia 5.0.0 / Android 8.0.0 / SM-G930F",
+        "ExoMedia 5.0.0 / Android 15 / Pixel 8 Pro"
+      ],
+      "urls": [
+        "https://github.com/brianwernick/ExoMedia"
+      ]
+    },
+    {
       "name": "ESP32 HTTP Client",
       "pattern": "^ESP32 HTTP Client/",
       "examples": [
