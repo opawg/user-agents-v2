@@ -250,6 +250,10 @@
       "pattern": "^ExoPlayer(Demo|Plugin)?/[\\d\\.]+ \\(Linux;Android [\\d.]+\\) AndroidXMedia3/\\d+\\.\\d+\\.\\d+$"
     },
     {
+      "name": "ExoMedia",
+      "pattern": "^ExoMedia \\d.*Android"
+    },
+    {
       "name": "ESP32 HTTP Client",
       "pattern": "^ESP32 HTTP Client/"
     }

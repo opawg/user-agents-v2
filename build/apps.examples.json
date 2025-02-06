@@ -453,6 +453,12 @@
       ]
     },
     {
+      "name": "Babbel",
+      "examples": [
+        "Babbel/66695 CFNetwork/1568.200.51 Darwin/24.1.0"
+      ]
+    },
+    {
       "name": "BaladoQuebec",
       "examples": [
         "BaladoQuebec/1 CFNetwork/808.2.16 Darwin/16.3.0"
@@ -493,6 +499,13 @@
       "name": "Bear",
       "examples": [
         "Bear/5702 CFNetwork/811.8 Darwin/16.7.0 (x86_64)"
+      ]
+    },
+    {
+      "name": "Behind the Knife",
+      "examples": [
+        "BehindTheKnife/1.0.31+142/Android",
+        "BehindTheKnife/1.0.31+142/iOS"
       ]
     },
     {
@@ -844,6 +857,12 @@
       "name": "CoreDataPlayerSample",
       "examples": [
         "CoreDataPlayerSample/1 CFNetwork/975.0.3 Darwin/17.7.0"
+      ]
+    },
+    {
+      "name": "Corriere della Sera",
+      "examples": [
+        "Corriere della Sera/7.49.0 (iPhone14,5; iOS 18.1.1;)"
       ]
     },
     {
@@ -1636,6 +1655,16 @@
       ]
     },
     {
+      "name": "IDEngineering",
+      "examples": [
+        "com.IDEngineering.bbc.english.learning",
+        "com.IDEngineering.BBC.minute.learn.english",
+        "com.IDEngineering.bbc.the.english.we.speak",
+        "com.IDEngineering.Learn.English_6_minutes",
+        "com.IDEngineering.bbc.podcast.in.our.time"
+      ]
+    },
+    {
       "name": "iDL",
       "examples": [
         "iDL/122 CFNetwork/811.5.4 Darwin/16.7.0"
@@ -1722,6 +1751,13 @@
       ]
     },
     {
+      "name": "Internazionale",
+      "examples": [
+        "Internazionale App for Android/null bnull (Phone; android; it_IT)",
+        "Internazionale App for iOS/null bnull (iPhone; ios; it_IT)"
+      ]
+    },
+    {
       "name": "iOnGreenville",
       "examples": [
         "iOnGreenville/1 CFNetwork/978.0.7 Darwin/18.7.0"
@@ -1759,6 +1795,12 @@
         "iTunes/12.10.9 (Windows; Microsoft Windows 10 x64 Home Premium Edition (Build 19041); x64) AppleWebKit/7609.3005.1003.3",
         "iTunes-iPhone",
         "iTunesU/3.4 iOS/9.3.2 model/iPod7,1 hwp/t7000 build/13F69 (4; dt:123)"
+      ]
+    },
+    {
+      "name": "ITV News",
+      "examples": [
+        "com.itv.itvnewsapp/2.47.0(iPhone12,8; ios 18.1.1; en-GB)"
       ]
     },
     {
@@ -2182,6 +2224,13 @@
         "mytuner",
         "myTuner%20Podcasts/30 CFNetwork/1568.200.51 Darwin/24.1.0",
         "myTuneriOS/55 CFNetwork/1568.300.101 Darwin/24.2.0"
+      ]
+    },
+    {
+      "name": "Nabd Pulse",
+      "examples": [
+        "com.waveline.nabd/17.3 (Linux;Android 14) AndroidXMedia3/1.2.1",
+        "Nabd/11.4.0 CFNetwork/1568.200.51 Darwin/24.1.0"
       ]
     },
     {
@@ -2670,6 +2719,12 @@
       ]
     },
     {
+      "name": "Relevant Radio",
+      "examples": [
+        "Relevant Radio/Android 4.0.11 (moto g stylus (2022)/Android 12 Build S3RDES32.123-37-5-22)"
+      ]
+    },
+    {
       "name": "Repod",
       "examples": [
         "Repod/2.9.0.363 CFNetwork/1240.0.4 Darwin/20.6.0 (iPhone/X iOS/14.7.1)",
@@ -2816,6 +2871,14 @@
         "Spotify/4.3.2.0 Polestar/30 (Polestar)",
         "Spotify/4.3.2.0 Volvo/30 (Volvo)",
         "Spotify/8.7.76.359 SM-R870/30 (SM-R870)"
+      ]
+    },
+    {
+      "name": "Spreaker",
+      "examples": [
+        "Spreaker Custom App for Android 5.5.3 release:2021-04-08 device:phone (samsung SM-N986B; Android 12; it_IT)",
+        "Spreaker Custom App for iOS 2.2.2 rv:6302 (iPhone15,3; iOS 18.1.1; en_US) SPKAudioPlayer",
+        "Spreaker 7.17.0 rv:1300 (iPhone8,4; iOS 15.8.3; en_CA)"
       ]
     },
     {

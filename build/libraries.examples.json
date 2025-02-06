@@ -308,6 +308,15 @@
       ]
     },
     {
+      "name": "ExoMedia",
+      "examples": [
+        "ExoMedia 5.0.0 / Android 14 / SM-S711U",
+        "ExoMedia 5.0.0 / Android 15 / Pixel 8a",
+        "ExoMedia 5.0.0 / Android 8.0.0 / SM-G930F",
+        "ExoMedia 5.0.0 / Android 15 / Pixel 8 Pro"
+      ]
+    },
+    {
       "name": "ESP32 HTTP Client",
       "examples": [
         "ESP32 HTTP Client/1.0"

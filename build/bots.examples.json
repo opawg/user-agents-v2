@@ -89,6 +89,12 @@
       ]
     },
     {
+      "name": "Audioboom bot",
+      "examples": [
+        "audioBoomBot/1.0; (+http://audioboom.com)"
+      ]
+    },
+    {
       "name": "Audiomack",
       "examples": [
         "Audiomack Podcast Processor/1.0 (https://audiomack.com/)"
@@ -159,6 +165,12 @@
       "name": "Bytespider.*bytedance",
       "examples": [
         "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)"
+      ]
+    },
+    {
+      "name": "Captivate bot",
+      "examples": [
+        "CaptivateBot/PodcastImporter 1.0"
       ]
     },
     {
@@ -550,6 +562,12 @@
       "name": "PetalBot",
       "examples": [
         "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot; https://aspiegel.com/petalbot)"
+      ]
+    },
+    {
+      "name": "Pinecast Importer",
+      "examples": [
+        "Pinecast/Importer 1.1"
       ]
     },
     {

@@ -65,6 +65,10 @@
       "pattern": "^atheerfm/"
     },
     {
+      "name": "Audioboom bot",
+      "pattern": "^audioBoomBot/\\d"
+    },
+    {
       "name": "Audiomack",
       "pattern": "^Audiomack Podcast Processor/"
     },
@@ -115,6 +119,10 @@
     {
       "name": "Bytespider.*bytedance",
       "pattern": "Bytespider"
+    },
+    {
+      "name": "Captivate bot",
+      "pattern": "^CaptivateBot/"
     },
     {
       "name": "CastFeedValidator",
@@ -407,6 +415,10 @@
     {
       "name": "PetalBot",
       "pattern": "PetalBot"
+    },
+    {
+      "name": "Pinecast Importer",
+      "pattern": "^Pinecast/Importer"
     },
     {
       "name": "Pingdom",

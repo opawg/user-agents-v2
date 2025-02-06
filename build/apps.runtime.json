@@ -261,6 +261,10 @@
       "pattern": "^Azul/"
     },
     {
+      "name": "Babbel",
+      "pattern": "^Babbel/\\d"
+    },
+    {
       "name": "BaladoQuebec",
       "pattern": "^BaladoQuebec/"
     },
@@ -291,6 +295,10 @@
     {
       "name": "Bear",
       "pattern": "^Bear/"
+    },
+    {
+      "name": "Behind the Knife",
+      "pattern": "^BehindTheKnife/\\d"
     },
     {
       "name": "Bergens Tidende Android app",
@@ -523,6 +531,10 @@
     {
       "name": "CoreDataPlayerSample",
       "pattern": "^CoreDataPlayerSample/"
+    },
+    {
+      "name": "Corriere della Sera",
+      "pattern": "^Corriere della Sera/\\d"
     },
     {
       "name": "Cosmicast",
@@ -1013,6 +1025,10 @@
       "pattern": "^i[Cc]atcher|\\(iCatcher"
     },
     {
+      "name": "IDEngineering",
+      "pattern": "^com\\.IDEngineering\\.[A-Za-z0-9.]+"
+    },
+    {
       "name": "iDL",
       "pattern": "^iDL/"
     },
@@ -1061,6 +1077,10 @@
       "pattern": "^Instagram/|Mobile/.* Instagram"
     },
     {
+      "name": "Internazionale",
+      "pattern": "^Internazionale App for (Android|iOS)/"
+    },
+    {
       "name": "iOnGreenville",
       "pattern": "^iOnGreenville/"
     },
@@ -1083,6 +1103,10 @@
     {
       "name": "iTunes",
       "pattern": "^iTunesU?[/-]"
+    },
+    {
+      "name": "ITV News",
+      "pattern": "^com\\.itv\\.itvnewsapp/\\d"
     },
     {
       "name": "iVoox",
@@ -1351,6 +1375,10 @@
     {
       "name": "MyTuner",
       "pattern": "^myTuner Radio app/|^myTuner%20Radio%20app/|^mytuner_podcasts_androidplayer/|^MyTuner-|^my[tT]uner$|^myTuneriOS%20Free/|^myTuner( |%20)Podcasts/\\d|^myTuneriOS Free/\\d|^myTuneriOS/\\d"
+    },
+    {
+      "name": "Nabd Pulse",
+      "pattern": "^(com.waveline.nabd|Nabd)/\\d"
     },
     {
       "name": "NetNewsWire",
@@ -1653,6 +1681,10 @@
       "pattern": "^Reeder/"
     },
     {
+      "name": "Relevant Radio",
+      "pattern": "^Relevant Radio/"
+    },
+    {
       "name": "Repod",
       "pattern": "(^Repod/.+iOS|^Repod/.+Android)"
     },
@@ -1754,7 +1786,7 @@
     },
     {
       "name": "Spreaker",
-      "pattern": "(^Spreaker for Android|Spreaker/)"
+      "pattern": "^Spreaker for Android|^Spreaker Custom App for (Android|iOS)|Spreaker/|^Spreaker \\d"
     },
     {
       "name": "Sprewell",
