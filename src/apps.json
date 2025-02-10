@@ -2073,7 +2073,7 @@
     },
     {
       "name": "Heard.FM",
-      "pattern": "^Heard\\.FM(  )?/",
+      "pattern": "^Heard\\.FM\\s*/",
       "examples": [
         "Heard.FM/1.0 (Linux; U; Android 13.0; Xiaomi 23124RN87I",
         "Heard.FM  /18.2 CFNetwork/1.0 Darwin/24.2.0",
