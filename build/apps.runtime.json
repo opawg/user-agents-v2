@@ -974,7 +974,7 @@
     },
     {
       "name": "Heard.FM",
-      "pattern": "^Heard\\.FM(  )?/"
+      "pattern": "^Heard\\.FM\\s*/"
     },
     {
       "name": "HermesPod",
