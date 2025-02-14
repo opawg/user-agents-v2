@@ -245,6 +245,13 @@
       ]
     },
     {
+      "name": "BNE Crawler",
+      "pattern": "bne\\.es_bot; https://www\\.bne\\.es",
+      "examples": [
+        "Mozilla/5.0 (compatible; bne.es_bot; https://www.bne.es/es/colecciones/archivo-web-espanola/aviso-webmasters) Firefox/129.0.1"
+      ]
+    },
+    {
       "name": "Bullhorn Crawler",
       "pattern": "^BullhornCrawler/",
       "examples": [
@@ -1304,6 +1311,14 @@
       "pattern": "^Simplecast$",
       "examples": [
         "Simplecast"
+      ]
+    },
+    {
+      "name": "SiriusXM Bot",
+      "pattern": "^SiriusXM/(RSS|STT)",
+      "examples": [
+        "SiriusXM/RSS-Scanner/1.0",
+        "SiriusXM/STT-Processor/1.0"
       ]
     },
     {

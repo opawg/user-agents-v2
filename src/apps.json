@@ -3869,7 +3869,7 @@
     },
     {
       "name": "SiriusXM",
-      "pattern": "^SiriusXM|SXMApp|sxm-android|sxm-apple/",
+      "pattern": "^SiriusXM\/\\d|SXMApp|sxm-android|sxm-apple/",
       "examples": [
         "SiriusXM/1608138304 CFNetwork/1206 Darwin/20.1.0",
         "SXMApp/36270 CFNetwork/1496.0.7 Darwin/23.5.0",
