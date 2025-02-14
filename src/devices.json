@@ -91,7 +91,7 @@
     },
     {
       "name": "Other Smart TV",
-      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^microsoft;xbox_|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;(un|qn|ue|uj|ua|ls)\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;(c1\\d{2}x|7140x)|^onn\\.;8821x|^Funai;PHILIPS4KTV|^Sagemcom;VSB|^TPV;[A-Z0-9]+AndroidTV;|^(CVT_NULL|MediaTek);SMARTTV;|^NVIDIA;SHIELDAndroidTV|UHDAndroidTV;|^westinghouse;7808x;|^ZTE;B820C|Sky, (ES|EM)|^Cinemo/\\d| Cinemo/\\d|^Amazon;AFTSSS;|^Amazon;AFTMM;|^nowtv;",
+      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|SMART_TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|TVStick|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^microsoft;xbox_|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;(un|qn|ue|uj|ua|ls|qe|qa|lh|gq|gu)\\d|^hisense;(c235x|c205x)|^skyworth;(NoblexTV|SWTV)|^Sony;BRAVIA|^tcl;(c1\\d{2}x|7140x)|^onn\\.;8821x|^Funai;PHILIPS4KTV|^Sagemcom;(VSB|DIW)|^TPV;[A-Z0-9]+AndroidTV;|^(CVT_NULL|MediaTek);SMARTTV;|^NVIDIA;SHIELDAndroidTV|UHDAndroidTV;|^westinghouse;7808x;|^ZTE;B820C|Sky, (ES|EM)|^Cinemo/\\d| Cinemo/\\d|^Amazon;(AFTSSS|AFTMM|AFTSS|AFTKA|AFTT|AFTDCT31|AFTKM|AFTKRT|AFTHA004|AFTEAMR311);|^nowtv;|^SEIRobotics;yes|^Changhong;AIPONT|^Arcadyan;Bouygtel|^Amlogic;ONVO|^Philips;TPM|^MediaTek;39LHA120TP",
       "category": "smart_tv",
       "comments": "Must be before Android Phones",
       "examples": [
@@ -141,7 +141,30 @@
         "Amazon;AFTMM;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
         "samsung;ua65tu7000uxzn;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;ls32am500nexxy;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
-        "nowtv;3801uk;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454"
+        "nowtv;3801uk;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
+        "samsung;qe49q64ralxxn;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung;qa65q75rawxxy;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "Amazon;AFTSS;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Amazon;AFTKA;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Amazon;AFTT;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "SEIRobotics;yes;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "Amazon;AFTDCT31;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Changhong;AIPONT;756a522d9f1648b89e76e80be654456a;;tpapi;3.206.326",
+        "Amazon;AFTKM;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Amazon;AFTKRT;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Arcadyan;Bouygtel4K;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356",
+        "Arcadyan;BouygtelTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.122.67",
+        "Sagemcom;DIW377_TPL;88b3d7de4766486991f76b231c9fb782;;tpapi;3.200.405",
+        "Amazon;AFTHA004;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Google;D6TVStick;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.405",
+        "skyworth;SWTV-20AE;756a522d9f1648b89e76e80be654456a;;tpapi;3.199.315",
+        "samsung;lh32betblggxzd;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "Amazon;AFTEAMR311;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
+        "Amlogic;ONVO_42OV6000F;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
+        "Philips;TPM191E;756a522d9f1648b89e76e80be654456a;;tpapi;3.122.67",
+        "MediaTek;39LHA120TP;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
+        "samsung;gq55q60tguxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung;gu50tu7079uxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71"
       ]
     },
     {
@@ -181,7 +204,7 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/|^Bluesound;|^Yamaha;WX-|^Xiaomi;07G|^BangAndOlufsen;beo_",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-(DWHS|DWMINI)|^Storybutton/|^Bluesound;|^Yamaha;(WX-|YAS_|ATS_|SR-)|^Xiaomi;07G|^(BangAndOlufsen|Bang_And_Olufsen);beo_|^ArgonAudio;SOLO;|^Samsung;HW-(Q9|Q8|Q7|LS60D|S6|S8)|^LenbrookIndustries;NADAmplifier|^Marshall;Uxbridge|^Edifier;MS50A|^Wiim;Pro;|^Naim_Audio;Mu-so|^Audio_Pro;C10MKII|^Devialet;Mania|^Bowers___Wilkins;Zeppelin|^JBL;Charge_5",
       "category": "smart_speaker",
       "examples": [
         "Bluesound;N110;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
@@ -200,7 +223,31 @@
         "Storybutton/1.0",
         "Yamaha;WX-021;59c7bf046992472ab0689f5fc7fa08e2;1810    ;tpapi;3.201.417",
         "Xiaomi;07G;54374385375a485fbf9f36689bab8e3a;;tpapi;3.199.375",
-        "BangAndOlufsen;beo_ca16;a2a9ac576f954a84a68513f0928306c7;2.6.56516.0xcc9884b;tpapi;3.194.67"
+        "BangAndOlufsen;beo_ca16;a2a9ac576f954a84a68513f0928306c7;2.6.56516.0xcc9884b;tpapi;3.194.67",
+        "Bang_And_Olufsen;beo_ez3;a2a9ac576f954a84a68513f0928306c7;2.6.56381.0xf6d7b81;tpapi;3.194.67",
+        "ArgonAudio;SOLO;1d6fc5048b7148989f7d11b41bc959de;;tpapi;3.194.71",
+        "Samsung;HW-Q930C_M;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.200.454",
+        "LenbrookIndustries;NADAmplifierC338;8e2d49fb22084d0d8bf841c58a23948a;;tpapi;3.194.71",
+        "Yamaha;YAS_209;59c7bf046992472ab0689f5fc7fa08e2;;tpapi;3.198.85",
+        "Marshall;Uxbridge;a56a9ca4c3224149844c062bbebf64a4;;tpapi;3.171.19",
+        "Edifier;MS50A;661cc6a65bf64d34848be578c41514ec;;tpapi;3.199.375",
+        "Samsung;HW-Q990C;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.200.454",
+        "Samsung;HW-LS60D;f92d2110c0e3483c82534460ac6b08bf;7;tpapi;3.202.330",
+        "Wiim;Pro;c6c01f28b0e842a48f4e7d8f17c2bc8b;;tpapi;3.205.187",
+        "Denon;DENON-DWMINI_40-RCDN10;8f2c0cd9c29f44b39c868f9c7055662c;;tpapi;3.205.187",
+        "Yamaha;ATS_2090;59c7bf046992472ab0689f5fc7fa08e2;;tpapi;3.198.85",
+        "Naim_Audio;Mu-so;c1391bf229944da19cfe28f31e1447e3;4003002.6482.1269.0x39709a;tpapi;3.199.315",
+        "Audio_Pro;C10MKII;5a9bb92bc7e640b1a7d4a79bb0726883;;tpapi;3.199.375",
+        "Samsung;HW-Q990D;f92d2110c0e3483c82534460ac6b08bf;7;tpapi;3.202.330",
+        "Samsung;HW-Q700B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
+        "Samsung;HW-S61B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
+        "Devialet;Mania;5aa92cc276d144ad97a77938e86c7ef1;0.0.0.0x9947e26;tpapi;3.200.405",
+        "Samsung;HW-Q800B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
+        "Bowers___Wilkins;Zeppelin;5342ad44959046b9aa19c537108abed9;1.07.9.1;tpapi;3.194.67",
+        "Samsung;HW-S800B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
+        "Samsung;HW-S60B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
+        "Yamaha;SR-X50A;59c7bf046992472ab0689f5fc7fa08e2;;tpapi;3.194.71",
+        "JBL;Charge_5_Wi-Fi;ae8cc5068e6443f3b90da43a356e7578;;tpapi;3.194.61"
       ]
     },
     {

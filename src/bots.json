@@ -923,13 +923,14 @@
     },
     {
       "name": "Podcastindex.org",
-      "pattern": "^Podcastindex\\.org/",
+      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)",
       "svg": "podcast-index.svg",
       "urls": [
         "https://podcastindex.org/"
       ],
       "examples": [
-        "Podcastindex.org/v0.3.3 (Aggrivate)"
+        "Podcastindex.org/v0.3.3 (Aggrivate)",
+        "Aggrivator (PodcastIndex.org)/v0.1.7"
       ]
     },
     {
