@@ -150,6 +150,12 @@
       ]
     },
     {
+      "name": "BNE Crawler",
+      "examples": [
+        "Mozilla/5.0 (compatible; bne.es_bot; https://www.bne.es/es/colecciones/archivo-web-espanola/aviso-webmasters) Firefox/129.0.1"
+      ]
+    },
+    {
       "name": "Bullhorn Crawler",
       "examples": [
         "BullhornCrawler/unknown-version(+http://bullhorn.fm/)"
@@ -808,6 +814,13 @@
       "name": "Simplecast",
       "examples": [
         "Simplecast"
+      ]
+    },
+    {
+      "name": "SiriusXM Bot",
+      "examples": [
+        "SiriusXM/RSS-Scanner/1.0",
+        "SiriusXM/STT-Processor/1.0"
       ]
     },
     {

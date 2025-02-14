@@ -32,7 +32,7 @@
     },
     {
       "name": "Apple Computer",
-      "pattern": "OS X|OSX|Macintosh|Macbook",
+      "pattern": "OS X|OSX|Macintosh|Macbook|macosx|macOS",
       "category": "computer"
     },
     {
@@ -51,13 +51,18 @@
       "category": "mobile"
     },
     {
+      "name": "Smart Car",
+      "pattern": "^Spotify/.* \\((Rivian|BYD AUTO|Volvo|gminfo\\d+|G6|G9)\\)",
+      "category": "auto"
+    },
+    {
       "name": "Other Smart TV",
-      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;[uq][nej]\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;(c1\\d{2}x|7140x)|^onn\\.;8821x|^Funai;PHILIPS4KTV|^Sagemcom;VSB|^TPV;[A-Z0-9]+AndroidTV;|^(CVT_NULL|MediaTek);SMARTTV;|^NVIDIA;SHIELDAndroidTV|UHDAndroidTV;|^westinghouse;7808x;|^ZTE;B820C",
+      "pattern": "SmartTV|[Rr]oku|CrKey|AFTT Build|AFTM Build|BRAVIA 4K|Opera TV|SmartTv|TSBNetTV|SMART-TV|TV Safari|WebTV|InettvBrowser|GoogleTV|HbbTV|smart-tv|olleh tv|^sony_tv;ps5;|Microsoft Xbox|^microsoft;xbox_|^Google;Chromecast|^TCL;|^Xiaomi;(MIBOX|MiTV-)|^samsung;(un|qn|ue|uj|ua|ls)\\d|^hisense;(c235x|c205x)|^skyworth;NoblexTV|^Sony;BRAVIA|^tcl;(c1\\d{2}x|7140x)|^onn\\.;8821x|^Funai;PHILIPS4KTV|^Sagemcom;VSB|^TPV;[A-Z0-9]+AndroidTV;|^(CVT_NULL|MediaTek);SMARTTV;|^NVIDIA;SHIELDAndroidTV|UHDAndroidTV;|^westinghouse;7808x;|^ZTE;B820C|Sky, (ES|EM)|^Cinemo/\\d| Cinemo/\\d|^Amazon;AFTSSS;|^Amazon;AFTMM;|^nowtv;",
       "category": "smart_tv"
     },
     {
       "name": "Android Phone",
-      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$|^(Turtlecast|TURTLECAST)/",
+      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$|^(Turtlecast|TURTLECAST)/|\\((SM-A15|SM-A55|moto g|RMO-NX3)",
       "category": "mobile"
     },
     {
@@ -72,12 +77,12 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/|^Bluesound;|^Yamaha;WX-",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-DWHS|^Storybutton/|^Bluesound;|^Yamaha;WX-|^Xiaomi;07G|^BangAndOlufsen;beo_",
       "category": "smart_speaker"
     },
     {
       "name": "Other Computer",
-      "pattern": "Lavf/|desktop|Linux|linux|VLC|^okhttp/|CastBox/",
+      "pattern": "Lavf/|desktop|Linux|linux|VLC|^okhttp/|CastBox/|X11; (OpenBSD|NetBSD)",
       "category": "computer"
     },
     {

@@ -21,6 +21,13 @@
       ]
     },
     {
+      "name": "Apple Computer",
+      "examples": [
+        "net/http-easy (macosx; racket[CS] 8.15.0.7; 0.8.2)",
+        "Mimir-macOS/1.8.1"
+      ]
+    },
+    {
       "name": "Google Home",
       "examples": [
         "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.225 Safari/537.36 CrKey/1.56.500000 DeviceType/SmartSpeaker"
@@ -30,6 +37,18 @@
       "name": "Android Tablet",
       "examples": [
         "ZTE;Xview;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454"
+      ]
+    },
+    {
+      "name": "Smart Car",
+      "examples": [
+        "Spotify/4.4.1.0 Rivian/30 (Rivian)",
+        "Spotify/4.3.2.0 BYD AUTO/29 (BYD AUTO)",
+        "Spotify/4.4.1.0 Volvo/32 (Volvo)",
+        "Spotify/4.0.8.0 gminfo36/23 (gminfo36)",
+        "Spotify/4.0.8.0 gminfo3/23 (gminfo3)",
+        "Spotify/4.4.0.0 G6/29 (G6)",
+        "Spotify/4.4.0.0 G9/29 (G9)"
       ]
     },
     {
@@ -43,6 +62,7 @@
         "Hisense;HiSmartTVA4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "MediaTek;SMARTTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
         "Microsoft Xbox",
+        "microsoft;xbox_series_x;1fc2d01aa9074dde950e8d3dc0eb1729;;tpapi;3.206.319",
         "NVIDIA;SHIELDAndroidTV;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356",
         "onn.;8821x;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
         "roku;3930mx;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454",
@@ -68,7 +88,19 @@
         "Xiaomi;MIBOX4;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "Xiaomi;MiTV-AESP0;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
         "Xiaomi;MiTV-MOOQ0;756a522d9f1648b89e76e80be654456a;;tpapi;3.200.454",
-        "ZTE;B820C-A15;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356"
+        "ZTE;B820C-A15;756a522d9f1648b89e76e80be654456a;;tpapi;3.202.356",
+        "GW-Device/1.0.0 (Sky, ES140, )",
+        "GW-Device/1.0.0 (Sky, ES240, )",
+        "MR-Device/1.0.0 (Sky, EM150, )",
+        "Cinemo/2023.w35.004.p005100.9fbde87f",
+        "Cinemo/2021.w49.039.p001025.bebbed45",
+        "gcc_linux_MIB3Premium_esolutions_CLU35/1.0 Cinemo/2020.27.9.0",
+        "gcc_linux_wayland_aarch64_pcc_mib3_eu/1.0 Cinemo/1.252.7.100516",
+        "Amazon;AFTSSS;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "Amazon;AFTMM;756a522d9f1648b89e76e80be654456a;;tpapi;3.205.189",
+        "samsung;ua65tu7000uxzn;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung;ls32am500nexxy;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "nowtv;3801uk;4916bf2fd1c54ff2bace038314d21f39;;tpapi;3.200.454"
       ]
     },
     {
@@ -79,7 +111,11 @@
         "sp-agent",
         "FileDownloader (Android)",
         "PRDownloader",
-        "TURTLECAST/0.5.1"
+        "TURTLECAST/0.5.1",
+        "Camino App/5.5.3 (SM-A155M; null; es_US)",
+        "Camino App/5.5.3 (SM-A556E; null; es_US)",
+        "Camino App/5.5.3 (moto g84 5G; null; es_US)",
+        "Camino App/5.5.3 (RMO-NX3; null; es_MX)"
       ]
     },
     {
@@ -109,7 +145,16 @@
         "Denon;DENON-DWHS_60-150;8f2c0cd9c29f44b39c868f9c7055662c;;tpapi;3.202.330",
         "HEOS;DENON-DWA_40-200;3c043256d0a14590ab901fdc062e55c7;;tpapi;3.202.330",
         "Storybutton/1.0",
-        "Yamaha;WX-021;59c7bf046992472ab0689f5fc7fa08e2;1810    ;tpapi;3.201.417"
+        "Yamaha;WX-021;59c7bf046992472ab0689f5fc7fa08e2;1810    ;tpapi;3.201.417",
+        "Xiaomi;07G;54374385375a485fbf9f36689bab8e3a;;tpapi;3.199.375",
+        "BangAndOlufsen;beo_ca16;a2a9ac576f954a84a68513f0928306c7;2.6.56516.0xcc9884b;tpapi;3.194.67"
+      ]
+    },
+    {
+      "name": "Other Computer",
+      "examples": [
+        "Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36",
+        "Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36"
       ]
     },
     {

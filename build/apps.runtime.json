@@ -1734,7 +1734,7 @@
     },
     {
       "name": "SiriusXM",
-      "pattern": "^SiriusXM|SXMApp|sxm-android|sxm-apple/"
+      "pattern": "^SiriusXM/\\d|SXMApp|sxm-android|sxm-apple/"
     },
     {
       "name": "Slack",

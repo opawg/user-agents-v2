@@ -109,6 +109,10 @@
       "pattern": "^Blubrry (Podcasting|PowerPress)/\\d"
     },
     {
+      "name": "BNE Crawler",
+      "pattern": "bne\\.es_bot; https://www\\.bne\\.es"
+    },
+    {
       "name": "Bullhorn Crawler",
       "pattern": "^BullhornCrawler/"
     },
@@ -603,6 +607,10 @@
     {
       "name": "Simplecast",
       "pattern": "^Simplecast$"
+    },
+    {
+      "name": "SiriusXM Bot",
+      "pattern": "^SiriusXM/(RSS|STT)"
     },
     {
       "name": "Slack Bot",
