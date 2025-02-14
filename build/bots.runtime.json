@@ -438,7 +438,7 @@
     },
     {
       "name": "Podcastindex.org",
-      "pattern": "^Podcastindex\\.org/"
+      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)"
     },
     {
       "name": "Podcast de facto Standard",
