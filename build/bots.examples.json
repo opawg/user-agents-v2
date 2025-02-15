@@ -400,6 +400,12 @@
       ]
     },
     {
+      "name": "Jamit bot",
+      "examples": [
+        "Jamit/1.0"
+      ]
+    },
+    {
       "name": "Library and Archives Canada",
       "examples": [
         "Mozilla/5.0 (compatible; LAC_IAHarvester/3.3.0; +https://library-archives.canada.ca/eng/services/government-canada/web-social-media-preservation-program/Pages/web-archive.aspx)"
