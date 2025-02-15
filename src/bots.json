@@ -629,6 +629,13 @@
       ]
     },
     {
+      "name": "Jamit bot",
+      "pattern": "^Jamit/1\\.0$",
+      "examples": [
+        "Jamit/1.0"
+      ]
+    },
+    {
       "name": "l'Institut national de l'audiovisuel",
       "pattern": "INA dlweb",
       "urls": [
