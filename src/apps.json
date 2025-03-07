@@ -3853,6 +3853,26 @@
       "comments": "aka Samsung Free"
     },
     {
+      "name": "Seekr (Android)",
+      "pattern": "^Seekr/.*Android",
+      "urls": [
+        "https://www.seekyoursounds.com"
+      ],
+      "examples": [
+        "Seekr/1.6.0.748-debug Dalvik/2.1.0 (Linux; U; Android 14; SM-S928W Build/UP1A.231005.007)"
+      ]
+    },
+    {
+      "name": "Seekr (iOS)",
+      "pattern": "^Seekr/.*CFNetwork",
+      "urls": [
+        "https://www.seekyoursounds.com"
+      ],
+      "examples": [
+        "Seekr/1077 CFNetwork/3826.400.120 Darwin/24.3.0"
+      ]
+    },
+    {
       "name": "ServeStream",
       "pattern": "^ServeStream Dynamo/|^ServeStream$",
       "examples": [
