@@ -1725,12 +1725,8 @@
       "pattern": "^sp-agent"
     },
     {
-      "name": "Seekr (Android)",
-      "pattern": "^Seekr/.*Android"
-    },
-    {
-      "name": "Seekr (iOS)",
-      "pattern": "^Seekr/.*CFNetwork"
+      "name": "Seekr",
+      "pattern": "^Seekr/\\d"
     },
     {
       "name": "ServeStream",
