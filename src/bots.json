@@ -252,6 +252,16 @@
       ]
     },
     {
+      "name": "Buck Media Monitoring",
+      "pattern": "^Buck/\\d",
+      "examples": [
+        "Buck/2.4.2; (+https://app.hypefactors.com/media-monitoring/about.html)"
+      ],
+      "urls": [
+        "https://app.hypefactors.com/media-monitoring/about.html"
+      ]
+    },
+    {
       "name": "Bullhorn Crawler",
       "pattern": "^BullhornCrawler/",
       "examples": [
@@ -280,6 +290,16 @@
       "pattern": "^CaptivateBot/",
       "examples": [
         "CaptivateBot/PodcastImporter 1.0"
+      ]
+    },
+    {
+      "name": "Cartesia.ai bot",
+      "pattern": "^Cartesia\\.ai",
+      "examples": [
+        "Cartesia.ai"
+      ],
+      "urls": [
+        "https://cartesia.ai/"
       ]
     },
     {
@@ -1366,6 +1386,17 @@
       ],
       "urls": [
         "https://www.speechmatics.com/"
+      ]
+    },
+    {
+      "name": "Speech is Cheap",
+      "pattern": "speechischeap\\.com",
+      "examples": [
+        "To be transcribed with Speech is Cheap (https://speechischeap.com)",
+        "speechischeap.com"
+      ],
+      "urls": [
+        "https://speechischeap.com/"
       ]
     },
     {

@@ -2791,6 +2791,16 @@
       ]
     },
     {
+      "name": "MegaSeg",
+      "pattern": "^MegaSeg/\\d",
+      "examples": [
+        "MegaSeg/6.3.2b11"
+      ],
+      "urls": [
+        "https://www.megaseg.com/"
+      ]
+    },
+    {
       "name": "Menucast",
       "pattern": "^Menucast/",
       "examples": [
@@ -3105,9 +3115,10 @@
     },
     {
       "name": "Overhaul",
-      "pattern": "^Podcast Overhaul/",
+      "pattern": "^Podcast Overhaul/|^Overhaul FM/",
       "examples": [
-        "Podcast Overhaul/4.1.1 iOS/16.1.1 +https://www.podcastoverhaul.com/"
+        "Podcast Overhaul/4.1.1 iOS/16.1.1 +https://www.podcastoverhaul.com/",
+        "Overhaul FM/2.0 SM-P615/13 +https://overhaul.fm"
       ],
       "urls": [
         "https://www.overhaul.fm/"
@@ -4172,6 +4183,17 @@
       ]
     },
     {
+      "name": "Tatori",
+      "pattern": "^Tatori/\\d",
+      "examples": [
+        "Tatori/96 CFNetwork/3826.400.120 Darwin/24.3.0"
+      ],
+      "urls": [
+        "https://tatori.justinandrews.net/",
+        "https://apps.apple.com/us/app/tatori-podcasts-audiobooks/id1398063696"
+      ]
+    },
+    {
       "name": "TED",
       "pattern": "^TED |^TED/",
       "examples": [
@@ -4332,6 +4354,16 @@
       "pattern": "^Ubook Player",
       "examples": [
         "Ubook Player"
+      ]
+    },
+    {
+      "name": "Upcast",
+      "pattern": "^Upcast/\\d",
+      "examples": [
+        "Upcast/1.0 (+https://getupcast.app/; iOS podcast app)"
+      ],
+      "urls": [
+        "https://getupcast.app/"
       ]
     },
     {
