@@ -113,6 +113,10 @@
       "pattern": "bne\\.es_bot; https://www\\.bne\\.es"
     },
     {
+      "name": "Buck Media Monitoring",
+      "pattern": "^Buck/\\d"
+    },
+    {
       "name": "Bullhorn Crawler",
       "pattern": "^BullhornCrawler/"
     },
@@ -127,6 +131,10 @@
     {
       "name": "Captivate bot",
       "pattern": "^CaptivateBot/"
+    },
+    {
+      "name": "Cartesia.ai bot",
+      "pattern": "^Cartesia\\.ai"
     },
     {
       "name": "CastFeedValidator",
@@ -635,6 +643,10 @@
     {
       "name": "Speechmatics ASR",
       "pattern": "^Speechmatics-API/"
+    },
+    {
+      "name": "Speech is Cheap",
+      "pattern": "speechischeap\\.com"
     },
     {
       "name": "Spotify cache service",

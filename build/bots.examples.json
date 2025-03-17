@@ -156,6 +156,12 @@
       ]
     },
     {
+      "name": "Buck Media Monitoring",
+      "examples": [
+        "Buck/2.4.2; (+https://app.hypefactors.com/media-monitoring/about.html)"
+      ]
+    },
+    {
       "name": "Bullhorn Crawler",
       "examples": [
         "BullhornCrawler/unknown-version(+http://bullhorn.fm/)"
@@ -177,6 +183,12 @@
       "name": "Captivate bot",
       "examples": [
         "CaptivateBot/PodcastImporter 1.0"
+      ]
+    },
+    {
+      "name": "Cartesia.ai bot",
+      "examples": [
+        "Cartesia.ai"
       ]
     },
     {
@@ -852,6 +864,13 @@
       "name": "Speechmatics ASR",
       "examples": [
         "Speechmatics-API/2.0"
+      ]
+    },
+    {
+      "name": "Speech is Cheap",
+      "examples": [
+        "To be transcribed with Speech is Cheap (https://speechischeap.com)",
+        "speechischeap.com"
       ]
     },
     {

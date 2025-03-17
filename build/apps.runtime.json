@@ -1297,6 +1297,10 @@
       "pattern": "^Megaphone\\.fm"
     },
     {
+      "name": "MegaSeg",
+      "pattern": "^MegaSeg/\\d"
+    },
+    {
       "name": "Menucast",
       "pattern": "^Menucast/"
     },
@@ -1426,7 +1430,7 @@
     },
     {
       "name": "Overhaul",
-      "pattern": "^Podcast Overhaul/"
+      "pattern": "^Podcast Overhaul/|^Overhaul FM/"
     },
     {
       "name": "Palco MP3",
@@ -1869,6 +1873,10 @@
       "pattern": "^SYOK|^my\\.com\\.astro\\.player"
     },
     {
+      "name": "Tatori",
+      "pattern": "^Tatori/\\d"
+    },
+    {
       "name": "TED",
       "pattern": "^TED |^TED/"
     },
@@ -1931,6 +1939,10 @@
     {
       "name": "Ubook Player",
       "pattern": "^Ubook Player"
+    },
+    {
+      "name": "Upcast",
+      "pattern": "^Upcast/\\d"
     },
     {
       "name": "uTorrent",

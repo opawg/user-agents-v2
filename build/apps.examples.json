@@ -2087,6 +2087,12 @@
       ]
     },
     {
+      "name": "MegaSeg",
+      "examples": [
+        "MegaSeg/6.3.2b11"
+      ]
+    },
+    {
       "name": "Menucast",
       "examples": [
         "Menucast/1.4 CFNetwork/720.1.1 Darwin/14.0.0 (x86_64)"
@@ -2319,7 +2325,8 @@
     {
       "name": "Overhaul",
       "examples": [
-        "Podcast Overhaul/4.1.1 iOS/16.1.1 +https://www.podcastoverhaul.com/"
+        "Podcast Overhaul/4.1.1 iOS/16.1.1 +https://www.podcastoverhaul.com/",
+        "Overhaul FM/2.0 SM-P615/13 +https://overhaul.fm"
       ]
     },
     {
@@ -2997,6 +3004,12 @@
       ]
     },
     {
+      "name": "Tatori",
+      "examples": [
+        "Tatori/96 CFNetwork/3826.400.120 Darwin/24.3.0"
+      ]
+    },
+    {
       "name": "TED",
       "examples": [
         "TED POD-2.0.2",
@@ -3114,6 +3127,12 @@
       "name": "Ubook Player",
       "examples": [
         "Ubook Player"
+      ]
+    },
+    {
+      "name": "Upcast",
+      "examples": [
+        "Upcast/1.0 (+https://getupcast.app/; iOS podcast app)"
       ]
     },
     {
