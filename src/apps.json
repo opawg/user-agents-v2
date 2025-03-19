@@ -3662,6 +3662,20 @@
       ]
     },
     {
+      "name": "Radio France",
+      "pattern": "^AppRF/\\d|^com\\.radiofrance\\.radio\\.radiofrance\\.android/|^RadioFrance/\\d|^Radio France/\\d",
+      "examples": [
+        "AppRF/9.9.1_250221.1453 iPhone13,2 iOS/18.3.1 CFNetwork/9.9.1 Darwin/24.3.0",
+        "com.radiofrance.radio.radiofrance.android/9.10.0-android(83646)/Android 14/mobile/SM-A156B",
+        "Radio France/9.10.0 TransistorKit/5.0.1 iOS/18.3.1 iPhone13,1",
+        "RadioFrance/9.10.0 RFPlayer/1.63.0 AndroidXMedia3/1.5.1 Dalvik/2.1.0 (Linux; U; Android 14; sdk_gphone64_arm64 Build/UE1A.230829.036.A4)"
+      ],
+      "urls": [
+        "https://apps.apple.com/fr/app/radio-france-podcast-direct/id310211433",
+        "https://play.google.com/store/apps/details?id=com.radiofrance.radio.radiofrance.android&hl=fr"
+      ]
+    },
+    {
       "name": "Radio thmanyah",
       "pattern": "^Radio thmanyah ",
       "examples": [
