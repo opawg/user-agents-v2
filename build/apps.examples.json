@@ -2665,6 +2665,15 @@
       ]
     },
     {
+      "name": "Radio France",
+      "examples": [
+        "AppRF/9.9.1_250221.1453 iPhone13,2 iOS/18.3.1 CFNetwork/9.9.1 Darwin/24.3.0",
+        "com.radiofrance.radio.radiofrance.android/9.10.0-android(83646)/Android 14/mobile/SM-A156B",
+        "Radio France/9.10.0 TransistorKit/5.0.1 iOS/18.3.1 iPhone13,1",
+        "RadioFrance/9.10.0 RFPlayer/1.63.0 AndroidXMedia3/1.5.1 Dalvik/2.1.0 (Linux; U; Android 14; sdk_gphone64_arm64 Build/UE1A.230829.036.A4)"
+      ]
+    },
+    {
       "name": "Radio thmanyah",
       "examples": [
         "Radio thmanyah (iOS 17.2.1)",

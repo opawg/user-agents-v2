@@ -1657,6 +1657,10 @@
       "pattern": "^Podcast Provider.*?Radio Downloader"
     },
     {
+      "name": "Radio France",
+      "pattern": "^AppRF/\\d|^com\\.radiofrance\\.radio\\.radiofrance\\.android/|^RadioFrance/\\d|^Radio France/\\d"
+    },
+    {
       "name": "Radio thmanyah",
       "pattern": "^Radio thmanyah "
     },
