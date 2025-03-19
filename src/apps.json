@@ -3663,7 +3663,7 @@
     },
     {
       "name": "Radio France",
-      "pattern": "^AppRF/\\d|^com\\.radiofrance\\.radio\\.radiofrance\\.android/|^Radio[ /]France/\\d",
+      "pattern": "^AppRF/\\d|^com\\.radiofrance\\.radio\\.radiofrance\\.android/|^RadioFrance/\\d|^Radio France/\\d",
       "examples": [
         "AppRF/9.9.1_250221.1453 iPhone13,2 iOS/18.3.1 CFNetwork/9.9.1 Darwin/24.3.0",
         "com.radiofrance.radio.radiofrance.android/9.10.0-android(83646)/Android 14/mobile/SM-A156B",
