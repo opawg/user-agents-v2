@@ -1532,6 +1532,14 @@
       ]
     },
     {
+      "name": "Transmission",
+      "pattern": "^Transmission/\\d",
+      "examples": [
+        "Transmission/2.77"
+      ],
+      "comments": "Seen mass-downloading multiple episodes from multiple shows.  Doubt this is the bitttorrent client, but is bot-like nonetheless"
+    },
+    {
       "name": "theTradeDesk Content Web Scraper",
       "pattern": "TTD-Content",
       "examples": [
