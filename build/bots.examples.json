@@ -959,6 +959,12 @@
       ]
     },
     {
+      "name": "Transmission",
+      "examples": [
+        "Transmission/2.77"
+      ]
+    },
+    {
       "name": "theTradeDesk Content Web Scraper",
       "examples": [
         "Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)"

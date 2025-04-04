@@ -721,6 +721,10 @@
       "pattern": "^TelegramBot "
     },
     {
+      "name": "Transmission",
+      "pattern": "^Transmission/\\d"
+    },
+    {
       "name": "theTradeDesk Content Web Scraper",
       "pattern": "TTD-Content"
     },
