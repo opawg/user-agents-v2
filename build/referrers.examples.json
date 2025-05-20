@@ -330,6 +330,14 @@
       ]
     },
     {
+      "name": "PodMatch",
+      "examples": [
+        "https://www.podmatch.com/",
+        "https://podmatch.com",
+        "https://podmatch.com/hostdetail/123456"
+      ]
+    },
+    {
       "name": "Podmust",
       "examples": [
         "https://podmust.com/"

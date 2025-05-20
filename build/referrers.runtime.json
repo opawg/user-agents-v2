@@ -247,6 +247,11 @@
       "category": "app"
     },
     {
+      "name": "PodMatch",
+      "pattern": "^https://(www\\.)?podmatch\\.com",
+      "category": "app"
+    },
+    {
       "name": "Podmust",
       "pattern": "://podmust\\.com/",
       "category": "app"
