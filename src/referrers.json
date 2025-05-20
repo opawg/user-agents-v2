@@ -443,6 +443,16 @@
       "category": "app"
     },
     {
+      "name": "PodMatch",
+      "pattern": "^https://(www\\.)?podmatch\\.com",
+      "examples": [
+        "https://www.podmatch.com/",
+        "https://podmatch.com",
+        "https://podmatch.com/hostdetail/123456"
+      ],
+      "category": "app"
+    },
+    {
       "name": "Podmust",
       "pattern": "://podmust\\.com/",
       "examples": [
