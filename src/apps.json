@@ -2296,6 +2296,14 @@
       ]
     },
     {
+      "name": "Insomniac Radio",
+      "pattern": "^Insomniac-Radio/",
+      "examples": [
+        "Insomniac-Radio/1.0.2 (iOS 16.7.11)",
+        "Insomniac-Radio/1.0.2 (Android 15)"
+      ]
+    },
+    {
       "name": "Instacast",
       "pattern": "^Instacast Instacast/|^Instacast/",
       "examples": [
