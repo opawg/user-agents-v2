@@ -1065,6 +1065,10 @@
       "pattern": "^InCast/"
     },
     {
+      "name": "Insomniac Radio",
+      "pattern": "^Insomniac-Radio/"
+    },
+    {
       "name": "Instacast",
       "pattern": "^Instacast Instacast/|^Instacast/"
     },

@@ -1731,6 +1731,13 @@
       ]
     },
     {
+      "name": "Insomniac Radio",
+      "examples": [
+        "Insomniac-Radio/1.0.2 (iOS 16.7.11)",
+        "Insomniac-Radio/1.0.2 (Android 15)"
+      ]
+    },
+    {
       "name": "Instacast",
       "examples": [
         "Instacast Instacast/4.5.4 CFNetwork/672.1.14 Darwin/14.0.0",
