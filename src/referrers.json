@@ -225,6 +225,15 @@
       "category": "app"
     },
     {
+      "name": "Insomniac Radio",
+      "pattern": "^https://(www\\.)?insomniacradio\\.com/",
+       "examples": [
+        "https://www.insomniacradio.com/",
+        "https://insomniacradio.com/"
+      ],
+      "category": "app"
+    },
+    {
       "name": "iVoox",
       "pattern": "://www\\.ivoox\\.com/",
       "examples": [
