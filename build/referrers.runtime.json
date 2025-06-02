@@ -124,6 +124,11 @@
       "category": "app"
     },
     {
+      "name": "Insomniac Radio",
+      "pattern": "^https://(www\\.)?insomniacradio\\.com/",
+      "category": "app"
+    },
+    {
       "name": "iVoox",
       "pattern": "://www\\.ivoox\\.com/",
       "category": "app"
