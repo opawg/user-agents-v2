@@ -330,6 +330,11 @@
       "name": "Wix",
       "pattern": "^https://podcasts\\.wixapps\\.net",
       "category": "host"
+    },
+    {
+      "name": "WNYC",
+      "pattern": "^https://wnyc\\.org",
+      "category": "app"
     }
   ]
 }

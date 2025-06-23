@@ -435,6 +435,12 @@
       "examples": [
         "https://podcasts.wixapps.net/"
       ]
+    },
+    {
+      "name": "WNYC",
+      "examples": [
+        "https://wnyc.org/"
+      ]
     }
   ]
 }

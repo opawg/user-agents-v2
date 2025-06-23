@@ -2009,6 +2009,10 @@
       "pattern": "^Wink106/\\d"
     },
     {
+      "name": "WNYC",
+      "pattern": "^WNYC(-|%20| )App/"
+    },
+    {
       "name": "WOWY Radio",
       "pattern": "^Wowy Radio/\\d"
     },

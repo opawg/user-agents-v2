@@ -3233,6 +3233,13 @@
       ]
     },
     {
+      "name": "WNYC",
+      "examples": [
+        "WNYC-App/iOS 4.4.3; iPhone; iOS 18.5",
+        "WNYC App/3.0.32-11141 iOS/12.5.7 device/iPad4%2C4"
+      ]
+    },
+    {
       "name": "WOWY Radio",
       "examples": [
         "Wowy Radio/12.0.6 (Pixel 7 Pro; Android 14)"
