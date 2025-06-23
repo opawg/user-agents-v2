@@ -4503,6 +4503,14 @@
       ]
     },
     {
+      "name": "WNYC",
+      "pattern": "^WNYC(-|%20| )App/",
+      "examples": [
+        "WNYC-App/iOS 4.4.3; iPhone; iOS 18.5",
+        "WNYC App/3.0.32-11141 iOS/12.5.7 device/iPad4%2C4"
+      ]
+    },
+    {
       "name": "WOWY Radio",
       "pattern": "^Wowy Radio/\\d",
       "examples": [
