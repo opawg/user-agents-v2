@@ -1209,6 +1209,10 @@
       "pattern": "^Laughable.+iOS|^Laughable/"
     },
     {
+      "name": "LeParisien",
+      "pattern": "^leparisien/"
+    },
+    {
       "name": "Leaf",
       "pattern": "^Leaf/"
     },
