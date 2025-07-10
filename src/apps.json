@@ -2612,6 +2612,10 @@
       "examples": [
         "leparisien/Android",
         "leparisien/iOS"
+      ],
+      "urls": [
+        "https://apps.apple.com/fr/app/le-parisien-linfo-en-direct/id373948394",
+        "https://play.google.com/store/apps/details?id=com.kreactive.leparisienrssplayer&hl=fr"
       ]
     },
     {
