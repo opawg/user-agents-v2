@@ -2607,6 +2607,14 @@
       ]
     },
     {
+      "name": "LeParisien",
+      "pattern": "^leparisien/",
+      "examples": [
+        "leparisien/Android",
+        "leparisien/iOS"
+      ]
+    },
+    {
       "name": "Leaf",
       "pattern": "^Leaf/",
       "examples": [
