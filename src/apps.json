@@ -4247,6 +4247,18 @@
       ]
     },
     {
+      "name": "The Athletic",
+      "pattern": "^theathletic",
+      "examples": [
+        "theathletic-ios/13.88.0,(10983.250528d) iPhone17,5 iOS/18.5 CFNetwork/1.0 Darwin/24.5.0"
+      ],
+      "urls": [
+        "https://www.theathletic.com/",
+        "https://apps.apple.com/us/app/the-athletic-sports-news/id1135216317",
+        "https://play.google.com/store/apps/details?id=com.theathletic"
+      ]
+    },
+    {
       "name": "The God Minute",
       "pattern": "^The God Minute/",
       "examples": [
