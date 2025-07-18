@@ -1897,6 +1897,10 @@
       "pattern": "^telmate-audio-player"
     },
     {
+      "name": "The Athletic",
+      "pattern": "(^theathletic-| theathletic-)"
+    },
+    {
       "name": "The God Minute",
       "pattern": "^The God Minute/"
     },
