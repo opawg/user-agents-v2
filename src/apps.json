@@ -4247,6 +4247,20 @@
       ]
     },
     {
+      "name": "The Athletic",
+      "pattern": "(^theathletic-| theathletic-)",
+      "examples": [
+        "theathletic-ios/13.88.0,(10983.250528d) iPhone17,5 iOS/18.5 CFNetwork/1.0 Darwin/24.5.0",
+        "Mozilla/5.0 (Linux; Android 15; Pixel 8a Build/BP1A.250505.005.B1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.67 Mobile Safari/537.36 theathletic-android",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) theathletic-ios/13.92.0 (11205.250625d)"
+      ],
+      "urls": [
+        "https://www.theathletic.com/",
+        "https://apps.apple.com/us/app/the-athletic-sports-news/id1135216317",
+        "https://play.google.com/store/apps/details?id=com.theathletic"
+      ]
+    },
+    {
       "name": "The God Minute",
       "pattern": "^The God Minute/",
       "examples": [
