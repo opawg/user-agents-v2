@@ -890,6 +890,20 @@
       ]
     },
     {
+      "name": "CampfireFM",
+      "pattern": "^Campfire/",
+      "description": "CampfireFM",
+      "examples": [
+        "Campfire/2.0.2 (Build 123) Android/15 (SDK 35)",
+        "Campfire/2.0.2 (Build 123) iOS/18.5.0"
+      ],
+      "urls": [
+        "https://joincampfire.fm/",
+        "https://play.google.com/store/apps/details?id=fm.joincampfire.campfire",
+        "https://apps.apple.com/app/id1673471223"
+      ]
+    },
+    {
       "name": "Canvas",
       "pattern": "^Canvas/",
       "examples": [
