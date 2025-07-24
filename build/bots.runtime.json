@@ -157,6 +157,10 @@
       "pattern": "ClaudeBot/"
     },
     {
+      "name": "Cloudflare SSL detector",
+      "pattern": "^Cloudflare-SSLDetector"
+    },
+    {
       "name": "Comscore Crawler",
       "pattern": "https://www\\.comscore\\.com"
     },
@@ -417,6 +421,10 @@
       "pattern": "^Overcast/1\\.0 Podcast Sync"
     },
     {
+      "name": "Overcast Transcriber",
+      "pattern": "^Overcast%20Transcriber/"
+    },
+    {
       "name": "Owler Open Web Crawler",
       "pattern": "^Owler \\("
     },
@@ -471,6 +479,10 @@
     {
       "name": "Podcatcher Bot",
       "pattern": "^Podcatcher Bot 1.0"
+    },
+    {
+      "name": "Podchaser Parser",
+      "pattern": "^PodchaserParser/"
     },
     {
       "name": "PodCloud",

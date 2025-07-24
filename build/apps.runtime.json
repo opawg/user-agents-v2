@@ -893,6 +893,10 @@
       "pattern": "^GMB Show/"
     },
     {
+      "name": "Godcaster",
+      "pattern": "^Godcaster"
+    },
+    {
       "name": "Godster",
       "pattern": "^Godster/"
     },
@@ -1921,6 +1925,10 @@
       "pattern": "^TwipeMobileApp"
     },
     {
+      "name": "miaocast",
+      "pattern": "^miaocast "
+    },
+    {
       "name": "Mozilla Thunderbird",
       "pattern": " Thunderbird/"
     },
@@ -2050,7 +2058,7 @@
     },
     {
       "name": "YouTube Music",
-      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d"
+      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d|^com\\.google\\.ios\\.youtubemusic/"
     },
     {
       "name": "YouTube Music (ReVanced)",

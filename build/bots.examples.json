@@ -211,6 +211,12 @@
       ]
     },
     {
+      "name": "Cloudflare SSL detector",
+      "examples": [
+        "Cloudflare-SSLDetector"
+      ]
+    },
+    {
       "name": "Comscore Crawler",
       "examples": [
         "Mozilla/5.0 (compatible; proximic;  https://www.comscore.com/Web-Crawler)"
@@ -571,6 +577,12 @@
       ]
     },
     {
+      "name": "Overcast Transcriber",
+      "examples": [
+        "Overcast%20Transcriber/1 CFNetwork/3855.100.1 Darwin/25.0.0"
+      ]
+    },
+    {
       "name": "Owler Open Web Crawler",
       "examples": [
         "Owler (ows.eu/owler)"
@@ -642,6 +654,12 @@
       "examples": [
         "Podcatcher Bot 1.0",
         "Podcatcher Bot 1.0 (1 subscribers; +https://podcatcher.net)"
+      ]
+    },
+    {
+      "name": "Podchaser Parser",
+      "examples": [
+        "PodchaserParser/2.0 (https://podchaser.com)"
       ]
     },
     {
