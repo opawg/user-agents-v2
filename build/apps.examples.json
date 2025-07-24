@@ -660,6 +660,13 @@
       ]
     },
     {
+      "name": "CampfireFM",
+      "examples": [
+        "Campfire/2.0.2 (Build 123) Android/15 (SDK 35)",
+        "Campfire/2.0.2 (Build 123) iOS/18.5.0"
+      ]
+    },
+    {
       "name": "Canvas",
       "examples": [
         "Canvas/7369 CFNetwork/1107.1 Darwin/19.0.0"

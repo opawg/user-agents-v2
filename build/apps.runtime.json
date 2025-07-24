@@ -405,6 +405,10 @@
       "pattern": "iOS Bygdanytt Hermes/"
     },
     {
+      "name": "CampfireFM",
+      "pattern": "^Campfire/"
+    },
+    {
       "name": "Canvas",
       "pattern": "^Canvas/"
     },
