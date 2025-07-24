@@ -1903,6 +1903,16 @@
       ]
     },
     {
+      "name": "Godcaster",
+      "pattern": "^Godcaster",
+      "examples": [
+        "Godcaster app 1.0"
+      ],
+      "urls": [
+        "https://godcaster.fm/"
+      ]
+    },
+    {
       "name": "Godster",
       "pattern": "^Godster/",
       "examples": [
@@ -4317,6 +4327,16 @@
       ]
     },
     {
+      "name": "miaocast",
+      "pattern": "^miaocast ",
+      "examples": [
+        "miaocast 2025.1.0 Android 15 vivo I2407i iQOO/I2407i/I2407:15/AP3A.240905.015.A2_V000L1/compiler250513211815:user/release-keys"
+      ],
+      "urls": [
+        "https://www.miaocast.com/"
+      ]
+    },
+    {
       "name": "Mozilla Thunderbird",
       "pattern": " Thunderbird/",
       "examples": [
@@ -4608,7 +4628,7 @@
     },
     {
       "name": "YouTube Music",
-      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d",
+      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d|^com\\.google\\.ios\\.youtubemusic/",
       "examples": [
         "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231105.002; Cronet/114.0.5735.84)",
         "com.google.android.apps.youtube.music/62251340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231005.007; Cronet/114.0.5735.84)",
@@ -4616,7 +4636,8 @@
         "com.google.android.apps.youtube.music/62852240 (Linux; U; Android 11; pt_PT; SM-A705FN; Build/RP1A.200720.012; Cronet/120.0.6057.2)",
         "YouTubeMusic/20231020.1.1 CFNetwork/1474 Darwin/23.0.0",
         "YouTubeMusic/20230915.1.1 CFNetwork/1410.0.3 Darwin/22.6.0",
-        "YouTubeMusic/6.29.2 CFNetwork/1485 Darwin/23.1.0"
+        "YouTubeMusic/6.29.2 CFNetwork/1485 Darwin/23.1.0",
+        "com.google.ios.youtubemusic/6.21 (iPhone14,3; U; CPU iOS 15_7_1 like Mac OS X; en_US)"
       ],
       "urls": [
         "https://music.youtube.com/"

@@ -340,6 +340,16 @@
       ]
     },
     {
+      "name": "Cloudflare SSL detector",
+      "pattern": "^Cloudflare-SSLDetector",
+      "examples": [
+        "Cloudflare-SSLDetector"
+      ],
+      "urls": [
+        "https://developers.cloudflare.com/ssl/origin-configuration/ssl-tls-recommender/"
+      ]
+    },
+    {
       "name": "Comscore Crawler",
       "pattern": "https://www\\.comscore\\.com",
       "examples": [
@@ -891,6 +901,13 @@
       ]
     },
     {
+      "name": "Overcast Transcriber",
+      "pattern": "^Overcast%20Transcriber/",
+      "examples": [
+        "Overcast%20Transcriber/1 CFNetwork/3855.100.1 Darwin/25.0.0"
+      ]
+    },
+    {
       "name": "Owler Open Web Crawler",
       "description": "We crawl the Web to create an open web index and to bootstrap a more open internet search ecosystem",
       "pattern": "^Owler \\(",
@@ -1007,6 +1024,13 @@
       "examples": [
         "Podcatcher Bot 1.0",
         "Podcatcher Bot 1.0 (1 subscribers; +https://podcatcher.net)"
+      ]
+    },
+    {
+      "name": "Podchaser Parser",
+      "pattern": "^PodchaserParser/",
+      "examples": [
+        "PodchaserParser/2.0 (https://podchaser.com)"
       ]
     },
     {
