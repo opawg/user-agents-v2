@@ -1431,7 +1431,10 @@
     {
       "name": "Godcaster",
       "examples": [
-        "Godcaster app 1.0"
+        "Godcaster app 1.0",
+        "GodcasterApp/android/v1.13.0",
+        "GodcasterApp/v1.18.0 (ios)",
+        "GodcasterApp/v1.22 (android)"
       ]
     },
     {
