@@ -2057,6 +2057,10 @@
       "pattern": "^yapa/"
     },
     {
+      "name": "Yoto",
+      "pattern": "^Yoto/"
+    },
+    {
       "name": "YouTube Music",
       "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d|^com\\.google\\.ios\\.youtubemusic/"
     },

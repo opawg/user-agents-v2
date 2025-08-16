@@ -3310,6 +3310,13 @@
       ]
     },
     {
+      "name": "Yoto",
+      "examples": [
+        "Yoto/14665 CFNetwork/1.0 Darwin/18.5.0",
+        "Yoto/15035 CFNetwork/1335.0.3.4 Darwin/15.8.4"
+      ]
+    },
+    {
       "name": "YouTube Music",
       "examples": [
         "com.google.android.apps.youtube.music/62354340 (Linux; U; Android 14; en_US; Pixel 7 Pro; Build/UP1A.231105.002; Cronet/114.0.5735.84)",
