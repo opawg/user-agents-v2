@@ -2870,10 +2870,11 @@
     },
     {
       "name": "Metacast",
-      "pattern": "^Metacast/",
+      "pattern": "^Metacast/| \\+metacast\\.app",
       "examples": [
         "Metacast/0.73.5 (ios)",
-        "Metacast/1.2.0 (android)"
+        "Metacast/1.2.0 (android)",
+        "Mozilla/5.0 (compatible; Metacast/1.0 +metacast.app)"
       ],
       "urls": [
         "https://metacast.app/"
@@ -3392,9 +3393,10 @@
     {
       "name": "poddl - podcast downloader",
       "description": "a cross platform command line podcast downloader for downloading all, individual, or a range of podcast episodes from an RSS feed.",
-      "pattern": "poddl - podcast downloader",
+      "pattern": "poddl - (podcast downloader|https://github.com/freshe/poddl)",
       "examples": [
-        "poddl - podcast downloader"
+        "poddl - podcast downloader",
+        "poddl - https://github.com/freshe/poddl"
       ],
       "urls": [
         "https://www.fredrikblank.com/poddl/",

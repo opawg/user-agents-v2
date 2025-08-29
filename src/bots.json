@@ -1194,6 +1194,13 @@
       ]
     },
     {
+      "name": "Podtrac Feed Scanner",
+      "pattern": "^Podtrac Feed Scanner",
+      "examples": [
+        "Podtrac Feed Scanner"
+      ]
+    },
+    {
       "name": "Podverse Feed Parser",
       "pattern": "^Podverse/Feed Parser",
       "description": "The Podverse feed parser.",
@@ -1234,6 +1241,17 @@
       ],
       "urls": [
         "https://pptr.dev/"
+      ]
+    },
+    {
+      "name": "Pyannote",
+      "pattern": "^pyannoteAI",
+      "examples": [
+        "pyannoteAI",
+        "pyannoteAI/2025.19.1-021f79d.production"
+      ],
+      "urls": [
+        "https://www.pyannote.ai/"
       ]
     },
     {
