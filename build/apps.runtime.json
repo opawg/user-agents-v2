@@ -1330,7 +1330,7 @@
     },
     {
       "name": "Metacast",
-      "pattern": "^Metacast/"
+      "pattern": "^Metacast/| \\+metacast\\.app"
     },
     {
       "name": "Microsoft Outlook",
@@ -1546,7 +1546,7 @@
     },
     {
       "name": "poddl - podcast downloader",
-      "pattern": "poddl - podcast downloader"
+      "pattern": "poddl - (podcast downloader|https://github.com/freshe/poddl)"
     },
     {
       "name": "Podeo",

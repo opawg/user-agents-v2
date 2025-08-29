@@ -744,6 +744,12 @@
       ]
     },
     {
+      "name": "Podtrac Feed Scanner",
+      "examples": [
+        "Podtrac Feed Scanner"
+      ]
+    },
+    {
       "name": "PodvineBot",
       "examples": [
         "PodvineBot/4.0.1 (www.podvine.com)"
@@ -765,6 +771,13 @@
       "name": "Puppeteer",
       "examples": [
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/105.0.5173.0 Safari/537.36"
+      ]
+    },
+    {
+      "name": "Pyannote",
+      "examples": [
+        "pyannoteAI",
+        "pyannoteAI/2025.19.1-021f79d.production"
       ]
     },
     {

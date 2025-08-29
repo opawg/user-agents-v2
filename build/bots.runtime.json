@@ -549,6 +549,10 @@
       "pattern": "/podtail\\.com"
     },
     {
+      "name": "Podtrac Feed Scanner",
+      "pattern": "^Podtrac Feed Scanner"
+    },
+    {
       "name": "Podverse Feed Parser",
       "pattern": "^Podverse/Feed Parser"
     },
@@ -567,6 +571,10 @@
     {
       "name": "Puppeteer",
       "pattern": " HeadlessChrome/\\d"
+    },
+    {
+      "name": "Pyannote",
+      "pattern": "^pyannoteAI"
     },
     {
       "name": "python-requests",

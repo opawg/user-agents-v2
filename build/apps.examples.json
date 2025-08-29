@@ -2144,7 +2144,8 @@
       "name": "Metacast",
       "examples": [
         "Metacast/0.73.5 (ios)",
-        "Metacast/1.2.0 (android)"
+        "Metacast/1.2.0 (android)",
+        "Mozilla/5.0 (compatible; Metacast/1.0 +metacast.app)"
       ]
     },
     {
@@ -2509,7 +2510,8 @@
     {
       "name": "poddl - podcast downloader",
       "examples": [
-        "poddl - podcast downloader"
+        "poddl - podcast downloader",
+        "poddl - https://github.com/freshe/poddl"
       ]
     },
     {
