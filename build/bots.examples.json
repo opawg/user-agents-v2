@@ -95,6 +95,12 @@
       ]
     },
     {
+      "name": "AudioFetcher",
+      "examples": [
+        "Mozilla/5.0 (compatible; AudioFetcher/1.0; +https://example.invalid)"
+      ]
+    },
+    {
       "name": "Audiomack",
       "examples": [
         "Audiomack Podcast Processor/1.0 (https://audiomack.com/)"

@@ -69,6 +69,10 @@
       "pattern": "^audioBoomBot/\\d"
     },
     {
+      "name": "AudioFetcher",
+      "pattern": "AudioFetcher/\\d.*\\+http"
+    },
+    {
       "name": "Audiomack",
       "pattern": "^Audiomack Podcast Processor/"
     },
