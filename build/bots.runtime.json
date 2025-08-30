@@ -258,7 +258,7 @@
     },
     {
       "name": "Google AdsBot",
-      "pattern": "AdsBot-Google"
+      "pattern": "AdsBot-Google|Google-AdWords-Express"
     },
     {
       "name": "Google Podcasts Manager",
@@ -350,7 +350,11 @@
     },
     {
       "name": "Mastodon Bot",
-      "pattern": "rb/.*Mastodon/"
+      "pattern": "rb/.*Mastodon/|Mastodon/.*http\\.rb"
+    },
+    {
+      "name": "Fediverse Bot",
+      "pattern": "^Misskey/|^CherryPick/|^Iceshrimp/|^gotosocial/"
     },
     {
       "name": "Metacast Crawler",
@@ -529,6 +533,10 @@
       "pattern": "^Podplay-Podcast-Sync/"
     },
     {
+      "name": "PodRank Downloader",
+      "pattern": "^pod-rank-downloader/"
+    },
+    {
       "name": "Podroll Analyzer",
       "pattern": "^pdrl\\.fm "
     },
@@ -595,6 +603,10 @@
     {
       "name": "Rephonic",
       "pattern": "^Rephonic/\\d"
+    },
+    {
+      "name": "Req",
+      "pattern": "^req/\\d"
     },
     {
       "name": "Ridder Bot",

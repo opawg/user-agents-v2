@@ -754,7 +754,7 @@
     },
     {
       "name": "Facebook",
-      "pattern": "(iPhone|iPad).* \\[FBAN|iOS/Facebook|^FB4A/Facebook|^facebook-mobile/|^Facebook/|^\\[FBAN/"
+      "pattern": "(iPhone|iPad).* \\[FBAN|iOS/Facebook|^FB4A/Facebook|^facebook-mobile/|^Facebook/|^\\[FBAN/|  MetaIAB| IABMV/"
     },
     {
       "name": "faidr",
@@ -1726,7 +1726,7 @@
     },
     {
       "name": "RSS Radio",
-      "pattern": "^RSSRadio"
+      "pattern": "^RSSRadio|^RSS Radio -"
     },
     {
       "name": "RSSDemon",
@@ -1850,7 +1850,7 @@
     },
     {
       "name": "Storytel",
-      "pattern": "^Storytel/\\d"
+      "pattern": "^Storytel(Downloader)?/\\d"
     },
     {
       "name": "Strilen iOS app",
