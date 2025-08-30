@@ -1610,7 +1610,7 @@
     },
     {
       "name": "Facebook",
-      "pattern": "(iPhone|iPad).* \\[FBAN|iOS/Facebook|^FB4A/Facebook|^facebook-mobile/|^Facebook/|^\\[FBAN/",
+      "pattern": "(iPhone|iPad).* \\[FBAN|iOS/Facebook|^FB4A/Facebook|^facebook-mobile/|^Facebook/|^\\[FBAN/|  MetaIAB| IABMV/",
       "examples": [
         "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/12.4.8;FBSS/2;FBID/phone;FBLC/de_DE;FBOP/5]",
         "iOS/Facebook",
@@ -1619,7 +1619,9 @@
         "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A402 [FBAN/FBIOS;FBAV/188.0.0.44.85;FBBV/123253203;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.0.1;FBSS/2;FBCR/3DK;FBID/phone;FBLC/da_DK;FBOP/5;FBRV",
         "facebook-mobile/1.0",
         "Facebook/180461199 CFNetwork/1107.1 Darwin/19.0.0",
-        "[FBAN/FB4A;FBAV/180.0.0.35.82;FBBV/116984898;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Z899VL;FBSV/7.1.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
+        "[FBAN/FB4A;FBAV/180.0.0.35.82;FBBV/116984898;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBRV/0;FBCR/Verizon Wireless;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Z899VL;FBSV/7.1.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22F76  MetaIAB",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Instagram 394.0.0.19.73 (iPhone15,3; iOS 18_6_1; en_US; en; scale=3.00; 1290x2796; IABMV/1; 778482215) Mobile/22G90"
       ]
     },
     {
@@ -3865,13 +3867,14 @@
     },
     {
       "name": "RSS Radio",
-      "pattern": "^RSSRadio",
+      "pattern": "^RSSRadio|^RSS Radio -",
       "urls": [
         "http://rssrad.io"
       ],
       "examples": [
         "RSSRadio7/9252 CFNetwork/1107.1 Darwin/19.0.0",
-        "RSSRadio/9710"
+        "RSSRadio/9710",
+        "RSS Radio - Player FM"
       ]
     },
     {
@@ -4142,11 +4145,12 @@
     },
     {
       "name": "Storytel",
-      "pattern": "^Storytel/\\d",
+      "pattern": "^Storytel(Downloader)?/\\d",
       "examples": [
         "Storytel/24.50.0 (iPadOS 18.1; iPad13,18) Release/449.1",
         "Storytel/25.2 (Android 8.0.0; HUAWEI AGSL09) Release/2288820",
-        "Storytel/24.52 (Android 14; samsung SMG991U1) Release/2288809"
+        "Storytel/24.52 (Android 14; samsung SMG991U1) Release/2288809",
+        "StorytelDownloader/1.0"
       ],
       "urls": [
         "https://www.storytel.com/tv/podcasts"

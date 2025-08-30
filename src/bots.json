@@ -548,7 +548,10 @@
     },
     {
       "name": "Google AdsBot",
-      "pattern": "AdsBot-Google",
+      "pattern": "AdsBot-Google|Google-AdWords-Express",
+      "examples": [
+        "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Mozilla/5.0, Google-AdWords-Express) Chrome/137.0.7151.119 Safari/537.36"
+      ],
       "urls": [
         "http://www.google.com/adsbot.html"
       ]
@@ -751,9 +754,22 @@
     },
     {
       "name": "Mastodon Bot",
-      "pattern": "rb/.*Mastodon/",
+      "pattern": "rb/.*Mastodon/|Mastodon/.*http\\.rb",
       "examples": [
-        "http.rb/5.0.4 (Mastodon/3.5.3; +https://mastodon.xyz/) Bot"
+        "http.rb/5.0.4 (Mastodon/3.5.3; +https://mastodon.xyz/) Bot",
+        "Mastodon/4.3.9 (http.rb/5.2.0; +https://mastodon.shultz.ynh.fr/)",
+        "Mastodon/4.5.0-alpha.1+glitch (http.rb/5.3.1; +https://convo.casa/)"
+      ]
+    },
+    {
+      "name": "Fediverse Bot",
+      "pattern": "^Misskey/|^CherryPick/|^Iceshrimp/|^gotosocial/",
+      "examples": [
+        "Misskey/2025.4.3 (https://fedi.amethyst.name)",
+        "CherryPick/4.16.0 (https://blewsky.social/)",
+        "Misskey/E9E-3.6.9-Beta1 (https://eter9.com)",
+        "Iceshrimp/2023.12.14-dev-5db0fdc63 (https://misskey.noctella.fun)",
+        "gotosocial/0.19.1+git-6574dc8 (+https://social.maru.my)"
       ]
     },
     {
@@ -1149,6 +1165,13 @@
       ]
     },
     {
+      "name": "PodRank Downloader",
+      "pattern": "^pod-rank-downloader/",
+      "examples": [
+        "pod-rank-downloader/1.0"
+      ]
+    },
+    {
       "name": "Podroll Analyzer",
       "pattern": "^pdrl\\.fm ",
       "examples": [
@@ -1291,6 +1314,17 @@
       ],
       "examples": [
         "Rephonic/1.0"
+      ]
+    },
+    {
+      "name": "Req",
+      "description": "Req is a batteries-included HTTP client for Elixir",
+      "pattern": "^req/\\d",
+      "urls": [
+        "https://github.com/wojtekmach/req"
+      ],
+      "examples": [
+        "req/0.5.10"
       ]
     },
     {
