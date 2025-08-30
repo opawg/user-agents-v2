@@ -164,6 +164,13 @@
       ]
     },
     {
+      "name": "AudioFetcher",
+      "pattern": "AudioFetcher/\\d.*\\+http",
+      "examples": [
+        "Mozilla/5.0 (compatible; AudioFetcher/1.0; +https://example.invalid)"
+      ]
+    },
+    {
       "name": "Audiomack",
       "pattern": "^Audiomack Podcast Processor/",
       "examples": [
