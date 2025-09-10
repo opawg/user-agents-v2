@@ -481,6 +481,10 @@
       "pattern": "^podcast-archiver/v\\d"
     },
     {
+      "name": "Podcast Go Audio Downloader",
+      "pattern": "^podcast-go-audio-downloader/"
+    },
+    {
       "name": "Podcastics",
       "pattern": "^Podcastics$"
     },
