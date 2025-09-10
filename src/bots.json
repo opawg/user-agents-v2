@@ -1032,6 +1032,13 @@
       ]
     },
     {
+      "name": "Podcast Go Audio Downloader",
+      "pattern": "^podcast-go-audio-downloader/",
+      "examples": [
+        "podcast-go-audio-downloader/2.0"
+      ]
+    },
+    {
       "name": "Podcastics",
       "pattern": "^Podcastics$",
       "urls": [
