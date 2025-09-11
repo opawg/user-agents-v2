@@ -1981,6 +1981,13 @@
       ]
     },
     {
+      "name": "Le Monde",
+      "examples": [
+        "AEC/9.16 (free; fr; ABTest 123) iOS/26.0 (phone; iPhone18,1)",
+        "AEC/9.15.2 (free; fr; ABTest 427) Android/14/34 (phone; Pixel 7a)"
+      ]
+    },
+    {
       "name": "LeParisien",
       "examples": [
         "leparisien/Android",
