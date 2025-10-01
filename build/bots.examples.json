@@ -1108,6 +1108,12 @@
       "examples": [
         "podwordsbot/0.0.1 podwords"
       ]
+    },
+    {
+      "name": "Spider",
+      "examples": [
+        "Mozilla/5.0 (compatible; Spider/2.0; +https://spider.cloud)"
+      ]
     }
   ]
 }

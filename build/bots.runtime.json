@@ -823,6 +823,10 @@
     {
       "name": "podwords",
       "pattern": "^podwordsbot/"
+    },
+    {
+      "name": "Spider",
+      "pattern": "Spider/\\d"
     }
   ]
 }
