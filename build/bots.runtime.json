@@ -826,7 +826,7 @@
     },
     {
       "name": "Spider",
-      "pattern": "Spider/\\d"
+      "pattern": "Spider/\\d.*spider\\.cloud"
     }
   ]
 }
