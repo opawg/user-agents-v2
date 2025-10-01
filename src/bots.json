@@ -1741,6 +1741,16 @@
       "urls": [
         "https://www.facebook.com/podwords"
       ]
-    }
+    },
+    {
+      "name": "Spider",
+      "pattern": "Spider/\\d",
+      "examples": [
+        "Mozilla/5.0 (compatible; Spider/2.0; +https://spider.cloud)"
+      ],
+      "urls": [
+        "https://spider.cloud"
+      ],
+    },
   ]
 }
