@@ -325,6 +325,16 @@
       ]
     },
     {
+      "name": "Ceramic Terracotta Crawler",
+      "pattern": "CeramicTerracotta",
+      "examples": [
+        "TerraCotta https://github.com/CeramicTeam/CeramicTerracotta"
+      ],
+      "urls": [
+        "https://github.com/CeramicTeam/CeramicTerracotta"
+      ]
+    },
+    {
       "name": "Chartable",
       "pattern": "^Trackable/",
       "urls": [
@@ -1143,6 +1153,16 @@
       ]
     },
     {
+      "name": "Podlexicon Downloader",
+      "pattern": "^PodlexiconDownloader",
+      "examples": [
+        "PodlexiconDownloader/1.0"
+      ],
+      "urls": [
+        "https://podlexicon.com/"
+      ]
+    },
+    {
       "name": "Podmon Bot",
       "pattern": "^Podmonbot/",
       "urls": [
@@ -1232,9 +1252,10 @@
     },
     {
       "name": "Podtrac Feed Scanner",
-      "pattern": "^Podtrac Feed Scanner",
+      "pattern": "^Podtrac Feed Scanner|^Podtrac Network Client",
       "examples": [
-        "Podtrac Feed Scanner"
+        "Podtrac Feed Scanner",
+        "Podtrac Network Client/1.0 (beta)"
       ]
     },
     {

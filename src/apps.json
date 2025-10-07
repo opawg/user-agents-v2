@@ -3257,7 +3257,7 @@
     },
     {
       "name": "Pocket Casts",
-      "pattern": "^Pocket Casts|^PocketCasts/|^Shifty Jelly Pocket Casts",
+      "pattern": "^Pocket Casts|^Pocket%20Casts|^PocketCasts/|^Shifty Jelly Pocket Casts",
       "description": "A podcast app and web player",
       "svg": "pocketcasts.svg",
       "urls": [
@@ -3266,7 +3266,9 @@
       "comments": "'PocketCasts' is a feed parser; 'Pocket Casts' is the app. There is also a web player.",
       "examples": [
         "Pocket Casts",
-        "Shifty Jelly Pocket Casts, iOS v4.2"
+        "Shifty Jelly Pocket Casts, iOS v4.2",
+        "Pocket%20Casts/7.96.0.4 CFNetwork/3826.600.41 Darwin/24.6.0",
+        "Pocket%20Casts/7.95.0.4 CFNetwork/3826.600.41 Darwin/24.6.0"
       ]
     },
     {
