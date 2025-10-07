@@ -149,6 +149,10 @@
       "pattern": "Castopod/\\d"
     },
     {
+      "name": "Ceramic Terracotta Crawler",
+      "pattern": "CeramicTerracotta"
+    },
+    {
       "name": "Chartable",
       "pattern": "^Trackable/"
     },
@@ -525,6 +529,10 @@
       "pattern": "^Podio/"
     },
     {
+      "name": "Podlexicon Downloader",
+      "pattern": "^PodlexiconDownloader"
+    },
+    {
       "name": "Podmon Bot",
       "pattern": "^Podmonbot/"
     },
@@ -566,7 +574,7 @@
     },
     {
       "name": "Podtrac Feed Scanner",
-      "pattern": "^Podtrac Feed Scanner"
+      "pattern": "^Podtrac Feed Scanner|^Podtrac Network Client"
     },
     {
       "name": "Podverse Feed Parser",

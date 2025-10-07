@@ -1486,7 +1486,7 @@
     },
     {
       "name": "Pocket Casts",
-      "pattern": "^Pocket Casts|^PocketCasts/|^Shifty Jelly Pocket Casts"
+      "pattern": "^Pocket Casts|^Pocket%20Casts|^PocketCasts/|^Shifty Jelly Pocket Casts"
     },
     {
       "name": "Podbay",

@@ -211,6 +211,12 @@
       ]
     },
     {
+      "name": "Ceramic Terracotta Crawler",
+      "examples": [
+        "TerraCotta https://github.com/CeramicTeam/CeramicTerracotta"
+      ]
+    },
+    {
       "name": "Claudebot",
       "examples": [
         "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)"
@@ -729,6 +735,12 @@
       ]
     },
     {
+      "name": "Podlexicon Downloader",
+      "examples": [
+        "PodlexiconDownloader/1.0"
+      ]
+    },
+    {
       "name": "Podmon Bot",
       "examples": [
         "Podmonbot/1.0"
@@ -782,7 +794,8 @@
     {
       "name": "Podtrac Feed Scanner",
       "examples": [
-        "Podtrac Feed Scanner"
+        "Podtrac Feed Scanner",
+        "Podtrac Network Client/1.0 (beta)"
       ]
     },
     {
