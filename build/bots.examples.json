@@ -113,6 +113,12 @@
       ]
     },
     {
+      "name": "AutoHotkey",
+      "examples": [
+        "AutoHotkey"
+      ]
+    },
+    {
       "name": "AwarioSmartBot",
       "examples": [
         "AwarioSmartBot/1.0 (+https://awario.com/bots.html; bots@awario.com)"
