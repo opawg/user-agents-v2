@@ -188,6 +188,16 @@
       ]
     },
     {
+      "name": "AutoHotkey",
+      "pattern": "^AutoHotkey",
+      "urls": [
+        "https://www.autohotkey.com/"
+      ],
+      "examples": [
+        "AutoHotkey"
+      ]
+    },
+    {
       "name": "AwarioSmartBot",
       "pattern": "^AwarioSmartBot/",
       "examples": [
