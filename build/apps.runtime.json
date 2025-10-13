@@ -2062,7 +2062,7 @@
     },
     {
       "name": "Yoto",
-      "pattern": "^Yoto/"
+      "pattern": "^Yoto/|^Yoto v2 FW;"
     },
     {
       "name": "YouTube Music",

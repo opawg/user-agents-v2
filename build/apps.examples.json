@@ -3328,7 +3328,8 @@
       "name": "Yoto",
       "examples": [
         "Yoto/14665 CFNetwork/1.0 Darwin/18.5.0",
-        "Yoto/15035 CFNetwork/1335.0.3.4 Darwin/15.8.4"
+        "Yoto/15035 CFNetwork/1335.0.3.4 Darwin/15.8.4",
+        "Yoto v2 FW; version v2.23.2"
       ]
     },
     {
