@@ -1084,6 +1084,13 @@
       ]
     },
     {
+      "name": "PodcastDownloader",
+      "pattern": " PodcastDownloader/",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastDownloader/1.0)"
+      ]
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud",
       "description": "Le podcast, simplement. A French-language web-based podcast player.",
