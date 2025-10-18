@@ -705,6 +705,12 @@
       ]
     },
     {
+      "name": "PodcastDownloader",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastDownloader/1.0)"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"

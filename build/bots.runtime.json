@@ -505,6 +505,10 @@
       "pattern": "^PodchaserParser/"
     },
     {
+      "name": "PodcastDownloader",
+      "pattern": " PodcastDownloader/"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
