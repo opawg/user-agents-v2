@@ -773,6 +773,13 @@
       "comments": "Found on MacOS 13 (Ventura) and higher e.g. when right-clicking an enclosure link from Safari and choosing Share..."
     },
     {
+      "name": "magic-podcast-downloader",
+      "pattern": "^magic-podcast-downloader/",
+      "examples": [
+        "magic-podcast-downloader/1.0"
+      ]
+    },
+    {
       "name": "MauiBot",
       "pattern": "^MauiBot",
       "examples": [
@@ -1084,6 +1091,13 @@
       ]
     },
     {
+      "name": "PodcastBulkDownloader",
+      "pattern": "^PodcastBulkDownloader/",
+      "examples": [
+        "PodcastBulkDownloader/0.10.1"
+      ]
+    },
+    {
       "name": "PodcastDownloader",
       "pattern": " PodcastDownloader/",
       "examples": [
@@ -1387,6 +1401,13 @@
       ]
     },
     {
+      "name": "RSS Audio Downloader",
+      "pattern": "^rss-audio-downloader/",
+      "examples": [
+        "rss-audio-downloader/1.1 (+https://example.invalid)"
+      ]
+    },
+    {
       "name": "RSS to Telegram",
       "pattern": "^RSStT",
       "description": "an RSS to Telegram bot",
@@ -1395,6 +1416,13 @@
       ],
       "examples": [
         "RSStT/2.2.1 RSS Reader"
+      ]
+    },
+    {
+      "name": "rssfeedfetcher",
+      "pattern": "^rssfeedfetcher ",
+      "examples": [
+        "rssfeedfetcher libfetch/2.0"
       ]
     },
     {

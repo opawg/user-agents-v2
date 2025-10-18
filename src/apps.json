@@ -1579,9 +1579,10 @@
     },
     {
       "name": "Everand",
-      "pattern": "^Everand/\\d",
+      "pattern": "^Everand/\\d|^everand-android/",
       "examples": [
-        "Everand/167 CFNetwork/1568.200.51 Darwin/24.1.0"
+        "Everand/167 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "everand-android/15.18 (Linux;Android 14) AndroidXMedia3/1.4.1"
       ],
       "urls": [
         "https://apps.apple.com/us/app/everand-ebooks-and-audiobooks/id542557212"
@@ -2577,10 +2578,11 @@
     },
     {
       "name": "KidsPod",
-      "pattern": "^KidspodMobileClient/",
+      "pattern": "^KidspodMobileClient/|^KidsPod/",
       "examples": [
         "KidspodMobileClient/111 CFNetwork/1465.2 Darwin/23.0.0",
-        "KidspodMobileClient/111 CFNetwork/1408.0.4 Darwin/22.5.0"
+        "KidspodMobileClient/111 CFNetwork/1408.0.4 Darwin/22.5.0",
+        "KidsPod/1.0"
       ],
       "urls": [
         "https://kidspod.app/"
@@ -4465,6 +4467,13 @@
       ],
       "urls": [
         "https://getupcast.app/"
+      ]
+    },
+    {
+      "name": "Updates",
+      "pattern": "^Updates/",
+      "examples": [
+        "Updates/1.10 (+https://getupdates.app/; iOS podcast app)"
       ]
     },
     {
