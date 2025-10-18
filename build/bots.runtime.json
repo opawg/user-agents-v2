@@ -357,6 +357,10 @@
       "pattern": "^ShareSheetUI/"
     },
     {
+      "name": "magic-podcast-downloader",
+      "pattern": "^magic-podcast-downloader/"
+    },
+    {
       "name": "MauiBot",
       "pattern": "^MauiBot"
     },
@@ -505,6 +509,10 @@
       "pattern": "^PodchaserParser/"
     },
     {
+      "name": "PodcastBulkDownloader",
+      "pattern": "^PodcastBulkDownloader/"
+    },
+    {
       "name": "PodcastDownloader",
       "pattern": " PodcastDownloader/"
     },
@@ -637,8 +645,16 @@
       "pattern": " RidderBot/"
     },
     {
+      "name": "RSS Audio Downloader",
+      "pattern": "^rss-audio-downloader/"
+    },
+    {
       "name": "RSS to Telegram",
       "pattern": "^RSStT"
+    },
+    {
+      "name": "rssfeedfetcher",
+      "pattern": "^rssfeedfetcher "
     },
     {
       "name": "RSSRadio",

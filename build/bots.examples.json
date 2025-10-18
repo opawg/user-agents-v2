@@ -491,6 +491,12 @@
       ]
     },
     {
+      "name": "magic-podcast-downloader",
+      "examples": [
+        "magic-podcast-downloader/1.0"
+      ]
+    },
+    {
       "name": "MauiBot",
       "examples": [
         "MauiBot (crawler.feedback dc@gmail.com)"
@@ -705,6 +711,12 @@
       ]
     },
     {
+      "name": "PodcastBulkDownloader",
+      "examples": [
+        "PodcastBulkDownloader/0.10.1"
+      ]
+    },
+    {
       "name": "PodcastDownloader",
       "examples": [
         "Mozilla/5.0 (compatible; PodcastDownloader/1.0)"
@@ -878,9 +890,21 @@
       ]
     },
     {
+      "name": "RSS Audio Downloader",
+      "examples": [
+        "rss-audio-downloader/1.1 (+https://example.invalid)"
+      ]
+    },
+    {
       "name": "RSS to Telegram",
       "examples": [
         "RSStT/2.2.1 RSS Reader"
+      ]
+    },
+    {
+      "name": "rssfeedfetcher",
+      "examples": [
+        "rssfeedfetcher libfetch/2.0"
       ]
     },
     {

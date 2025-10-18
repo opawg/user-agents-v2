@@ -1186,7 +1186,8 @@
     {
       "name": "Everand",
       "examples": [
-        "Everand/167 CFNetwork/1568.200.51 Darwin/24.1.0"
+        "Everand/167 CFNetwork/1568.200.51 Darwin/24.1.0",
+        "everand-android/15.18 (Linux;Android 14) AndroidXMedia3/1.4.1"
       ]
     },
     {
@@ -1935,7 +1936,8 @@
       "name": "KidsPod",
       "examples": [
         "KidspodMobileClient/111 CFNetwork/1465.2 Darwin/23.0.0",
-        "KidspodMobileClient/111 CFNetwork/1408.0.4 Darwin/22.5.0"
+        "KidspodMobileClient/111 CFNetwork/1408.0.4 Darwin/22.5.0",
+        "KidsPod/1.0"
       ]
     },
     {
@@ -3201,6 +3203,12 @@
       "name": "Upcast",
       "examples": [
         "Upcast/1.0 (+https://getupcast.app/; iOS podcast app)"
+      ]
+    },
+    {
+      "name": "Updates",
+      "examples": [
+        "Updates/1.10 (+https://getupdates.app/; iOS podcast app)"
       ]
     },
     {

@@ -738,7 +738,7 @@
     },
     {
       "name": "Everand",
-      "pattern": "^Everand/\\d"
+      "pattern": "^Everand/\\d|^everand-android/"
     },
     {
       "name": "Expo",
@@ -1186,7 +1186,7 @@
     },
     {
       "name": "KidsPod",
-      "pattern": "^KidspodMobileClient/"
+      "pattern": "^KidspodMobileClient/|^KidsPod/"
     },
     {
       "name": "KKBOX",
@@ -1975,6 +1975,10 @@
     {
       "name": "Upcast",
       "pattern": "^Upcast/\\d"
+    },
+    {
+      "name": "Updates",
+      "pattern": "^Updates/"
     },
     {
       "name": "uTorrent",
