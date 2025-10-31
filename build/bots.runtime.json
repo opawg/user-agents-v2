@@ -529,6 +529,10 @@
       "pattern": "PodderBot/"
     },
     {
+      "name": "poddl - podcast downloader",
+      "pattern": "poddl - (podcast downloader|https://github.com/freshe/poddl)"
+    },
+    {
       "name": "Podfollow",
       "pattern": "podfollowbot/"
     },

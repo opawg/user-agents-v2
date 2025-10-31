@@ -2521,13 +2521,6 @@
       ]
     },
     {
-      "name": "poddl - podcast downloader",
-      "examples": [
-        "poddl - podcast downloader",
-        "poddl - https://github.com/freshe/poddl"
-      ]
-    },
-    {
       "name": "Podeo",
       "examples": [
         "Podeo/4.2.3 (Linux;Android 12) ExoPlayerLib/2.11.7"

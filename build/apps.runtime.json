@@ -1549,10 +1549,6 @@
       "pattern": "^PodCruncher/.* CFNetwork/"
     },
     {
-      "name": "poddl - podcast downloader",
-      "pattern": "poddl - (podcast downloader|https://github.com/freshe/poddl)"
-    },
-    {
       "name": "Podeo",
       "pattern": "^Podeo/"
     },

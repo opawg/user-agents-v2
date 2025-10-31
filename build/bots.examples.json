@@ -735,6 +735,13 @@
       ]
     },
     {
+      "name": "poddl - podcast downloader",
+      "examples": [
+        "poddl - podcast downloader",
+        "poddl - https://github.com/freshe/poddl"
+      ]
+    },
+    {
       "name": "Podfollow",
       "examples": [
         "Mozilla/5.0 https://podfollow.com/crawling podfollowbot/1.0"
