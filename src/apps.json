@@ -3405,19 +3405,6 @@
       ]
     },
     {
-      "name": "poddl - podcast downloader",
-      "description": "a cross platform command line podcast downloader for downloading all, individual, or a range of podcast episodes from an RSS feed.",
-      "pattern": "poddl - (podcast downloader|https://github.com/freshe/poddl)",
-      "examples": [
-        "poddl - podcast downloader",
-        "poddl - https://github.com/freshe/poddl"
-      ],
-      "urls": [
-        "https://www.fredrikblank.com/poddl/",
-        "https://github.com/freshe/poddl"
-      ]
-    },
-    {
       "name": "Podeo",
       "pattern": "^Podeo/",
       "examples": [
