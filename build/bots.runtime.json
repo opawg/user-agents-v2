@@ -25,6 +25,10 @@
       "pattern": "^AmazonNewsContentService"
     },
     {
+      "name": "AliyunSecBot",
+      "pattern": "AliyunSecBot"
+    },
+    {
       "name": "AlignaBot",
       "pattern": "^Alignabot"
     },

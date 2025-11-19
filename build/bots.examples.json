@@ -33,6 +33,12 @@
       ]
     },
     {
+      "name": "AliyunSecBot",
+      "examples": [
+        "AliyunSecBot/Aliyun (AliyunSecBot@service.alibaba.com)"
+      ]
+    },
+    {
       "name": "AlignaBot",
       "examples": [
         "Alignabot 1.0 (https://www.alignable.com/)"
