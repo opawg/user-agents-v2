@@ -1017,6 +1017,13 @@
       ]
     },
     {
+      "name": "PodBean Feed Reader",
+      "pattern": "^PodbeanFeedReader",
+      "examples": [
+        "PodbeanFeedReader/6.0 (Feed Parser; http://www.podbean.com/; Allow like Gecko) Build/20251103053444"
+      ]
+    },
+    {
       "name": "Podbean Importer",
       "pattern": "^Podbean Importer",
       "examples": [
@@ -1342,6 +1349,13 @@
       ],
       "description": "PodwatchPro is a podcast analytics software. This user agent is for crawling podcast data.",
       "urls": [ "https://www.agma-mmc.de/media-analyse/ma-podcast" ]
+    },
+    {
+      "name": "private-podcast-puller",
+      "pattern": "private-podcast-puller",
+      "examples": [
+        "private-podcast-puller/0.1"
+      ]
     },
     {
       "name": "Puppeteer",

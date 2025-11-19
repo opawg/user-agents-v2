@@ -4279,6 +4279,16 @@
       ]
     },
     {
+      "name": "TPR: Texas Public Radio",
+      "pattern": "TPRPublicRadioApp",
+      "examples": [
+        "TPRPublicRadioApp/6.3.13 (SM-A326U; Android 13)"
+      ],
+      "urls": [
+        "https://play.google.com/store/apps/details?id=com.skyblue.pra.tpr&hl=en_US"
+      ]
+    },
+    {
       "name": "The Athletic",
       "pattern": "(^theathletic-| theathletic-)",
       "examples": [
