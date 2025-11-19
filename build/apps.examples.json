@@ -3073,6 +3073,12 @@
       ]
     },
     {
+      "name": "TPR: Texas Public Radio",
+      "examples": [
+        "TPRPublicRadioApp/6.3.13 (SM-A326U; Android 13)"
+      ]
+    },
+    {
       "name": "The Athletic",
       "examples": [
         "theathletic-ios/13.88.0,(10983.250528d) iPhone17,5 iOS/18.5 CFNetwork/1.0 Darwin/24.5.0",

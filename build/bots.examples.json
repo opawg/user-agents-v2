@@ -661,6 +661,12 @@
       ]
     },
     {
+      "name": "PodBean Feed Reader",
+      "examples": [
+        "PodbeanFeedReader/6.0 (Feed Parser; http://www.podbean.com/; Allow like Gecko) Build/20251103053444"
+      ]
+    },
+    {
       "name": "Podbean Importer",
       "examples": [
         "Podbean Importer"
@@ -851,6 +857,12 @@
       "name": "PodwatchPro",
       "examples": [
         "Podwatch-Pro Crawler"
+      ]
+    },
+    {
+      "name": "private-podcast-puller",
+      "examples": [
+        "private-podcast-puller/0.1"
       ]
     },
     {

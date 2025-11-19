@@ -1905,6 +1905,10 @@
       "pattern": "^telmate-audio-player"
     },
     {
+      "name": "TPR: Texas Public Radio",
+      "pattern": "TPRPublicRadioApp"
+    },
+    {
       "name": "The Athletic",
       "pattern": "(^theathletic-| theathletic-)"
     },

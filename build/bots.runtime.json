@@ -477,6 +477,10 @@
       "pattern": "PlayerFM/.* Podcast Sync"
     },
     {
+      "name": "PodBean Feed Reader",
+      "pattern": "^PodbeanFeedReader"
+    },
+    {
       "name": "Podbean Importer",
       "pattern": "^Podbean Importer"
     },
@@ -615,6 +619,10 @@
     {
       "name": "PodwatchPro",
       "pattern": "Podwatch-Pro Crawler"
+    },
+    {
+      "name": "private-podcast-puller",
+      "pattern": "private-podcast-puller"
     },
     {
       "name": "Puppeteer",
