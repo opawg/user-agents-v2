@@ -65,6 +65,14 @@
       "comments": "Stats are available within the Alexa skills dashboard."
     },
     {
+      "name": "AliyunSecBot",
+      "pattern": "AliyunSecBot",
+      "description": "Alibaba web crawler.",
+      "examples": [
+        "AliyunSecBot/Aliyun (AliyunSecBot@service.alibaba.com)"
+      ]
+    },
+    {
       "name": "AlignaBot",
       "pattern": "^Alignabot",
       "examples": [
