@@ -872,6 +872,17 @@
       "pattern": "^msnbot/"
     },
     {
+      "name": "n8n",
+      "description": "n8n is an open-source workflow automation tool",
+      "pattern": "^n8n",
+      "examples": [
+        "n8n"
+      ],
+      "urls": [
+        "https://n8n.io/"
+      ]
+    },
+    {
       "name": "Neevabot",
       "pattern": ".*Neevabot",
       "urls": [
