@@ -4791,6 +4791,20 @@
         "Talk%20Radio/45.2.1./iOS 17.2.1/iPhone iPhone",
         "Talk%20Radio/45.2.1./iPadOS 15.8/iPad 3)"
       ]
+    },
+    {
+      "name": "TrueFans",
+      "pattern": "^TrueFans|^TrueFans/",
+      "description": "TrueFans is a podcasting marketplace where listeners discover the podcasts they love but only pay the price they want for the value they receive.",
+      "examples": [
+        "TrueFans",
+        "TrueFans/1.0.1"
+      ],
+      "urls": [
+        "https://truefans.fm",
+        "https://apps.apple.com/us/app/truefans-fm/id6747340246",
+        "https://play.google.com/store/apps/details?id=fm.truefans.twa"
+      ]
     }
   ]
 }
