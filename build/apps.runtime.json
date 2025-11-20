@@ -2111,6 +2111,10 @@
     {
       "name": "TalkRadio",
       "pattern": "^Talk%20Radio/"
+    },
+    {
+      "name": "TrueFans",
+      "pattern": "^TrueFans|^TrueFans/"
     }
   ]
 }
