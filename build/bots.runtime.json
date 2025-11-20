@@ -405,6 +405,10 @@
       "pattern": "^msnbot/"
     },
     {
+      "name": "n8n",
+      "pattern": "^n8n"
+    },
+    {
       "name": "Neevabot",
       "pattern": ".*Neevabot"
     },

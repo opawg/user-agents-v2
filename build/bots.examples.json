@@ -568,6 +568,12 @@
       ]
     },
     {
+      "name": "n8n",
+      "examples": [
+        "n8n"
+      ]
+    },
+    {
       "name": "Neevabot",
       "examples": [
         "Mozilla/5.0 (compatible; Neevabot/1.0; https://neeva.com/neevabot)"
