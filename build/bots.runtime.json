@@ -425,6 +425,10 @@
       "pattern": "NL-Israel_IA"
     },
     {
+      "name": "NovaStream Live Importer",
+      "pattern": "^NovaStreamLive/.*Import"
+    },
+    {
       "name": "OgScrper",
       "pattern": "OgScrper"
     },

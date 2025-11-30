@@ -598,6 +598,12 @@
       ]
     },
     {
+      "name": "NovaStream Live Importer",
+      "examples": [
+        "NovaStreamLive/1.0 (Podcast Import)"
+      ]
+    },
+    {
       "name": "OgScrper",
       "examples": [
         "OgScrper"
