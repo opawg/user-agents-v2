@@ -2938,9 +2938,12 @@
     {
       "name": "Spreaker",
       "examples": [
-        "Spreaker Custom App for Android 5.5.3 release:2021-04-08 device:phone (samsung SM-N986B; Android 12; it_IT)",
+        "Spreaker 7.17.0 rv:1300 (iPhone8,4; iOS 15.8.3; en_CA)",
+        "Spreaker for Android 4.10.5 release:2018-12-03 device:phone (google Pixel 6; Android 14; it_IT)",
+        "SpreakerPodcast/1.0 (iOS/14.8.1; iPhone10,6; en_US)",
+        "SpreakerPodcast/1.0 (Android/12; Google Pixel 4a; en_US)",
         "Spreaker Custom App for iOS 2.2.2 rv:6302 (iPhone15,3; iOS 18.1.1; en_US) SPKAudioPlayer",
-        "Spreaker 7.17.0 rv:1300 (iPhone8,4; iOS 15.8.3; en_CA)"
+        "Spreaker Custom App for Android 5.5.3 release:2021-04-08 device:phone (samsung SM-N986B; Android 12; it_IT)"
       ]
     },
     {
