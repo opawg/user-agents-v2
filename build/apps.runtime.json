@@ -1814,7 +1814,7 @@
     },
     {
       "name": "Spreaker",
-      "pattern": "^(SpreakerPodcast\/|Spreaker Custom App for (?:Android|iOS) |Spreaker for Android |Spreaker )\\d"
+      "pattern": "^Spreaker for Android|^Spreaker Custom App for (Android|iOS)|Spreaker/|^Spreaker \\d"
     },
     {
       "name": "Sprewell",
