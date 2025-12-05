@@ -4068,7 +4068,7 @@
     },
     {
       "name": "Spreaker",
-      "pattern": "^(SpreakerPodcast/|Spreaker Custom App for (?:Android|iOS) |Spreaker for Android |Spreaker )\\d",
+      "pattern": "^(SpreakerPodcast/|Spreaker Custom App for (Android|iOS) |Spreaker for Android |Spreaker )\\d",
       "examples": [
         "Spreaker 7.17.0 rv:1300 (iPhone8,4; iOS 15.8.3; en_CA)",
         "Spreaker for Android 4.10.5 release:2018-12-03 device:phone (google Pixel 6; Android 14; it_IT)",
