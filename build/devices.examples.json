@@ -21,6 +21,12 @@
       ]
     },
     {
+      "name": "Apple Watch",
+      "examples": [
+        "Watch/1140 CFNetwork/3860.200.71 Darwin/25.1.0"
+      ]
+    },
+    {
       "name": "Apple Computer",
       "examples": [
         "net/http-easy (macosx; racket[CS] 8.15.0.7; 0.8.2)",

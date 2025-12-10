@@ -22,7 +22,7 @@
     },
     {
       "name": "Apple Watch",
-      "pattern": "watch|Watch OS",
+      "pattern": "watch|Watch OS|^Watch/\\d+ CFNetwork/",
       "category": "watch"
     },
     {

@@ -1446,7 +1446,7 @@
     },
     {
       "name": "Overcast",
-      "pattern": "^Overcast/|^Overcast.*Apple Watch|^Overcast Player "
+      "pattern": "^Overcast/|^Overcast.*Apple Watch|^Overcast Player |^Watch/\\d+ CFNetwork/"
     },
     {
       "name": "Overhaul",
