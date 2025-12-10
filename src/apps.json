@@ -3165,12 +3165,13 @@
     },
     {
       "name": "Overcast",
-      "pattern": "^Overcast/|^Overcast.*Apple Watch|^Overcast Player ",
+      "pattern": "^Overcast/|^Overcast.*Apple Watch|^Overcast Player |^Watch/\\d+ CFNetwork/",
       "examples": [
         "Overcast/3.0 (+http://overcast.fm/; iOS podcast app)",
         "Overcast (+http://overcast.fm/; Apple Watch podcast app)",
         "Overcast/792 CFNetwork/1098.7 Darwin/19.0.0",
-        "Overcast Player 66271"
+        "Overcast Player 66271",
+        "Watch/1140 CFNetwork/3860.200.71 Darwin/25.1.0"
       ]
     },
     {

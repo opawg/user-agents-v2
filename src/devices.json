@@ -37,8 +37,11 @@
     },
     {
       "name": "Apple Watch",
-      "pattern": "watch|Watch OS",
-      "category": "watch"
+      "pattern": "watch|Watch OS|^Watch/\\d+ CFNetwork/",
+      "category": "watch",
+      "examples": [
+        "Watch/1140 CFNetwork/3860.200.71 Darwin/25.1.0"
+      ]
     },
     {
       "name": "Apple iPod",
