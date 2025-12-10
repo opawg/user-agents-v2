@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "name": "7Siters Crawler",
+      "pattern": "^7Siters"
+    },
+    {
       "name": "AAABot - unknown bot",
       "pattern": "AAABot"
     },

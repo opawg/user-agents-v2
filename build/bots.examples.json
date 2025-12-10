@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "name": "7Siters Crawler",
+      "examples": [
+        "7Siters/1.1 (+https://7ooo.ru/siters/)"
+      ]
+    },
+    {
       "name": "AAABot - unknown bot",
       "examples": [
         "AAABot"
