@@ -5,6 +5,16 @@
   "$schema": "https://raw.githubusercontent.com/opawg/user-agents-v2/master/schemas/patterns.schema.json",
   "entries": [
     {
+      "name": "7Siters Crawler",
+      "pattern": "^7Siters",
+      "examples": [
+        "7Siters/1.1 (+https://7ooo.ru/siters/)"
+      ],
+      "urls": [
+        "https://7ooo.ru/siters/"
+      ]
+    },
+    {
       "name": "AAABot - unknown bot",
       "pattern": "AAABot",
       "examples": [
