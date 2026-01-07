@@ -73,6 +73,10 @@
       "pattern": "^atheerfm/"
     },
     {
+      "name": "Audacy Creator Lab Hosting",
+      "pattern": "^Audacy Creator Lab Hosting/"
+    },
+    {
       "name": "Audioboom bot",
       "pattern": "^audioBoomBot/\\d"
     },

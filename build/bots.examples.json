@@ -101,6 +101,12 @@
       ]
     },
     {
+      "name": "Audacy Creator Lab Hosting",
+      "examples": [
+        "Audacy Creator Lab Hosting/1.0"
+      ]
+    },
+    {
       "name": "Audioboom bot",
       "examples": [
         "audioBoomBot/1.0; (+http://audioboom.com)"
