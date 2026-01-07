@@ -537,6 +537,10 @@
       "pattern": "^CoreDataPlayerSample/"
     },
     {
+      "name": "Corefeed",
+      "pattern": "^Corefeed/"
+    },
+    {
       "name": "Corriere della Sera",
       "pattern": "^Corriere della Sera/\\d"
     },
@@ -1439,6 +1443,10 @@
     {
       "name": "NRC",
       "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/|com\\.twipemobile\\.nrc"
+    },
+    {
+      "name": "OpenStream",
+      "pattern": "^OpenStream/\\d"
     },
     {
       "name": "Outcast",
