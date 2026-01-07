@@ -175,6 +175,13 @@
       ]
     },
     {
+      "name": "Audacy Creator Lab Hosting",
+      "pattern": "^Audacy Creator Lab Hosting/",
+      "examples": [
+        "Audacy Creator Lab Hosting/1.0"
+      ]
+    },
+    {
       "name": "Audioboom bot",
       "pattern": "^audioBoomBot/\\d",
       "examples": [
