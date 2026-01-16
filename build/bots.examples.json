@@ -366,6 +366,12 @@
       ]
     },
     {
+      "name": "Freewheel Audio Processor",
+      "examples": [
+        "Freewheel/1.0 (Audio Processor)"
+      ]
+    },
+    {
       "name": "Go Storage Gateway V1",
       "examples": [
         "storagegw-v1-go"

@@ -265,6 +265,10 @@
       "pattern": "FlipboardProxy/"
     },
     {
+      "name": "Freewheel Audio Processor",
+      "pattern": "^Freewheel/"
+    },
+    {
       "name": "Fyyd",
       "pattern": "^fyyd-poll"
     },
