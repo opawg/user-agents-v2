@@ -564,6 +564,13 @@
       ]
     },
     {
+      "name": "Freewheel Audio Processor",
+      "pattern": "^Freewheel/",
+      "examples": [
+        "Freewheel/1.0 (Audio Processor)"
+      ]
+    },
+    {
       "name": "Fyyd",
       "pattern": "^fyyd-poll"
     },
