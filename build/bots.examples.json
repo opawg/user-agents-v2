@@ -427,6 +427,12 @@
       ]
     },
     {
+      "name": "HTTrack website copier",
+      "examples": [
+        "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)"
+      ]
+    },
+    {
       "name": "HubSpot Crawler",
       "examples": [
         "Mozilla/5.0 (compatible; HubSpot Crawler; +https://www.hubspot.com)"
@@ -706,7 +712,8 @@
       "name": "Podcastindex.org",
       "examples": [
         "Podcastindex.org/v0.3.3 (Aggrivate)",
-        "Aggrivator (PodcastIndex.org)/v0.1.7"
+        "Aggrivator (PodcastIndex.org)/v0.1.7",
+        "PodcastIndexManager/1.0"
       ]
     },
     {
@@ -768,6 +775,12 @@
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"
+      ]
+    },
+    {
+      "name": "Podcst",
+      "examples": [
+        "Podcst/1.0"
       ]
     },
     {
@@ -1130,6 +1143,12 @@
       ]
     },
     {
+      "name": "Teeming modal podcast transcriber",
+      "examples": [
+        "teeming-modal-podcast-transcriber/1.0"
+      ]
+    },
+    {
       "name": "TelegramBot",
       "examples": [
         "TelegramBot (like TwitterBot)"
@@ -1145,6 +1164,12 @@
       "name": "theTradeDesk Content Web Scraper",
       "examples": [
         "Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)"
+      ]
+    },
+    {
+      "name": "Vercel screenshot",
+      "examples": [
+        "vercel-screenshot/1.0"
       ]
     },
     {

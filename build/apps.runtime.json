@@ -785,6 +785,10 @@
       "pattern": "^Feeder/"
     },
     {
+      "name": "FeedFlow",
+      "pattern": "FeedFlow/1 CFNetwork/3860.300.31 Darwin/25.2.0"
+    },
+    {
       "name": "Feedly",
       "pattern": "^feedly/"
     },
@@ -1471,6 +1475,10 @@
     {
       "name": "Parler",
       "pattern": "^Parler( Staging)?/"
+    },
+    {
+      "name": "Patreon",
+      "pattern": "^Patreon/"
     },
     {
       "name": "PeaCast",

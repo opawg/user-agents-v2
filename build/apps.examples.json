@@ -1266,6 +1266,12 @@
       ]
     },
     {
+      "name": "FeedFlow",
+      "examples": [
+        "FeedFlow/1 CFNetwork/3860.300.31 Darwin/25.2.0"
+      ]
+    },
+    {
       "name": "Feedly",
       "examples": [
         "feedly/81.0.1 CFNetwork/1206 Darwin/20.1.0"
@@ -2404,6 +2410,14 @@
       "name": "Parler",
       "examples": [
         "Parler Staging/542 CFNetwork/978.0.7 Darwin/18.7.0"
+      ]
+    },
+    {
+      "name": "Patreon",
+      "examples": [
+        "Patreon/125.38.0.5 (iPhone; iOS 26.1; Scale/3.00)",
+        "Patreon/125.37.0.15 (Android; Android 16; Scale/3.00)",
+        "Patreon/125.35.0.10 (iPhone; iOS 18.0.1; Scale/3.00)"
       ]
     },
     {

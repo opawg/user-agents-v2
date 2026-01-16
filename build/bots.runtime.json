@@ -309,6 +309,10 @@
       "pattern": "^Headliner/.*[+ ]https://headliner\\.app$"
     },
     {
+      "name": "HTTrack website copier",
+      "pattern": " HTTrack "
+    },
+    {
       "name": "HubSpot Crawler",
       "pattern": "HubSpot Crawler"
     },
@@ -506,7 +510,7 @@
     },
     {
       "name": "Podcastindex.org",
-      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)"
+      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/"
     },
     {
       "name": "Podcast de facto Standard",
@@ -551,6 +555,10 @@
     {
       "name": "Podcorn",
       "pattern": "Podcorn/"
+    },
+    {
+      "name": "Podcst",
+      "pattern": "^Podcst/"
     },
     {
       "name": "PodderBot",
@@ -825,6 +833,10 @@
       "pattern": "UptimeRobot/\\d"
     },
     {
+      "name": "Teeming modal podcast transcriber",
+      "pattern": "^teeming-modal-podcast-transcriber/"
+    },
+    {
       "name": "TelegramBot",
       "pattern": "^TelegramBot "
     },
@@ -835,6 +847,10 @@
     {
       "name": "theTradeDesk Content Web Scraper",
       "pattern": "TTD-Content"
+    },
+    {
+      "name": "Vercel screenshot",
+      "pattern": "^vercel-screenshot/"
     },
     {
       "name": "Veritone Engine Toolkit",
