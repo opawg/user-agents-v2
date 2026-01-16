@@ -1685,6 +1685,18 @@
       ]
     },
     {
+      "name": "FeedFlow",
+      "pattern": "FeedFlow/1 CFNetwork/3860.300.31 Darwin/25.2.0",
+      "examples": [
+        "FeedFlow/1 CFNetwork/3860.300.31 Darwin/25.2.0"
+      ],
+      "urls": [
+        "https://www.feedflow.dev/",
+        "https://play.google.com/store/apps/details?id=com.prof18.feedflow",
+        "https://apps.apple.com/us/app/feedflow-rss-reader/id6447210518"
+      ]
+    },
+    {
       "name": "Feedly",
       "pattern": "^feedly/",
       "description": "An RSS reader",
@@ -3231,6 +3243,15 @@
       "pattern": "^Parler( Staging)?/",
       "examples": [
         "Parler Staging/542 CFNetwork/978.0.7 Darwin/18.7.0"
+      ]
+    },
+    {
+      "name": "Patreon",
+      "pattern": "^Patreon/",
+      "examples": [
+        "Patreon/125.38.0.5 (iPhone; iOS 26.1; Scale/3.00)",
+        "Patreon/125.37.0.15 (Android; Android 16; Scale/3.00)",
+        "Patreon/125.35.0.10 (iPhone; iOS 18.0.1; Scale/3.00)"
       ]
     },
     {
