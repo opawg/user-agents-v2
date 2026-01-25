@@ -107,6 +107,15 @@
       "comments": "Backend ingestion service"
     },
     {
+      "name": "Amazon Quick",
+      "description": "Amazon Quick (now Amazon Quick Suite) is an agentic AI-powered digital workspace from AWS that acts as an AI teammate",
+      "pattern": "^amazon-Quick-on-behalf",
+      "examples": [
+        "amazon-Quick-on-behalf-of-ab5a6944",
+        "amazon-Quick-on-behalf-of-8ba90c8d"
+      ]
+    },
+    {
       "name": "Anchor Importer",
       "pattern": "AnchorImport",
       "description": "Anchor's tool for importing podcasts",
@@ -548,6 +557,14 @@
       "examples": [
         "Mozilla/5.0 (compatible; Feedspot/1.0 (+https://www.feedspot.com/fs/fetcher; like FeedFetcher-Google)"
       ]
+    },
+    {
+      "name": "Fetch Container",
+      "pattern": "^fetch-container/\\d",
+      "examples": [
+        "fetch-container/1.0"
+      ],
+      "comments": "Requests coming from Cloudflare IPs"
     },
     {
       "name": "FlexGet",
@@ -1127,6 +1144,13 @@
       ],
       "examples": [
         "podcast-archiver/v1.7.1 (https://github.com/janw/podcast-archiver)"
+      ]
+    },
+    {
+      "name": "Podcast Downloader",
+      "pattern": "^podcast-downloader$",
+      "examples": [
+        "podcast-downloader"
       ]
     },
     {

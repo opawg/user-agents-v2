@@ -1524,6 +1524,18 @@
       ]
     },
     {
+      "name": "Earsay",
+      "description": "On-device Al detects sponsors and extracts promo codes, deals, and links. Skip the ads and support creators. No subscriptions.",
+      "pattern": "^Earsay/",
+      "examples": [
+        "Earsay/1.0 CFNetwork/1568 Darwin/24.0"
+      ],
+      "urls": [
+        "https://earsay.app/",
+        "https://apps.apple.com/us/app/earsay/id6757127240"
+      ]
+    },
+    {
       "name": "EasyGet",
       "pattern": "^EasyGet/",
       "examples": [
@@ -2134,6 +2146,18 @@
       ],
       "urls": [
         "https://heard.fm/"
+      ]
+    },
+    {
+      "name": "Herd",
+      "description": "Skip the annoying ad breaks - Herd removes both external and host read advertisements while you listen.",
+      "pattern": "^Herd/",
+      "examples": [
+        "Herd/56 CFNetwork/3826.600.41 Darwin/24.6.0"
+      ],
+      "urls": [
+        "https://herd.au/",
+        "https://apps.apple.com/us/app/herd-ad-free-podcast-player/id6670315567"
       ]
     },
     {
@@ -3723,6 +3747,19 @@
       ]
     },
     {
+      "name": "PurerPodcasts",
+      "description": "PurerPodcasts automatically detects and skips audio ads, so you hear the content you came for. No manual scrubbing. No broken flow. Just seamless listening.",
+      "pattern": "^PurerPodcasts/",
+      "examples": [
+        "PurerPodcasts/52 CFNetwork/3826.600.41 Darwin/24.6.0"
+      ],
+      "urls": [
+        "https://purerpodcasts.com/",
+        "https://apps.apple.com/us/app/purerpodcasts/id6475151358",
+        "https://play.google.com/store/apps/details?id=com.purerpodcasts"
+      ]
+    },
+    {
       "name": "Pypodder",
       "description": "A scriptable podcatcher written in python 3",
       "pattern": "^pypodder$",
@@ -4006,6 +4043,18 @@
         "sxm-android/7.5.2 samsung/SM-S918U Android/14",
         "sxm-android/7.5.0 motorola/motorola-edge-plus-5G-UW-(2022) Android/13",
         "sxm-apple/7.8.1 iPhone14,5 iOS17.6.1"
+      ]
+    },
+    {
+      "name": "Skimr",
+      "description": "Skimr helps you catch up on 10+ episodes in under 30 minutes with intelligent summaries & swipeable keypoints.",
+      "pattern": "^Skimr/",
+      "examples": [
+        "Skimr/1 CFNetwork/3860.300.31 Darwin/25.2.0"
+      ],
+      "urls": [
+        "https://skimr.app/",
+        "https://apps.apple.com/us/app/skimr-ai-podcast-player/id6744159946"
       ]
     },
     {

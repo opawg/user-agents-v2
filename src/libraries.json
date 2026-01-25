@@ -530,10 +530,11 @@
     },
     {
       "name": "ExoPlayer (Android)",
-      "pattern": " ExoPlayerLib/",
+      "pattern": " ExoPlayerLib/|^Exo2/",
       "examples": [
         "yourApplicationName/2.21.9 (Linux;Android 11) ExoPlayerLib/2.14.0",
-        "ExoPlayerLib/2.14.0 (Linux; Android 12) ExoPlayerLib/2.14.0"
+        "ExoPlayerLib/2.14.0 (Linux; Android 12) ExoPlayerLib/2.14.0",
+        "Exo2/4.12.0 (Linux;Android 9) AmznExoPlayerLib/2.18.7"
       ],
       "urls": [
         "https://github.com/google/ExoPlayer"
