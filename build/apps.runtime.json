@@ -705,6 +705,10 @@
       "pattern": "^Earmark/"
     },
     {
+      "name": "Earsay",
+      "pattern": "^Earsay/"
+    },
+    {
       "name": "EasyGet",
       "pattern": "^EasyGet/"
     },
@@ -991,6 +995,10 @@
     {
       "name": "Heard.FM",
       "pattern": "^Heard\\.FM\\s*/"
+    },
+    {
+      "name": "Herd",
+      "pattern": "^Herd/"
     },
     {
       "name": "HermesPod",
@@ -1677,6 +1685,10 @@
       "pattern": "^PugpigBolt "
     },
     {
+      "name": "PurerPodcasts",
+      "pattern": "^PurerPodcasts/"
+    },
+    {
       "name": "Pypodder",
       "pattern": "^pypodder$"
     },
@@ -1779,6 +1791,10 @@
     {
       "name": "SiriusXM",
       "pattern": "^SiriusXM/\\d|SXMApp|sxm-android|sxm-apple/"
+    },
+    {
+      "name": "Skimr",
+      "pattern": "^Skimr/"
     },
     {
       "name": "Slack",

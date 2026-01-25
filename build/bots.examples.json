@@ -57,6 +57,13 @@
       ]
     },
     {
+      "name": "Amazon Quick",
+      "examples": [
+        "amazon-Quick-on-behalf-of-ab5a6944",
+        "amazon-Quick-on-behalf-of-8ba90c8d"
+      ]
+    },
+    {
       "name": "Anchor Importer",
       "examples": [
         "AnchorImport/1.0"
@@ -351,6 +358,12 @@
       "name": "Feedspot Fetcher",
       "examples": [
         "Mozilla/5.0 (compatible; Feedspot/1.0 (+https://www.feedspot.com/fs/fetcher; like FeedFetcher-Google)"
+      ]
+    },
+    {
+      "name": "Fetch Container",
+      "examples": [
+        "fetch-container/1.0"
       ]
     },
     {
@@ -732,6 +745,12 @@
       "name": "Podcast Archiver (janw)",
       "examples": [
         "podcast-archiver/v1.7.1 (https://github.com/janw/podcast-archiver)"
+      ]
+    },
+    {
+      "name": "Podcast Downloader",
+      "examples": [
+        "podcast-downloader"
       ]
     },
     {

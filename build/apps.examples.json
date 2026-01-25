@@ -1135,6 +1135,12 @@
       ]
     },
     {
+      "name": "Earsay",
+      "examples": [
+        "Earsay/1.0 CFNetwork/1568 Darwin/24.0"
+      ]
+    },
+    {
       "name": "EasyGet",
       "examples": [
         "EasyGet/1.0.70 CFNetwork/672.1.13 Darwin/14.0.0"
@@ -1595,6 +1601,12 @@
         "Heard.FM  /18.2 CFNetwork/1.0 Darwin/24.2.0",
         "Heard.FM/1.0 (Linux; U; Android 13.0; samsung SM-A525F",
         "Heard.FM  /18.1.1 CFNetwork/1.0 Darwin/24.1.0"
+      ]
+    },
+    {
+      "name": "Herd",
+      "examples": [
+        "Herd/56 CFNetwork/3826.600.41 Darwin/24.6.0"
       ]
     },
     {
@@ -2713,6 +2725,12 @@
       ]
     },
     {
+      "name": "PurerPodcasts",
+      "examples": [
+        "PurerPodcasts/52 CFNetwork/3826.600.41 Darwin/24.6.0"
+      ]
+    },
+    {
       "name": "Pypodder",
       "examples": [
         "pypodder"
@@ -2892,6 +2910,12 @@
         "sxm-android/7.5.2 samsung/SM-S918U Android/14",
         "sxm-android/7.5.0 motorola/motorola-edge-plus-5G-UW-(2022) Android/13",
         "sxm-apple/7.8.1 iPhone14,5 iOS17.6.1"
+      ]
+    },
+    {
+      "name": "Skimr",
+      "examples": [
+        "Skimr/1 CFNetwork/3860.300.31 Darwin/25.2.0"
       ]
     },
     {

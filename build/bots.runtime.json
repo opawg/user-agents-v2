@@ -45,6 +45,10 @@
       "pattern": "^Amazon Music Podcast"
     },
     {
+      "name": "Amazon Quick",
+      "pattern": "^amazon-Quick-on-behalf"
+    },
+    {
       "name": "Anchor Importer",
       "pattern": "AnchorImport"
     },
@@ -255,6 +259,10 @@
     {
       "name": "Feedspot Fetcher",
       "pattern": "https://www\\.feedspot\\.com/fs/fetcher"
+    },
+    {
+      "name": "Fetch Container",
+      "pattern": "^fetch-container/\\d"
     },
     {
       "name": "FlexGet",
@@ -523,6 +531,10 @@
     {
       "name": "Podcast Archiver (janw)",
       "pattern": "^podcast-archiver/v\\d"
+    },
+    {
+      "name": "Podcast Downloader",
+      "pattern": "^podcast-downloader$"
     },
     {
       "name": "Podcast Go Audio Downloader",

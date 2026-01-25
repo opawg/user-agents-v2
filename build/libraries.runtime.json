@@ -243,7 +243,7 @@
     },
     {
       "name": "ExoPlayer (Android)",
-      "pattern": " ExoPlayerLib/"
+      "pattern": " ExoPlayerLib/|^Exo2/"
     },
     {
       "name": "Jetpack Media3 (Android)",
