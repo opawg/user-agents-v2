@@ -3653,9 +3653,6 @@
       "pattern": "^Podracer/",
       "examples": [
         "Podracer/1.0.0"
-      ],
-      "urls": [
-        "https://podracer.app"
       ]
     },
     {
