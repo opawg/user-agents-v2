@@ -3649,6 +3649,16 @@
       ]
     },
     {
+      "name": "Podracer",
+      "pattern": "^Podracer/",
+      "examples": [
+        "Podracer/1.0.0"
+      ],
+      "urls": [
+        "https://podracer.app"
+      ]
+    },
+    {
       "name": "Pods",
       "pattern": "^Pods/",
       "examples": [
