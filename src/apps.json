@@ -3652,7 +3652,7 @@
       "name": "Podracer",
       "pattern": "^Podracer/",
       "examples": [
-        "Podracer/1.0.0"
+        "Podracer/1.0.0 github.com/iamrodnunez/podracer"
       ]
     },
     {
