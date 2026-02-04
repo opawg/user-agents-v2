@@ -1233,6 +1233,10 @@
       "pattern": "^Laughable.+iOS|^Laughable/"
     },
     {
+      "name": "LesEchos",
+      "pattern": "^lesechos/"
+    },
+    {
       "name": "Le Monde",
       "pattern": "^AEC/"
     },
