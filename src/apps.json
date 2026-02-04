@@ -2684,6 +2684,18 @@
       ]
     },
     {
+      "name": "LesEchos",
+      "pattern": "^lesechos/",
+      "examples": [
+        "lesechos/Android",
+        "lesechos/iOS"
+      ],
+      "urls": [
+        "https://apps.apple.com/fr/app/les-echos-actualit%C3%A9s-%C3%A9co/id880104715",
+        "https://play.google.com/store/apps/details?id=fr.lesechos.live"
+      ]
+    },
+    {
       "name": "Le Monde",
       "pattern": "^AEC/",
       "examples": [
