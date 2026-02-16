@@ -9,6 +9,10 @@
       "pattern": "AAABot"
     },
     {
+      "name": "Acast Tester",
+      "pattern": "^acast-tester/"
+    },
+    {
       "name": "Adswizz",
       "pattern": "^AIS VirtualListener"
     },

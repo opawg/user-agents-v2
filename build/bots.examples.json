@@ -13,6 +13,12 @@
       ]
     },
     {
+      "name": "Acast Tester",
+      "examples": [
+        "acast-tester/1.0"
+      ]
+    },
+    {
       "name": "Adswizz",
       "examples": [
         "AIS VirtualListener"
