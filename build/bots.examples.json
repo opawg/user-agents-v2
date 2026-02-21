@@ -138,6 +138,12 @@
       ]
     },
     {
+      "name": "Audioscrape",
+      "examples": [
+        "Mozilla/5.0 (compatible; Audioscrape/1.0; +https://audioscrape.com)"
+      ]
+    },
+    {
       "name": "AudioWave feed parser",
       "examples": [
         "AudioWaveBot/1.0"
@@ -641,6 +647,12 @@
       ]
     },
     {
+      "name": "Google NotebookLM",
+      "examples": [
+        "Google-NotebookLM"
+      ]
+    },
+    {
       "name": "NovaStream Live Importer",
       "examples": [
         "NovaStreamLive/1.0 (Podcast Import)"
@@ -766,6 +778,18 @@
       ]
     },
     {
+      "name": "PodcastTranslator",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastTranslator/1.0)"
+      ]
+    },
+    {
+      "name": "Podcast Transcriber",
+      "examples": [
+        "Podcast Transcriber 2.0 (https://example.com/podcast-transcriber)"
+      ]
+    },
+    {
       "name": "Podcastics",
       "examples": [
         "Podcastics"
@@ -855,6 +879,12 @@
       "name": "Podmon Bot",
       "examples": [
         "Podmonbot/1.0"
+      ]
+    },
+    {
+      "name": "PodOracle",
+      "examples": [
+        "PodOracle/1.0 (Podcast Search Engine)"
       ]
     },
     {
@@ -1017,6 +1047,12 @@
       "name": "SB Intuitions Crawler",
       "examples": [
         "SB Intuitions Crawler ( https://sbintuitions.co.jp)"
+      ]
+    },
+    {
+      "name": "Sciis media fetch",
+      "examples": [
+        "sciis-media-fetch/0.1"
       ]
     },
     {
@@ -1224,7 +1260,8 @@
     {
       "name": "Windows PowerShell",
       "examples": [
-        "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.19041.2673"
+        "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.19041.2673",
+        "Mozilla/5.0 (Windows NT 10.0; Microsoft Windows 10.0.26200; en-NZ) PowerShell/7.5.4"
       ]
     },
     {

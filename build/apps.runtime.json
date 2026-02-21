@@ -1501,6 +1501,10 @@
       "pattern": "^phonostar-Player/\\d"
     },
     {
+      "name": "Pinepods",
+      "pattern": "^Pinepods/"
+    },
+    {
       "name": "Playapod",
       "pattern": "^Playapod"
     },

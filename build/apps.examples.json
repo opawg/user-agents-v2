@@ -2452,6 +2452,12 @@
       ]
     },
     {
+      "name": "Pinepods",
+      "examples": [
+        "Pinepods/0.8.1 b20252203 (phone;android BP2A.250605.031.A3.S931U1UES7BYLR) https://github.com/madeofpendletonwool/pinepods"
+      ]
+    },
+    {
       "name": "Playapod",
       "examples": [
         "Playapod/2.4.11"
