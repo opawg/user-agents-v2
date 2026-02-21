@@ -219,6 +219,16 @@
       ]
     },
     {
+      "name": "Audioscrape",
+      "pattern": " Audioscrape/",
+      "examples": [
+        "Mozilla/5.0 (compatible; Audioscrape/1.0; +https://audioscrape.com)"
+      ],
+      "urls": [
+        "https://www.audioscrape.com/"
+      ]
+    },
+    {
       "name": "AudioWave feed parser",
       "pattern": "^AudioWaveBot/1\\.0",
       "urls": [
@@ -979,6 +989,13 @@
       ]
     },
     {
+      "name": "Google NotebookLM",
+      "pattern": "Google-NotebookLM",
+      "examples": [
+        "Google-NotebookLM"
+      ]
+    },
+    {
       "name": "NovaStream Live Importer",
       "pattern": "^NovaStreamLive/.*Import",
       "examples": [
@@ -1168,6 +1185,20 @@
       ]
     },
     {
+      "name": "PodcastTranslator",
+      "pattern": " PodcastTranslator/\\d",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastTranslator/1.0)"
+      ]
+    },
+    {
+      "name": "Podcast Transcriber",
+      "pattern": "^Podcast Transcriber \\d",
+      "examples": [
+        "Podcast Transcriber 2.0 (https://example.com/podcast-transcriber)"
+      ]
+    },
+    {
       "name": "Podcastics",
       "pattern": "^Podcastics$",
       "urls": [
@@ -1342,6 +1373,13 @@
       "description": "Podnods is a podcast discovery site. This user agent is for crawling podcast data.",
       "urls": [
         "https://podnods.com/about"
+      ]
+    },
+    {
+      "name": "PodOracle",
+      "pattern": "^PodOracle/",
+      "examples": [
+        "PodOracle/1.0 (Podcast Search Engine)"
       ]
     },
     {
@@ -1588,6 +1626,13 @@
       ],
       "urls": [
         "https://sbintuitions.co.jp"
+      ]
+    },
+    {
+      "name": "Sciis media fetch",
+      "pattern": "^sciis-media-fetch/",
+      "examples": [
+        "sciis-media-fetch/0.1"
       ]
     },
     {
@@ -1892,9 +1937,10 @@
     },
     {
       "name": "Windows PowerShell",
-      "pattern": "WindowsPowerShell/",
+      "pattern": "(Windows| )PowerShell/",
       "examples": [
-        "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.19041.2673"
+        "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.19041.2673",
+        "Mozilla/5.0 (Windows NT 10.0; Microsoft Windows 10.0.26200; en-NZ) PowerShell/7.5.4"
       ]
     },
     {

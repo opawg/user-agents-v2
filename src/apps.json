@@ -3308,6 +3308,16 @@
       ]
     },
     {
+      "name": "Pinepods",
+      "pattern": "^Pinepods/",
+      "examples": [
+        "Pinepods/0.8.1 b20252203 (phone;android BP2A.250605.031.A3.S931U1UES7BYLR) https://github.com/madeofpendletonwool/pinepods"
+      ],
+      "urls": [
+        "https://github.com/madeofpendletonwool/pinepods"
+      ]
+    },
+    {
       "name": "Playapod",
       "pattern": "^Playapod",
       "description": "Best Cross-Platform Podcast and News App",
