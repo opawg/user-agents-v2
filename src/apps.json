@@ -3671,6 +3671,16 @@
       ]
     },
     {
+      "name": "Podracer",
+      "pattern": "^Podracer/",
+      "examples": [
+        "Podracer/1.0.0"
+      ],
+      "urls": [
+        "https://github.com/iamrodnunez/podracer"
+      ]
+    },
+    {
       "name": "Pods",
       "pattern": "^Pods/",
       "examples": [
