@@ -1113,6 +1113,16 @@
       ]
     },
     {
+      "name": "Cliamp",
+      "pattern": "^cliamp/",
+      "examples": [
+        "cliamp/1.0 (https://github.com/bjarneo/cliamp)"
+      ],
+      "urls": [
+        "https://github.com/bjarneo/cliamp"
+      ]
+    },
+    {
       "name": "Client",
       "pattern": "^Client/",
       "examples": [
