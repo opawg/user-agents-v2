@@ -509,6 +509,10 @@
       "pattern": "^Claro Musica iOS/\\d"
     },
     {
+      "name": "Cliamp",
+      "pattern": "^cliamp/"
+    },
+    {
       "name": "Client",
       "pattern": "^Client/"
     },
