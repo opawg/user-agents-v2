@@ -821,6 +821,12 @@
       ]
     },
     {
+      "name": "podcast-shard-downloader",
+      "examples": [
+        "podcast-shard-downloader/1.0"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"

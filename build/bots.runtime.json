@@ -581,6 +581,10 @@
       "pattern": " PodcastDownloader/"
     },
     {
+      "name": "podcast-shard-downloader",
+      "pattern": "^podcast-shard-downloader/"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
