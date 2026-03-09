@@ -995,6 +995,12 @@
       ]
     },
     {
+      "name": "RadyoImporter",
+      "examples": [
+        "RadyoImporter/3.0"
+      ]
+    },
+    {
       "name": "RedCircle",
       "examples": [
         "RedCircle"
