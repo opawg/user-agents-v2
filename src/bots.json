@@ -1539,6 +1539,13 @@
       ]
     },
     {
+      "name": "RadyoImporter",
+      "pattern": "^RadyoImporter/",
+      "examples": [
+        "RadyoImporter/3.0"
+      ]
+    },
+    {
       "name": "RedCircle",
       "pattern": "RedCircle",
       "description": "A platform for podcasts and brands to scale their message.",
