@@ -181,6 +181,10 @@
       "pattern": "^ARD Audiothek|^ARD%20Audiothek/|^ARD-Audiothek"
     },
     {
+      "name": "ARD Sounds",
+      "pattern": "^ARD Sounds|^ARD%20Sounds|^ARD-Sounds"
+    },
+    {
       "name": "Arte Radio",
       "pattern": "^arteradio/"
     },
