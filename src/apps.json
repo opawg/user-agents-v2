@@ -437,6 +437,19 @@
       ]
     },
     {
+      "name": "ARD Sounds",
+      "pattern": "^ARD Sounds|^ARD%20Sounds|^ARD-Sounds",
+      "urls": [
+        "https://apps.apple.com/kh/app/ard-sounds/id1224607890",
+        "https://play.google.com/store/apps/details/ARD_Sounds?id=de.ard.audiothek.tv",
+        "https://play.google.com/store/apps/details/ARD_Sounds?id=de.ard.audiothek"
+      ],
+      "examples": [
+        "ARD Sounds/4.0.0 (Google Play) Dalvik/2.1.0 (Linux; U; Android 16; 2410CRP4CG Build/BP2A.250605.031.A3)",
+        "ARD Sounds/4.0.0 (iOS) Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+      ]
+    },
+    {
       "name": "Arte Radio",
       "pattern": "^arteradio/",
       "description": "Arte Radio is a podcast app",
