@@ -714,7 +714,7 @@
     },
     {
       "name": "Earsay",
-      "pattern": "^Earsay/"
+      "pattern": "^[Ee]arsay/"
     },
     {
       "name": "EasyGet",
@@ -839,6 +839,10 @@
     {
       "name": "Flash",
       "pattern": "(^MAC |^WIN )"
+    },
+    {
+      "name": "Flipboard",
+      "pattern": " Flipboard/"
     },
     {
       "name": "folkebladet.no",

@@ -19,6 +19,12 @@
       ]
     },
     {
+      "name": "AccountingPodcastDownloader",
+      "examples": [
+        "Mozilla/5.0 AccountingPodcastDownloader/1.0"
+      ]
+    },
+    {
       "name": "Adswizz",
       "examples": [
         "AIS VirtualListener"
@@ -284,6 +290,12 @@
       ]
     },
     {
+      "name": "Crowli",
+      "examples": [
+        "Mozilla/5.0 (compatible; Crowli/1.0; +http://www.miniradioplayer.net/crowli.html)"
+      ]
+    },
+    {
       "name": "curl",
       "examples": [
         "libcurl/7.65.1",
@@ -338,6 +350,12 @@
       "name": "DuckDuckBot",
       "examples": [
         "Mozilla/5.0 (compatible; DuckDuckBot-Https/1.1; https://duckduckgo.com/duckduckbot)"
+      ]
+    },
+    {
+      "name": "DutchPodcastScraper",
+      "examples": [
+        "DutchPodcastScraper/1.0 (research; episode audio collection)"
       ]
     },
     {
@@ -543,6 +561,13 @@
       "examples": [
         "ShareSheetUI/1 CFNetwork/1399.4 Darwin/22.1.0",
         "ShareSheetUI/1 CFNetwork/1474 Darwin/23.0.0"
+      ]
+    },
+    {
+      "name": "MagellanAI",
+      "examples": [
+        "MagellanAI/1.0.4270",
+        "MagellanAI/1.0.4285"
       ]
     },
     {
@@ -827,6 +852,12 @@
       ]
     },
     {
+      "name": "PodcastTranscriber",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"
@@ -912,6 +943,12 @@
       ]
     },
     {
+      "name": "pods3-backfill",
+      "examples": [
+        "Mozilla/5.0 pods3-backfill/1.0"
+      ]
+    },
+    {
       "name": "Podscan Bot",
       "examples": [
         "PodscanBot/1.1.0 Ubuntu/22.04 (Linux) +https://podscan.fm",
@@ -923,6 +960,13 @@
       "examples": [
         "Adswizz-podscribe/1.0",
         "Podscribe/1.1"
+      ]
+    },
+    {
+      "name": "PodSearcher",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodSearcher/1.0; +https://podsearcher.com)",
+        "PodSearcher/1.0"
       ]
     },
     {
@@ -1010,6 +1054,12 @@
       "name": "RedCircle",
       "examples": [
         "RedCircle"
+      ]
+    },
+    {
+      "name": "Reference Finder Podcast Downloader",
+      "examples": [
+        "Mozilla/5.0 (Reference Finder Podcast Downloader)"
       ]
     },
     {

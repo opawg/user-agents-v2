@@ -1150,7 +1150,8 @@
     {
       "name": "Earsay",
       "examples": [
-        "Earsay/1.0 CFNetwork/1568 Darwin/24.0"
+        "Earsay/1.0 CFNetwork/1568 Darwin/24.0",
+        "earsay/1.0 CFNetwork/1568 Darwin/24.0"
       ]
     },
     {
@@ -1342,6 +1343,12 @@
       "name": "Fili",
       "examples": [
         "Fili/3617 CFNetwork/609.1.4 Darwin/13.0.0"
+      ]
+    },
+    {
+      "name": "Flipboard",
+      "examples": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Flipboard/4.3.52"
       ]
     },
     {

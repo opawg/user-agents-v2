@@ -13,6 +13,10 @@
       "pattern": "^acast-tester/"
     },
     {
+      "name": "AccountingPodcastDownloader",
+      "pattern": "AccountingPodcastDownloader/"
+    },
+    {
       "name": "Adswizz",
       "pattern": "^AIS VirtualListener"
     },
@@ -205,6 +209,10 @@
       "pattern": "^Podcast-CriticalMention/"
     },
     {
+      "name": "Crowli",
+      "pattern": " Crowli/"
+    },
+    {
       "name": "curl",
       "pattern": "^curl|^libcurl/|^PycURL/| curl/"
     },
@@ -251,6 +259,10 @@
     {
       "name": "DuckDuckBot",
       "pattern": "DuckDuckBot"
+    },
+    {
+      "name": "DutchPodcastScraper",
+      "pattern": "^DutchPodcastScraper/"
     },
     {
       "name": "F-Secure Riddler",
@@ -391,6 +403,10 @@
     {
       "name": "MacOS share menu",
       "pattern": "^ShareSheetUI/"
+    },
+    {
+      "name": "MagellanAI",
+      "pattern": "^MagellanAI/"
     },
     {
       "name": "magic-podcast-downloader",
@@ -585,6 +601,10 @@
       "pattern": "^podcast-shard-downloader/"
     },
     {
+      "name": "PodcastTranscriber",
+      "pattern": " PodcastTranscriber/"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },
@@ -653,12 +673,20 @@
       "pattern": "^pdrl\\.fm "
     },
     {
+      "name": "pods3-backfill",
+      "pattern": "pods3-backfill"
+    },
+    {
       "name": "Podscan Bot",
       "pattern": "^PodscanBot/"
     },
     {
       "name": "Podscribe",
       "pattern": "(^Adswizz-podscribe/|^Podscribe/)"
+    },
+    {
+      "name": "PodSearcher",
+      "pattern": "^PodSearcher/| PodSearcher/"
     },
     {
       "name": "PodUptime",
@@ -723,6 +751,10 @@
     {
       "name": "RedCircle",
       "pattern": "RedCircle"
+    },
+    {
+      "name": "Reference Finder Podcast Downloader",
+      "pattern": "Reference Finder Podcast Downloader"
     },
     {
       "name": "Rephonic",
