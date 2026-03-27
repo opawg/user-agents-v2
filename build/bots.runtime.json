@@ -693,6 +693,10 @@
       "pattern": "private-podcast-puller"
     },
     {
+      "name": "public-episode-downloader",
+      "pattern": "public-episode-downloader"
+    },
+    {
       "name": "Puppeteer",
       "pattern": " HeadlessChrome/\\d"
     },
