@@ -29,6 +29,13 @@
       ]
     },
     {
+      "name": "AccountingPodcastDownloader",
+      "pattern": "AccountingPodcastDownloader/",
+      "examples": [
+        "Mozilla/5.0 AccountingPodcastDownloader/1.0"
+      ]
+    },
+    {
       "name": "Adswizz",
       "pattern": "^AIS VirtualListener",
       "urls": [
@@ -446,6 +453,13 @@
       ]
     },
     {
+      "name": "Crowli",
+      "pattern": " Crowli/",
+      "examples": [
+        "Mozilla/5.0 (compatible; Crowli/1.0; +http://www.miniradioplayer.net/crowli.html)"
+      ]
+    },
+    {
       "name": "curl",
       "pattern": "^curl|^libcurl/|^PycURL/| curl/",
       "examples": [
@@ -528,6 +542,13 @@
       "pattern": "DuckDuckBot",
       "examples": [
         "Mozilla/5.0 (compatible; DuckDuckBot-Https/1.1; https://duckduckgo.com/duckduckbot)"
+      ]
+    },
+    {
+      "name": "DutchPodcastScraper",
+      "pattern": "^DutchPodcastScraper/",
+      "examples": [
+        "DutchPodcastScraper/1.0 (research; episode audio collection)"
       ]
     },
     {
@@ -847,6 +868,14 @@
         "ShareSheetUI/1 CFNetwork/1474 Darwin/23.0.0"
       ],
       "comments": "Found on MacOS 13 (Ventura) and higher e.g. when right-clicking an enclosure link from Safari and choosing Share..."
+    },
+    {
+      "name": "MagellanAI",
+      "pattern": "^MagellanAI/",
+      "examples": [
+        "MagellanAI/1.0.4270",
+        "MagellanAI/1.0.4285"
+      ]
     },
     {
       "name": "magic-podcast-downloader",
@@ -1245,6 +1274,13 @@
       ]
     },
     {
+      "name": "PodcastTranscriber",
+      "pattern": " PodcastTranscriber/",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)"
+      ]
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud",
       "description": "Le podcast, simplement. A French-language web-based podcast player.",
@@ -1414,6 +1450,13 @@
       ]
     },
     {
+      "name": "pods3-backfill",
+      "pattern": "pods3-backfill",
+      "examples": [
+        "Mozilla/5.0 pods3-backfill/1.0"
+      ]
+    },
+    {
       "name": "Podscan Bot",
       "pattern": "^PodscanBot/",
       "examples": [
@@ -1430,6 +1473,17 @@
       "examples": [
         "Adswizz-podscribe/1.0",
         "Podscribe/1.1"
+      ]
+    },
+    {
+      "name": "PodSearcher",
+      "pattern": "^PodSearcher/| PodSearcher/",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodSearcher/1.0; +https://podsearcher.com)",
+        "PodSearcher/1.0"
+      ],
+      "urls": [
+        "https://podsearcher.com"
       ]
     },
     {
@@ -1561,6 +1615,13 @@
       ],
       "examples": [
         "RedCircle"
+      ]
+    },
+    {
+      "name": "Reference Finder Podcast Downloader",
+      "pattern": "Reference Finder Podcast Downloader",
+      "examples": [
+        "Mozilla/5.0 (Reference Finder Podcast Downloader)"
       ]
     },
     {

@@ -1549,9 +1549,10 @@
     {
       "name": "Earsay",
       "description": "On-device Al detects sponsors and extracts promo codes, deals, and links. Skip the ads and support creators. No subscriptions.",
-      "pattern": "^Earsay/",
+      "pattern": "^[Ee]arsay/",
       "examples": [
-        "Earsay/1.0 CFNetwork/1568 Darwin/24.0"
+        "Earsay/1.0 CFNetwork/1568 Darwin/24.0",
+        "earsay/1.0 CFNetwork/1568 Darwin/24.0"
       ],
       "urls": [
         "https://earsay.app/",
@@ -1801,6 +1802,13 @@
     {
       "name": "Flash",
       "pattern": "(^MAC |^WIN )"
+    },
+    {
+      "name": "Flipboard",
+      "pattern": " Flipboard/",
+      "examples": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Flipboard/4.3.52"
+      ]
     },
     {
       "name": "folkebladet.no",
