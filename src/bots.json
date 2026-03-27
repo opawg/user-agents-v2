@@ -1500,6 +1500,13 @@
       ]
     },
     {
+      "name": "public-episode-downloader",
+      "pattern": "public-episode-downloader",
+      "examples": [
+        "Mozilla/5.0 (compatible; public-episode-downloader/1.0)"
+      ]
+    },
+    {
       "name": "Puppeteer",
       "pattern": " HeadlessChrome/\\d",
       "examples": [
