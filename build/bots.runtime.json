@@ -605,6 +605,10 @@
       "pattern": " PodcastTranscriber/"
     },
     {
+      "name": "PodcastWorker",
+      "pattern": "^PodcastWorker/"
+    },
+    {
       "name": "PodCloud",
       "pattern": "podCloud"
     },

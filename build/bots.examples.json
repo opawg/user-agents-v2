@@ -858,6 +858,12 @@
       ]
     },
     {
+      "name": "PodcastWorker",
+      "examples": [
+        "PodcastWorker/1.0"
+      ]
+    },
+    {
       "name": "Podcorn",
       "examples": [
         "Podcorn/1.0"
