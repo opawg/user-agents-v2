@@ -996,16 +996,6 @@
       ]
     },
     {
-      "name": "castget",
-      "pattern": "^castget ",
-      "urls": [
-        "https://castget.johndal.com/"
-      ],
-      "examples": [
-        "castget 1.2.4 (castget rss enclosure downloader)"
-      ]
-    },
-    {
       "name": "Castro",
       "pattern": "^Castro[/ ]",
       "examples": [

@@ -294,6 +294,13 @@
       ]
     },
     {
+      "name": "Beehiiv podcast importer",
+      "pattern": "^beehiiv-podcast-importer/",
+      "examples": [
+        "beehiiv-podcast-importer/1.0"
+      ]
+    },
+    {
       "name": "British Library",
       "pattern": "^bl\\.uk_ldfc_bot",
       "description": "British Library's legal deposit web crawler",
@@ -382,6 +389,17 @@
       "pattern": "^CastFeedValidator/",
       "examples": [
         "CastFeedValidator/3.0.5 (https://castfeedvalidator.com)"
+      ]
+    },
+    {
+      "name": "castget",
+      "pattern": "^castget |^castget$",
+      "urls": [
+        "https://castget.johndal.com/"
+      ],
+      "examples": [
+        "castget 1.2.4 (castget rss enclosure downloader)",
+        "castget"
       ]
     },
     {
@@ -488,6 +506,13 @@
       "pattern": "Dataprovider\\.com",
       "examples": [
         "Mozilla/5.0 (compatible; Dataprovider.com)"
+      ]
+    },
+    {
+      "name": "data-pipeline-downloader",
+      "pattern": "data-pipeline-downloader/",
+      "examples": [
+        "Mozilla/5.0 (compatible; data-pipeline-downloader/1.0)"
       ]
     },
     {
@@ -689,6 +714,13 @@
         "Googlebot-News Audio",
         "Google-Safety",
         "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
+      ]
+    },
+    {
+      "name": "GuestPrimer",
+      "pattern": "^GuestPrimer/",
+      "examples": [
+        "GuestPrimer/1.0"
       ]
     },
     {
@@ -1246,6 +1278,16 @@
       ]
     },
     {
+      "name": "PodcastDL",
+      "pattern": "^PodcastDL/",
+      "examples": [
+        "PodcastDL/1.0 (+https://github.com/podcast-dl)"
+      ],
+      "urls": [
+        "https://github.com/podcast-dl"
+      ]
+    },
+    {
       "name": "Podchaser Parser",
       "pattern": "^PodchaserParser/",
       "examples": [
@@ -1264,6 +1306,13 @@
       "pattern": " PodcastDownloader/",
       "examples": [
         "Mozilla/5.0 (compatible; PodcastDownloader/1.0)"
+      ]
+    },
+    {
+      "name": "PodcastPipeline",
+      "pattern": "^PodcastPipeline/",
+      "examples": [
+        "PodcastPipeline/1.0"
       ]
     },
     {
@@ -1841,11 +1890,25 @@
       ]
     },
     {
+      "name": "SummarizeCasts",
+      "pattern": "SummarizeCasts-Worker/",
+      "examples": [
+        "Mozilla/5.0 (compatible; SummarizeCasts-Worker/1.0)"
+      ]
+    },
+    {
       "name": "SupportingCast",
       "pattern": "^SupportingCast(/.*)?$",
       "examples": [
         "SupportingCast/1.0",
         "SupportingCast"
+      ]
+    },
+    {
+      "name": "swiperight-pipeline",
+      "pattern": "^swiperight-pipeline/",
+      "examples": [
+        "swiperight-pipeline/0.1"
       ]
     },
     {
@@ -1979,6 +2042,13 @@
       ]
     },
     {
+      "name": "Vercel image optimization",
+      "pattern": "^vercel-image-optimization/",
+      "examples": [
+        "vercel-image-optimization/1.0"
+      ]
+    },
+    {
       "name": "Vercel screenshot",
       "pattern": "^vercel-screenshot/",
       "examples": [
@@ -2015,6 +2085,13 @@
       "pattern": "^weborama-fetcher",
       "examples": [
         "weborama-fetcher (+http://www.weborama.com)"
+      ]
+    },
+    {
+      "name": "WhisperProxy",
+      "pattern": " WhisperProxy/",
+      "examples": [
+        "Mozilla/5.0 (compatible; WhisperProxy/1.0)"
       ]
     },
     {
