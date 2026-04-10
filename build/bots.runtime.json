@@ -133,6 +133,10 @@
       "pattern": "^Beacon/\\d"
     },
     {
+      "name": "Beehiiv podcast importer",
+      "pattern": "^beehiiv-podcast-importer/"
+    },
+    {
       "name": "British Library",
       "pattern": "^bl\\.uk_ldfc_bot"
     },
@@ -175,6 +179,10 @@
     {
       "name": "CastFeedValidator",
       "pattern": "^CastFeedValidator/"
+    },
+    {
+      "name": "castget",
+      "pattern": "^castget |^castget$"
     },
     {
       "name": "Castopod",
@@ -227,6 +235,10 @@
     {
       "name": "dataprovider.com",
       "pattern": "Dataprovider\\.com"
+    },
+    {
+      "name": "data-pipeline-downloader",
+      "pattern": "data-pipeline-downloader/"
     },
     {
       "name": "Daum",
@@ -323,6 +335,10 @@
     {
       "name": "Googlebot",
       "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feed[fF]etcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$"
+    },
+    {
+      "name": "GuestPrimer",
+      "pattern": "^GuestPrimer/"
     },
     {
       "name": "Gumball",
@@ -585,6 +601,10 @@
       "pattern": "^Podcatcher Bot 1.0"
     },
     {
+      "name": "PodcastDL",
+      "pattern": "^PodcastDL/"
+    },
+    {
       "name": "Podchaser Parser",
       "pattern": "^PodchaserParser/"
     },
@@ -595,6 +615,10 @@
     {
       "name": "PodcastDownloader",
       "pattern": " PodcastDownloader/"
+    },
+    {
+      "name": "PodcastPipeline",
+      "pattern": "^PodcastPipeline/"
     },
     {
       "name": "podcast-shard-downloader",
@@ -865,8 +889,16 @@
       "pattern": "^SubstackContentFetch/"
     },
     {
+      "name": "SummarizeCasts",
+      "pattern": "SummarizeCasts-Worker/"
+    },
+    {
       "name": "SupportingCast",
       "pattern": "^SupportingCast(/.*)?$"
+    },
+    {
+      "name": "swiperight-pipeline",
+      "pattern": "^swiperight-pipeline/"
     },
     {
       "name": "Taddy Podcast API",
@@ -937,6 +969,10 @@
       "pattern": "TTD-Content"
     },
     {
+      "name": "Vercel image optimization",
+      "pattern": "^vercel-image-optimization/"
+    },
+    {
       "name": "Vercel screenshot",
       "pattern": "^vercel-screenshot/"
     },
@@ -955,6 +991,10 @@
     {
       "name": "weborama",
       "pattern": "^weborama-fetcher"
+    },
+    {
+      "name": "WhisperProxy",
+      "pattern": " WhisperProxy/"
     },
     {
       "name": "Windows Crawler",

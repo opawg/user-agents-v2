@@ -736,12 +736,6 @@
       ]
     },
     {
-      "name": "castget",
-      "examples": [
-        "castget 1.2.4 (castget rss enclosure downloader)"
-      ]
-    },
-    {
       "name": "Castro",
       "examples": [
         "Castro 2019.13/1167",

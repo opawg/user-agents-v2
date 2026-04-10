@@ -186,6 +186,12 @@
       ]
     },
     {
+      "name": "Beehiiv podcast importer",
+      "examples": [
+        "beehiiv-podcast-importer/1.0"
+      ]
+    },
+    {
       "name": "British Library",
       "examples": [
         "bl.uk_ldfc_bot/3.4.0-20200518 ( http://www.bl.uk/aboutus/legaldeposit/websites/websites/faqswebmaster/index.html)"
@@ -253,6 +259,13 @@
       ]
     },
     {
+      "name": "castget",
+      "examples": [
+        "castget 1.2.4 (castget rss enclosure downloader)",
+        "castget"
+      ]
+    },
+    {
       "name": "Castopod",
       "examples": [
         "Castopod/1.0",
@@ -313,6 +326,12 @@
       "name": "dataprovider.com",
       "examples": [
         "Mozilla/5.0 (compatible; Dataprovider.com)"
+      ]
+    },
+    {
+      "name": "data-pipeline-downloader",
+      "examples": [
+        "Mozilla/5.0 (compatible; data-pipeline-downloader/1.0)"
       ]
     },
     {
@@ -448,6 +467,12 @@
         "Googlebot-News Audio",
         "Google-Safety",
         "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
+      ]
+    },
+    {
+      "name": "GuestPrimer",
+      "examples": [
+        "GuestPrimer/1.0"
       ]
     },
     {
@@ -828,6 +853,12 @@
       ]
     },
     {
+      "name": "PodcastDL",
+      "examples": [
+        "PodcastDL/1.0 (+https://github.com/podcast-dl)"
+      ]
+    },
+    {
       "name": "Podchaser Parser",
       "examples": [
         "PodchaserParser/2.0 (https://podchaser.com)"
@@ -843,6 +874,12 @@
       "name": "PodcastDownloader",
       "examples": [
         "Mozilla/5.0 (compatible; PodcastDownloader/1.0)"
+      ]
+    },
+    {
+      "name": "PodcastPipeline",
+      "examples": [
+        "PodcastPipeline/1.0"
       ]
     },
     {
@@ -1211,10 +1248,22 @@
       ]
     },
     {
+      "name": "SummarizeCasts",
+      "examples": [
+        "Mozilla/5.0 (compatible; SummarizeCasts-Worker/1.0)"
+      ]
+    },
+    {
       "name": "SupportingCast",
       "examples": [
         "SupportingCast/1.0",
         "SupportingCast"
+      ]
+    },
+    {
+      "name": "swiperight-pipeline",
+      "examples": [
+        "swiperight-pipeline/0.1"
       ]
     },
     {
@@ -1302,6 +1351,12 @@
       ]
     },
     {
+      "name": "Vercel image optimization",
+      "examples": [
+        "vercel-image-optimization/1.0"
+      ]
+    },
+    {
       "name": "Vercel screenshot",
       "examples": [
         "vercel-screenshot/1.0"
@@ -1323,6 +1378,12 @@
       "name": "weborama",
       "examples": [
         "weborama-fetcher (+http://www.weborama.com)"
+      ]
+    },
+    {
+      "name": "WhisperProxy",
+      "examples": [
+        "Mozilla/5.0 (compatible; WhisperProxy/1.0)"
       ]
     },
     {

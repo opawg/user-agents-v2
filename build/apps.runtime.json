@@ -449,10 +449,6 @@
       "pattern": "^castero \\d"
     },
     {
-      "name": "castget",
-      "pattern": "^castget "
-    },
-    {
       "name": "Castro",
       "pattern": "^Castro[/ ]"
     },
