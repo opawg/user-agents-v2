@@ -717,6 +717,13 @@
       ]
     },
     {
+      "name": "gpt-in-mind-podcasts",
+      "pattern": "^gpt-in-mind-podcasts",
+      "examples": [
+        "gpt-in-mind-podcasts-v2/0.1 (research)"
+      ]
+    },
+    {
       "name": "GuestPrimer",
       "pattern": "^GuestPrimer/",
       "examples": [
@@ -1736,6 +1743,13 @@
     {
       "name": "RSSRadio",
       "pattern": "^RSSRadio \\("
+    },
+    {
+      "name": "Rstudio",
+      "pattern": "^RStudio Desktop",
+      "examples": [
+        "RStudio Desktop (2025.5.1.513); R (4.5.1 aarch64-apple-darwin20 aarch64 darwin20)"
+      ]
     },
     {
       "name": "Ruby Mechanize",
