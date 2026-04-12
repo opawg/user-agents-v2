@@ -2053,6 +2053,10 @@
       "pattern": "^VLC/\\d"
     },
     {
+      "name": "Vo",
+      "pattern": "^Vo/"
+    },
+    {
       "name": "Vodacast",
       "pattern": "^Vodacast"
     },

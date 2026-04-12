@@ -337,6 +337,10 @@
       "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feed[fF]etcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$"
     },
     {
+      "name": "gpt-in-mind-podcasts",
+      "pattern": "^gpt-in-mind-podcasts"
+    },
+    {
       "name": "GuestPrimer",
       "pattern": "^GuestPrimer/"
     },
@@ -811,6 +815,10 @@
     {
       "name": "RSSRadio",
       "pattern": "^RSSRadio \\("
+    },
+    {
+      "name": "Rstudio",
+      "pattern": "^RStudio Desktop"
     },
     {
       "name": "Ruby Mechanize",

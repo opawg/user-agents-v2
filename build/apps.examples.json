@@ -3329,6 +3329,12 @@
       ]
     },
     {
+      "name": "Vo",
+      "examples": [
+        "Vo/1.0 (Podcast Player; +https://vo.fm)"
+      ]
+    },
+    {
       "name": "Voiz FM",
       "examples": [
         "Voiz FM/10.1.0 (Linux;Android 8.1.0) ExoPlayerLib/2.9.3"
