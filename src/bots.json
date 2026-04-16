@@ -875,6 +875,13 @@
       ]
     },
     {
+      "name": "LinuxGetUrl",
+      "pattern": "^LinuxGetUrl/\\d",
+      "examples": [
+        "LinuxGetUrl/2.0 closedaiengine@umich.edu (Linux)"
+      ]
+    },
+    {
       "name": "Livelap Crawler",
       "pattern": "LivelapBot"
     },
@@ -1341,6 +1348,13 @@
       "pattern": "^PodcastWorker/",
       "examples": [
         "PodcastWorker/1.0"
+      ]
+    },
+    {
+      "name": "podcasts ai local transcribe",
+      "pattern": "^podcasts-ai-local-transcribe/",
+      "examples": [
+        "podcasts-ai-local-transcribe/1.0"
       ]
     },
     {
@@ -1842,6 +1856,16 @@
       ]
     },
     {
+      "name": "slopsearch",
+      "pattern": "^slopsearch/",
+      "examples": [
+        "slopsearch/1.0 (+https://search.sloppy.at/about)"
+      ],
+      "urls": [
+        "https://search.sloppy.at/about"
+      ]
+    },
+    {
       "name": "Snapchat Bot",
       "pattern": "://developers\\.snap\\.com/robots",
       "examples": [
@@ -1882,6 +1906,13 @@
       ],
       "urls": [
         "https://speechischeap.com/"
+      ]
+    },
+    {
+      "name": "SPoRC Research Downloader",
+      "pattern": "^SPoRC-Research-Downloader/",
+      "examples": [
+        "SPoRC-Research-Downloader/1.0"
       ]
     },
     {
@@ -1979,6 +2010,13 @@
       "pattern": "^Triton Digital Podcast Sync$",
       "examples": [
         "Triton Digital Podcast Sync"
+      ]
+    },
+    {
+      "name": "truename podcast transcriber",
+      "pattern": "^truename-podcast-transcriber/",
+      "examples": [
+        "truename-podcast-transcriber/1.0"
       ]
     },
     {
