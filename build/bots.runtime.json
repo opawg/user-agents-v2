@@ -409,6 +409,10 @@
       "pattern": "^LinkPreview/\\d"
     },
     {
+      "name": "LinuxGetUrl",
+      "pattern": "^LinuxGetUrl/\\d"
+    },
+    {
       "name": "Livelap Crawler",
       "pattern": "LivelapBot"
     },
@@ -635,6 +639,10 @@
     {
       "name": "PodcastWorker",
       "pattern": "^PodcastWorker/"
+    },
+    {
+      "name": "podcasts ai local transcribe",
+      "pattern": "^podcasts-ai-local-transcribe/"
     },
     {
       "name": "PodCloud",
@@ -865,6 +873,10 @@
       "pattern": "^Slackbot 1\\.0"
     },
     {
+      "name": "slopsearch",
+      "pattern": "^slopsearch/"
+    },
+    {
       "name": "Snapchat Bot",
       "pattern": "://developers\\.snap\\.com/robots"
     },
@@ -883,6 +895,10 @@
     {
       "name": "Speech is Cheap",
       "pattern": "speechischeap\\.com"
+    },
+    {
+      "name": "SPoRC Research Downloader",
+      "pattern": "^SPoRC-Research-Downloader/"
     },
     {
       "name": "Spotify cache service",
@@ -935,6 +951,10 @@
     {
       "name": "Triton Digital Podcast Sync",
       "pattern": "^Triton Digital Podcast Sync$"
+    },
+    {
+      "name": "truename podcast transcriber",
+      "pattern": "^truename-podcast-transcriber/"
     },
     {
       "name": "TurnitinBot",
