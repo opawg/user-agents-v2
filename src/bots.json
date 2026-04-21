@@ -403,6 +403,16 @@
       ]
     },
     {
+      "name": "Castnews",
+      "pattern": "^Castnews-Topiker/",
+      "examples": [
+        "Castnews-Topiker/1.0 (+https://index.castnews.com.br)"
+      ],
+      "urls": [
+        "https://index.castnews.com.br"
+      ]
+    },
+    {
       "name": "Castopod",
       "pattern": "Castopod/\\d",
       "examples": [
@@ -460,6 +470,13 @@
       ],
       "urls": [
         "https://www.comscore.com/Web-Crawler"
+      ]
+    },
+    {
+      "name": "ContentFlow",
+      "pattern": "^ContentFlow/",
+      "examples": [
+        "ContentFlow/1.0 (Podcast Audio Downloader)"
       ]
     },
     {
@@ -1188,6 +1205,16 @@
       ]
     },
     {
+      "name": "PlayNext",
+      "pattern": " PlayNext/",
+      "examples": [
+        "Mozilla/5.0 (compatible; PlayNext/1.0; +https://playnext.fm)"
+      ],
+      "urls": [
+        "https://playnext.fm"
+      ]
+    },
+    {
       "name": "PodBean Feed Reader",
       "pattern": "^PodbeanFeedReader",
       "examples": [
@@ -1247,9 +1274,10 @@
     },
     {
       "name": "Podcast Downloader",
-      "pattern": "^podcast-downloader$",
+      "pattern": "^podcast-downloader$| podcast-downloader/",
       "examples": [
-        "podcast-downloader"
+        "podcast-downloader",
+        "Mozilla/5.0 (compatible; podcast-downloader/1.0)"
       ]
     },
     {
@@ -1257,6 +1285,13 @@
       "pattern": "^podcast-go-audio-downloader/",
       "examples": [
         "podcast-go-audio-downloader/2.0"
+      ]
+    },
+    {
+      "name": "PodcastIndexer",
+      "pattern": " PodcastIndexer/\\d",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastIndexer/1.0)"
       ]
     },
     {
@@ -1320,6 +1355,13 @@
       "pattern": " PodcastDownloader/",
       "examples": [
         "Mozilla/5.0 (compatible; PodcastDownloader/1.0)"
+      ]
+    },
+    {
+      "name": "podcast-grabber",
+      "pattern": "^podcast-grabber/",
+      "examples": [
+        "podcast-grabber/0.1.0"
       ]
     },
     {
