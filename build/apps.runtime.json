@@ -1365,6 +1365,10 @@
       "pattern": "^Metacast/| \\+metacast\\.app"
     },
     {
+      "name": "Micropod",
+      "pattern": "^Micropod/"
+    },
+    {
       "name": "Microsoft Outlook",
       "pattern": "^Outlook-Android/|^Microsoft Office/.*?Microsoft Outlook"
     },

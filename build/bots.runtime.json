@@ -185,6 +185,10 @@
       "pattern": "^castget |^castget$"
     },
     {
+      "name": "Castnews",
+      "pattern": "^Castnews-Topiker/"
+    },
+    {
       "name": "Castopod",
       "pattern": "Castopod/\\d"
     },
@@ -211,6 +215,10 @@
     {
       "name": "Comscore Crawler",
       "pattern": "https://www\\.comscore\\.com"
+    },
+    {
+      "name": "ContentFlow",
+      "pattern": "^ContentFlow/"
     },
     {
       "name": "Critical Mention",
@@ -561,6 +569,10 @@
       "pattern": "PlayerFM/.* Podcast Sync"
     },
     {
+      "name": "PlayNext",
+      "pattern": " PlayNext/"
+    },
+    {
       "name": "PodBean Feed Reader",
       "pattern": "^PodbeanFeedReader"
     },
@@ -586,11 +598,15 @@
     },
     {
       "name": "Podcast Downloader",
-      "pattern": "^podcast-downloader$"
+      "pattern": "^podcast-downloader$| podcast-downloader/"
     },
     {
       "name": "Podcast Go Audio Downloader",
       "pattern": "^podcast-go-audio-downloader/"
+    },
+    {
+      "name": "PodcastIndexer",
+      "pattern": " PodcastIndexer/\\d"
     },
     {
       "name": "PodcastTranslator",
@@ -623,6 +639,10 @@
     {
       "name": "PodcastDownloader",
       "pattern": " PodcastDownloader/"
+    },
+    {
+      "name": "podcast-grabber",
+      "pattern": "^podcast-grabber/"
     },
     {
       "name": "PodcastPipeline",
