@@ -804,7 +804,9 @@
     {
       "name": "PlayNext",
       "examples": [
-        "Mozilla/5.0 (compatible; PlayNext/1.0; +https://playnext.fm)"
+        "Mozilla/5.0 (compatible; PlayNext/1.0; +https://playnext.fm)",
+        "playnext-tier1/0.1",
+        "playnext-t3/0.1"
       ]
     },
     {
@@ -923,6 +925,12 @@
       "name": "PodcastPipeline",
       "examples": [
         "PodcastPipeline/1.0"
+      ]
+    },
+    {
+      "name": "podcast-renamer",
+      "examples": [
+        "Mozilla/5.0 (compatible; podcast-renamer/1.0)"
       ]
     },
     {
@@ -1306,6 +1314,12 @@
       "name": "Spotify cache service",
       "examples": [
         "Spotify/1.0"
+      ]
+    },
+    {
+      "name": "spotify-rss-whisper-pipeline",
+      "examples": [
+        "spotify-rss-whisper-pipeline/0.1 (Windows local batch downloader/transcriber)"
       ]
     },
     {

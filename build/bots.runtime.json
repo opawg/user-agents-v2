@@ -570,7 +570,7 @@
     },
     {
       "name": "PlayNext",
-      "pattern": " PlayNext/"
+      "pattern": " PlayNext/|^playnext-"
     },
     {
       "name": "PodBean Feed Reader",
@@ -647,6 +647,10 @@
     {
       "name": "PodcastPipeline",
       "pattern": "^PodcastPipeline/"
+    },
+    {
+      "name": "podcast-renamer",
+      "pattern": " podcast-renamer/"
     },
     {
       "name": "podcast-shard-downloader",
@@ -923,6 +927,10 @@
     {
       "name": "Spotify cache service",
       "pattern": "^Spotify/1\\.0$"
+    },
+    {
+      "name": "spotify-rss-whisper-pipeline",
+      "pattern": "^spotify-rss-whisper-pipeline/"
     },
     {
       "name": "Stitcher Bot",
