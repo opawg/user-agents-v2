@@ -1206,9 +1206,11 @@
     },
     {
       "name": "PlayNext",
-      "pattern": " PlayNext/",
+      "pattern": " PlayNext/|^playnext-",
       "examples": [
-        "Mozilla/5.0 (compatible; PlayNext/1.0; +https://playnext.fm)"
+        "Mozilla/5.0 (compatible; PlayNext/1.0; +https://playnext.fm)",
+        "playnext-tier1/0.1",
+        "playnext-t3/0.1"
       ],
       "urls": [
         "https://playnext.fm"
@@ -1369,6 +1371,13 @@
       "pattern": "^PodcastPipeline/",
       "examples": [
         "PodcastPipeline/1.0"
+      ]
+    },
+    {
+      "name": "podcast-renamer",
+      "pattern": " podcast-renamer/",
+      "examples": [
+        "Mozilla/5.0 (compatible; podcast-renamer/1.0)"
       ]
     },
     {
@@ -1963,6 +1972,13 @@
       "comments": "This useragent, currently simply Spotify/1.0, is used when retrieving the RSS and audio for Spotify's catalogue. It isn't used for passthru.",
       "examples": [
         "Spotify/1.0"
+      ]
+    },
+    {
+      "name": "spotify-rss-whisper-pipeline",
+      "pattern": "^spotify-rss-whisper-pipeline/",
+      "examples": [
+        "spotify-rss-whisper-pipeline/0.1 (Windows local batch downloader/transcriber)"
       ]
     },
     {
