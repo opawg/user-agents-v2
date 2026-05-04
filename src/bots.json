@@ -198,6 +198,13 @@
       ]
     },
     {
+      "name": "atlas-transcribe",
+      "pattern": "^atlas-transcribe/",
+      "examples": [
+        "atlas-transcribe/1.0"
+      ]
+    },
+    {
       "name": "Audacy Creator Lab Hosting",
       "pattern": "^Audacy Creator Lab Hosting/",
       "examples": [
@@ -223,6 +230,13 @@
       "pattern": "^Audiomack Podcast Processor/",
       "examples": [
         "Audiomack Podcast Processor/1.0 (https://audiomack.com/)"
+      ]
+    },
+    {
+      "name": "audio-sanity-check",
+      "pattern": "^audio-sanity-check/",
+      "examples": [
+        "audio-sanity-check/1.0"
       ]
     },
     {
@@ -453,6 +467,13 @@
       ]
     },
     {
+      "name": "clipgenie-service-worker",
+      "pattern": "^clipgenie-service-worker$",
+      "examples": [
+        "clipgenie-service-worker"
+      ]
+    },
+    {
       "name": "Cloudflare SSL detector",
       "pattern": "^Cloudflare-SSLDetector",
       "examples": [
@@ -477,6 +498,13 @@
       "pattern": "^ContentFlow/",
       "examples": [
         "ContentFlow/1.0 (Podcast Audio Downloader)"
+      ]
+    },
+    {
+      "name": "ConduitMCP",
+      "pattern": "^ConduitMCP/",
+      "examples": [
+        "ConduitMCP/1.0 (+Lab36)"
       ]
     },
     {
@@ -913,6 +941,13 @@
       ]
     },
     {
+      "name": "llmfeed",
+      "pattern": "^llmfeed/",
+      "examples": [
+        "llmfeed/2.0 (+https://github.com/llmfeed)"
+      ]
+    },
+    {
       "name": "LTX71",
       "pattern": "^ltx71 ",
       "description": "We continuously scan the internet for security research purposes.",
@@ -1232,7 +1267,7 @@
     },
     {
       "name": "Podcastindex.org",
-      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/",
+      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/|^PodcastIndex Classifier/",
       "svg": "podcast-index.svg",
       "urls": [
         "https://podcastindex.org/"
@@ -1240,7 +1275,8 @@
       "examples": [
         "Podcastindex.org/v0.3.3 (Aggrivate)",
         "Aggrivator (PodcastIndex.org)/v0.1.7",
-        "PodcastIndexManager/1.0"
+        "PodcastIndexManager/1.0",
+        "PodcastIndex Classifier/1.0"
       ]
     },
     {
@@ -1280,6 +1316,13 @@
       "examples": [
         "podcast-downloader",
         "Mozilla/5.0 (compatible; podcast-downloader/1.0)"
+      ]
+    },
+    {
+      "name": "PodcastFeedAnalyzer",
+      "pattern": "^PodcastFeedAnalyzer/",
+      "examples": [
+        "PodcastFeedAnalyzer/1.0"
       ]
     },
     {
@@ -1330,9 +1373,10 @@
     },
     {
       "name": "PodcastDL",
-      "pattern": "^PodcastDL/",
+      "pattern": "^(PodcastDL|podcastdl)/",
       "examples": [
-        "PodcastDL/1.0 (+https://github.com/podcast-dl)"
+        "PodcastDL/1.0 (+https://github.com/podcast-dl)",
+        "podcastdl/1.0 (+https://github.com/)"
       ],
       "urls": [
         "https://github.com/podcast-dl"
@@ -1360,6 +1404,13 @@
       ]
     },
     {
+      "name": "podcast-download-worker",
+      "pattern": "^podcast-download-worker/",
+      "examples": [
+        "podcast-download-worker/1.0"
+      ]
+    },
+    {
       "name": "podcast-grabber",
       "pattern": "^podcast-grabber/",
       "examples": [
@@ -1374,6 +1425,13 @@
       ]
     },
     {
+      "name": "podcast-preflight",
+      "pattern": "^podcast-preflight/",
+      "examples": [
+        "podcast-preflight/1.0"
+      ]
+    },
+    {
       "name": "podcast-renamer",
       "pattern": " podcast-renamer/",
       "examples": [
@@ -1385,6 +1443,13 @@
       "pattern": "^podcast-shard-downloader/",
       "examples": [
         "podcast-shard-downloader/1.0"
+      ]
+    },
+    {
+      "name": "podcast-stt",
+      "pattern": "^podcast-stt/",
+      "examples": [
+        "podcast-stt/1.0"
       ]
     },
     {
