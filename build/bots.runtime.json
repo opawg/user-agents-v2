@@ -85,6 +85,10 @@
       "pattern": "^atheerfm/"
     },
     {
+      "name": "atlas-transcribe",
+      "pattern": "^atlas-transcribe/"
+    },
+    {
       "name": "Audacy Creator Lab Hosting",
       "pattern": "^Audacy Creator Lab Hosting/"
     },
@@ -99,6 +103,10 @@
     {
       "name": "Audiomack",
       "pattern": "^Audiomack Podcast Processor/"
+    },
+    {
+      "name": "audio-sanity-check",
+      "pattern": "^audio-sanity-check/"
     },
     {
       "name": "Audioscrape",
@@ -209,6 +217,10 @@
       "pattern": "ClaudeBot/"
     },
     {
+      "name": "clipgenie-service-worker",
+      "pattern": "^clipgenie-service-worker$"
+    },
+    {
       "name": "Cloudflare SSL detector",
       "pattern": "^Cloudflare-SSLDetector"
     },
@@ -219,6 +231,10 @@
     {
       "name": "ContentFlow",
       "pattern": "^ContentFlow/"
+    },
+    {
+      "name": "ConduitMCP",
+      "pattern": "^ConduitMCP/"
     },
     {
       "name": "Critical Mention",
@@ -429,6 +445,10 @@
       "pattern": "^ListenNotes/3\\.0 \\("
     },
     {
+      "name": "llmfeed",
+      "pattern": "^llmfeed/"
+    },
+    {
       "name": "LTX71",
       "pattern": "^ltx71 "
     },
@@ -582,7 +602,7 @@
     },
     {
       "name": "Podcastindex.org",
-      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/"
+      "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/|^PodcastIndex Classifier/"
     },
     {
       "name": "Podcast de facto Standard",
@@ -599,6 +619,10 @@
     {
       "name": "Podcast Downloader",
       "pattern": "^podcast-downloader$| podcast-downloader/"
+    },
+    {
+      "name": "PodcastFeedAnalyzer",
+      "pattern": "^PodcastFeedAnalyzer/"
     },
     {
       "name": "Podcast Go Audio Downloader",
@@ -626,7 +650,7 @@
     },
     {
       "name": "PodcastDL",
-      "pattern": "^PodcastDL/"
+      "pattern": "^(PodcastDL|podcastdl)/"
     },
     {
       "name": "Podchaser Parser",
@@ -641,6 +665,10 @@
       "pattern": " PodcastDownloader/"
     },
     {
+      "name": "podcast-download-worker",
+      "pattern": "^podcast-download-worker/"
+    },
+    {
       "name": "podcast-grabber",
       "pattern": "^podcast-grabber/"
     },
@@ -649,12 +677,20 @@
       "pattern": "^PodcastPipeline/"
     },
     {
+      "name": "podcast-preflight",
+      "pattern": "^podcast-preflight/"
+    },
+    {
       "name": "podcast-renamer",
       "pattern": " podcast-renamer/"
     },
     {
       "name": "podcast-shard-downloader",
       "pattern": "^podcast-shard-downloader/"
+    },
+    {
+      "name": "podcast-stt",
+      "pattern": "^podcast-stt/"
     },
     {
       "name": "PodcastTranscriber",

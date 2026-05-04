@@ -1697,6 +1697,10 @@
       "pattern": "^Pratilipi FM/\\d"
     },
     {
+      "name": "PrestoCast",
+      "pattern": "^PrestoCast/"
+    },
+    {
       "name": "ProCast",
       "pattern": "^Pro[Cc]ast/\\d|^com\\.podflitzer\\.android/\\d|^Procast \\("
     },

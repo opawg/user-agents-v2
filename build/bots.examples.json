@@ -120,6 +120,12 @@
       ]
     },
     {
+      "name": "atlas-transcribe",
+      "examples": [
+        "atlas-transcribe/1.0"
+      ]
+    },
+    {
       "name": "Audacy Creator Lab Hosting",
       "examples": [
         "Audacy Creator Lab Hosting/1.0"
@@ -141,6 +147,12 @@
       "name": "Audiomack",
       "examples": [
         "Audiomack Podcast Processor/1.0 (https://audiomack.com/)"
+      ]
+    },
+    {
+      "name": "audio-sanity-check",
+      "examples": [
+        "audio-sanity-check/1.0"
       ]
     },
     {
@@ -291,6 +303,12 @@
       ]
     },
     {
+      "name": "clipgenie-service-worker",
+      "examples": [
+        "clipgenie-service-worker"
+      ]
+    },
+    {
       "name": "Cloudflare SSL detector",
       "examples": [
         "Cloudflare-SSLDetector"
@@ -306,6 +324,12 @@
       "name": "ContentFlow",
       "examples": [
         "ContentFlow/1.0 (Podcast Audio Downloader)"
+      ]
+    },
+    {
+      "name": "ConduitMCP",
+      "examples": [
+        "ConduitMCP/1.0 (+Lab36)"
       ]
     },
     {
@@ -600,6 +624,12 @@
       ]
     },
     {
+      "name": "llmfeed",
+      "examples": [
+        "llmfeed/2.0 (+https://github.com/llmfeed)"
+      ]
+    },
+    {
       "name": "LTX71",
       "examples": [
         "ltx71 - (http://ltx71.com/)"
@@ -826,7 +856,8 @@
       "examples": [
         "Podcastindex.org/v0.3.3 (Aggrivate)",
         "Aggrivator (PodcastIndex.org)/v0.1.7",
-        "PodcastIndexManager/1.0"
+        "PodcastIndexManager/1.0",
+        "PodcastIndex Classifier/1.0"
       ]
     },
     {
@@ -852,6 +883,12 @@
       "examples": [
         "podcast-downloader",
         "Mozilla/5.0 (compatible; podcast-downloader/1.0)"
+      ]
+    },
+    {
+      "name": "PodcastFeedAnalyzer",
+      "examples": [
+        "PodcastFeedAnalyzer/1.0"
       ]
     },
     {
@@ -894,7 +931,8 @@
     {
       "name": "PodcastDL",
       "examples": [
-        "PodcastDL/1.0 (+https://github.com/podcast-dl)"
+        "PodcastDL/1.0 (+https://github.com/podcast-dl)",
+        "podcastdl/1.0 (+https://github.com/)"
       ]
     },
     {
@@ -916,6 +954,12 @@
       ]
     },
     {
+      "name": "podcast-download-worker",
+      "examples": [
+        "podcast-download-worker/1.0"
+      ]
+    },
+    {
       "name": "podcast-grabber",
       "examples": [
         "podcast-grabber/0.1.0"
@@ -928,6 +972,12 @@
       ]
     },
     {
+      "name": "podcast-preflight",
+      "examples": [
+        "podcast-preflight/1.0"
+      ]
+    },
+    {
       "name": "podcast-renamer",
       "examples": [
         "Mozilla/5.0 (compatible; podcast-renamer/1.0)"
@@ -937,6 +987,12 @@
       "name": "podcast-shard-downloader",
       "examples": [
         "podcast-shard-downloader/1.0"
+      ]
+    },
+    {
+      "name": "podcast-stt",
+      "examples": [
+        "podcast-stt/1.0"
       ]
     },
     {
