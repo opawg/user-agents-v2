@@ -1698,7 +1698,7 @@
     },
     {
       "name": "PrestoCast",
-      "pattern": "^PrestoCast/"
+      "pattern": "^(PrestoCast|PrestoCastDev)/"
     },
     {
       "name": "ProCast",
@@ -2035,6 +2035,10 @@
     {
       "name": "Updates",
       "pattern": "^Updates/"
+    },
+    {
+      "name": "Up Next",
+      "pattern": "^UpNext/"
     },
     {
       "name": "uTorrent",

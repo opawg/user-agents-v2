@@ -413,6 +413,14 @@
       "pattern": "^Jamit/1\\.0$"
     },
     {
+      "name": "kidou-downloader",
+      "pattern": " kidou-downloader/"
+    },
+    {
+      "name": "KutPod Importer",
+      "pattern": "^KutPod-Importer/"
+    },
+    {
       "name": "l'Institut national de l'audiovisuel",
       "pattern": "INA dlweb"
     },
@@ -623,6 +631,10 @@
     {
       "name": "PodcastFeedAnalyzer",
       "pattern": "^PodcastFeedAnalyzer/"
+    },
+    {
+      "name": "PodcastFetcher",
+      "pattern": "^Mozilla.* PodcastFetcher/"
     },
     {
       "name": "Podcast Go Audio Downloader",
@@ -1039,6 +1051,10 @@
     {
       "name": "UCast",
       "pattern": "^UCast/"
+    },
+    {
+      "name": "UniversalFeedParser",
+      "pattern": "^UniversalFeedParser/"
     },
     {
       "name": "UptimeRobot",

@@ -588,6 +588,18 @@
       ]
     },
     {
+      "name": "kidou-downloader",
+      "examples": [
+        "Mozilla/5.0 (compatible; kidou-downloader/1.0)"
+      ]
+    },
+    {
+      "name": "KutPod Importer",
+      "examples": [
+        "KutPod-Importer/1.0 (+https://kutpod.io)"
+      ]
+    },
+    {
       "name": "Library and Archives Canada",
       "examples": [
         "Mozilla/5.0 (compatible; LAC_IAHarvester/3.3.0; +https://library-archives.canada.ca/eng/services/government-canada/web-social-media-preservation-program/Pages/web-archive.aspx)"
@@ -889,6 +901,12 @@
       "name": "PodcastFeedAnalyzer",
       "examples": [
         "PodcastFeedAnalyzer/1.0"
+      ]
+    },
+    {
+      "name": "PodcastFetcher",
+      "examples": [
+        "Mozilla/5.0 (compatible; PodcastFetcher/1.0)"
       ]
     },
     {
@@ -1461,6 +1479,12 @@
       "name": "UCast",
       "examples": [
         "UCast/1.0 Podcast Sync (1 subscribers; feed-id=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yMDg0OTQucnNzEAEBAD32-0242-42AC-8583-21E9BAD8C544; +http://www.ucastapp.com/)"
+      ]
+    },
+    {
+      "name": "UniversalFeedParser",
+      "examples": [
+        "UniversalFeedParser/3.3 +http://feedparser.org/"
       ]
     },
     {
