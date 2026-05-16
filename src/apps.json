@@ -3778,9 +3778,10 @@
     },
     {
       "name": "PrestoCast",
-      "pattern": "^PrestoCast/",
+      "pattern": "^(PrestoCast|PrestoCastDev)/",
       "examples": [
-        "PrestoCast/26 CFNetwork/3860.500.112 Darwin/25.4.0"
+        "PrestoCast/26 CFNetwork/3860.500.112 Darwin/25.4.0",
+        "PrestoCastDev/1 CFNetwork/3860.400.51 Darwin/25.3.0"
       ],
       "urls": [
         "https://prestocast.com/",
@@ -4632,6 +4633,17 @@
       "pattern": "^Updates/",
       "examples": [
         "Updates/1.10 (+https://getupdates.app/; iOS podcast app)"
+      ]
+    },
+    {
+      "name": "Up Next",
+      "pattern": "^UpNext/",
+      "examples": [
+        "UpNext/18 CFNetwork/3860.600.12 Darwin/25.5.0",
+        "UpNext/15 CFNetwork/3860.500.112 Darwin/25.4.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/up-next-podcast-client/id6477821584"
       ]
     },
     {
