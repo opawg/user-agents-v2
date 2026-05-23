@@ -2349,6 +2349,14 @@
       "pattern": "YandexBot/"
     },
     {
+      "name": "yushi-podcast-catalog",
+      "pattern": "^yushi-podcast-catalog/",
+      "examples": [
+        "yushi-podcast-catalog/1.0 (+apple-search-api-policy-first)"
+      ],
+      "comments": "Coming from Microsoft ips"
+    },
+    {
       "name": "Zapier",
       "pattern": "^Zapier$",
       "examples": [
