@@ -1133,6 +1133,10 @@
       "pattern": "YandexBot/"
     },
     {
+      "name": "yushi-podcast-catalog",
+      "pattern": "^yushi-podcast-catalog/"
+    },
+    {
       "name": "Zapier",
       "pattern": "^Zapier$"
     },

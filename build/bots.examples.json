@@ -1585,6 +1585,12 @@
       ]
     },
     {
+      "name": "yushi-podcast-catalog",
+      "examples": [
+        "yushi-podcast-catalog/1.0 (+apple-search-api-policy-first)"
+      ]
+    },
+    {
       "name": "Zapier",
       "examples": [
         "Zapier"
