@@ -1228,6 +1228,16 @@
       ]
     },
     {
+      "name": "parc",
+      "pattern": "^parc/\\d",
+      "examples": [
+        "parc/0.1.0"
+      ],
+      "urls": [
+        "https://github.com/luntta/parc"
+      ]
+    },
+    {
       "name": "PetalBot",
       "pattern": "PetalBot",
       "description": "PetalBot is an automatic program of the Petal search engine.",
@@ -1561,6 +1571,16 @@
       ],
       "examples": [
         "Mozilla/5.0 https://podfollow.com/crawling podfollowbot/1.0"
+      ]
+    },
+    {
+      "name": "Podget",
+      "pattern": "^Podget$",
+      "urls": [
+        "https://github.com/dvehrs/podget"
+      ],
+      "examples": [
+        "Podget"
       ]
     },
     {

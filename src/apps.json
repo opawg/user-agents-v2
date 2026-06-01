@@ -1801,6 +1801,16 @@
       ]
     },
     {
+      "name": "Flux Entertainment Center",
+      "pattern": "^Flux Entertainment Center/",
+      "examples": [
+        "Flux Entertainment Center/1.0 (Podcast Player)"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/fluxplayer/id6757675334"
+      ]
+    },
+    {
       "name": "folkebladet.no",
       "pattern": "^folkebladet\\.no/",
       "examples": [
