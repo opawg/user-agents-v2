@@ -841,6 +841,10 @@
       "pattern": " Flipboard/"
     },
     {
+      "name": "Flux Entertainment Center",
+      "pattern": "^Flux Entertainment Center/"
+    },
+    {
       "name": "folkebladet.no",
       "pattern": "^folkebladet\\.no/"
     },

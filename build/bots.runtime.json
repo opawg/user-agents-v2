@@ -581,6 +581,10 @@
       "pattern": "PaperLiBot/"
     },
     {
+      "name": "parc",
+      "pattern": "^parc/\\d"
+    },
+    {
       "name": "PetalBot",
       "pattern": "PetalBot"
     },
@@ -739,6 +743,10 @@
     {
       "name": "Podfollow",
       "pattern": "podfollowbot/"
+    },
+    {
+      "name": "Podget",
+      "pattern": "^Podget$"
     },
     {
       "name": "Podgrab",

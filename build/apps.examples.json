@@ -1346,6 +1346,12 @@
       ]
     },
     {
+      "name": "Flux Entertainment Center",
+      "examples": [
+        "Flux Entertainment Center/1.0 (Podcast Player)"
+      ]
+    },
+    {
       "name": "folkebladet.no",
       "examples": [
         "folkebladet.no/252 CFNetwork/811.5.4 Darwin/16.7.0"
