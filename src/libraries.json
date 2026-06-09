@@ -311,12 +311,13 @@
     {
       "name": "Java Platform Default",
       "description": "Java platform-provided client default used in the desktop/server runtime",
-      "pattern": "^Java/\\d",
+      "pattern": "^Java(-http-client)?/\\d",
       "examples": [
         "Java/17",
         "Java/21.0.5",
         "Java/11.0.13",
-        "Java/17.0.1"
+        "Java/17.0.1",
+        "Java-http-client/21.0.11"
       ],
       "category": "bot"
     },
@@ -338,6 +339,16 @@
       "comments": "This is the KaiOS Downloader library, and this could refer to any app on this platform",
       "examples": [
         "KaiOS Downloader"
+      ]
+    },
+    {
+      "name": "Ktor (kotlin)",
+      "pattern": "^ktor-client$",
+      "examples": [
+        "ktor-client"
+      ],
+      "urls": [
+        "https://ktor.io/"
       ]
     },
     {

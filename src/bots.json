@@ -582,6 +582,13 @@
       "pattern": "^Deezer Podcasters/1\\.0"
     },
     {
+      "name": "DIFTCL-AnchorAudit",
+      "pattern": "^DIFTCL-AnchorAudit/",
+      "examples": [
+        "DIFTCL-AnchorAudit/1.0 (+read-only; rate-limited)"
+      ]
+    },
+    {
       "name": "Digg",
       "pattern": "^Digg ",
       "examples": [
@@ -973,6 +980,17 @@
       ],
       "examples": [
         "ltx71 - (http://ltx71.com/)"
+      ]
+    },
+    {
+      "name": "lychee",
+      "pattern": "^lychee/\\d",
+      "description": "Broken link checker",
+      "urls": [
+        "https://lychee.cli.rs/"
+      ],
+      "examples": [
+        "lychee/0.24.2"
       ]
     },
     {
