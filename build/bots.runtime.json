@@ -277,6 +277,10 @@
       "pattern": "^Deezer Podcasters/1\\.0"
     },
     {
+      "name": "DIFTCL-AnchorAudit",
+      "pattern": "^DIFTCL-AnchorAudit/"
+    },
+    {
       "name": "Digg",
       "pattern": "^Digg "
     },
@@ -459,6 +463,10 @@
     {
       "name": "LTX71",
       "pattern": "^ltx71 "
+    },
+    {
+      "name": "lychee",
+      "pattern": "^lychee/\\d"
     },
     {
       "name": "MacOS share menu",

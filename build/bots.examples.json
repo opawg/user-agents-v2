@@ -383,6 +383,12 @@
       ]
     },
     {
+      "name": "DIFTCL-AnchorAudit",
+      "examples": [
+        "DIFTCL-AnchorAudit/1.0 (+read-only; rate-limited)"
+      ]
+    },
+    {
       "name": "Digg",
       "examples": [
         "Digg Mozilla/5.0 (Digg/1.0; support@digg.com)"
@@ -645,6 +651,12 @@
       "name": "LTX71",
       "examples": [
         "ltx71 - (http://ltx71.com/)"
+      ]
+    },
+    {
+      "name": "lychee",
+      "examples": [
+        "lychee/0.24.2"
       ]
     },
     {

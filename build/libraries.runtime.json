@@ -138,7 +138,7 @@
     },
     {
       "name": "Java Platform Default",
-      "pattern": "^Java/\\d",
+      "pattern": "^Java(-http-client)?/\\d",
       "category": "bot"
     },
     {
@@ -148,6 +148,10 @@
     {
       "name": "KaiOS Downloader",
       "pattern": "KaiOS Downloader"
+    },
+    {
+      "name": "Ktor (kotlin)",
+      "pattern": "^ktor-client$"
     },
     {
       "name": "libsoup",

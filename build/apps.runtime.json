@@ -2138,7 +2138,7 @@
     },
     {
       "name": "YouTube Music",
-      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d|^com\\.google\\.ios\\.youtubemusic/"
+      "pattern": "^com\\.google\\.android\\.apps\\.youtube\\.music/|^YouTubeMusic/\\d|^com\\.google\\.ios\\.youtubemusic/|^YouTube Music/\\d"
     },
     {
       "name": "YouTube Music (ReVanced)",
