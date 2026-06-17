@@ -508,7 +508,8 @@
         "google-xrawler",
         "Googlebot-News Audio",
         "Google-Safety",
-        "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
+        "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)",
+        "GoogleOther-Video/1.0"
       ]
     },
     {

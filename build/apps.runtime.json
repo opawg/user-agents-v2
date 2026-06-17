@@ -313,6 +313,10 @@
       "pattern": "iOS BT Hermes/"
     },
     {
+      "name": "BetterCast",
+      "pattern": "^BetterCast/"
+    },
+    {
       "name": "BeyondPod",
       "pattern": "; BeyondPod"
     },
@@ -379,6 +383,10 @@
     {
       "name": "BrewApp",
       "pattern": "^BrewApp/"
+    },
+    {
+      "name": "Brink",
+      "pattern": "^Brink/"
     },
     {
       "name": "Broadcast",
@@ -1711,6 +1719,10 @@
     {
       "name": "PugPig Bolt",
       "pattern": "^PugpigBolt "
+    },
+    {
+      "name": "PulsarCast",
+      "pattern": "^PulsarCast/"
     },
     {
       "name": "PurerPodcasts",

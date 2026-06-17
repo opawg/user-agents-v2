@@ -528,6 +528,12 @@
       ]
     },
     {
+      "name": "BetterCast",
+      "examples": [
+        "BetterCast/842 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ]
+    },
+    {
       "name": "BeyondPod",
       "examples": [
         "Mozilla/5.0 (Linux; U; en-us; BeyondPod 4)"
@@ -619,6 +625,12 @@
       "name": "BrewApp",
       "examples": [
         "BrewApp/262 CFNetwork/975.0.3 Darwin/18.2.0"
+      ]
+    },
+    {
+      "name": "Brink",
+      "examples": [
+        "Brink/1.0 (Podcast Audio Cache)"
       ]
     },
     {
@@ -2769,6 +2781,12 @@
       "examples": [
         "PugpigBolt 2.29.3 (iPhone, iOS 16.1.1) on phone (model iPhone12,1)",
         "PugpigBolt 2.14.7 (samsung, Android 12) on phone (model SM-F721U1)"
+      ]
+    },
+    {
+      "name": "PulsarCast",
+      "examples": [
+        "PulsarCast/24 CFNetwork/3860.600.12 Darwin/25.5.0"
       ]
     },
     {
