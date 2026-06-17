@@ -753,7 +753,7 @@
     },
     {
       "name": "Googlebot",
-      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feed[fF]etcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$",
+      "pattern": "Googlebot/|Googlebot-Video/|Googlebot-Image/|^Feed[fF]etcher-Google|google-xrawler|^Googlebot-News|^Google-Safety$|^GoogleOther-Video/\\d",
       "description": "Google's search bots",
       "urls": [
         "http://www.google.com/bot.html"
@@ -765,7 +765,8 @@
         "google-xrawler",
         "Googlebot-News Audio",
         "Google-Safety",
-        "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)"
+        "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)",
+        "GoogleOther-Video/1.0"
       ]
     },
     {

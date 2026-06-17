@@ -723,6 +723,16 @@
       ]
     },
     {
+      "name": "BetterCast",
+      "pattern": "^BetterCast/",
+      "examples": [
+        "BetterCast/842 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/bettercast-podcast-player/id6759830475"
+      ]
+    },
+    {
       "name": "BeyondPod",
       "pattern": "; BeyondPod",
       "examples": [
@@ -843,6 +853,16 @@
       "pattern": "^BrewApp/",
       "examples": [
         "BrewApp/262 CFNetwork/975.0.3 Darwin/18.2.0"
+      ]
+    },
+    {
+      "name": "Brink",
+      "pattern": "^Brink/",
+      "examples": [
+        "Brink/1.0 (Podcast Audio Cache)"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/brink-podcasts-and-news/id6760338948"
       ]
     },
     {
@@ -3821,6 +3841,16 @@
       ],
       "urls": [
         "https://www.pugpig.com/products-and-services"
+      ]
+    },
+    {
+      "name": "PulsarCast",
+      "pattern": "^PulsarCast/",
+      "examples": [
+        "PulsarCast/24 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ],
+      "urls": [
+        "https://pulsarcast.com/"
       ]
     },
     {
