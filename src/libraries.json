@@ -197,9 +197,10 @@
     },
     {
       "name": "FileDownloader (Android)",
-      "pattern": "^FileDownloader/",
+      "pattern": "^FileDownloader(/|$)",
       "examples": [
-        "FileDownloader/1.7.7"
+        "FileDownloader/1.7.7",
+        "FileDownloader"
       ],
       "urls": [
         "https://github.com/lingochamp/FileDownloader"

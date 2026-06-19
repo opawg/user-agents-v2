@@ -143,7 +143,7 @@
     },
     {
       "name": "Alexa-enabled device",
-      "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo",
+      "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo|^AmazonAVS/|^AvsDeviceSdk/",
       "svg": "amazon.svg",
       "examples": [
         "Echo/1.0(APNG)",
@@ -154,7 +154,9 @@
         "Amazon;Echo_Dot;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
         "Amazon;Echo_Dot_with_clock;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
         "Amazon;Echo_Show_5;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
-        "Amazon;Echo;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422"
+        "Amazon;Echo;27d4dfe427b34d57995b463e5d63198d;;tpapi;3.199.422",
+        "AmazonAVS/2.3",
+        "AvsDeviceSdk/1.23.0"
       ]
     },
     {
