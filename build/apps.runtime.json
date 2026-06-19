@@ -70,7 +70,7 @@
     },
     {
       "name": "Alexa-enabled device",
-      "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo"
+      "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo|^AmazonAVS/|^AvsDeviceSdk/"
     },
     {
       "name": "AlienBlue",

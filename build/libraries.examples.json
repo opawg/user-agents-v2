@@ -106,7 +106,8 @@
     {
       "name": "FileDownloader (Android)",
       "examples": [
-        "FileDownloader/1.7.7"
+        "FileDownloader/1.7.7",
+        "FileDownloader"
       ]
     },
     {

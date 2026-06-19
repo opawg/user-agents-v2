@@ -86,7 +86,7 @@
     },
     {
       "name": "FileDownloader (Android)",
-      "pattern": "^FileDownloader/"
+      "pattern": "^FileDownloader(/|$)"
     },
     {
       "name": "git-annex",
