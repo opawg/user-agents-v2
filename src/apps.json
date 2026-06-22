@@ -3998,6 +3998,12 @@
       ]
     },
     {
+      "name": "ReadYou",
+      "pattern": "^ReadYou/",
+      "examples": ["ReadYou/0.13.1(32)"],
+      "urls": ["https://github.com/ReadYouApp/ReadYou"]
+    },
+    {
       "name": "Reeder",
       "pattern": "^Reeder/",
       "examples": [

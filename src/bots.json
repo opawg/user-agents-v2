@@ -474,6 +474,12 @@
       ]
     },
     {
+      "name": "CloudConvert",
+      "pattern": "^CloudConvert",
+      "examples": ["CloudConvert"],
+      "urls": ["https://cloudconvert.com/"]
+    },
+    {
       "name": "Cloudflare SSL detector",
       "pattern": "^Cloudflare-SSLDetector",
       "examples": [
@@ -746,6 +752,12 @@
       "urls": [
         "http://www.google.com/adsbot.html"
       ]
+    },
+    {
+      "name": "Google Gemini",
+      "pattern": "^GoogleAgent-URLContext",
+      "examples": ["GoogleAgent-URLContext"],
+      "urls": ["https://ai.google.dev/gemini-api/docs/url-context"]
     },
     {
       "name": "Google Podcasts Manager",
@@ -1054,6 +1066,12 @@
       "urls": [
         "https://metacast.app/"
       ]
+    },
+    {
+      "name": "Metapodcast",
+      "pattern": "^MetapodcastV2/",
+      "examples": ["MetapodcastV2/1.0"],
+      "urls": ["https://metapodcast.net/"]
     },
     {
       "name": "Microsoft Bingbot",
