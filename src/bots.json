@@ -477,7 +477,9 @@
       "name": "CloudConvert",
       "pattern": "^CloudConvert",
       "examples": ["CloudConvert"],
-      "urls": ["https://cloudconvert.com/"]
+      "urls": [
+        "https://cloudconvert.com/"
+      ]
     },
     {
       "name": "Cloudflare SSL detector",
@@ -757,7 +759,9 @@
       "name": "Google Gemini",
       "pattern": "^GoogleAgent-URLContext",
       "examples": ["GoogleAgent-URLContext"],
-      "urls": ["https://ai.google.dev/gemini-api/docs/url-context"]
+      "urls": [
+        "https://ai.google.dev/gemini-api/docs/url-context"
+      ]
     },
     {
       "name": "Google Podcasts Manager",
@@ -1071,7 +1075,9 @@
       "name": "Metapodcast",
       "pattern": "^MetapodcastV2/",
       "examples": ["MetapodcastV2/1.0"],
-      "urls": ["https://metapodcast.net/"]
+      "urls": [
+        "https://metapodcast.net/"
+      ]
     },
     {
       "name": "Microsoft Bingbot",
