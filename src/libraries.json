@@ -32,7 +32,7 @@
     },
     {
       "name": "AppleCoreMedia",
-      "pattern": "^AppleCoreMedia(/|$",
+      "pattern": "^AppleCoreMedia(/|$)",
       "description": "AppleCoreMedia library",
       "urls": [
         "https://podnews.net/article/applecoremedia-user-agent"
