@@ -55,6 +55,12 @@
       ]
     },
     {
+      "name": "Bruno",
+      "examples": [
+        "bruno-runtime/3.2.2"
+      ]
+    },
+    {
       "name": "Bubble (no-code)",
       "examples": [
         "Bubble"

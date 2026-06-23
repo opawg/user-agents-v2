@@ -221,6 +221,10 @@
       "pattern": "^clipgenie-service-worker$"
     },
     {
+      "name": "CloudConvert",
+      "pattern": "^CloudConvert"
+    },
+    {
       "name": "Cloudflare SSL detector",
       "pattern": "^Cloudflare-SSLDetector"
     },
@@ -355,6 +359,10 @@
     {
       "name": "Google AdsBot",
       "pattern": "AdsBot-Google|Google-AdWords-Express"
+    },
+    {
+      "name": "Google Gemini",
+      "pattern": "^GoogleAgent-URLContext"
     },
     {
       "name": "Google Podcasts Manager",
@@ -495,6 +503,10 @@
     {
       "name": "Metacast Crawler",
       "pattern": "^Metacast/.* Crawler"
+    },
+    {
+      "name": "Metapodcast",
+      "pattern": "^MetapodcastV2/"
     },
     {
       "name": "Microsoft Bingbot",

@@ -129,7 +129,8 @@
         "Philips;TPM191E;756a522d9f1648b89e76e80be654456a;;tpapi;3.122.67",
         "MediaTek;39LHA120TP;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
         "samsung;gq55q60tguxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
-        "samsung;gu50tu7079uxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71"
+        "samsung;gu50tu7079uxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
+        "samsung-agent/1.1"
       ]
     },
     {

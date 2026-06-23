@@ -309,6 +309,12 @@
       ]
     },
     {
+      "name": "CloudConvert",
+      "examples": [
+        "CloudConvert"
+      ]
+    },
+    {
       "name": "Cloudflare SSL detector",
       "examples": [
         "Cloudflare-SSLDetector"
@@ -497,6 +503,12 @@
       "name": "Google AdsBot",
       "examples": [
         "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Mozilla/5.0, Google-AdWords-Express) Chrome/137.0.7151.119 Safari/537.36"
+      ]
+    },
+    {
+      "name": "Google Gemini",
+      "examples": [
+        "GoogleAgent-URLContext"
       ]
     },
     {
@@ -708,6 +720,12 @@
       "name": "Metacast Crawler",
       "examples": [
         "Metacast/1.0 Crawler +https://metacast.app"
+      ]
+    },
+    {
+      "name": "Metapodcast",
+      "examples": [
+        "MetapodcastV2/1.0"
       ]
     },
     {

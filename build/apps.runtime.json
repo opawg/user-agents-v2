@@ -1769,6 +1769,10 @@
       "pattern": "^Radios%20M%C3%A9xico/\\d"
     },
     {
+      "name": "ReadYou",
+      "pattern": "^ReadYou/"
+    },
+    {
       "name": "Reeder",
       "pattern": "^Reeder/"
     },

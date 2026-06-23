@@ -16,7 +16,7 @@
     },
     {
       "name": "AppleCoreMedia",
-      "pattern": "^AppleCoreMedia/1"
+      "pattern": "^AppleCoreMedia(/|$)"
     },
     {
       "name": "aria2",
@@ -40,6 +40,10 @@
       "name": "Axios (Node)",
       "pattern": "^axios/",
       "category": "bot"
+    },
+    {
+      "name": "Bruno",
+      "pattern": "^bruno-runtime/"
     },
     {
       "name": "Bubble (no-code)",

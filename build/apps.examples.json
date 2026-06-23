@@ -2880,6 +2880,12 @@
       ]
     },
     {
+      "name": "ReadYou",
+      "examples": [
+        "ReadYou/0.13.1(32)"
+      ]
+    },
+    {
       "name": "Reeder",
       "examples": [
         "Reeder/5040002 CFNetwork/1404.0.5 Darwin/22.3.0"
