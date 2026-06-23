@@ -4,7 +4,7 @@
 set -e
 
 # install deno (if we don't already have it)
-DENO_VERSION="v1.27.2"
+DENO_VERSION="v1.39.0"
 [ ! -d ./deno-$DENO_VERSION ] && curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=./deno-$DENO_VERSION sh -s $DENO_VERSION
 
 # run the generate script
