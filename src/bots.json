@@ -476,7 +476,9 @@
     {
       "name": "CloudConvert",
       "pattern": "^CloudConvert",
-      "examples": ["CloudConvert"],
+      "examples": [
+        "CloudConvert"
+      ],
       "urls": [
         "https://cloudconvert.com/"
       ]
@@ -758,7 +760,9 @@
     {
       "name": "Google Gemini",
       "pattern": "^GoogleAgent-URLContext",
-      "examples": ["GoogleAgent-URLContext"],
+      "examples": [
+        "GoogleAgent-URLContext"
+      ],
       "urls": [
         "https://ai.google.dev/gemini-api/docs/url-context"
       ]
@@ -1074,7 +1078,9 @@
     {
       "name": "Metapodcast",
       "pattern": "^MetapodcastV2/",
-      "examples": ["MetapodcastV2/1.0"],
+      "examples": [
+        "MetapodcastV2/1.0"
+      ],
       "urls": [
         "https://metapodcast.net/"
       ]
