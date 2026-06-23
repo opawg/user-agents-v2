@@ -8,9 +8,7 @@
     {
       "name": "Abandon",
       "pattern": "Abandon/",
-      "examples": [
-        "Abandon/1.15.28.58.6 CFNetwork/711.3.18 Darwin/14.0.0"
-      ]
+      "examples": [ "Abandon/1.15.28.58.6 CFNetwork/711.3.18 Darwin/14.0.0" ]
     },
     {
       "name": "Acast",
