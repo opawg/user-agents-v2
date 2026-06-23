@@ -32,7 +32,7 @@
     },
     {
       "name": "AppleCoreMedia",
-      "pattern": "^AppleCoreMedia/1",
+      "pattern": "^AppleCoreMedia(/|$)",
       "description": "AppleCoreMedia library",
       "urls": [
         "https://podnews.net/article/applecoremedia-user-agent"
@@ -102,6 +102,17 @@
         "axios/0.26.1"
       ],
       "category": "bot"
+    },
+    {
+      "name": "Bruno",
+      "description": "Bruno is a modern, open-source API client used for testing and interacting with APIs",
+      "pattern": "^bruno-runtime/",
+      "examples": [
+        "bruno-runtime/3.2.2"
+      ],
+      "urls": [
+        "https://www.usebruno.com/"
+      ]
     },
     {
       "name": "Bubble (no-code)",
