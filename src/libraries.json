@@ -368,7 +368,8 @@
       "pattern": "^libsoup/",
       "examples": [
         "libsoup/2.68.2"
-      ], "urls": [
+      ],
+      "urls": [
         "https://libsoup.org/"
       ],
       "description": "HTTP client/server library for GNOME"

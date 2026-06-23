@@ -173,7 +173,7 @@
     },
     {
       "name": "Android Phone",
-      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$|^(Turtlecast|TURTLECAST)\/|\\((SM-A15|SM-A55|moto g|RMO-NX3)",
+      "pattern": "ServeStream|Android|android|HTC|ExoPlayer|^AntennaPod/|^GSA/.*\\.arm(64)?$|^sp-agent|^PRDownloader$|^(Turtlecast|TURTLECAST)/|\\((SM-A15|SM-A55|moto g|RMO-NX3)",
       "category": "mobile",
       "comments": "Must be after CrKey and Android Tablet",
       "examples": [
@@ -275,7 +275,7 @@
     },
     {
       "name": "Other Mobile Device",
-      "pattern": "Player FM$|^Podkicker\/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$|RTL\\+",
+      "pattern": "Player FM$|^Podkicker/|spotify_unknown|^Castro|^Swoot Agent| KAIOS/|^Zune/|^PodcastGuru |^Pocket Casts$|^AmazonMusic$|RTL\\+",
       "category": "mobile",
       "examples": [
         "Mozilla/5.0 (Mobile; Nokia_8110_4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5.1 PodKast",

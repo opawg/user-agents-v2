@@ -227,7 +227,7 @@
     {
       "name": "Insomniac Radio",
       "pattern": "^https://(www\\.)?insomniacradio\\.com/",
-       "examples": [
+      "examples": [
         "https://www.insomniacradio.com/",
         "https://insomniacradio.com/"
       ],

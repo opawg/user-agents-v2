@@ -1830,7 +1830,9 @@
         "Podwatch-Pro Crawler"
       ],
       "description": "PodwatchPro is a podcast analytics software. This user agent is for crawling podcast data.",
-      "urls": [ "https://www.agma-mmc.de/media-analyse/ma-podcast" ]
+      "urls": [
+        "https://www.agma-mmc.de/media-analyse/ma-podcast"
+      ]
     },
     {
       "name": "private-podcast-puller",
