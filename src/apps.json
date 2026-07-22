@@ -3500,7 +3500,7 @@
     },
     {
       "name": "Podcast Parrot",
-      "pattern": "^odcast%20Parrot/\\d",
+      "pattern": "^Podcast%20Parrot/\\d",
       "examples": [
         "Podcast%20Parrot/49 CFNetwork/3892.100.1 Darwin/27.0.0"
       ],
