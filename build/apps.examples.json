@@ -2576,6 +2576,12 @@
       ]
     },
     {
+      "name": "Podcast Parrot",
+      "examples": [
+        "Podcast%20Parrot/49 CFNetwork/3892.100.1 Darwin/27.0.0"
+      ]
+    },
+    {
       "name": "Podcast Saver",
       "examples": [
         "Podcast%20Saver/27 CFNetwork/1498.700.2 Darwin/23.6.0"

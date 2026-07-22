@@ -1577,6 +1577,10 @@
       "pattern": "^Podcastly/|^Podcastly$"
     },
     {
+      "name": "Podcast Parrot",
+      "pattern": "^Podcast%20Parrot/\\d"
+    },
+    {
       "name": "Podcast Saver",
       "pattern": "^Podcast%20Saver/\\d"
     },
