@@ -3499,6 +3499,16 @@
       ]
     },
     {
+      "name": "Podcast Parrot",
+      "pattern": "^Podcast%20Parrot/\\d",
+      "examples": [
+        "Podcast%20Parrot/49 CFNetwork/3892.100.1 Darwin/27.0.0"
+      ],
+      "urls": [
+        "https://podcastparrot.app/"
+      ]
+    },
+    {
       "name": "Podcast Saver",
       "pattern": "^Podcast%20Saver/\\d",
       "examples": [
