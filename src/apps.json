@@ -926,11 +926,12 @@
     },
     {
       "name": "CampfireFM",
-      "pattern": "^Campfire/",
+      "pattern": "^Campfire(FM)?/",
       "description": "CampfireFM",
       "examples": [
         "Campfire/2.0.2 (Build 123) Android/15 (SDK 35)",
-        "Campfire/2.0.2 (Build 123) iOS/18.5.0"
+        "Campfire/2.0.2 (Build 123) iOS/18.5.0",
+        "CampfireFM/1.0 (+https://joincampfire.fm)"
       ],
       "urls": [
         "https://joincampfire.fm/",
@@ -1569,6 +1570,16 @@
       "urls": [
         "https://earsay.app/",
         "https://apps.apple.com/us/app/earsay/id6757127240"
+      ]
+    },
+    {
+      "name": "Earshot",
+      "pattern": "^Earshot/",
+      "examples": [
+        "Earshot/157 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/earshot-podcasts/id6770760602"
       ]
     },
     {
@@ -3448,6 +3459,16 @@
       ]
     },
     {
+      "name": "Podcast Ever",
+      "pattern": "^Podcast%20Ever/",
+      "examples": [
+        "Podcast%20Ever/23 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/podcast-ever-offline-podcasts/id6756324987"
+      ]
+    },
+    {
       "name": "Podcast Guru",
       "pattern": "^PodcastGuru",
       "description": "Podcast Guru is the simple and free podcast player",
@@ -4578,6 +4599,18 @@
       ],
       "urls": [
         "https://www.miaocast.com/"
+      ]
+    },
+    {
+      "name": "Momo",
+      "pattern": "^Momo-Podcast/",
+      "examples": [
+        "Momo-Podcast/1.0 (+https://exploremomo.com)"
+      ],
+      "urls": [
+        "https://exploremomo.com",
+        "https://apps.apple.com/nl/app/momo/id6449619727",
+        "https://play.google.com/store/apps/details?id=com.exploremomo.momo"
       ]
     },
     {
