@@ -2578,7 +2578,9 @@
     {
       "name": "Podcast Parrot",
       "examples": [
-        "Podcast%20Parrot/49 CFNetwork/3892.100.1 Darwin/27.0.0"
+        "Podcast%20Parrot/49 CFNetwork/3892.100.1 Darwin/27.0.0",
+        "PodcastParrot/51 (iOS 26.5.2)",
+        "PodcastParrot/51 (Android 16)"
       ]
     },
     {

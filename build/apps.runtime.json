@@ -1578,7 +1578,7 @@
     },
     {
       "name": "Podcast Parrot",
-      "pattern": "^Podcast%20Parrot/\\d"
+      "pattern": "^Podcast(%20)?Parrot/\\d"
     },
     {
       "name": "Podcast Saver",
