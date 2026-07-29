@@ -684,7 +684,8 @@
       "name": "CampfireFM",
       "examples": [
         "Campfire/2.0.2 (Build 123) Android/15 (SDK 35)",
-        "Campfire/2.0.2 (Build 123) iOS/18.5.0"
+        "Campfire/2.0.2 (Build 123) iOS/18.5.0",
+        "CampfireFM/1.0 (+https://joincampfire.fm)"
       ]
     },
     {
@@ -1160,6 +1161,12 @@
       "examples": [
         "Earsay/1.0 CFNetwork/1568 Darwin/24.0",
         "earsay/1.0 CFNetwork/1568 Darwin/24.0"
+      ]
+    },
+    {
+      "name": "Earshot",
+      "examples": [
+        "Earshot/157 CFNetwork/3860.600.12 Darwin/25.5.0"
       ]
     },
     {
@@ -2542,6 +2549,12 @@
       ]
     },
     {
+      "name": "Podcast Ever",
+      "examples": [
+        "Podcast%20Ever/23 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ]
+    },
+    {
       "name": "Podcast Addict",
       "examples": [
         "PodcastAddict/v2 - Dalvik/2.1.0 (Linux; U; Android 9; SM-N950U Build/PPR1.180610.011)",
@@ -3261,6 +3274,12 @@
       "name": "miaocast",
       "examples": [
         "miaocast 2025.1.0 Android 15 vivo I2407i iQOO/I2407i/I2407:15/AP3A.240905.015.A2_V000L1/compiler250513211815:user/release-keys"
+      ]
+    },
+    {
+      "name": "Momo",
+      "examples": [
+        "Momo-Podcast/1.0 (+https://exploremomo.com)"
       ]
     },
     {

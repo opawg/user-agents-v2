@@ -418,7 +418,7 @@
     },
     {
       "name": "CampfireFM",
-      "pattern": "^Campfire/"
+      "pattern": "^Campfire(FM)?/"
     },
     {
       "name": "Canvas",
@@ -719,6 +719,10 @@
     {
       "name": "Earsay",
       "pattern": "^[Ee]arsay/"
+    },
+    {
+      "name": "Earshot",
+      "pattern": "^Earshot/"
     },
     {
       "name": "EasyGet",
@@ -1553,6 +1557,10 @@
       "pattern": "^Podbean/"
     },
     {
+      "name": "Podcast Ever",
+      "pattern": "^Podcast%20Ever/"
+    },
+    {
       "name": "Podcast Guru",
       "pattern": "^PodcastGuru"
     },
@@ -2011,6 +2019,10 @@
     {
       "name": "miaocast",
       "pattern": "^miaocast "
+    },
+    {
+      "name": "Momo",
+      "pattern": "^Momo-Podcast/"
     },
     {
       "name": "Mozilla Thunderbird",
