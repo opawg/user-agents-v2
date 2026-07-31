@@ -65,6 +65,14 @@
       "category": "host"
     },
     {
+      "name": "Car Curious",
+      "pattern": "^https://getcarcurious\\.com/",
+      "examples": [
+        "https://getcarcurious.com/"
+      ],
+      "category": "app"
+    },
+    {
       "name": "Castamatic",
       "pattern": "://castamatic\\.com/",
       "examples": [

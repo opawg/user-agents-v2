@@ -962,6 +962,17 @@
       ]
     },
     {
+      "name": "Car Curious",
+      "pattern": "^CarCurious/",
+      "description": "Podcast player for automotive shows, surfacing timestamped annotations for the cars, parts and terms mentioned in an episode",
+      "urls": [
+        "https://getcarcurious.com"
+      ],
+      "examples": [
+        "CarCurious/1.0 (iOS; +https://getcarcurious.com)"
+      ]
+    },
+    {
       "name": "Cast",
       "pattern": "^Cast/",
       "examples": [
