@@ -708,6 +708,12 @@
       ]
     },
     {
+      "name": "Car Curious",
+      "examples": [
+        "CarCurious/1.0 (iOS; +https://getcarcurious.com)"
+      ]
+    },
+    {
       "name": "Cast",
       "examples": [
         "Cast/1031 CFNetwork/711.4.6 Darwin/14.0.0"

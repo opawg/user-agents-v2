@@ -433,6 +433,10 @@
       "pattern": "^capsule\\.fm/|^capsule-android"
     },
     {
+      "name": "Car Curious",
+      "pattern": "^CarCurious/"
+    },
+    {
       "name": "Cast",
       "pattern": "^Cast/"
     },
