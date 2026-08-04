@@ -4592,6 +4592,21 @@
       ]
     },
     {
+      "name": "The Podcast App (Magnolia Apps)",
+      "pattern": "^TPA/\\d|^TPA-Wear/",
+      "description": "Free podcast player for iOS, Android and Wear OS by Magnolia Apps. Not related to the existing \"The Podcast App\" entry (podcast.app / com.evolve.podcast).",
+      "urls": [
+        "https://thepodcastapp.dev",
+        "https://apps.apple.com/app/the-podcast-app/id6754806244",
+        "https://play.google.com/store/apps/details?id=com.magnolia.thepodcastapp"
+      ],
+      "comments": "Developer-submitted. TPA-Wear/ is the Wear OS build; TPA/ is the phone app (Android and iOS).",
+      "examples": [
+        "TPA/3.0.468 (+https://thepodcastapp.dev)",
+        "TPA-Wear/1.0"
+      ]
+    },
+    {
       "name": "Twipe Mobile App",
       "pattern": "^TwipeMobileApp",
       "examples": [
