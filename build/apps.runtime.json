@@ -2017,6 +2017,10 @@
       "pattern": "^ThePodcastApp|iOS.*The Podcast App/|com\\.evolve\\.podcast/|^podcast/\\d* |^PodcastApp/\\d"
     },
     {
+      "name": "The Podcast App (Magnolia Apps)",
+      "pattern": "^TPA/\\d|^TPA-Wear/"
+    },
+    {
       "name": "Twipe Mobile App",
       "pattern": "^TwipeMobileApp"
     },

@@ -3270,6 +3270,13 @@
       ]
     },
     {
+      "name": "The Podcast App (Magnolia Apps)",
+      "examples": [
+        "TPA/3.0.468 (+https://thepodcastapp.dev)",
+        "TPA-Wear/1.0"
+      ]
+    },
+    {
       "name": "Twipe Mobile App",
       "examples": [
         "TwipeMobileApp PLATFORM=iOS VERSION=5.4.7.0 ENV=PROD isPhone",
