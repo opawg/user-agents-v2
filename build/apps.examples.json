@@ -757,6 +757,12 @@
       ]
     },
     {
+      "name": "Castria",
+      "examples": [
+        "Castria/1.0 (+https://castria.app)"
+      ]
+    },
+    {
       "name": "Castro",
       "examples": [
         "Castro 2019.13/1167",
@@ -1488,6 +1494,12 @@
       "name": "GBEngine",
       "examples": [
         "GBEngine/1.2 CFNetwork/672.1.14 Darwin/14.0.0"
+      ]
+    },
+    {
+      "name": "Gertrude Podcasts",
+      "examples": [
+        "Gertrude%20Podcasts/28 CFNetwork/3860.600.12 Darwin/25.5.0"
       ]
     },
     {

@@ -461,6 +461,10 @@
       "pattern": "^castero \\d"
     },
     {
+      "name": "Castria",
+      "pattern": "^Castria/\\d"
+    },
+    {
       "name": "Castro",
       "pattern": "^Castro[/ ]"
     },
@@ -927,6 +931,10 @@
     {
       "name": "GBEngine",
       "pattern": "^GBEngine/"
+    },
+    {
+      "name": "Gertrude Podcasts",
+      "pattern": "^Gertrude%20Podcasts/"
     },
     {
       "name": "GMB Show",
