@@ -1030,6 +1030,18 @@
       ]
     },
     {
+      "name": "Castria",
+      "pattern": "^Castria/\\d",
+      "examples": [
+        "Castria/1.0 (+https://castria.app)"
+      ],
+      "urls": [
+        "https://castria.app/",
+        "https://apps.apple.com/us/app/castria/id6773306883",
+        "https://play.google.com/store/apps/details?id=com.extroverteddeveloper.podcastify&pli=1"
+      ]
+    },
+    {
       "name": "Castro",
       "pattern": "^Castro[/ ]",
       "examples": [
@@ -2005,6 +2017,16 @@
       "pattern": "^GBEngine/",
       "examples": [
         "GBEngine/1.2 CFNetwork/672.1.14 Darwin/14.0.0"
+      ]
+    },
+    {
+      "name": "Gertrude Podcasts",
+      "pattern": "^Gertrude%20Podcasts/",
+      "examples": [
+        "Gertrude%20Podcasts/28 CFNetwork/3860.600.12 Darwin/25.5.0"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/gertrude-podcasts/id6753187429"
       ]
     },
     {
