@@ -335,6 +335,18 @@
       ]
     },
     {
+      "name": "Apple AirPlay",
+      "description": "Licensed AirPlay devices under the MFi Program",
+      "pattern": "^AirPlay/\\d.*MFi_AirPlay_Device",
+      "examples": [
+        "AirPlay/2.0 (App/75.112.0) MFi_AirPlay_Device",
+        "AirPlay/2.0 (App/74.128.1) MFi_AirPlay_Device",
+        "AirPlay/2.0 (App/75.109.0) MFi_AirPlay_Device (MFiModelGroup/SWS8WJ_au5GqOy6EPST5H01yx_cxxWwCCtjzUiDqNCQ)",
+        "AirPlay/2.0 (App/80.139.0) MFi_AirPlay_Device (MFiModelGroup/d7dGEIeqGIT-tFALlLbwfMSRUpOE6XfLBDv90DJtpfg)"
+      ],
+      "comments": "e.g. Roku, see https://foliovision.com/2022/06/airplay-appletv-agents, examples via OP3"
+    },
+    {
       "name": "Apple HomePod",
       "description": "Playback initiated directly from the device",
       "pattern": "^AirPodcasts/\\d",
