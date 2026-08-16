@@ -588,6 +588,16 @@
       ]
     },
     {
+      "name": "Deepgram",
+      "pattern": "^Deepgram$",
+      "examples": [
+        "Deepgram"
+      ],
+      "urls": [
+        "https://deepgram.com/"
+      ]
+    },
+    {
       "name": "Deezer Podcasters",
       "pattern": "^Deezer Podcasters/1\\.0"
     },
@@ -1342,6 +1352,16 @@
       ]
     },
     {
+      "name": "Podbean Podcast Service",
+      "pattern": "^Podbean Podcast Service",
+      "examples": [
+        "Podbean Podcast Service"
+      ],
+      "urls": [
+        "https://www.podbean.com/"
+      ]
+    },
+    {
       "name": "Podcastindex.org",
       "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/|^PodcastIndex Classifier/",
       "svg": "podcast-index.svg",
@@ -1537,9 +1557,10 @@
     },
     {
       "name": "PodcastTranscriber",
-      "pattern": " PodcastTranscriber/",
+      "pattern": "PodcastTranscriber/",
       "examples": [
-        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)"
+        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)",
+        "PodcastTranscriber/1.0"
       ]
     },
     {

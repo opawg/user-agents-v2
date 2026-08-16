@@ -1019,11 +1019,12 @@
     },
     {
       "name": "Castro",
-      "pattern": "^Castro[/ ]",
+      "pattern": "^Castro[/ ]|^Tentacles, Like iTunes",
       "examples": [
         "Castro 2019.13/1167",
         "Castro 2020.14/1287",
-        "Castro/1024 CFNetwork/955.1.2 Darwin/18.0.0"
+        "Castro/1024 CFNetwork/955.1.2 Darwin/18.0.0",
+        "Tentacles, Like iTunes"
       ]
     },
     {
