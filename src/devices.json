@@ -210,7 +210,7 @@
     },
     {
       "name": "Other Smart Speaker",
-      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-(DWHS|DWMINI)|^Storybutton/|^Bluesound;|^Yamaha;(WX-|YAS_|ATS_|SR-)|^Xiaomi;07G|^(BangAndOlufsen|Bang_And_Olufsen);beo_|^ArgonAudio;SOLO;|^Samsung;HW-(Q9|Q8|Q7|LS60D|S6|S8)|^LenbrookIndustries;NADAmplifier|^Marshall;Uxbridge|^Edifier;MS50A|^Wiim;Pro;|^Naim_Audio;Mu-so|^Audio_Pro;C10MKII|^Devialet;Mania|^Bowers___Wilkins;Zeppelin|^JBL;Charge_5",
+      "pattern": "sonos|Sonos|^Bose/|^VictorReader|^Bose;Bose_(Home_Speaker|Soundbar|Portable_Home|Smart_Speaker)|^HEOS;DENON|^Denon;DENON-(DWHS|DWMINI)|^Storybutton/|^Bluesound;|^Yamaha;(WX-|YAS_|ATS_|SR-)|^Xiaomi;07G|^(BangAndOlufsen|Bang_And_Olufsen);beo_|^ArgonAudio;SOLO;|^Samsung;HW-(Q9|Q8|Q7|LS60D|S6|S8)|^LenbrookIndustries;NADAmplifier|^Marshall;Uxbridge|^Edifier;MS50A|^Wiim;Pro;|^Naim_Audio;Mu-so|^Audio_Pro;C10MKII|^Devialet;Mania|^Bowers___Wilkins;Zeppelin|^JBL;Charge_5|^Kenwood;|^Audizio;|^Argon;Stream",
       "category": "smart_speaker",
       "examples": [
         "Bluesound;N110;3d1292a4f7bc4cbc853faa331d07348a;;tpapi;3.194.61",
@@ -253,7 +253,10 @@
         "Samsung;HW-S800B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
         "Samsung;HW-S60B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
         "Yamaha;SR-X50A;59c7bf046992472ab0689f5fc7fa08e2;;tpapi;3.194.71",
-        "JBL;Charge_5_Wi-Fi;ae8cc5068e6443f3b90da43a356e7578;;tpapi;3.194.61"
+        "JBL;Charge_5_Wi-Fi;ae8cc5068e6443f3b90da43a356e7578;;tpapi;3.194.61",
+        "Kenwood;CR-ST700SCD;d6b97f06634d476e946238ef2b8eb4e0;;tpapi;3.198.55",
+        "Audizio;Adria;902ce3b9eaa84026afcb93aa46002b5a;;tpapi;3.200.445",
+        "Argon;Stream3;bafeb878ad744864bd2021cbb5988111;;tpapi;3.200.445"
       ]
     },
     {

@@ -435,6 +435,13 @@
       ]
     },
     {
+      "name": "Castro automated actions",
+      "pattern": "^Tentacles, Like iTunes$",
+      "examples": [
+        "Tentacles, Like iTunes"
+      ]
+    },
+    {
       "name": "Ceramic Terracotta Crawler",
       "pattern": "CeramicTerracotta",
       "examples": [
@@ -585,6 +592,16 @@
       ],
       "urls": [
         "https://deepcast.fm/"
+      ]
+    },
+    {
+      "name": "Deepgram",
+      "pattern": "^Deepgram$",
+      "examples": [
+        "Deepgram"
+      ],
+      "urls": [
+        "https://deepgram.com/"
       ]
     },
     {
@@ -1342,6 +1359,16 @@
       ]
     },
     {
+      "name": "Podbean Podcast Service",
+      "pattern": "^Podbean Podcast Service",
+      "examples": [
+        "Podbean Podcast Service"
+      ],
+      "urls": [
+        "https://www.podbean.com/"
+      ]
+    },
+    {
       "name": "Podcastindex.org",
       "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/|^PodcastIndex Classifier/",
       "svg": "podcast-index.svg",
@@ -1537,9 +1564,10 @@
     },
     {
       "name": "PodcastTranscriber",
-      "pattern": " PodcastTranscriber/",
+      "pattern": "PodcastTranscriber/",
       "examples": [
-        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)"
+        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)",
+        "PodcastTranscriber/1.0"
       ]
     },
     {
