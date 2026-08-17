@@ -291,6 +291,12 @@
       ]
     },
     {
+      "name": "Castro automated actions",
+      "examples": [
+        "Tentacles, Like iTunes"
+      ]
+    },
+    {
       "name": "Ceramic Terracotta Crawler",
       "examples": [
         "TerraCotta https://github.com/CeramicTeam/CeramicTerracotta"
@@ -386,6 +392,12 @@
       "name": "Deepcast Podcast Sync",
       "examples": [
         "DeepCast/4.3.0 Podcast Sync (+https://deepcast.fm)"
+      ]
+    },
+    {
+      "name": "Deepgram",
+      "examples": [
+        "Deepgram"
       ]
     },
     {
@@ -901,6 +913,12 @@
       ]
     },
     {
+      "name": "Podbean Podcast Service",
+      "examples": [
+        "Podbean Podcast Service"
+      ]
+    },
+    {
       "name": "Podcastindex.org",
       "examples": [
         "Podcastindex.org/v0.3.3 (Aggrivate)",
@@ -1053,7 +1071,8 @@
     {
       "name": "PodcastTranscriber",
       "examples": [
-        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)"
+        "Mozilla/5.0 (compatible; PodcastTranscriber/1.0)",
+        "PodcastTranscriber/1.0"
       ]
     },
     {

@@ -218,6 +218,12 @@
       ]
     },
     {
+      "name": "node (fetch)",
+      "examples": [
+        "node"
+      ]
+    },
+    {
       "name": "node-fetch",
       "examples": [
         "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)",

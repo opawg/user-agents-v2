@@ -252,6 +252,15 @@
       ]
     },
     {
+      "name": "Apple AirPlay",
+      "examples": [
+        "AirPlay/2.0 (App/75.112.0) MFi_AirPlay_Device",
+        "AirPlay/2.0 (App/74.128.1) MFi_AirPlay_Device",
+        "AirPlay/2.0 (App/75.109.0) MFi_AirPlay_Device (MFiModelGroup/SWS8WJ_au5GqOy6EPST5H01yx_cxxWwCCtjzUiDqNCQ)",
+        "AirPlay/2.0 (App/80.139.0) MFi_AirPlay_Device (MFiModelGroup/d7dGEIeqGIT-tFALlLbwfMSRUpOE6XfLBDv90DJtpfg)"
+      ]
+    },
+    {
       "name": "Apple HomePod",
       "examples": [
         "AirPodcasts/4022.700.8 CFNetwork/1410.0.3 Darwin/22.6.0",

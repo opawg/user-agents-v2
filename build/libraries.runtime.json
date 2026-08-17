@@ -171,6 +171,11 @@
       "pattern": "^Android\\.LVLDM$"
     },
     {
+      "name": "node (fetch)",
+      "pattern": "^node$",
+      "category": "bot"
+    },
+    {
       "name": "node-fetch",
       "pattern": "^node-fetch(/.*)?$",
       "category": "bot"

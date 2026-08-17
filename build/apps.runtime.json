@@ -149,6 +149,10 @@
       "pattern": "^Apollo/|Apollo Podcasts \\(android\\)"
     },
     {
+      "name": "Apple AirPlay",
+      "pattern": "^AirPlay/\\d.*MFi_AirPlay_Device"
+    },
+    {
       "name": "Apple HomePod",
       "pattern": "^AirPodcasts/\\d"
     },

@@ -201,6 +201,10 @@
       "pattern": "Castopod/\\d"
     },
     {
+      "name": "Castro automated actions",
+      "pattern": "^Tentacles, Like iTunes$"
+    },
+    {
       "name": "Ceramic Terracotta Crawler",
       "pattern": "CeramicTerracotta"
     },
@@ -275,6 +279,10 @@
     {
       "name": "Deepcast Podcast Sync",
       "pattern": "^DeepCast/\\d.*Sync"
+    },
+    {
+      "name": "Deepgram",
+      "pattern": "^Deepgram$"
     },
     {
       "name": "Deezer Podcasters",
@@ -633,6 +641,10 @@
       "pattern": "^Podbean Importer"
     },
     {
+      "name": "Podbean Podcast Service",
+      "pattern": "^Podbean Podcast Service"
+    },
+    {
       "name": "Podcastindex.org",
       "pattern": "^Podcastindex\\.org/|\\(PodcastIndex\\.org\\)|PodcastIndexManager/|^PodcastIndex Classifier/"
     },
@@ -730,7 +742,7 @@
     },
     {
       "name": "PodcastTranscriber",
-      "pattern": " PodcastTranscriber/"
+      "pattern": "PodcastTranscriber/"
     },
     {
       "name": "PodcastWorker",

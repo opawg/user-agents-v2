@@ -130,7 +130,9 @@
         "MediaTek;39LHA120TP;756a522d9f1648b89e76e80be654456a;;tpapi;3.127.32",
         "samsung;gq55q60tguxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
         "samsung;gu50tu7079uxzg;568a50c7e7f64fe3b44a3316ef5590fd;;tpapi;3.194.71",
-        "samsung-agent/1.1"
+        "samsung-agent/1.1",
+        "AirPlay/2.0 (App/75.112.0) MFi_AirPlay_Device",
+        "AirPlay/2.0 (App/80.139.0) MFi_AirPlay_Device (MFiModelGroup/d7dGEIeqGIT-tFALlLbwfMSRUpOE6XfLBDv90DJtpfg)"
       ]
     },
     {
@@ -201,7 +203,10 @@
         "Samsung;HW-S800B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
         "Samsung;HW-S60B;f92d2110c0e3483c82534460ac6b08bf;;tpapi;3.194.61",
         "Yamaha;SR-X50A;59c7bf046992472ab0689f5fc7fa08e2;;tpapi;3.194.71",
-        "JBL;Charge_5_Wi-Fi;ae8cc5068e6443f3b90da43a356e7578;;tpapi;3.194.61"
+        "JBL;Charge_5_Wi-Fi;ae8cc5068e6443f3b90da43a356e7578;;tpapi;3.194.61",
+        "Kenwood;CR-ST700SCD;d6b97f06634d476e946238ef2b8eb4e0;;tpapi;3.198.55",
+        "Audizio;Adria;902ce3b9eaa84026afcb93aa46002b5a;;tpapi;3.200.445",
+        "Argon;Stream3;bafeb878ad744864bd2021cbb5988111;;tpapi;3.200.445"
       ]
     },
     {
