@@ -435,6 +435,13 @@
       ]
     },
     {
+      "name": "Castro automated actions",
+      "pattern": "^Tentacles, Like iTunes$",
+      "examples": [
+        "Tentacles, Like iTunes"
+      ]
+    },
+    {
       "name": "Ceramic Terracotta Crawler",
       "pattern": "CeramicTerracotta",
       "examples": [
