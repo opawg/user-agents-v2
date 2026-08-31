@@ -1490,6 +1490,13 @@
       ]
     },
     {
+      "name": "The Podcast App (Magnolia Apps) server",
+      "examples": [
+        "TPA-Server/1.0 (+https://thepodcastapp.dev)",
+        "Mozilla/5.0 (compatible; TPA-Server/1.0; +https://thepodcastapp.dev)"
+      ]
+    },
+    {
       "name": "Timpi search crawler",
       "examples": [
         "Timpibot/0.8 ( http://www.timpi.io)"

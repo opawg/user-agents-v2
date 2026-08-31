@@ -1045,6 +1045,10 @@
       "pattern": "^Taddy Podcast API "
     },
     {
+      "name": "The Podcast App (Magnolia Apps) server",
+      "pattern": "TPA-Server/\\d"
+    },
+    {
       "name": "Timpi search crawler",
       "pattern": "Timpibot/"
     },
