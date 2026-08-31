@@ -2213,6 +2213,19 @@
       ]
     },
     {
+      "name": "The Podcast App (Magnolia Apps) server",
+      "pattern": "TPA-Server/\\d",
+      "description": "Server-side fetcher for The Podcast App by Magnolia Apps: retrieves RSS feeds and enclosure metadata for the app's backend. The user-facing app is the separate \"The Podcast App (Magnolia Apps)\" entry (TPA/, TPA-Wear/).",
+      "urls": [
+        "https://thepodcastapp.dev"
+      ],
+      "comments": "Developer-submitted. The Mozilla/5.0-prefixed variant is used only for media/enclosure hosts that reject app-specific user agents; both carry the TPA-Server/ token.",
+      "examples": [
+        "TPA-Server/1.0 (+https://thepodcastapp.dev)",
+        "Mozilla/5.0 (compatible; TPA-Server/1.0; +https://thepodcastapp.dev)"
+      ]
+    },
+    {
       "name": "Timpi search crawler",
       "pattern": "Timpibot/",
       "examples": [
