@@ -801,6 +801,10 @@
       "pattern": "^Podmonbot/"
     },
     {
+      "name": "Podnado",
+      "pattern": "^Podnado/\\d+\\.\\d+"
+    },
+    {
       "name": "Podnews",
       "pattern": "PodnewsBot"
     },
