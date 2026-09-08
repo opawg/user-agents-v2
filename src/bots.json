@@ -1717,6 +1717,19 @@
       ]
     },
     {
+      "name": "Podnado",
+      "pattern": "^Podnado/\\d+\\.\\d+",
+      "description": "Podcast indexer",
+      "urls": [
+        "https://bot.podnado.com/"
+      ],
+      "comments": "Fetches RSS feeds and audio enclosures only, never HTML or assets.",
+      "examples": [
+        "Podnado/1.0 Podcast Indexer (feed-id=12; +https://bot.podnado.com/)",
+        "Podnado/1.0 Podcast Indexer (+https://bot.podnado.com/)"
+      ]
+    },
+    {
       "name": "Podnews",
       "pattern": "PodnewsBot",
       "description": "Podnews runs a number of bots to read and test RSS and audio files",
