@@ -1707,6 +1707,16 @@
       ]
     },
     {
+      "name": "PodmixBot",
+      "pattern": "^PodmixBot/",
+      "urls": [
+        "https://podmix.tibero.ai"
+      ],
+      "examples": [
+        "PodmixBot/0.1 (+https://podmix.tibero.ai; contact: diego@tibero.ai)"
+      ]
+    },
+    {
       "name": "Podmon Bot",
       "pattern": "^Podmonbot/",
       "urls": [
