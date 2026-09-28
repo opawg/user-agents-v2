@@ -1294,6 +1294,21 @@
       ]
     },
     {
+      "name": "Parasocial Crawler",
+      "pattern": "^Parasocial/[\\d.]+ \\((feed ingestion|directory|directory proof|share preview|artwork|show pages|resolve);|^SuperSimplePodcasts/",
+      "description": "Parasocial's server: feed ingestion, artwork and share-preview proxies, show pages",
+      "urls": [
+        "https://parasocial.fm/"
+      ],
+      "comments": "Sent by the server, never by a listener's device. SuperSimplePodcasts/0.1 was the same crawler before September 2026.",
+      "examples": [
+        "Parasocial/1.0 (feed ingestion; +https://parasocial.fm)",
+        "Parasocial/1.0 (artwork; +https://parasocial.fm)",
+        "SuperSimplePodcasts/0.1 (feed ingestion; +https://supersimplepodcasts.com)",
+        "SuperSimplePodcasts/0.1 artwork"
+      ]
+    },
+    {
       "name": "parc",
       "pattern": "^parc/\\d",
       "examples": [
