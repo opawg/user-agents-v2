@@ -3752,6 +3752,17 @@
       ]
     },
     {
+      "name": "Podmix",
+      "pattern": "^Podmix/",
+      "urls": [
+        "https://podmix.tibero.ai"
+      ],
+      "examples": [
+        "Podmix/0.1 (+https://podmix.tibero.ai; contact: diego@tibero.ai)",
+        "Podmix/0.1 (private research build; +mailto:diegobobrow25@gmail.com)"
+      ]
+    },
+    {
       "name": "PodMN",
       "pattern": "^PodMN/",
       "description": "Minnesota Podcasts Live Here",
