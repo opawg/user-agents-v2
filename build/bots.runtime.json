@@ -797,6 +797,10 @@
       "pattern": "^PodlexiconDownloader"
     },
     {
+      "name": "PodmixBot",
+      "pattern": "^PodmixBot/"
+    },
+    {
       "name": "Podmon Bot",
       "pattern": "^Podmonbot/"
     },

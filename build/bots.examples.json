@@ -1149,6 +1149,12 @@
       ]
     },
     {
+      "name": "PodmixBot",
+      "examples": [
+        "PodmixBot/0.1 (+https://podmix.tibero.ai; contact: diego@tibero.ai)"
+      ]
+    },
+    {
       "name": "Podmon Bot",
       "examples": [
         "Podmonbot/1.0"
