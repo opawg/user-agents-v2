@@ -818,6 +818,13 @@
       ]
     },
     {
+      "name": "od·tune",
+      "examples": [
+        "odtune/0.0.0-dev (+https://odtune.com/about; podcasts@odtune.com)",
+        "odtune/cd932c5 (+https://odtune.com/about; podcasts@odtune.com)"
+      ]
+    },
+    {
       "name": "OgScrper",
       "examples": [
         "OgScrper"
