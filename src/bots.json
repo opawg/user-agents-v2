@@ -1216,6 +1216,17 @@
       ]
     },
     {
+      "name": "od·tune",
+      "pattern": "^odtune/",
+      "examples": [
+        "odtune/0.0.0-dev (+https://odtune.com/about; podcasts@odtune.com)",
+        "odtune/cd932c5 (+https://odtune.com/about; podcasts@odtune.com)"
+      ],
+      "urls": [
+        "https://odtune.com/about"
+      ]
+    },
+    {
       "name": "OgScrper",
       "pattern": "OgScrper",
       "examples": [
