@@ -3333,6 +3333,17 @@
       ]
     },
     {
+      "name": "Once Upon a Pod",
+      "pattern": "^OnceUponAPod/",
+      "description": "A podcast app for kids with hand-picked shows",
+      "examples": [
+        "OnceUponAPod/1.0 (+https://www.onceuponapod.com; iOS podcast app for kids)"
+      ],
+      "urls": [
+        "https://www.onceuponapod.com/"
+      ]
+    },
+    {
       "name": "OpenStream",
       "pattern": "^OpenStream/\\d",
       "examples": [

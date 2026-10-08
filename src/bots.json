@@ -1245,6 +1245,17 @@
       ]
     },
     {
+      "name": "Once Upon a Pod feed fetcher",
+      "pattern": "^OnceUponAPod/[\\d.]+ Feed Fetcher",
+      "description": "Once Upon a Pod's server reading public RSS feeds to list new episodes.",
+      "examples": [
+        "OnceUponAPod/1.0 Feed Fetcher (+https://www.onceuponapod.com)"
+      ],
+      "urls": [
+        "https://www.onceuponapod.com/"
+      ]
+    },
+    {
       "name": "OP3 Fetcher",
       "pattern": "^op3-fetcher/",
       "examples": [
