@@ -4338,6 +4338,18 @@
       ]
     },
     {
+      "name": "Spool",
+      "pattern": "^Spool/",
+      "description": "A podcast player for iPhone and iPad",
+      "urls": [
+        "https://spoolcast.ca",
+        "https://apps.apple.com/app/id6809485942"
+      ],
+      "examples": [
+        "Spool/1.0 (iOS podcast client)"
+      ]
+    },
+    {
       "name": "Sportbladet Android app",
       "pattern": "Android Sportbladet Hermes/",
       "description": "Sportbladet Android app",

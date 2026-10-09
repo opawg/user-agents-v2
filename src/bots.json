@@ -2193,6 +2193,17 @@
       ]
     },
     {
+      "name": "Spool feed poller",
+      "pattern": "^PodCatcher/\\d.*Spool feed poller",
+      "description": "Server that polls RSS feeds to send new-episode notifications to the Spool app",
+      "urls": [
+        "https://spoolcast.ca"
+      ],
+      "examples": [
+        "PodCatcher/1.0 (+Spool feed poller)"
+      ]
+    },
+    {
       "name": "SPoRC Research Downloader",
       "pattern": "^SPoRC-Research-Downloader/",
       "examples": [
