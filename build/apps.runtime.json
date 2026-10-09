@@ -1505,6 +1505,10 @@
       "pattern": "nl\\.nrc\\.nrcapp|^NRC-Nieuws/|com\\.twipemobile\\.nrc"
     },
     {
+      "name": "Once Upon a Pod",
+      "pattern": "^OnceUponAPod/"
+    },
+    {
       "name": "OpenStream",
       "pattern": "^OpenStream/\\d"
     },

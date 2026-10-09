@@ -837,6 +837,12 @@
       ]
     },
     {
+      "name": "Once Upon a Pod feed fetcher",
+      "examples": [
+        "OnceUponAPod/1.0 Feed Fetcher (+https://www.onceuponapod.com)"
+      ]
+    },
+    {
       "name": "OP3 Fetcher",
       "examples": [
         "op3-fetcher/1.0 (https://op3.dev)"

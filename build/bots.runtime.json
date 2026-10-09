@@ -585,6 +585,10 @@
       "pattern": "^OmnyStudio/\\d"
     },
     {
+      "name": "Once Upon a Pod feed fetcher",
+      "pattern": "^OnceUponAPod/[\\d.]+ Feed Fetcher"
+    },
+    {
       "name": "OP3 Fetcher",
       "pattern": "^op3-fetcher/"
     },
