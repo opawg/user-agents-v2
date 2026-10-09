@@ -1025,6 +1025,10 @@
       "pattern": "speechischeap\\.com"
     },
     {
+      "name": "Spool feed poller",
+      "pattern": "^PodCatcher/\\d.*Spool feed poller"
+    },
+    {
       "name": "SPoRC Research Downloader",
       "pattern": "^SPoRC-Research-Downloader/"
     },

@@ -1467,6 +1467,12 @@
       ]
     },
     {
+      "name": "Spool feed poller",
+      "examples": [
+        "PodCatcher/1.0 (+Spool feed poller)"
+      ]
+    },
+    {
       "name": "SPoRC Research Downloader",
       "examples": [
         "SPoRC-Research-Downloader/1.0"

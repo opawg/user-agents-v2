@@ -3091,6 +3091,12 @@
       ]
     },
     {
+      "name": "Spool",
+      "examples": [
+        "Spool/1.0 (iOS podcast client)"
+      ]
+    },
+    {
       "name": "Sportbladet Android app",
       "examples": [
         "Android Sportbladet Hermes/1000094692 _app_"

@@ -1909,6 +1909,10 @@
       "pattern": "^SoundWaves-\\d"
     },
     {
+      "name": "Spool",
+      "pattern": "^Spool/"
+    },
+    {
       "name": "Sportbladet Android app",
       "pattern": "Android Sportbladet Hermes/"
     },
