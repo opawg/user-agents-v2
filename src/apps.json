@@ -4684,6 +4684,17 @@
         "https://www.miaocast.com/"
       ]
     },
+        {
+      "name": "Mediamax Waves",
+      "pattern": "^MediamaxWaves/",
+      "description": "Mediamax Waves mobile app for Kenyan radio stations and podcasts",
+      "urls": [
+        "https://mediamaxwaves.com/"
+      ],
+      "examples": [
+        "MediamaxWaves/1.0"
+      ]
+    },
     {
       "name": "Momo",
       "pattern": "^Momo-Podcast/",
