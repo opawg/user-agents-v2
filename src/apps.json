@@ -3428,6 +3428,19 @@
       ]
     },
     {
+      "name": "Pelevo",
+      "pattern": "^Pelevo/",
+      "description": "Pelevo podcast player",
+      "urls": [
+        "https://www.pelevo.com/",
+        "https://apps.apple.com/us/app/pelevo/id6752672316"
+      ],
+      "examples": [
+        "Pelevo/1.0.0 (Linux; Android 14; SM-S911U)",
+        "Pelevo/1.0.0 (iPhone; iOS 17.5; iPhone15,2)"
+      ]
+    },
+    {
       "name": "phonostar Radio-App",
       "pattern": "^phonostar-Player/\\d",
       "examples": [
