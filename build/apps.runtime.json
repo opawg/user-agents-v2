@@ -2049,6 +2049,10 @@
       "pattern": "^miaocast "
     },
     {
+      "name": "Mediamax Waves",
+      "pattern": "^MediamaxWaves/"
+    },
+    {
       "name": "Momo",
       "pattern": "^Momo-Podcast/"
     },

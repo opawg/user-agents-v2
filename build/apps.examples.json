@@ -3323,6 +3323,12 @@
       ]
     },
     {
+      "name": "Mediamax Waves",
+      "examples": [
+        "MediamaxWaves/1.0"
+      ]
+    },
+    {
       "name": "Momo",
       "examples": [
         "Momo-Podcast/1.0 (+https://exploremomo.com)"
