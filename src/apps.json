@@ -3448,6 +3448,18 @@
       ]
     },
     {
+      "name": "Pique",
+      "pattern": "^Pique/",
+      "description": "Android podcast player",
+      "urls": [
+        "https://pique.fm"
+      ],
+      "examples": [
+        "Pique/1.9.4 (Android; 17)",
+        "Pique/1.9.4 (Android; 13)"
+      ]
+    },
+    {
       "name": "Playapod",
       "pattern": "^Playapod",
       "description": "Best Cross-Platform Podcast and News App",
