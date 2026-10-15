@@ -1277,6 +1277,18 @@
       ]
     },
     {
+      "name": "OppnabolagBot",
+      "pattern": "^OppnabolagBot",
+      "description": "Öppna bolag's podcast bot. OppnabolagBot fetches public podcast feeds (RSS) for a podcast directory; OppnabolagBot-Audio downloads episode audio to analyse its content.",
+      "urls": [
+        "https://oppnabolag.se/bot"
+      ],
+      "examples": [
+        "OppnabolagBot/0.1 (+https://oppnabolag.se/bot; bot@oppnabolag.se)",
+        "OppnabolagBot-Audio/0.1 (+https://oppnabolag.se/bot; bot@oppnabolag.se)"
+      ]
+    },
+    {
       "name": "Overcast feed parser",
       "pattern": "^Overcast/1\\.0 Podcast Sync",
       "comments": "Marco Arment says: when a new episode is detected, the servers fetch a copy of it to seed these values with an initial set of data to make the privacy screen more accurate.",
