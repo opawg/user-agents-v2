@@ -1436,6 +1436,13 @@
       ]
     },
     {
+      "name": "PodcastArchiver",
+      "pattern": "^PodcastArchiver/",
+      "examples": [
+        "PodcastArchiver/1.0"
+      ]
+    },
+    {
       "name": "Podcast Downloader",
       "pattern": "^podcast-downloader$| podcast-downloader/",
       "examples": [
