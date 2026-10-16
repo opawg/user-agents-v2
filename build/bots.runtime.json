@@ -669,6 +669,10 @@
       "pattern": "^podcast-archiver/v\\d"
     },
     {
+      "name": "PodcastArchiver",
+      "pattern": "^PodcastArchiver/"
+    },
+    {
       "name": "Podcast Downloader",
       "pattern": "^podcast-downloader$| podcast-downloader/"
     },

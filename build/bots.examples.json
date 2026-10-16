@@ -959,6 +959,12 @@
       ]
     },
     {
+      "name": "PodcastArchiver",
+      "examples": [
+        "PodcastArchiver/1.0"
+      ]
+    },
+    {
       "name": "Podcast Downloader",
       "examples": [
         "podcast-downloader",
