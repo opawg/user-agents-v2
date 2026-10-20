@@ -459,6 +459,17 @@
       ]
     },
     {
+      "name": "Christianity at Scale Bot",
+      "pattern": "^ChristianityAtScaleBot/",
+      "description": "Christianity at Scale's research crawler: reads public podcast RSS feeds and publisher transcripts, and downloads episode audio for transcription.",
+      "examples": [
+        "ChristianityAtScaleBot/1.0 (+https://christianityatscale.com/bot; bot@christianityatscale.com)"
+      ],
+      "urls": [
+        "https://christianityatscale.com/bot"
+      ]
+    },
+    {
       "name": "Clark-Crawler, unknown",
       "pattern": "^clark-crawler2"
     },
