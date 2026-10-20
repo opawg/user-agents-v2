@@ -303,6 +303,12 @@
       ]
     },
     {
+      "name": "Christianity at Scale Bot",
+      "examples": [
+        "ChristianityAtScaleBot/1.0 (+https://christianityatscale.com/bot; bot@christianityatscale.com)"
+      ]
+    },
+    {
       "name": "Claudebot",
       "examples": [
         "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)"

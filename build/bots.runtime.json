@@ -213,6 +213,10 @@
       "pattern": "^Trackable/"
     },
     {
+      "name": "Christianity at Scale Bot",
+      "pattern": "^ChristianityAtScaleBot/"
+    },
+    {
       "name": "Clark-Crawler, unknown",
       "pattern": "^clark-crawler2"
     },
