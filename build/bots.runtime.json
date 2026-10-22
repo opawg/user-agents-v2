@@ -513,6 +513,10 @@
       "pattern": "^Misskey/|^CherryPick/|^Iceshrimp/|^gotosocial/"
     },
     {
+      "name": "Meow Podcast transcription bot",
+      "pattern": "^MeowPodcastBot/"
+    },
+    {
       "name": "Metacast Crawler",
       "pattern": "^Metacast/.* Crawler"
     },

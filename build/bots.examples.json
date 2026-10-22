@@ -735,6 +735,12 @@
       ]
     },
     {
+      "name": "Meow Podcast transcription bot",
+      "examples": [
+        "MeowPodcastBot/1.0 (+https://meowpodcast.co/bot)"
+      ]
+    },
+    {
       "name": "Metacast Crawler",
       "examples": [
         "Metacast/1.0 Crawler +https://metacast.app"
