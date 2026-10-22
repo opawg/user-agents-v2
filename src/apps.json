@@ -2314,6 +2314,21 @@
       ]
     },
     {
+      "name": "Hopp",
+      "pattern": "^Hopp/",
+      "description": "Open source Podcasting 2.0 player for Android and iOS with Lightning boosts and Nostr comments",
+      "urls": [
+        "https://hopp.sovereigncast.space",
+        "https://gitlab.com/nodesignal/hopp"
+      ],
+      "examples": [
+        "Hopp/0.2.2 (Android; Phone)",
+        "Hopp/0.2.2 (Android; Tablet)",
+        "Hopp/0.2.2 (iOS; Phone)",
+        "Hopp/0.2.2 (iOS; Tablet)"
+      ]
+    },
+    {
       "name": "Horse Radio Network",
       "pattern": "^HRN/",
       "examples": [
