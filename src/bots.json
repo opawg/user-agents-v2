@@ -1094,6 +1094,17 @@
       ]
     },
     {
+      "name": "Meow Podcast transcription bot",
+      "pattern": "^MeowPodcastBot/",
+      "description": "Meow Podcast's transcription bot: downloads public podcast episode audio to make the word-by-word transcripts learners read along with in the Meow Podcast app.",
+      "examples": [
+        "MeowPodcastBot/1.0 (+https://meowpodcast.co/bot)"
+      ],
+      "urls": [
+        "https://meowpodcast.co/bot"
+      ]
+    },
+    {
       "name": "Metacast Crawler",
       "pattern": "^Metacast/.* Crawler",
       "examples": [
