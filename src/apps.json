@@ -142,6 +142,17 @@
       ]
     },
     {
+      "name": "Alarmcast",
+      "pattern": "^Alarmcast/\\d",
+      "examples": [
+        "Alarmcast/0.8.3",
+        "Alarmcast/0.8.4 (Android)"
+      ],
+      "urls": [
+        "https://alarmcast.app"
+      ]
+    },
+    {
       "name": "Alexa-enabled device",
       "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo|^AmazonAVS/|^AvsDeviceSdk/",
       "svg": "amazon.svg",
