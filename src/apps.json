@@ -146,7 +146,7 @@
       "pattern": "^Alarmcast/\\d",
       "examples": [
         "Alarmcast/0.8.3",
-        "Alarmcast/0.8.4 (Android)"
+        "Alarmcast/0.9.0 (Android)"
       ],
       "urls": [
         "https://alarmcast.app"
