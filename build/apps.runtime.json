@@ -69,6 +69,10 @@
       "pattern": "^Aisten/\\d"
     },
     {
+      "name": "Alarmcast",
+      "pattern": "^Alarmcast/\\d"
+    },
+    {
       "name": "Alexa-enabled device",
       "pattern": "^AlexaMediaPlayer/[\\dv]|^Echo/|^AlexaService/|^Alexa Mobile Voice/|^Amazon;Echo|^AmazonAVS/|^AvsDeviceSdk/"
     },
