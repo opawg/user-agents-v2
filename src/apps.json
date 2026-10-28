@@ -2294,6 +2294,17 @@
       ]
     },
     {
+      "name": "HGS App",
+      "pattern": "^HGSApp/",
+      "description": "Holy Ghost Stories, the app for the Holy Ghost Stories podcast, from Hazefire Studios",
+      "urls": [
+        "https://listen.holyghoststories.org"
+      ],
+      "examples": [
+        "HGSApp/1.0.0 (iPhone; iOS 26.1)"
+      ]
+    },
+    {
       "name": "HiCast",
       "pattern": "^HiCast/",
       "examples": [
