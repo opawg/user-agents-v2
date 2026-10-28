@@ -605,6 +605,10 @@
       "pattern": "GPTBot/"
     },
     {
+      "name": "OppnabolagBot",
+      "pattern": "^OppnabolagBot"
+    },
+    {
       "name": "Overcast feed parser",
       "pattern": "^Overcast/1\\.0 Podcast Sync"
     },

@@ -868,6 +868,13 @@
       ]
     },
     {
+      "name": "OppnabolagBot",
+      "examples": [
+        "OppnabolagBot/0.1 (+https://oppnabolag.se/bot;)",
+        "OppnabolagBot-Audio/0.1 (+https://oppnabolag.se/bot;)"
+      ]
+    },
+    {
       "name": "Overcast feed parser",
       "examples": [
         "Overcast/1.0 Podcast Sync",
