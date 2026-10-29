@@ -2267,6 +2267,17 @@
       ]
     },
     {
+      "name": "Static Radio Audio Analysis",
+      "pattern": "^StaticRadioBot/",
+      "description": "Static Radio's scheduling pipeline measuring loudness and duration; not a listener",
+      "urls": [
+        "https://staticradio.app/"
+      ],
+      "examples": [
+        "StaticRadioBot/1.0 (+https://staticradio.app; audio analysis, not a listener)"
+      ]
+    },
+    {
       "name": "Stitcher Bot",
       "pattern": "^StitcherBot"
     },

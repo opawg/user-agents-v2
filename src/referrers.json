@@ -551,6 +551,15 @@
       "category": "app"
     },
     {
+      "name": "Static Radio",
+      "pattern": "^https://staticradio\\.app/",
+      "examples": [
+        "https://staticradio.app/listen/",
+        "https://staticradio.app/"
+      ],
+      "category": "app"
+    },
+    {
       "name": "Stitcher",
       "pattern": "^https://(www|app|classic)\\.stitcher\\.com/",
       "examples": [
