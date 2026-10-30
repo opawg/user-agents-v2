@@ -1096,6 +1096,19 @@
       ]
     },
     {
+      "name": "Static Radio",
+      "pattern": "^StaticRadio/",
+      "description": "Live radio for independent podcasts: a dial of hand-curated stations (iOS, iPadOS, macOS, Android, Wear OS)",
+      "urls": [
+        "https://staticradio.app/"
+      ],
+      "examples": [
+        "StaticRadio/1.0.23 (iOS; +https://staticradio.app)",
+        "StaticRadio/1.0.23 (Android; +https://staticradio.app)",
+        "StaticRadio/1.0.23 (macOS; +https://staticradio.app)"
+      ]
+    },
+    {
       "name": "České Podcasty",
       "pattern": "^cz\\.ceskeappky\\.podcasty",
       "examples": [
