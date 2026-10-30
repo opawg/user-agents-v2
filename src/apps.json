@@ -4257,11 +4257,10 @@
     {
       "name": "Shuttle Podcasts",
       "pattern": "^ShuttlePodcasts/\\d",
-      "description": "A podcast app for Android and iOS",
+      "description": "A podcast app",
       "urls": [
         "https://shuttlepodcasts.app",
-        "https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle.podcasts",
-        "https://apps.apple.com/app/id6811927996"
+        "https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle.podcasts"
       ],
       "comments": "Not related to 'Download Shuttle'. Streaming and downloads send the same User-Agent as feed requests.",
       "examples": [
