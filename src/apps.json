@@ -3680,6 +3680,7 @@
       "name": "POD GOD",
       "pattern": "^PodGod/",
       "description": "Podcast player for Android.",
+      "svg": "pod-god.svg",
       "urls": [
         "https://podgod.ca/"
       ],
