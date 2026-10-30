@@ -1869,6 +1869,10 @@
       "pattern": "^Shadow"
     },
     {
+      "name": "Shuttle Podcasts",
+      "pattern": "^ShuttlePodcasts/\\d"
+    },
+    {
       "name": "SiriusXM",
       "pattern": "^SiriusXM/\\d|SXMApp|sxm-android|sxm-apple/"
     },
