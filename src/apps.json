@@ -3677,6 +3677,18 @@
       ]
     },
     {
+      "name": "POD GOD",
+      "pattern": "^PodGod/",
+      "description": "Podcast player for Android.",
+      "svg": "pod-god.svg",
+      "urls": [
+        "https://podgod.ca/"
+      ],
+      "examples": [
+        "PodGod/1.0"
+      ]
+    },
+    {
       "name": "Podgrab",
       "pattern": "^Podgrab ",
       "description": "A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.",
