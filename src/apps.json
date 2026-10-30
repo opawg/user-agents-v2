@@ -4255,6 +4255,21 @@
       ]
     },
     {
+      "name": "Shuttle Podcasts",
+      "pattern": "^ShuttlePodcasts/\\d",
+      "description": "A podcast app for Android and iOS",
+      "urls": [
+        "https://shuttlepodcasts.app",
+        "https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle.podcasts",
+        "https://apps.apple.com/app/id6811927996"
+      ],
+      "comments": "Not related to 'Download Shuttle'. Streaming and downloads send the same User-Agent as feed requests.",
+      "examples": [
+        "ShuttlePodcasts/2026.02.05 (Android; +https://shuttlepodcasts.app)",
+        "ShuttlePodcasts/2.4.1 (iOS; +https://shuttlepodcasts.app)"
+      ]
+    },
+    {
       "name": "SiriusXM",
       "pattern": "^SiriusXM/\\d|SXMApp|sxm-android|sxm-apple/",
       "examples": [
