@@ -245,6 +245,10 @@
       "pattern": "^Aural/"
     },
     {
+      "name": "Aurio",
+      "pattern": "^Aurio/\\d"
+    },
+    {
       "name": "Aurora",
       "pattern": "^Aurora/"
     },
