@@ -592,6 +592,19 @@
       ]
     },
     {
+      "name": "Aurio",
+      "pattern": "^Aurio/\\d",
+      "examples": [
+        "Aurio/3.5.0 (Android)",
+        "Aurio/94 CFNetwork/3860.700.2 Darwin/25.6.0"
+      ],
+      "urls": [
+        "https://aurio.turnstac.com",
+        "https://apps.apple.com/app/aurio/id6782649502",
+        "https://play.google.com/store/apps/details?id=com.turnstac.aurio"
+      ]
+    },
+    {
       "name": "Aurora",
       "pattern": "^Aurora/",
       "examples": [
