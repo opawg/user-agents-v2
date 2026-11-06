@@ -1224,6 +1224,13 @@
       ]
     },
     {
+      "name": "ELLE écoute",
+      "examples": [
+        "ELLE-Ecoute/1.0.7 (CMI-France; ios)",
+        "ELLE-Ecoute/1.0.7 (CMI-France; android)"
+      ]
+    },
+    {
       "name": "EMAudioPlayer",
       "examples": [
         "EMAudioPlayer 2.9.7 (720) / Android 6.0.1 / MotoG3"

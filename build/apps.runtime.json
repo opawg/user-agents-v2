@@ -757,6 +757,10 @@
       "pattern": "^Elevation_Health/"
     },
     {
+      "name": "ELLE écoute",
+      "pattern": "^ELLE-Ecoute/"
+    },
+    {
       "name": "EMAudioPlayer",
       "pattern": "^EMAudioPlayer "
     },
