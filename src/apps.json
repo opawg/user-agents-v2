@@ -1665,6 +1665,19 @@
       ]
     },
     {
+      "name": "ELLE écoute",
+      "pattern": "^ELLE-Ecoute/",
+      "description": "Podcast app for iOS and Android.",
+      "urls": [
+        "https://apps.apple.com/fr/app/elle-%C3%A9coute/id6766200910",
+        "https://play.google.com/store/apps/details?id=com.cmi.elleecoute"
+      ],
+      "examples": [
+        "ELLE-Ecoute/1.0.7 (CMI-France; ios)",
+        "ELLE-Ecoute/1.0.7 (CMI-France; android)"
+      ]
+    },
+    {
       "name": "EMAudioPlayer",
       "pattern": "^EMAudioPlayer ",
       "examples": [
