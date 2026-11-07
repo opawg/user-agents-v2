@@ -172,6 +172,14 @@
       "pattern": "(iTMS|itunesstored|itms)"
     },
     {
+      "name": "Apple Podcasts Scout",
+      "pattern": "CFNetwork/.* Scout/",
+      "comments": "Apple Podcasts' scouting player, which checks links and file details. It sends the app's user agent with a trailing Scout token (confirmed by Apple Podcasts Operations).",
+      "examples": [
+        "Podcasts/4027.210.1 CFNetwork/3896.200.61 Darwin/27.2.0 Scout/1.0"
+      ]
+    },
+    {
       "name": "Applebot",
       "pattern": "^Applebot/",
       "description": "Applebot is the web crawler for Apple. Products like Siri and Spotlight Suggestions use Applebot.",
