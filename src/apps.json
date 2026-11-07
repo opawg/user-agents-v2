@@ -3591,6 +3591,17 @@
       ]
     },
     {
+      "name": "Podcast Buzz",
+      "description": "Persian podcast app and social network (web, PWA and Android).",
+      "pattern": "^PodcastBuzz/",
+      "examples": [
+        "PodcastBuzz/1.0.13 (+https://podcastbuzz.ir)"
+      ],
+      "urls": [
+        "https://podcastbuzz.ir/"
+      ]
+    },
+    {
       "name": "Podcast Player",
       "pattern": "^Podcast Player/",
       "examples": [
