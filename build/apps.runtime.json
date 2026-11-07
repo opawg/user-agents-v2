@@ -1545,6 +1545,10 @@
       "pattern": "(^Pandora/| Pandora/)"
     },
     {
+      "name": "Parasocial",
+      "pattern": "^Parasocial/"
+    },
+    {
       "name": "Parler",
       "pattern": "^Parler( Staging)?/"
     },
@@ -1663,6 +1667,10 @@
     {
       "name": "Podgrab",
       "pattern": "^Podgrab "
+    },
+    {
+      "name": "Podhaven",
+      "pattern": "^PodHaven/"
     },
     {
       "name": "Podhero",

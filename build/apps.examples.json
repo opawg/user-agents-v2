@@ -2527,6 +2527,13 @@
       ]
     },
     {
+      "name": "Parasocial",
+      "examples": [
+        "Parasocial/1.0 (share preview; parasocial.fm)",
+        "Parasocial/302 (iPad14,3; iOS 27.0; +https://parasocial.fm)"
+      ]
+    },
+    {
       "name": "Parler",
       "examples": [
         "Parler Staging/542 CFNetwork/978.0.7 Darwin/18.7.0"
@@ -2711,6 +2718,13 @@
       "name": "Podgrab",
       "examples": [
         "Podgrab - docker"
+      ]
+    },
+    {
+      "name": "Podhaven",
+      "examples": [
+        "PodHaven/0.1",
+        "PodHaven/588 CFNetwork/3896.100.1.2.1 Darwin/27.0.0"
       ]
     },
     {
