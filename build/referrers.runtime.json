@@ -228,6 +228,11 @@
       "category": "app"
     },
     {
+      "name": "Podcast Buzz",
+      "pattern": "^https://(www\\.)?podcastbuzz\\.ir",
+      "category": "app"
+    },
+    {
       "name": "Podcast Index",
       "pattern": "^https://podcastindex\\.org"
     },

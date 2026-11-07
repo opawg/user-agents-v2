@@ -984,6 +984,12 @@
       ]
     },
     {
+      "name": "Podcast Buzz Transcriber",
+      "examples": [
+        "PodcastBuzzBot-Transcriber/1.0 (+https://podcastbuzz.ir/bot)"
+      ]
+    },
+    {
       "name": "Podcast Downloader",
       "examples": [
         "podcast-downloader",

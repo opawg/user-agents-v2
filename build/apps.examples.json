@@ -2623,6 +2623,12 @@
       ]
     },
     {
+      "name": "Podcast Buzz",
+      "examples": [
+        "PodcastBuzz/1.0.13 (+https://podcastbuzz.ir)"
+      ]
+    },
+    {
       "name": "Podcast Player",
       "examples": [
         "Podcast Player/1.0 (phone;android RMX3195_11_A.18)"

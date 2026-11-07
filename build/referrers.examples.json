@@ -305,6 +305,13 @@
       ]
     },
     {
+      "name": "Podcast Buzz",
+      "examples": [
+        "https://podcastbuzz.ir/",
+        "https://www.podcastbuzz.ir/"
+      ]
+    },
+    {
       "name": "Podcast Index",
       "examples": [
         "https://podcastindex.org/"

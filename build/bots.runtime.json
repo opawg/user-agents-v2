@@ -685,6 +685,10 @@
       "pattern": "^PodcastArchiver/"
     },
     {
+      "name": "Podcast Buzz Transcriber",
+      "pattern": "^PodcastBuzzBot-Transcriber/"
+    },
+    {
       "name": "Podcast Downloader",
       "pattern": "^podcast-downloader$| podcast-downloader/"
     },

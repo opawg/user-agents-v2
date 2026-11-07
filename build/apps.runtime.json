@@ -1605,6 +1605,10 @@
       "pattern": "janwh/podcast-archiver"
     },
     {
+      "name": "Podcast Buzz",
+      "pattern": "^PodcastBuzz/"
+    },
+    {
       "name": "Podcast Player",
       "pattern": "^Podcast Player/"
     },
