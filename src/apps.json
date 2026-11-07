@@ -3443,6 +3443,17 @@
       ]
     },
     {
+      "name": "Parasocial",
+      "pattern": "^Parasocial/",
+      "examples": [
+        "Parasocial/1.0 (share preview; parasocial.fm)",
+        "Parasocial/302 (iPad14,3; iOS 27.0; +https://parasocial.fm)"
+      ],
+      "urls": [
+        "https://parasocial.fm/"
+      ]
+    },
+    {
       "name": "Parler",
       "pattern": "^Parler( Staging)?/",
       "examples": [
@@ -3722,6 +3733,17 @@
       ],
       "examples": [
         "Podgrab - docker"
+      ]
+    },
+    {
+      "name": "Podhaven",
+      "pattern": "^PodHaven/",
+      "urls": [
+        "https://apps.apple.com/us/app/podhaven/id6744904018"
+      ],
+      "examples": [
+        "PodHaven/0.1",
+        "PodHaven/588 CFNetwork/3896.100.1.2.1 Darwin/27.0.0"
       ]
     },
     {
