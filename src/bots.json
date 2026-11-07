@@ -1477,6 +1477,16 @@
       ]
     },
     {
+      "name": "Podcast Buzz Transcriber",
+      "pattern": "^PodcastBuzzBot-Transcriber/",
+      "examples": [
+        "PodcastBuzzBot-Transcriber/1.0 (+https://podcastbuzz.ir/bot)"
+      ],
+      "urls": [
+        "https://podcastbuzz.ir/bot"
+      ]
+    },
+    {
       "name": "Podcast Downloader",
       "pattern": "^podcast-downloader$| podcast-downloader/",
       "examples": [
