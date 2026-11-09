@@ -108,6 +108,12 @@
       ]
     },
     {
+      "name": "Apple Podcasts Scout",
+      "examples": [
+        "Podcasts/4027.210.1 CFNetwork/3896.200.61 Darwin/27.2.0 Scout/1.0"
+      ]
+    },
+    {
       "name": "Archive.org",
       "examples": [
         "Mozilla/5.0 (compatible; archive.org_bot http://archive.org/details/archive.org_bot)"

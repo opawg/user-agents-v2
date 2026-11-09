@@ -73,6 +73,10 @@
       "pattern": "(iTMS|itunesstored|itms)"
     },
     {
+      "name": "Apple Podcasts Scout",
+      "pattern": "CFNetwork/.* Scout/"
+    },
+    {
       "name": "Applebot",
       "pattern": "^Applebot/"
     },
