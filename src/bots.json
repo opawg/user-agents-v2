@@ -807,6 +807,17 @@
       ]
     },
     {
+      "name": "Google Lens",
+      "pattern": "^Google-Lens$",
+      "examples": [
+        "Google-Lens"
+      ],
+      "urls": [
+        "https://developers.google.com/crawling/docs/crawlers-fetchers/google-user-triggered-fetchers"
+      ],
+      "comments": "Google Lens fetches webpages in response to visual searches initiated by users."
+    },
+    {
       "name": "Google Podcasts Manager",
       "pattern": "Google-Podcast"
     },
