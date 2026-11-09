@@ -177,6 +177,9 @@
       "comments": "Apple Podcasts' scouting player, which checks links and file details. It sends the app's user agent with a trailing Scout token (confirmed by Apple Podcasts Operations).",
       "examples": [
         "Podcasts/4027.210.1 CFNetwork/3896.200.61 Darwin/27.2.0 Scout/1.0"
+      ],
+      "urls": [
+        "https://developer.apple.com/documentation/http-live-streaming/downloads-and-playback#Recognize-Apple-Podcasts-user-agent-strings"
       ]
     },
     {
