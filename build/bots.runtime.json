@@ -381,6 +381,10 @@
       "pattern": "^GoogleAgent-URLContext"
     },
     {
+      "name": "Google Lens",
+      "pattern": "^Google-Lens$"
+    },
+    {
       "name": "Google Podcasts Manager",
       "pattern": "Google-Podcast"
     },

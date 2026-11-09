@@ -429,6 +429,10 @@
       "pattern": "iOS Bygdanytt Hermes/"
     },
     {
+      "name": "Cadence",
+      "pattern": "^Cadence/"
+    },
+    {
       "name": "CampfireFM",
       "pattern": "^Campfire(FM)?/"
     },
