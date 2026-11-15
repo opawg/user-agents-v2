@@ -317,6 +317,10 @@
       "pattern": "downcast feed consumer/"
     },
     {
+      "name": "DreamerieBot",
+      "pattern": "^DreamerieBot/"
+    },
+    {
       "name": "DuckDuckBot",
       "pattern": "DuckDuckBot"
     },

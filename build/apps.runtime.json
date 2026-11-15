@@ -709,6 +709,10 @@
       "pattern": "^DowntonAppy/"
     },
     {
+      "name": "Dreamerie",
+      "pattern": "^Dreamerie/"
+    },
+    {
       "name": "DriveCast",
       "pattern": "^DriveCast/"
     },

@@ -438,6 +438,12 @@
       ]
     },
     {
+      "name": "DreamerieBot",
+      "examples": [
+        "DreamerieBot/1.0 (+https://dreamerie.app)"
+      ]
+    },
+    {
       "name": "DuckDuckBot",
       "examples": [
         "Mozilla/5.0 (compatible; DuckDuckBot-Https/1.1; https://duckduckgo.com/duckduckbot)"
