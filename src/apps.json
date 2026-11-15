@@ -1564,7 +1564,8 @@
       "pattern": "^Dreamerie/",
       "description": "Sleep app that plays podcasts",
       "urls": [
-        "https://dreamerie.app"
+        "https://dreamerie.app",
+        "https://apps.apple.com/us/app/dreamerie-sleep/id6818689916"
       ],
       "examples": [
         "Dreamerie/1.1.0 (iOS 27.2)"
