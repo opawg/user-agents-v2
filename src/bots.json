@@ -664,6 +664,18 @@
       ]
     },
     {
+      "name": "DreamerieBot",
+      "pattern": "^DreamerieBot/",
+      "description": "Feed and audio fetcher for Dreamerie",
+      "urls": [
+        "https://dreamerie.app"
+      ],
+      "comments": "Contact support at dreamerie dot app.",
+      "examples": [
+        "DreamerieBot/1.0 (+https://dreamerie.app)"
+      ]
+    },
+    {
       "name": "DuckDuckBot",
       "pattern": "DuckDuckBot",
       "examples": [
