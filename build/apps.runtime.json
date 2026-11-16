@@ -181,6 +181,10 @@
       "pattern": "^Recordatorios/"
     },
     {
+      "name": "Apple TV",
+      "pattern": "^(TV|com.apple.tv|TVWatchList)/\\d.*AMS/"
+    },
+    {
       "name": "Arabian Business",
       "pattern": "^Arabian%20Business/\\d"
     },
