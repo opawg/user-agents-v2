@@ -439,6 +439,15 @@
       ]
     },
     {
+      "name": "Apple TV",
+      "pattern": "^(TV|com.apple.tv|TVWatchList)/\\d.*AMS/",
+      "examples": [
+        "TV/1.7.3 (Macintosh; OS X 27.3; 26C5047e) AppleWebKit/2626.1.17 AMS/1 (dt:1)",
+        "com.apple.tv/1.0 iOS/27.3 model/iPhone18,4 hwp/t8150 build/24C5049d (6; dt:362) AMS/1",
+        "TVWatchList/1.0 iOS/27.3 AppleTV/27.3 model/AppleTV14,1 hwp/t8110 build/24K5298d (3; dt:276) AMS/1"
+      ]
+    },
+    {
       "name": "Arabian Business",
       "pattern": "^Arabian%20Business/\\d",
       "examples": [
