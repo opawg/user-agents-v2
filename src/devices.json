@@ -50,20 +50,21 @@
       "category": "mobile"
     },
     {
+      "name": "Apple HomeView",
+      "pattern": "\\(HomeView;",
+      "category": "smart_speaker",
+      "examples": [
+        "AppleCoreMedia/1.0.0.24V526 (HomeView; U; CPU OS 27_2 like Mac OS X; en_us)"
+      ],
+      "comments": "must match above Apple Computer"
+    },
+    {
       "name": "Apple Computer",
       "pattern": "OS X|OSX|Macintosh|Macbook|macosx|macOS",
       "category": "computer",
       "examples": [
         "net/http-easy (macosx; racket[CS] 8.15.0.7; 0.8.2)",
         "Mimir-macOS/1.8.1"
-      ]
-    },
-    {
-      "name": "Apple HomeView",
-      "pattern": "\\(HomeView;",
-      "category": "smart_speaker",
-      "examples": [
-        "AppleCoreMedia/1.0.0.24V526 (HomeView; U; CPU OS 27_2 like Mac OS X; en_us)"
       ]
     },
     {
