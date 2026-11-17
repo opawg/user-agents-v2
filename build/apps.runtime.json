@@ -2241,6 +2241,10 @@
       "pattern": "^yapa/"
     },
     {
+      "name": "Yarn",
+      "pattern": "^Yarn/\\d"
+    },
+    {
       "name": "Yoto",
       "pattern": "^Yoto/|^Yoto v2 FW;"
     },

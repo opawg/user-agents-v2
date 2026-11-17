@@ -3626,6 +3626,12 @@
       ]
     },
     {
+      "name": "Yarn",
+      "examples": [
+        "Yarn/1.0 (podcast downloads)"
+      ]
+    },
+    {
       "name": "Yoto",
       "examples": [
         "Yoto/14665 CFNetwork/1.0 Darwin/18.5.0",
