@@ -59,6 +59,14 @@
       ]
     },
     {
+      "name": "Apple HomeView",
+      "pattern": "\\(HomeView;",
+      "category": "smart_speaker",
+      "examples": [
+        "AppleCoreMedia/1.0.0.24V526 (HomeView; U; CPU OS 27_2 like Mac OS X; en_us)"
+      ]
+    },
+    {
       "name": "Google Home",
       "pattern": "GoogleChirp|Google-Speech-Actions|CrKey.*DeviceType/SmartSpeaker",
       "category": "smart_speaker",
