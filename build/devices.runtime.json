@@ -31,14 +31,14 @@
       "category": "mobile"
     },
     {
-      "name": "Apple Computer",
-      "pattern": "OS X|OSX|Macintosh|Macbook|macosx|macOS",
-      "category": "computer"
-    },
-    {
       "name": "Apple HomeView",
       "pattern": "\\(HomeView;",
       "category": "smart_speaker"
+    },
+    {
+      "name": "Apple Computer",
+      "pattern": "OS X|OSX|Macintosh|Macbook|macosx|macOS",
+      "category": "computer"
     },
     {
       "name": "Google Home",

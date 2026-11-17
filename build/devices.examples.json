@@ -28,16 +28,16 @@
       ]
     },
     {
+      "name": "Apple HomeView",
+      "examples": [
+        "AppleCoreMedia/1.0.0.24V526 (HomeView; U; CPU OS 27_2 like Mac OS X; en_us)"
+      ]
+    },
+    {
       "name": "Apple Computer",
       "examples": [
         "net/http-easy (macosx; racket[CS] 8.15.0.7; 0.8.2)",
         "Mimir-macOS/1.8.1"
-      ]
-    },
-    {
-      "name": "Apple HomeView",
-      "examples": [
-        "AppleCoreMedia/1.0.0.24V526 (HomeView; U; CPU OS 27_2 like Mac OS X; en_us)"
       ]
     },
     {
