@@ -5157,6 +5157,19 @@
       "pattern": "^yapa/"
     },
     {
+      "name": "Yarn",
+      "pattern": "^Yarn/\\d",
+      "description": "A podcast app for iPhone and iPad",
+      "urls": [
+        "https://yarnpodcast.app",
+        "https://apps.apple.com/us/app/yarn-podcast-player/id6815815830"
+      ],
+      "comments": "Every episode audio request sends this user agent; feed requests send Yarn/1.0 (public podcast reader). Not the JavaScript package manager, which sends a lowercase yarn/.",
+      "examples": [
+        "Yarn/1.0 (podcast downloads)"
+      ]
+    },
+    {
       "name": "Yoto",
       "pattern": "^Yoto/|^Yoto v2 FW;",
       "examples": [
