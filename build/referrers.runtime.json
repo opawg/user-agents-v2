@@ -345,6 +345,11 @@
       "name": "WNYC",
       "pattern": "^https://wnyc\\.org",
       "category": "app"
+    },
+    {
+      "name": "Wolf Paw TV",
+      "pattern": "^https://(www\\.)?(wolfpawtv|wolfpawradionetwork)\\.com/",
+      "category": "app"
     }
   ]
 }
