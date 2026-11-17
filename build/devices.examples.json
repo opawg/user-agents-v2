@@ -35,6 +35,12 @@
       ]
     },
     {
+      "name": "Apple HomeView",
+      "examples": [
+        "AppleCoreMedia/1.0.0.24V526 (HomeView; U; CPU OS 27_2 like Mac OS X; en_us)"
+      ]
+    },
+    {
       "name": "Google Home",
       "examples": [
         "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.225 Safari/537.36 CrKey/1.56.500000 DeviceType/SmartSpeaker"

@@ -36,6 +36,11 @@
       "category": "computer"
     },
     {
+      "name": "Apple HomeView",
+      "pattern": "\\(HomeView;",
+      "category": "smart_speaker"
+    },
+    {
       "name": "Google Home",
       "pattern": "GoogleChirp|Google-Speech-Actions|CrKey.*DeviceType/SmartSpeaker",
       "category": "smart_speaker"
