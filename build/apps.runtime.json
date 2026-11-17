@@ -1677,6 +1677,10 @@
       "pattern": "^Podfriend"
     },
     {
+      "name": "POD GOD",
+      "pattern": "^PodGod/"
+    },
+    {
       "name": "Podgrab",
       "pattern": "^Podgrab "
     },
