@@ -5,6 +5,19 @@
   "$schema": "https://raw.githubusercontent.com/opawg/user-agents-v2/master/schemas/patterns.schema.json",
   "entries": [
     {
+      "name": "1PodcastAppFetcher",
+      "pattern": "^1PodcastApp(Fetcher/|/[\\d.]+ \\(server;)",
+      "description": "Server-side feed, side-file and audio fetcher of the 1PodcastApp podcast app",
+      "comments": "Polls public feeds with conditional requests and fetches the covers, chapters and transcripts they name. For the shows it processes, it fetches one copy of each new episode's audio (from the enclosure with measurement prefixes removed) for transcripts, chapters and an archive: never refetched automatically, never served to listeners. Listener plays and downloads come from the listener's own device (the 1PodcastApp entry in apps.json) or browser, never from this server. On 2026-11-11, before the rename, it sent '1PodcastApp/1.0 (server; +https://1podcastapp.com/fetcher)', which this pattern also matches.",
+      "examples": [
+        "1PodcastAppFetcher/1.0 (+https://1podcastapp.com/fetcher)",
+        "1PodcastApp/1.0 (server; +https://1podcastapp.com/fetcher)"
+      ],
+      "urls": [
+        "https://1podcastapp.com/fetcher"
+      ]
+    },
+    {
       "name": "7Siters Crawler",
       "pattern": "^7Siters",
       "examples": [
