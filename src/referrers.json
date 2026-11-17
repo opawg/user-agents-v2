@@ -616,6 +616,20 @@
         "https://wnyc.org/"
       ],
       "category": "app"
+    },
+    {
+      "name": "Wolf Paw TV",
+      "pattern": "^https://(www\\.)?(wolfpawtv|wolfpawradionetwork)\\.com/",
+      "description": "Wolf Paw TV plays podcast episodes directly from each podcaster's host on the web, and on Roku, Amazon Fire TV, Google TV and Apple TV.",
+      "urls": [
+        "https://wolfpawtv.com/"
+      ],
+      "examples": [
+        "https://wolfpawtv.com/",
+        "https://wolfpawradionetwork.com/",
+        "https://www.wolfpawradionetwork.com/"
+      ],
+      "category": "app"
     }
   ]
 }
