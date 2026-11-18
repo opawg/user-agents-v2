@@ -2862,11 +2862,10 @@
         "https://lattercast.com",
         "https://apps.apple.com/app/id6759993583"
       ],
-      "comments": "Episode downloads send the system's default user agent, with the app's name and build: Lattercast/<build> CFNetwork/… Darwin/… on iPhone and iPad, Lattercast%20Watch%20App/<build> CFNetwork/… Darwin/… on Apple Watch. Feed requests send Lattercast/1.0 (iOS; +https://lattercast.com). Streams play through AVPlayer and send AppleCoreMedia.",
+      "comments": "Every request, feeds, downloads and streams, sends Lattercast/<build> CFNetwork/… Darwin/… on iPhone and iPad, and Lattercast%20Watch%20App/<build> CFNetwork/… Darwin/… on Apple Watch.",
       "examples": [
         "Lattercast/44 CFNetwork/3826.500.62 Darwin/25.0.0",
-        "Lattercast%20Watch%20App/44 CFNetwork/3826.500.62 Darwin/25.0.0",
-        "Lattercast/1.0 (iOS; +https://lattercast.com)"
+        "Lattercast%20Watch%20App/44 CFNetwork/3826.500.62 Darwin/25.0.0"
       ]
     },
     {
