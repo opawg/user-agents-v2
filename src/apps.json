@@ -2855,6 +2855,20 @@
       ]
     },
     {
+      "name": "Lattercast",
+      "pattern": "^Lattercast(/|%20Watch%20App/)\\d",
+      "description": "A podcast app for iPhone, iPad and Apple Watch",
+      "urls": [
+        "https://lattercast.com",
+        "https://apps.apple.com/app/id6759993583"
+      ],
+      "comments": "Every request, feeds, downloads and streams, sends Lattercast/<build> CFNetwork/… Darwin/… on iPhone and iPad, and Lattercast%20Watch%20App/<build> CFNetwork/… Darwin/… on Apple Watch.",
+      "examples": [
+        "Lattercast/44 CFNetwork/3826.500.62 Darwin/25.0.0",
+        "Lattercast%20Watch%20App/44 CFNetwork/3826.500.62 Darwin/25.0.0"
+      ]
+    },
+    {
       "name": "Laughable",
       "pattern": "^Laughable.+iOS|^Laughable/",
       "examples": [
