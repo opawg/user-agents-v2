@@ -334,7 +334,7 @@
     },
     {
       "name": "Facebook Bot",
-      "pattern": "FacebookBot|f?acebookexternalhit/?|^podcastbot$|Facebot|facebookexternalua|^facebookplatform/|^\"?meta-externalagent/\\d"
+      "pattern": "FacebookBot|f?acebookexternalhit/?|^podcastbot$|Facebot|facebookexternalua|^facebookplatform/|^\"?meta-externalagent/\\d|meta-webindexer/\\d"
     },
     {
       "name": "Feedly",

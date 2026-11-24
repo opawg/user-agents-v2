@@ -472,7 +472,8 @@
         "facebookplatform/1.0 (+http://developers.facebook.com)",
         "acebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)",
         "meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)",
-        "\"meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)\""
+        "\"meta-externalagent/1.1 ( https://developers.facebook.com/docs/sharing/webmasters/crawler)\"",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-webindexer/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))"
       ]
     },
     {
