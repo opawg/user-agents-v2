@@ -981,6 +981,18 @@
       ]
     },
     {
+      "name": "Cairn.info",
+      "pattern": "^Cairn\\.info/",
+      "description": "Mobile app of Cairn.info, the French-language platform for humanities and social sciences publications, including podcasts",
+      "urls": [
+        "https://www.cairn.info"
+      ],
+      "examples": [
+        "Cairn.info/1.0.0 (iOS)",
+        "Cairn.info/1.0.0 (Android)"
+      ]
+    },
+    {
       "name": "CampfireFM",
       "pattern": "^Campfire(FM)?/",
       "description": "CampfireFM",
