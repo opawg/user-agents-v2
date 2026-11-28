@@ -6,6 +6,19 @@
   ],
   "entries": [
     {
+      "name": "1PodcastApp",
+      "pattern": "^1PodcastApp/\\d",
+      "description": "1PodcastApp, a podcast app for iPhone and the web",
+      "comments": "Plays and downloads made on the listener's own iPhone. The app's server sends '1PodcastAppFetcher/<version>' and is listed in bots.json.",
+      "examples": [
+        "1PodcastApp/0.1.480 (iPhone; iOS 26.1)",
+        "1PodcastApp/0.1.480 (iPad; iOS 26.1)"
+      ],
+      "urls": [
+        "https://1podcastapp.com"
+      ]
+    },
+    {
       "name": "Abandon",
       "pattern": "Abandon/",
       "examples": [
